@@ -1,0 +1,3527 @@
+{
+   "1": {
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "514000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "514000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "context": {
+    "title": "darik"
+  },
+  "searchInformation": {
+    "searchTime": 0.474745,
+    "formattedSearchTime": "0.47",
+    "totalResults": "514000000",
+    "formattedTotalResults": "514,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Creating Lambda container images - AWS Lambda",
+      "htmlTitle": "Creating Lambda container images - AWS Lambda",
+      "link": "https://docs.aws.amazon.com/lambda/latest/dg/images-create.html",
+      "displayLink": "docs.aws.amazon.com",
+      "snippet": "Create an image from an AWS base image for Lambda · Multi-architecture base image. Specify one of the main image tags (such as python:3.9 or java:11 ) to choose ...",
+      "htmlSnippet": "Create an image from an AWS base image for Lambda &middot; Multi-architecture base image. Specify one of the main image tags (\u003cb\u003esuch as python:3.9 or\u003c/b\u003e java:11 ) to choose&nbsp;...",
+      "cacheId": "zphOdn2pUHcJ",
+      "formattedUrl": "https://docs.aws.amazon.com/lambda/latest/dg/images-create.html",
+      "htmlFormattedUrl": "https://docs.aws.amazon.com/lambda/latest/dg/images-create.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "product": "AWS Lambda",
+            "github": "https://github.com/awsdocs/aws-lambda-developer-guide/tree/main/doc_source/images-create.md",
+            "assets_root": "/assets",
+            "default_state": "images-create",
+            "this_doc_guide": "Developer Guide",
+            "feedback-yes": "feedbackyes.html?topic_url=http://docs.aws.amazon.com/en_us/lambda/latest/dg/images-create.html",
+            "feedback": "https://docs.aws.amazon.com/forms/aws-doc-feedback?hidden_service_name=Lambda&topic_url=http://docs.aws.amazon.com/en_us/lambda/latest/dg/images-create.html",
+            "deployment_region": "IAD",
+            "locales": "de_de:Deutsch/en_us:English/es_es:Español/fr_fr:Français/it_it:Italiano/ja_jp:日本語/ko_kr:한국어/pt_br:Português/zh_cn:中文 (简体)/zh_tw:中文 (繁體)",
+            "forums": "http://forums.aws.amazon.com/forum.jspa?forumID=186",
+            "feedback-no": "feedbackno.html?topic_url=http://docs.aws.amazon.com/en_us/lambda/latest/dg/images-create.html",
+            "pdf": "lambda-dg.pdf#images-create",
+            "rss": "lambda-updates.rss",
+            "guide-locale": "en_us",
+            "viewport": "width=device-width,initial-scale=1",
+            "target_state": "images-create",
+            "this_doc_product": "AWS Lambda",
+            "kindle": "https://www.amazon.com/dp/B07GFJLN6D",
+            "tocs": "toc-contents.json",
+            "guide": "Developer Guide",
+            "feedback-item": "Lambda"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The 10 Most Popular Programming Languages to Learn in 2021",
+      "htmlTitle": "The 10 Most Popular Programming Languages to Learn in 2021",
+      "link": "https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/",
+      "displayLink": "www.northeastern.edu",
+      "snippet": "Jun 18, 2020 ... ... C has served as the foundation for writing more modern languages such as Python, Ruby, and PHP. It is also an easy language to debug, ...",
+      "htmlSnippet": "Jun 18, 2020 \u003cb\u003e...\u003c/b\u003e ... C has served as the foundation for writing more modern languages \u003cb\u003esuch as Python, Ruby, and\u003c/b\u003e PHP. It is also an easy language to debug,&nbsp;...",
+      "cacheId": "jUl2IXZohqYJ",
+      "formattedUrl": "https://www.northeastern.edu/.../most-popular-programming-languages/",
+      "htmlFormattedUrl": "https://www.northeastern.edu/.../most-popular-programming-languages/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2020/06/iStock-1157345255.jpg",
+            "og:type": "article",
+            "article:published_time": "2020-06-18T16:06:22+00:00",
+            "og:image:width": "950",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "The 10 Most Popular Programming Languages to Learn in 2021",
+            "og:site_name": "Northeastern University Graduate Programs",
+            "og:title": "The 10 Most Popular Programming Languages to Learn in 2021",
+            "og:image:height": "633",
+            "twitter:label1": "Written by",
+            "og:description": "Looking to start a career in software? Learning the most popular programming languages in 2021 will help you build your skills and land a job.",
+            "twitter:image": "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2020/06/iStock-1157345255.jpg",
+            "twitter:data1": "Brian Eastwood",
+            "article:modified_time": "2021-05-14T14:50:34+00:00",
+            "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0",
+            "twitter:description": "Looking to start a career in software? Learning the most popular programming languages in 2021 will help you build your skills and land a job.",
+            "og:locale": "en_US",
+            "og:url": "https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2020/06/iStock-1157345255.jpg",
+            "width": "275",
+            "type": "1",
+            "height": "183"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python Programming Blueprints: Build nine projects by leveraging ...",
+      "htmlTitle": "Python Programming Blueprints: Build nine projects by leveraging ...",
+      "link": "https://www.amazon.com/Python-Programming-Blueprints-leveraging-frameworks-ebook/dp/B01EAFQLDU",
+      "displayLink": "www.amazon.com",
+      "snippet": "Python Programming Blueprints: Build nine projects by leveraging powerful frameworks such as Flask, Nameko, and Django - Kindle edition by Furtado, Daniel, ...",
+      "htmlSnippet": "Python Programming Blueprints: Build nine projects by leveraging powerful frameworks such as Flask, Nameko, and Django - Kindle edition by Furtado, Daniel,&nbsp;...",
+      "cacheId": "kT6h63zPDYoJ",
+      "formattedUrl": "https://www.amazon.com/Python-Programming...ebook/.../B01EAFQLDU",
+      "htmlFormattedUrl": "https://www.amazon.com/Python-Programming...ebook/.../B01EAFQLDU",
+      "pagemap": {
+        "scraped": [
+          {
+            "image_link": "https://images-na.ssl-images-amazon.com/images/I/51jfdGTGKNL._SX403_BO1,204,203,200_.jpg"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images-na.ssl-images-amazon.com/images/I/51jfdGTGKNL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingTHREEANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA5%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+            "og:title": "Python Programming Blueprints: Build nine projects by leveraging powerful frameworks such as Flask, Nameko, and Django",
+            "og:url": "https://www.amazon.com/dp/B01EAFQLDU/ref=tsm_1_fb_lk",
+            "title": "Python Programming Blueprints: Build nine projects by leveraging powerful frameworks such as Flask, Nameko, and Django 1, Furtado, Daniel, Pennington, Marcus, eBook - Amazon.com",
+            "og:description": "Python Programming Blueprints: Build nine projects by leveraging powerful frameworks such as Flask, Nameko, and Django"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://images-na.ssl-images-amazon.com/images/I/51jfdGTGKNL._SX403_BO1,204,203,200_.jpg",
+            "width": "202",
+            "type": "1",
+            "height": "250"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Class (computer programming) - Wikipedia",
+      "htmlTitle": "Class (computer programming) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Class_(computer_programming)",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "In object-oriented programming, a class is an extensible program-code-template for creating ... In some languages, such as Python, Ruby or Smalltalk, a class is also an ...",
+      "htmlSnippet": "In object-oriented programming, a class is an extensible program-code-template for creating ... In some languages, \u003cb\u003esuch as Python, Ruby or\u003c/b\u003e Smalltalk, a class is also an&nbsp;...",
+      "cacheId": "75EjfqHc6CEJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Class_(computer_programming)",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Class_(computer_programming)",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:type": "website",
+            "og:title": "Class (computer programming) - Wikipedia",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Why scientists are turning to Rust",
+      "htmlTitle": "Why scientists are turning to Rust",
+      "link": "https://www.nature.com/articles/d41586-020-03382-2",
+      "displayLink": "www.nature.com",
+      "snippet": "Dec 2, 2020 ... Workflows for analysing scientific data tend to use languages such as Python, R and Matlab. These interpret lines of code one by one and ...",
+      "htmlSnippet": "Dec 2, 2020 \u003cb\u003e...\u003c/b\u003e Workflows for analysing scientific data tend to use languages \u003cb\u003esuch as Python, R and\u003c/b\u003e Matlab. These interpret lines of code one by one and&nbsp;...",
+      "formattedUrl": "https://www.nature.com/articles/d41586-020-03382-2",
+      "htmlFormattedUrl": "https://www.nature.com/articles/d41586-020-03382-2",
+      "pagemap": {
+        "jobposting": [
+          {
+            "title": "Full Professorship (W3) for Plant Cell Biology",
+            "url": "Full Professorship (W3) for Plant Cell Biology"
+          },
+          {
+            "title": "Junior Professorship for Microbiology in the field of molecular physiology of prokaryotes",
+            "url": "Junior Professorship for Microbiology in the field of molecular physiology of prokaryotes"
+          },
+          {
+            "title": "Full Professorship (W3) for Functional Proteomics",
+            "url": "Full Professorship (W3) for Functional Proteomics"
+          },
+          {
+            "title": "Assistant Professor",
+            "url": "Assistant Professor"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Faculty of Biology, Uni Freiburg"
+          },
+          {
+            "name": "Faculty of Biology, Uni Freiburg"
+          },
+          {
+            "name": "Faculty of Biology, Uni Freiburg"
+          },
+          {
+            "name": "Washington University School of Medicine (WUSM), WUSTL"
+          },
+          {
+            "name": "Macmillan Publishers Limited, part of Springer Nature"
+          },
+          {
+            "name": "Nature Editorial"
+          }
+        ],
+        "periodical": [
+          {
+            "publisher": "Springer Nature"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.publisher": "Nature Publishing Group",
+            "og:image": "https://media.nature.com/lw1024/magazine-assets/d41586-020-03382-2/d41586-020-03382-2_18629100.jpg",
+            "prism.startingpage": "185",
+            "msapplication-config": "/static/browserconfig.e35b3b052c.xml",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#000000",
+            "dc.format": "text/html",
+            "dc.rights": "©2021 Macmillan Publishers Limited. All Rights Reserved.",
+            "prism.publicationdate": "2020-12-01",
+            "og:description": "Despite having a steep learning curve, the programming language offers speed and safety.",
+            "prism.rightsagent": "journalpermissions@springernature.com",
+            "twitter:image": "https://media.nature.com/lw1024/magazine-assets/d41586-020-03382-2/d41586-020-03382-2_18629100.jpg",
+            "wt.z_cg_type": "Technology Feature",
+            "prism.number": "7836",
+            "twitter:site": "@nature",
+            "dc.source": "Nature 2021 588:7836",
+            "dc.type": "Technology Feature",
+            "dc.rightsagent": "journalpermissions@springernature.com",
+            "dc.copyright": "2021 Nature",
+            "dc.creator": "Perkel, Jeffrey M.",
+            "journal_id": "41586",
+            "msapplication-tilecolor": "#000000",
+            "application-name": "Nature",
+            "prism.publicationname": "Nature",
+            "og:type": "article",
+            "twitter:title": "Why scientists are turning to Rust",
+            "dc.description": "Despite having a steep learning curve, the programming language offers speed and safety.  Despite having a steep learning curve, the programming language offers speed and safety.",
+            "wt.z_subject_term": "Computer science, Computational biology and bioinformatics, Software",
+            "wt.page_categorisation": "Article page",
+            "og:title": "Why scientists are turning to Rust",
+            "wt.cg_s": "Technology Feature",
+            "prism.doi": "doi:10.1038/d41586-020-03382-2",
+            "wt.cg_n": "Nature",
+            "dc.date": "2020-12-01",
+            "prism.endingpage": "186",
+            "prism.volume": "588",
+            "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no",
+            "twitter:description": "Nature - Despite having a steep learning curve, the programming language offers speed and safety.",
+            "wt.template": "oscar",
+            "dc.title": "Why scientists are turning to Rust",
+            "prism.section": "News",
+            "prism.url": "https://www.nature.com/articles/d41586-020-03382-2",
+            "dc.identifier": "doi:10.1038/d41586-020-03382-2",
+            "dc.subject": "Computational biology and bioinformatics",
+            "og:url": "https://www.nature.com/articles/d41586-020-03382-2",
+            "dc.language": "En",
+            "prism.copyright": "2021 Nature",
+            "doi": "10.1038/d41586-020-03382-2"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.nature.com/lw1024/magazine-assets/d41586-020-03382-2/d41586-020-03382-2_18629100.jpg",
+            "width": "300",
+            "type": "1",
+            "height": "168"
+          }
+        ],
+        "newsarticle": [
+          {
+            "articlebody": "Download PDF In 2015, bioinformatician Johannes Köster was what he called “kind of a full-time Python guy”. He had already written one popular tool — the workflow manager Snakemake —...",
+            "headline": "Why scientists are turning to Rust",
+            "datepublished": "01 December 2020"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "nature",
+            "name": "nature",
+            "position": "1"
+          },
+          {
+            "item": "technology features",
+            "name": "technology features",
+            "position": "2"
+          },
+          {
+            "name": "article",
+            "position": "3"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Natively Query Your Delta Lake with Scala, Java, and Python ...",
+      "htmlTitle": "How to Natively Query Your Delta Lake with Scala, Java, and Python ...",
+      "link": "https://databricks.com/blog/2020/12/22/natively-query-your-delta-lake-with-scala-java-and-python.html",
+      "displayLink": "databricks.com",
+      "snippet": "Dec 22, 2020 ... It can also act as the basis for native bindings in other languages such as Python, Ruby, or Golang. QP Hou and R. Tyler Croy at Scribd use ...",
+      "htmlSnippet": "Dec 22, 2020 \u003cb\u003e...\u003c/b\u003e It can also act as the basis for native bindings in other languages \u003cb\u003esuch as Python, Ruby, or\u003c/b\u003e Golang. QP Hou and R. Tyler Croy at Scribd use&nbsp;...",
+      "cacheId": "Sx82tOn2gLwJ",
+      "formattedUrl": "https://databricks.com/.../natively-query-your-delta-lake-with-scala-java-and- python.html",
+      "htmlFormattedUrl": "https://databricks.com/.../natively-query-your-delta-lake-with-scala-java-and- python.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "p:domain_verify": "e0c70fe08ba27888b8abee84a0f866b3",
+            "og:image": "https://databricks.com/wp-content/uploads/2020/12/dsr-og-1.png",
+            "og:type": "article",
+            "article:published_time": "2020-12-22T17:00:54+00:00",
+            "og:image:width": "600",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "How to Natively Query your Delta Lake with Scala, Java, and Python",
+            "og:site_name": "Databricks",
+            "og:title": "How to Natively Query your Delta Lake with Scala, Java, and Python",
+            "og:image:height": "315",
+            "msapplication-tileimage": "https://databricks.com/wp-content/uploads/2019/12/cropped-databricks-icon-270x270.png",
+            "og:description": "Learn more about the Delta Standalone Reader (DSR) and Delta Rust API with Python bindings allow you to natively query your Delta Lake without Apache Spark.",
+            "twitter:creator": "@dennylee",
+            "article:publisher": "https://www.facebook.com/databricksinc/",
+            "twitter:image": "https://databricks.com/wp-content/uploads/2020/12/dsr-og-1.png",
+            "twitter:site": "@databricks",
+            "article:modified_time": "2021-09-14T01:15:13+00:00",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+            "twitter:description": "Learn more about the Delta Standalone Reader (DSR) and Delta Rust API with Python bindings allow you to natively query your Delta Lake without Apache Spark.",
+            "og:locale": "en_US",
+            "og:url": "https://databricks.com/blog/2020/12/22/natively-query-your-delta-lake-with-scala-java-and-python.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://databricks.com/wp-content/uploads/2020/12/dsr-og-1.png",
+            "width": "310",
+            "type": "1",
+            "height": "163"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Installation — Psycopg 2.9.1 documentation",
+      "htmlTitle": "Installation — Psycopg 2.9.1 documentation",
+      "link": "https://www.psycopg.org/docs/install.html",
+      "displayLink": "www.psycopg.org",
+      "snippet": "To install it from sources you will need: A C compiler. The Python header files. They are usually installed in a package such as python-dev or python3-dev ...",
+      "htmlSnippet": "To install it from sources you will need: A C compiler. The Python header files. They are usually installed in a package \u003cb\u003esuch as python-dev or\u003c/b\u003e python3-dev&nbsp;...",
+      "cacheId": "sSKzsBp8MwoJ",
+      "formattedUrl": "https://www.psycopg.org/docs/install.html",
+      "htmlFormattedUrl": "https://www.psycopg.org/docs/install.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Generate Python, Java, and .NET software libraries from a ...",
+      "htmlTitle": "Generate Python, Java, and .NET software libraries from a ...",
+      "link": "https://aws.amazon.com/blogs/opensource/generate-python-java-dotnet-software-libraries-from-typescript-source/",
+      "displayLink": "aws.amazon.com",
+      "snippet": "May 27, 2020 ... ... which at build time can then be generated into libraries in multiple other programming languages such as Python, Java, and .NET/C#.",
+      "htmlSnippet": "May 27, 2020 \u003cb\u003e...\u003c/b\u003e ... which at build time can then be generated into libraries in multiple other programming languages \u003cb\u003esuch as Python, Java, and\u003c/b\u003e .NET/C#.",
+      "cacheId": "5F8yZoE9PU0J",
+      "formattedUrl": "https://aws.amazon.com/.../generate-python-java-dotnet-software-libraries- from-typescript-source/",
+      "htmlFormattedUrl": "https://aws.amazon.com/.../generate-python-java-dotnet-software-libraries- from-typescript-source/",
+      "pagemap": {
+        "TechArticle": [
+          {
+            "datePublished": "2020-05-27T07:36:40-08:00",
+            "noopener": "Don’t Repeat Yourself (or DRY)",
+            "image": "https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2020/05/21/jsii-1-1256x630.png",
+            "discussionUrl": "Comments",
+            "articleBody": "As builders and developers, many of us are aware of the principle of Don’t Repeat Yourself (or DRY) and practice it every day. Entire runtimes and programming languages have been developed...",
+            "name": "Generate Python, Java, and .NET software libraries from a TypeScript source",
+            "inLanguage": "en-US",
+            "noreferrer": "Don’t Repeat Yourself (or DRY)",
+            "headline": "Generate Python, Java, and .NET software libraries from a TypeScript source",
+            "articleSection": ".NET",
+            "url": "https://aws.amazon.com/blogs/opensource/generate-python-java-dotnet-software-libraries-from-typescript-source/"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2020/05/21/jsii-1-1256x630.png",
+            "image": "https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2020/05/21/jsii-1-1256x630.png",
+            "og:type": "article",
+            "og:image:width": "1256",
+            "article:section": ".NET",
+            "article:published_time": "2020-05-27T07:36:40-08:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Generate Python, Java, and .NET software libraries from a TypeScript source | Amazon Web Services",
+            "og:site_name": "Amazon Web Services",
+            "twitter:domain": "https://aws.amazon.com/blogs/",
+            "inlanguage": "en-US",
+            "og:title": "Generate Python, Java, and .NET software libraries from a TypeScript source | Amazon Web Services",
+            "og:image:height": "630",
+            "og:updated_time": "2021-03-22T06:16:15-08:00",
+            "og:description": "As builders and developers, many of us are aware of the principle of Don’t Repeat Yourself (or DRY) and practice it every day. Entire runtimes and programming languages have been developed by taking that principle to an even higher level, with the core idea of writing software once and having it run on many different […]",
+            "article:publisher": "https://www.facebook.com/amazonwebservices",
+            "twitter:image": "https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2020/05/21/jsii-1-1256x630.png",
+            "article:tag": ".NET",
+            "twitter:site": "@awscloud",
+            "article:modified_time": "2021-03-22T06:16:15-08:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "As builders and developers, many of us are aware of the principle of Don’t Repeat Yourself (or DRY) and practice it every day. Entire runtimes and programming languages have been developed by taking that principle to an even higher level, with the core idea of writing software once and having it run on many different […]",
+            "og:locale": "en_US",
+            "og:url": "https://aws.amazon.com/blogs/opensource/generate-python-java-dotnet-software-libraries-from-typescript-source/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2020/05/21/jsii-1-1256x630.png",
+            "width": "317",
+            "type": "1",
+            "height": "159"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Top Python Tutors Near Leesburg, VA | Wyzant",
+      "htmlTitle": "Top Python Tutors Near Leesburg, VA | Wyzant",
+      "link": "https://www.wyzant.com/Leesburg_VA_Python_tutors.aspx",
+      "displayLink": "www.wyzant.com",
+      "snippet": "I have a passion for building full-stack Data Science and Machine Learning solutions in the cloud. I also have over 4 years of experience coding (primarily ...",
+      "htmlSnippet": "I have a passion for building full-stack Data Science and Machine Learning solutions in the cloud. I also have over 4 years of experience coding (primarily&nbsp;...",
+      "cacheId": "vP8O_DSYGsMJ",
+      "formattedUrl": "https://www.wyzant.com/Leesburg_VA_Python_tutors.aspx",
+      "htmlFormattedUrl": "https://www.wyzant.com/Leesburg_VA_Python_tutors.aspx",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "csrf-token": "aUzeRA0c2IjhiHqRFcNJOYD8yZAqYa2qYArApmpTJm-TbbfGstpHUr8DN50VX3NYnCWg9arTFJtSjE7iMVsLyw",
+            "csrf-param": "authenticity_token"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static-seolp.wyzantcdn.com/assets/shared/good-fit-guarantee-cc1b386231129d15833bf66fa2fa690373b5443a7b5336cbea93ea93a98a11a9.svg",
+            "width": "229",
+            "type": "1",
+            "height": "167"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python Libraries for Natural Language Processing | by Claire D ...",
+      "htmlTitle": "Python Libraries for Natural Language Processing | by Claire D ...",
+      "link": "https://towardsdatascience.com/python-libraries-for-natural-language-processing-be0e5a35dd64",
+      "displayLink": "towardsdatascience.com",
+      "snippet": "Apr 28, 2020 ... Originally written in Java, CoreNLP works with other languages such as Python, JavaScript and many more. It offers several linguistic features ...",
+      "htmlSnippet": "Apr 28, 2020 \u003cb\u003e...\u003c/b\u003e Originally written in Java, CoreNLP works with other languages \u003cb\u003esuch as Python, JavaScript and\u003c/b\u003e many more. It offers several linguistic features&nbsp;...",
+      "cacheId": "B74jwvV8GY0J",
+      "formattedUrl": "https://towardsdatascience.com/python-libraries-for-natural-language- processing-be0e5a35dd64",
+      "htmlFormattedUrl": "https://towardsdatascience.com/python-libraries-for-natural-language- processing-be0e5a35dd64",
+      "pagemap": {
+        "metatags": [
+          {
+            "twitter:app:url:iphone": "medium://p/be0e5a35dd64",
+            "og:image": "https://miro.medium.com/max/1200/1*PIpjPTlcrDyXLl2fDv34bA.png",
+            "theme-color": "#000000",
+            "article:published_time": "2020-04-28T15:21:14.741Z",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Medium",
+            "al:android:package": "com.medium.reader",
+            "twitter:label1": "Reading time",
+            "twitter:app:id:iphone": "828256236",
+            "title": "Python Libraries for Natural Language Processing | by Claire D. Costa | Towards Data Science",
+            "al:ios:url": "medium://p/be0e5a35dd64",
+            "og:description": "An Overview Of popular python libraries for Natural Language Processing",
+            "twitter:creator": "@ClaireDCosta2",
+            "al:ios:app_store_id": "828256236",
+            "twitter:data1": "9 min read",
+            "twitter:site": "@TDataScience",
+            "og:type": "article",
+            "twitter:title": "Python Libraries for Natural Language Processing",
+            "al:ios:app_name": "Medium",
+            "author": "Claire D. Costa",
+            "og:title": "Python Libraries for Natural Language Processing",
+            "al:web:url": "https://towardsdatascience.com/python-libraries-for-natural-language-processing-be0e5a35dd64",
+            "article:author": "https://medium.com/@harish_6956",
+            "twitter:image:src": "https://miro.medium.com/max/1200/1*PIpjPTlcrDyXLl2fDv34bA.png",
+            "al:android:url": "medium://p/be0e5a35dd64",
+            "referrer": "unsafe-url",
+            "fb:app_id": "542599432471018",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+            "twitter:description": "An Overview Of popular python libraries for Natural Language Processing",
+            "og:url": "https://towardsdatascience.com/python-libraries-for-natural-language-processing-be0e5a35dd64",
+            "twitter:app:name:iphone": "Medium",
+            "al:android:app_name": "Medium"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://miro.medium.com/max/1200/1*PIpjPTlcrDyXLl2fDv34bA.png",
+            "width": "341",
+            "type": "1",
+            "height": "148"
+          }
+        ]
+      }
+    }
+  ]
+}
+,
+   "2": {
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "514000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "514000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "514000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 21,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "context": {
+    "title": "darik"
+  },
+  "searchInformation": {
+    "searchTime": 0.46328,
+    "formattedSearchTime": "0.46",
+    "totalResults": "514000000",
+    "formattedTotalResults": "514,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Top 8 Python Tutors Near Sandy Springs, GA | Wyzant",
+      "htmlTitle": "Top 8 Python Tutors Near Sandy Springs, GA | Wyzant",
+      "link": "https://www.wyzant.com/Sandy_Springs_GA_Python_tutors.aspx",
+      "displayLink": "www.wyzant.com",
+      "snippet": "I'm an experienced programmer proficient in multiple languages such as Python, Java, and C++. During the past 6 years I have been actively tutoring... read ...",
+      "htmlSnippet": "I&#39;m an experienced programmer proficient in multiple languages \u003cb\u003esuch as Python, Java, and\u003c/b\u003e C++. During the past 6 years I have been actively tutoring... read&nbsp;...",
+      "cacheId": "CjMcSUfLaikJ",
+      "formattedUrl": "https://www.wyzant.com/Sandy_Springs_GA_Python_tutors.aspx",
+      "htmlFormattedUrl": "https://www.wyzant.com/Sandy_Springs_GA_Python_tutors.aspx",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "csrf-token": "DNiKTW7ansG-1LuyFptqtu_au89oUCFY_GqONiwimAA7B_dx-FmXrm-_WdIbPfc37PREJ3KstEyriS6QbI7cUQ",
+            "csrf-param": "authenticity_token"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static-seolp.wyzantcdn.com/assets/shared/good-fit-guarantee-cc1b386231129d15833bf66fa2fa690373b5443a7b5336cbea93ea93a98a11a9.svg",
+            "width": "229",
+            "type": "1",
+            "height": "167"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Manage Python environments and interpreters - Visual Studio ...",
+      "htmlTitle": "Manage Python environments and interpreters - Visual Studio ...",
+      "link": "https://docs.microsoft.com/en-us/visualstudio/python/managing-python-environments-in-visual-studio",
+      "displayLink": "docs.microsoft.com",
+      "snippet": "Oct 12, 2021 ... Expand the node that matches the distribution, such as Python Core for CPython or ContinuumAnalytics for Anaconda.",
+      "htmlSnippet": "Oct 12, 2021 \u003cb\u003e...\u003c/b\u003e Expand the node that matches the distribution, \u003cb\u003esuch as Python Core for CPython or\u003c/b\u003e ContinuumAnalytics for Anaconda.",
+      "cacheId": "VuS02Woz4NQJ",
+      "formattedUrl": "https://docs.microsoft.com/.../managing-python-environments-in-visual- studio",
+      "htmlFormattedUrl": "https://docs.microsoft.com/.../managing-python-environments-in-visual- studio",
+      "pagemap": {
+        "organization": [
+          {
+            "url": "https://www.microsoft.com/"
+          }
+        ],
+        "metatags": [
+          {
+            "schema": "Conceptual",
+            "og:image": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+            "twitter:card": "summary",
+            "ms.technology": "vs-python",
+            "ms.author": "rmolyneaux",
+            "ms.topic": "how-to",
+            "page_type": "conceptual",
+            "document_id": "563f476d-a91b-58c7-9e32-b238756cc97d",
+            "locale": "en-us",
+            "og:description": "Use the Python Environments window to manage global, virtual, and conda environments, installing Python interpreters and packages, and assigning environments to Visual Studio projects.",
+            "ms.date": "08/06/2019",
+            "recommendations": "true",
+            "depot_name": "VS.docs",
+            "word_count": "2520",
+            "twitter:site": "@docsmsft",
+            "updated_at": "2021-10-12 11:03 PM",
+            "original_content_git_url": "https://github.com/MicrosoftDocs/visualstudio-docs-pr/blob/live/docs/python/managing-python-environments-in-visual-studio.md",
+            "scope": "VS IDE",
+            "toc_preview": "true",
+            "monikers": "vs-2017",
+            "ms.prod": "visual-studio-windows",
+            "pdf_url_template": "https://docs.microsoft.com/pdfstore/en-us/VS.docs/{branchName}{pdfName}",
+            "archive_url": "/previous-versions/visualstudio",
+            "og:type": "website",
+            "og:image:alt": "Microsoft Logo",
+            "audience": "developer",
+            "manager": "jmartens",
+            "author": "rjmolyneaux",
+            "og:title": "Manage Python environments and interpreters - Visual Studio (Windows)",
+            "color-scheme": "light dark",
+            "site_name": "Docs",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "breadcrumb_path": "/visualstudio/_breadcrumb/toc.json",
+            "document_version_independent_id": "0a0e9cac-a8dc-47a1-14e1-1dacc3441613",
+            "ms.workload": "python",
+            "og:url": "https://docs.microsoft.com/en-us/visualstudio/python/managing-python-environments-in-visual-studio",
+            "uhfheaderid": "MSDocsHeader-VisualStudio",
+            "toc_rel": "toc.json",
+            "gitcommit": "https://github.com/MicrosoftDocs/visualstudio-docs-pr/blob/6d29bbf5877ba0dd262605db6884c25ef8e1d4be/docs/python/managing-python-environments-in-visual-studio.md"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+            "width": "225",
+            "type": "1",
+            "height": "225"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Docs",
+            "name": "Docs",
+            "position": "1"
+          },
+          {
+            "item": "Visual Studio",
+            "name": "Visual Studio",
+            "position": "2"
+          },
+          {
+            "item": "IDE",
+            "name": "IDE",
+            "position": "3"
+          },
+          {
+            "item": "Python",
+            "name": "Python",
+            "position": "4"
+          },
+          {
+            "name": "Manage Python environments",
+            "position": "5"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Top 7 Python Tutors Near Roswell, GA | Wyzant",
+      "htmlTitle": "Top 7 Python Tutors Near Roswell, GA | Wyzant",
+      "link": "https://www.wyzant.com/Roswell_GA_Python_tutors.aspx",
+      "displayLink": "www.wyzant.com",
+      "snippet": "I'm an experienced programmer proficient in multiple languages such as Python, Java, and C++. During the past 6 years I have been actively tutoring... read ...",
+      "htmlSnippet": "I&#39;m an experienced programmer proficient in multiple languages \u003cb\u003esuch as Python, Java, and\u003c/b\u003e C++. During the past 6 years I have been actively tutoring... read&nbsp;...",
+      "cacheId": "KnFgtk58DPgJ",
+      "formattedUrl": "https://www.wyzant.com/Roswell_GA_Python_tutors.aspx",
+      "htmlFormattedUrl": "https://www.wyzant.com/Roswell_GA_Python_tutors.aspx",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "csrf-token": "Z_N9ZmpVV_ATTGMqTxvHvx8E3UjOiTJAPS0RK2lu0FIoH9CFAoNMSTqwHgNiK3mL0VhBle_9H4O8oV1PID2Clg",
+            "csrf-param": "authenticity_token"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static-seolp.wyzantcdn.com/assets/shared/good-fit-guarantee-cc1b386231129d15833bf66fa2fa690373b5443a7b5336cbea93ea93a98a11a9.svg",
+            "width": "229",
+            "type": "1",
+            "height": "167"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Coding and learning with VS Code on Chromebooks",
+      "htmlTitle": "Coding and learning with VS Code on Chromebooks",
+      "link": "https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started",
+      "displayLink": "code.visualstudio.com",
+      "snippet": "Dec 3, 2020 ... This includes languages such as Python, JavaScript and Node.js, Java, and C#, among many more! In this article, the first of two, ...",
+      "htmlSnippet": "Dec 3, 2020 \u003cb\u003e...\u003c/b\u003e This includes languages \u003cb\u003esuch as Python, JavaScript and\u003c/b\u003e Node.js, Java, and C#, among many more! In this article, the first of two,&nbsp;...",
+      "cacheId": "zjzVQw3VdyMJ",
+      "formattedUrl": "https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started",
+      "htmlFormattedUrl": "https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://code.visualstudio.com/opengraphimg/opengraph-blog.png",
+            "twitter:card": "summary_large_image",
+            "og:type": "article",
+            "twitter:site": "@code",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:title": "Coding and learning with VS Code on Chromebooks",
+            "og:url": "https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started",
+            "og:description": "Installing Visual Studio Code on Chromebooks with Crostini and getting started with coding and learning"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://code.visualstudio.com/opengraphimg/opengraph-blog.png",
+            "width": "318",
+            "type": "1",
+            "height": "159"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "how can i set a shell console on the bottom such as python and R ...",
+      "htmlTitle": "how can i set a shell console on the bottom such as python and R ...",
+      "link": "https://stackoverflow.com/questions/16793894/how-can-i-set-a-shell-console-on-the-bottom-such-as-python-and-r-consloe-in-gedi",
+      "displayLink": "stackoverflow.com",
+      "snippet": "May 28, 2013 ... ... is not convenient for me to do that way,how can i set a shell console in the bottom of gedit gui such as python console and R console?",
+      "htmlSnippet": "May 28, 2013 \u003cb\u003e...\u003c/b\u003e ... is not convenient for me to do that way,how can i set a shell console in the bottom of gedit gui \u003cb\u003esuch as python console and\u003c/b\u003e R console?",
+      "cacheId": "4LdqSsy7YrYJ",
+      "formattedUrl": "https://stackoverflow.com/.../how-can-i-set-a-shell-console-on-the-bottom- such-as-python-and-r-consloe-in-gedi",
+      "htmlFormattedUrl": "https://stackoverflow.com/.../how-can-i-set-a-shell-console-on-the-bottom- such-as-python-and-r-consloe-in-gedi",
+      "pagemap": {
+        "question": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+            "upvotecount": "0",
+            "answercount": "1",
+            "name": "how can i set a shell console on the bottom such as python and R consloe in gedit?",
+            "text": "I have installed python and R plugin in gedit,you can see the attachment,when i want to input shell command,i have to select tools-external tools-run command,and input shell command,it is not...",
+            "datecreated": "2013-05-28T13:53:39",
+            "url": "Share"
+          }
+        ],
+        "answer": [
+          {
+            "upvotecount": "0",
+            "text": "it seems that this plugin for gedit does precisely what you want. Hope this helps.",
+            "datecreated": "2013-10-23T04:55:11",
+            "url": "https://stackoverflow.com/questions/16793894/how-can-i-set-a-shell-console-on-the-bottom-such-as-python-and-r-consloe-in-gedi/19533079#19533079"
+          }
+        ],
+        "person": [
+          {
+            "name": "showkey"
+          },
+          {
+            "name": "jane arc"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.stack.imgur.com/OEbdl.png",
+            "width": "284",
+            "type": "1",
+            "height": "177"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "34 Open-Source Python Libraries You Should Know About",
+      "htmlTitle": "34 Open-Source Python Libraries You Should Know About",
+      "link": "https://www.mygreatlearning.com/blog/open-source-python-libraries/",
+      "displayLink": "www.mygreatlearning.com",
+      "snippet": "Sep 11, 2020 ... Python libraries play a vital role in developing machine learning, data science, data visualization, image and data manipulation applications ...",
+      "htmlSnippet": "Sep 11, 2020 \u003cb\u003e...\u003c/b\u003e Python libraries play a vital role in developing machine learning, data science, data visualization, image and data manipulation applications&nbsp;...",
+      "cacheId": "xep4nbHz3AYJ",
+      "formattedUrl": "https://www.mygreatlearning.com/blog/open-source-python-libraries/",
+      "htmlFormattedUrl": "https://www.mygreatlearning.com/blog/open-source-python-libraries/",
+      "pagemap": {
+        "hcard": [
+          {
+            "fn": "Vaishali Advani"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/03/16100846/GL-Logo-300x108.png"
+          },
+          {
+            "width": "6000",
+            "url": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/08/11142625/python-libraries-2.jpg",
+            "height": "3360"
+          }
+        ],
+        "person": [
+          {
+            "name": "Vaishali Advani"
+          }
+        ],
+        "organization": [
+          {
+            "name": "GreatLearning Blog: Free Resources what Matters to shape your Career!"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/08/11142625/python-libraries-2.jpg",
+            "og:type": "article",
+            "article:section": "Business Analytics",
+            "article:published_time": "2020-09-11T08:38:25+00:00",
+            "og:image:width": "1024",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "34 Open-Source Python Libraries You Should Know About",
+            "og:site_name": "GreatLearning Blog: Free Resources what Matters to shape your Career!",
+            "author": "Vaishali Advani",
+            "og:title": "34 Open-Source Python Libraries You Should Know About",
+            "og:image:height": "573",
+            "og:updated_time": "2021-08-27T02:09:13+00:00",
+            "og:description": "Listed here are 26 Open Source Python Libraries that you should know about. Visit Great Learning Blog for more insightful articles like this.",
+            "twitter:creator": "@Great_Learning",
+            "article:publisher": "https://www.facebook.com/GreatLearningOfficial/",
+            "og:image:secure_url": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/08/11142625/python-libraries-2-1024x573.jpg",
+            "twitter:image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/08/11142625/python-libraries-2.jpg",
+            "article:tag": "business analyst",
+            "twitter:site": "@Great_Learning",
+            "article:modified_time": "2021-08-27T02:09:13+00:00",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Listed here are 26 Open Source Python Libraries that you should know about. Visit Great Learning Blog for more insightful articles like this.",
+            "og:locale": "en_US",
+            "og:url": "https://www.mygreatlearning.com/blog/open-source-python-libraries/"
+          }
+        ],
+        "webpage": [
+          {
+            "datepublished": "1582549320"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/08/11142625/python-libraries-2.jpg",
+            "width": "300",
+            "type": "1",
+            "height": "168"
+          }
+        ],
+        "article": [
+          {
+            "datemodified": "2021-08-27T07:39:13+00:00",
+            "headline": "34 Open-Source Python Libraries You Should Know About",
+            "datepublished": "2020-09-11T14:08:25+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Supported languages in Azure Functions | Microsoft Docs",
+      "htmlTitle": "Supported languages in Azure Functions | Microsoft Docs",
+      "link": "https://docs.microsoft.com/en-us/azure/azure-functions/supported-languages",
+      "displayLink": "docs.microsoft.com",
+      "snippet": "2 days ago ... Examples of minor or patch versions include such as Python 3.9.1 and Node 14.17. After new minor versions of supported languages become ...",
+      "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e Examples of minor or patch versions include \u003cb\u003esuch as Python 3.9.1 and\u003c/b\u003e Node 14.17. After new minor versions of supported languages become&nbsp;...",
+      "cacheId": "0BPnDb6llU8J",
+      "formattedUrl": "https://docs.microsoft.com/en-us/azure/azure.../supported-languages",
+      "htmlFormattedUrl": "https://docs.microsoft.com/en-us/azure/azure.../supported-languages",
+      "pagemap": {
+        "organization": [
+          {
+            "url": "https://www.microsoft.com/"
+          }
+        ],
+        "metatags": [
+          {
+            "schema": "Conceptual",
+            "og:image": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+            "twitter:card": "summary",
+            "ms.author": "glenga",
+            "ms.topic": "conceptual",
+            "page_type": "conceptual",
+            "document_id": "40e84dea-0cdb-2aa7-6aa0-a4c697ef19ac",
+            "locale": "en-us",
+            "og:description": "Learn which languages are supported (GA) and which are in preview, and ways to extend Functions development to other languages.",
+            "ms.date": "11/27/2019",
+            "recommendations": "true",
+            "depot_name": "Azure.azure-documents",
+            "ms.service": "azure-functions",
+            "word_count": "674",
+            "twitter:site": "@docsmsft",
+            "updated_at": "2021-10-20 10:01 PM",
+            "original_content_git_url": "https://github.com/MicrosoftDocs/azure-docs-pr/blob/live/articles/azure-functions/supported-languages.md",
+            "scope": "Azure",
+            "pdf_url_template": "https://docs.microsoft.com/pdfstore/en-us/Azure.azure-documents/{branchName}{pdfName}",
+            "og:type": "website",
+            "og:image:alt": "Microsoft Logo",
+            "manager": "gwallace",
+            "author": "ggailey777",
+            "og:title": "Supported languages in Azure Functions",
+            "color-scheme": "light dark",
+            "site_name": "Docs",
+            "learn_banner_products": "azure-functions",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "breadcrumb_path": "/azure/bread/toc.json",
+            "document_version_independent_id": "2fe0dbd3-7e5b-04b1-46e5-fecd89c4a780",
+            "og:url": "https://docs.microsoft.com/en-us/azure/azure-functions/supported-languages",
+            "uhfheaderid": "azure",
+            "toc_rel": "toc.json",
+            "gitcommit": "https://github.com/MicrosoftDocs/azure-docs-pr/blob/ab8e29acc89ecbb9a069d95eaa73a428c6bac2ae/articles/azure-functions/supported-languages.md"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+            "width": "225",
+            "type": "1",
+            "height": "225"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Azure",
+            "name": "Azure",
+            "position": "1"
+          },
+          {
+            "item": "Functions",
+            "name": "Functions",
+            "position": "2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "2.7 Other language engines | R Markdown: The Definitive Guide",
+      "htmlTitle": "2.7 Other language engines | R Markdown: The Definitive Guide",
+      "link": "https://bookdown.org/yihui/rmarkdown/language-engines.html",
+      "displayLink": "bookdown.org",
+      "snippet": "The python engine is based on the reticulate package (Ushey, Allaire, and Tang 2020), which makes it possible to execute all Python code chunks in the same ...",
+      "htmlSnippet": "The python engine is based on the reticulate package (Ushey, Allaire, and Tang 2020), which makes it possible to execute all Python code chunks in the same&nbsp;...",
+      "cacheId": "WPeVOAW83cQJ",
+      "formattedUrl": "https://bookdown.org/yihui/rmarkdown/language-engines.html",
+      "htmlFormattedUrl": "https://bookdown.org/yihui/rmarkdown/language-engines.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "date": "2021-04-09",
+            "og:image": "https://bookdown.org/yihui/rmarkdown//images/cover.png",
+            "og:type": "book",
+            "twitter:card": "summary",
+            "twitter:title": "2.7 Other language engines | R Markdown: The Definitive Guide",
+            "author": "Yihui Xie, J. J. Allaire, Garrett Grolemund",
+            "og:title": "2.7 Other language engines | R Markdown: The Definitive Guide",
+            "og:description": "The first official book authored by the core R Markdown developers that provides a comprehensive and accurate reference to the R Markdown ecosystem. With R Markdown, you can easily create reproducible data analysis reports, presentations, dashboards, interactive applications, books, dissertations, websites, and journal articles, while enjoying the simplicity of Markdown and the great power of R and other languages.",
+            "twitter:image": "https://bookdown.org/yihui/rmarkdown//images/cover.png",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "The first official book authored by the core R Markdown developers that provides a comprehensive and accurate reference to the R Markdown ecosystem. With R Markdown, you can easily create reproducible data analysis reports, presentations, dashboards, interactive applications, books, dissertations, websites, and journal articles, while enjoying the simplicity of Markdown and the great power of R and other languages.",
+            "apple-mobile-web-app-capable": "yes",
+            "og:url": "https://bookdown.org/yihui/rmarkdown/",
+            "github-repo": "rstudio/rmarkdown-book"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://bookdown.org/yihui/rmarkdown//images/cover.png",
+            "width": "181",
+            "type": "1",
+            "height": "278"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What Skills Do You Need to Become a Machine Learning Engineer?",
+      "htmlTitle": "What Skills Do You Need to Become a Machine Learning Engineer?",
+      "link": "https://www.springboard.com/library/machine-learning-engineering/skills/",
+      "displayLink": "www.springboard.com",
+      "snippet": "Some of the data science fundamentals that machine learning engineers rely on include familiarity with programming languages such as Python, SQL, and Java; ...",
+      "htmlSnippet": "Some of the data science fundamentals that machine learning engineers rely on include familiarity with programming languages \u003cb\u003esuch as Python, SQL, and\u003c/b\u003e Java;&nbsp;...",
+      "cacheId": "KoAzUajTFa8J",
+      "formattedUrl": "https://www.springboard.com/library/machine-learning-engineering/skills/",
+      "htmlFormattedUrl": "https://www.springboard.com/library/machine-learning-engineering/skills/",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "no-referrer-when-downgrade",
+            "og:image": "https://res.cloudinary.com/djhbhy16x/image/upload/v1606918675/mle-roles2_po4b5d.jpg",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "og:title": "What Skills Do You Need to Become a Machine Learning Engineer?",
+            "og:url": "https://www.springboard.com/library/machine-learning-engineering/skills/",
+            "og:description": "As artificial intelligence plays a growing role in our lives, the demand for machine learning engineers has skyrocketed. Read on to learn more about the skills needed to become an ML engineer."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://res.cloudinary.com/djhbhy16x/image/upload/v1606918675/mle-roles2_po4b5d.jpg",
+            "width": "259",
+            "type": "1",
+            "height": "194"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Oracle® Linux 8 - Installing and Managing Python",
+      "htmlTitle": "Oracle® Linux 8 - Installing and Managing Python",
+      "link": "https://docs.oracle.com/en/operating-systems/oracle-linux/8/python/F36403.pdf",
+      "displayLink": "docs.oracle.com",
+      "snippet": "Jul 2, 2021 ... Python can be installed and used simultaneously on the same machine, such as Python 2.7 and Python. 3.6. You can specify which version you ...",
+      "htmlSnippet": "Jul 2, 2021 \u003cb\u003e...\u003c/b\u003e Python can be installed and used simultaneously on the same machine, \u003cb\u003esuch as Python 2.7 and\u003c/b\u003e Python. 3.6. You can specify which version you&nbsp;...",
+      "cacheId": "yy3uHPuPI9MJ",
+      "formattedUrl": "https://docs.oracle.com/en/operating-systems/oracle-linux/8/.../F36403.pdf",
+      "htmlFormattedUrl": "https://docs.oracle.com/en/operating-systems/oracle-linux/8/.../F36403.pdf",
+      "pagemap": {
+        "metatags": [
+          {
+            "creator": "DocBook XSL Stylesheets with Apache FOP",
+            "creationdate": "D:20210723105940+02'00'",
+            "producer": "Apache FOP Version 2.4",
+            "title": "Oracle® Linux 8 - Installing and Managing Python"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    }
+  ]
+}
+,
+   "3": {
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "447000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "447000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 21,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "447000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 31,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "context": {
+    "title": "darik"
+  },
+  "searchInformation": {
+    "searchTime": 0.247903,
+    "formattedSearchTime": "0.25",
+    "totalResults": "447000000",
+    "formattedTotalResults": "447,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "CMPU 196 - Data Visualization Tools and Techniques using Python ...",
+      "htmlTitle": "CMPU 196 - Data Visualization Tools and Techniques using Python ...",
+      "link": "https://catalogue.vassar.edu/preview_course_nopop.php?catoid=46&coid=262278",
+      "displayLink": "catalogue.vassar.edu",
+      "snippet": "Students learn how to use visualization tools such as Python's pandas library and Microsoft's PowerBI. The Department. One 2-hour period.",
+      "htmlSnippet": "Students learn how to use visualization tools \u003cb\u003esuch as Python&#39;s pandas library and\u003c/b\u003e Microsoft&#39;s PowerBI. The Department. One 2-hour period.",
+      "cacheId": "AjiN3u8g72AJ",
+      "formattedUrl": "https://catalogue.vassar.edu/preview_course_nopop.php?catoid=46&coid...",
+      "htmlFormattedUrl": "https://catalogue.vassar.edu/preview_course_nopop.php?catoid=46&amp;coid...",
+      "pagemap": {
+        "hcard": [
+          {
+            "url_text": "Office of the Registrar at Vassar College",
+            "fn": "Office of the Registrar at Vassar College",
+            "url": "http://registrar.vassar.edu/"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Why are physicists stuck with Fortran and not willing to move to ...",
+      "htmlTitle": "Why are physicists stuck with Fortran and not willing to move to ...",
+      "link": "https://www.researchgate.net/post/Why-are-physicists-stuck-with-Fortran-and-not-willing-to-move-to-Python-with-NumPy-and-Scipy",
+      "displayLink": "www.researchgate.net",
+      "snippet": "But if reprodutibility, development speed and utilization of additional libraries, I would recommend a script language such as Python, Perl or Julia.",
+      "htmlSnippet": "But if reprodutibility, development speed and utilization of additional libraries, I would recommend a script language \u003cb\u003esuch as Python, Perl or\u003c/b\u003e Julia.",
+      "formattedUrl": "https://www.researchgate.net/.../Why-are-physicists-stuck-with-Fortran-and- not-willing-to-move-to-Python-with-NumPy-and-Scipy",
+      "htmlFormattedUrl": "https://www.researchgate.net/.../Why-are-physicists-stuck-with-Fortran-and- not-willing-to-move-to-Python-with-NumPy-and-Scipy",
+      "pagemap": {
+        "person": [
+          {
+            "image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+            "name": "Noor Hafizah",
+            "url": "https://www.researchgate.net/scientific-contributions/Noor-Hafizah-2056624069",
+            "mainentityofpage": "https://www.researchgate.net/scientific-contributions/Noor-Hafizah-2056624069"
+          },
+          {
+            "image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+            "name": "Binti Abdul Aziz",
+            "url": "https://www.researchgate.net/scientific-contributions/Binti-Abdul-Aziz-2056615950",
+            "mainentityofpage": "https://www.researchgate.net/scientific-contributions/Binti-Abdul-Aziz-2056615950"
+          },
+          {
+            "image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+            "name": "Masayuki K Yamamoto",
+            "url": "https://www.researchgate.net/scientific-contributions/Masayuki-K-Yamamoto-26306840",
+            "mainentityofpage": "https://www.researchgate.net/scientific-contributions/Masayuki-K-Yamamoto-26306840"
+          },
+          {
+            "image": "https://i1.rgstatic.net/ii/profile.image/273655087235087-1442255865520_Q64/Mamoru-Yamamoto.jpg",
+            "name": "Mamoru Yamamoto",
+            "url": "https://www.researchgate.net/profile/Mamoru-Yamamoto",
+            "mainentityofpage": "https://www.researchgate.net/profile/Mamoru-Yamamoto"
+          },
+          {
+            "image": "https://i1.rgstatic.net/ii/profile.image/825459315060736-1573816245205_Q64/Derya-Varol.jpg",
+            "name": "Derya Varol",
+            "url": "https://www.researchgate.net/profile/Derya-Varol",
+            "mainentityofpage": "https://www.researchgate.net/profile/Derya-Varol"
+          },
+          {
+            "image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+            "name": "Jörg Frochte",
+            "url": "https://www.researchgate.net/scientific-contributions/Joerg-Frochte-25563042",
+            "mainentityofpage": "https://www.researchgate.net/scientific-contributions/Joerg-Frochte-25563042"
+          }
+        ],
+        "organization": [
+          {
+            "name": "unknown",
+            "logo": "unknown",
+            "url": "unknown"
+          },
+          {
+            "name": "unknown",
+            "logo": "unknown",
+            "url": "unknown"
+          },
+          {
+            "name": "unknown",
+            "logo": "unknown",
+            "url": "unknown"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "ResearchGate",
+            "msapplication-tilecolor": "#00ccbb",
+            "og:image": "https://i1.rgstatic.net/ii/profile.image/512313637126144-1499156497413_Q512/Giovanni-De-Gasperis.jpg",
+            "theme-color": "#444444",
+            "twitter:card": "summary",
+            "twitter:title": "Why are physicists  stuck with Fortran and not willing to move to...",
+            "og:type": "website",
+            "og:site_name": "ResearchGate",
+            "rg-request-token": "aad-ZdC1I9buExlVDIWvNXeZmpmKxEmW2FaP/PkokfbPI2aZHpk68EcYfbVYOC9zRqTWcmYcjafsWDGeR2pcL7eHZVcHjsCqrKX2F0uVmb/fOYf6Y6y4hKmKhN1fig6AhbkBc3k+2xX01RN7OtwQptkw4YIIKMHpcJRHtdTiwSSq036VxiULri0vh7lVeCeDmE4tfPQ5e0rZVKGvB7GV0K+U2k+bXPIQiipmxrRuBFXR4ftsXEAUCJ2BhhCpiOHltVbflvBY6nTEa9RUJIlc4kv0dRwWgAZToyUyqN8=",
+            "twitter:url": "https://www.researchgate.net/post/Why-are-physicists-stuck-with-Fortran-and-not-willing-to-move-to-Python-with-NumPy-and-Scipy",
+            "og:title": "Why are physicists stuck with Fortran and not willing to move to Python with NumPy and Scipy?",
+            "msapplication-tileimage": "https://www.researchgate.net/mstile-144x144.png",
+            "twitter:creator": "@ResearchGate",
+            "og:description": "Read 132 answers by scientists to the question asked by Giovanni De Gasperis on Dec 22, 2014",
+            "twitter:image": "https://i1.rgstatic.net/ii/profile.image/512313637126144-1499156497413_Q128/Giovanni-De-Gasperis.jpg",
+            "referrer": "origin-when-cross-origin",
+            "twitter:site": "@ResearchGate",
+            "viewport": "width=device-width,initial-scale=1",
+            "twitter:description": "Nowadays all of the major Fortran related numerical calculus have exactly mapped equivalent libraries in more modern language framework like Numerical Python (NumPy) and Scientific Python...",
+            "rg:id": "PT:54983ea1d4c118ad478b45fb",
+            "og:site": "ResearchGate",
+            "og:url": "https://www.researchgate.net/post/Why-are-physicists-stuck-with-Fortran-and-not-willing-to-move-to-Python-with-NumPy-and-Scipy"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i1.rgstatic.net/ii/profile.image/512313637126144-1499156497413_Q512/Giovanni-De-Gasperis.jpg",
+            "width": "225",
+            "type": "1",
+            "height": "225"
+          }
+        ],
+        "scholarlyarticle": [
+          {
+            "datemodified": "2021-05-16",
+            "headline": "Software Development for Wind Profiler Signal Processing Using Python with NumPy and SciPy",
+            "mainentityofpage": "https://www.researchgate.net/publication/267247190_Software_Development_for_Wind_Profiler_Signal_Processing_Using_Python_with_NumPy_and_SciPy"
+          },
+          {
+            "datemodified": "2019-12-17",
+            "headline": "“TEKNİK KÖKENLİ BİR YAZITBİLİM VE ARKEOLOJİ ARAŞTIRMA ENSTİTÜSÜ” KURULMASI Dördüncü Yayın(Üçüncü Güncelleme) ESTABLISHING “A TECHNICAL BASED INSCRIPTION SCIENCE AND...",
+            "datepublished": "2017-12-22",
+            "mainentityofpage": "https://www.researchgate.net/publication/322006495_TEKNIK_KOKENLI_BIR_YAZITBILIM_VE_ARKEOLOJI_ARASTIRMA_ENSTITUSU_KURULMASI_Dorduncu_YayinUcuncu_Guncelleme_ESTABLISHING_A_TECHNICAL_BASED_INSCRIPTION_SCIENCE_AND_ARCHAEOLOGY_RESEARCH_INSTITUTE_Fourth_Ve"
+          },
+          {
+            "datemodified": "2021-01-09",
+            "headline": "Python, NumPy, SciPy und Matplotlib – in a nutshell",
+            "datepublished": "2020-11-16",
+            "mainentityofpage": "https://www.researchgate.net/publication/347054797_Python_NumPy_SciPy_und_Matplotlib_-_in_a_nutshell"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How Python Became the Popular Choice",
+      "htmlTitle": "How Python Became the Popular Choice",
+      "link": "https://www.welcometothejungle.com/en/articles/btc-python-popular",
+      "displayLink": "www.welcometothejungle.com",
+      "snippet": "Feb 20, 2020 ... According to a StackOverflow survey carried out in 2019, ...",
+      "htmlSnippet": "Feb 20, 2020 \u003cb\u003e...\u003c/b\u003e According to a StackOverflow survey carried out in 2019,&nbsp;...",
+      "cacheId": "dIE9IdNIVF8J",
+      "formattedUrl": "https://www.welcometothejungle.com/en/articles/btc-python-popular",
+      "htmlFormattedUrl": "https://www.welcometothejungle.com/en/articles/btc-python-popular",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://cdn-images.welcometothejungle.com/U8IENtHSc3XRMXddKDoSbXf_mKs293g6mvD-dvCMLAc/rs:auto:1500::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9hcnRpY2xlL2ltYWdlLzA2NjAvMTU4MjExL3B5dGhvbi1wb3B1bGFyLnBuZw",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#0b0b0d",
+            "twitter:title": "How Python Became the Popular Choice",
+            "og:type": "article",
+            "og:title": "How Python Became the Popular Choice",
+            "og:description": "With the popularity of Python with programmers still growing, we tried to understand how it became one of the most impactful languages in the world.",
+            "twitter:image": "https://cdn-images.welcometothejungle.com/U8IENtHSc3XRMXddKDoSbXf_mKs293g6mvD-dvCMLAc/rs:auto:1500::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9hcnRpY2xlL2ltYWdlLzA2NjAvMTU4MjExL3B5dGhvbi1wb3B1bGFyLnBuZw",
+            "fb:app_id": "308225676054204",
+            "twitter:site": "@WTTJ",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+            "twitter:description": "With the popularity of Python with programmers still growing, we tried to understand how it became one of the most impactful languages in the world.",
+            "og:url": "https://www.welcometothejungle.com/en/articles/btc-python-popular"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn-images.welcometothejungle.com/U8IENtHSc3XRMXddKDoSbXf_mKs293g6mvD-dvCMLAc/rs:auto:1500::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9hcnRpY2xlL2ltYWdlLzA2NjAvMTU4MjExL3B5dGhvbi1wb3B1bGFyLnBuZw",
+            "width": "281",
+            "type": "1",
+            "height": "180"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What is data visualization and why is it important?",
+      "htmlTitle": "What is data visualization and why is it important?",
+      "link": "https://searchbusinessanalytics.techtarget.com/definition/data-visualization",
+      "displayLink": "searchbusinessanalytics.techtarget.com",
+      "snippet": "Data scientists and researchers frequently use open source programming languages -- such as Python -- or proprietary tools designed for complex data ...",
+      "htmlSnippet": "Data scientists and researchers frequently use open source programming languages -- \u003cb\u003esuch as Python -- or\u003c/b\u003e proprietary tools designed for complex data&nbsp;...",
+      "formattedUrl": "https://searchbusinessanalytics.techtarget.com/definition/data-visualization",
+      "htmlFormattedUrl": "https://searchbusinessanalytics.techtarget.com/definition/data-visualization",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "What is data visualization and why is it important?",
+            "og:site_name": "SearchBusinessAnalytics",
+            "og:title": "What is data visualization and why is it important?",
+            "og:description": "Discover what data visualization is, what it does and why it's important. Explore different examples of data visualization and learn about the different visualization tools and vendors.",
+            "article:publisher": "https://www.facebook.com/TechTargetBusinessTechnology/",
+            "twitter:image": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png",
+            "fb:app_id": "870327132989388",
+            "twitter:site": "@TTBusinessTech",
+            "viewport": "width=device-width,initial-scale=1",
+            "twitter:description": "Discover what data visualization is, what it does and why it's important. Explore different examples of data visualization and learn about the different visualization tools and vendors.",
+            "og:locale": "en_US",
+            "og:url": "https://searchbusinessanalytics.techtarget.com/definition/data-visualization"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png",
+            "width": "308",
+            "type": "1",
+            "height": "163"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Comparing Python to Other Languages | Python.org",
+      "htmlTitle": "Comparing Python to Other Languages | Python.org",
+      "link": "https://www.python.org/doc/essays/comparisons/",
+      "displayLink": "www.python.org",
+      "snippet": "In this section I will briefly compare Python to each of these languages. These comparisons concentrate on language issues only. In practice, the choice of a ...",
+      "htmlSnippet": "In this section I will briefly compare Python to each of these languages. These comparisons concentrate on language issues only. In practice, the choice of a&nbsp;...",
+      "cacheId": "ePNc7vCXkz0J",
+      "formattedUrl": "https://www.python.org/doc/essays/comparisons/",
+      "htmlFormattedUrl": "https://www.python.org/doc/essays/comparisons/",
+      "pagemap": {
+        "metatags": [
+          {
+            "application-name": "Python.org",
+            "msapplication-tilecolor": "#3673a5",
+            "og:image": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "og:type": "website",
+            "og:site_name": "Python.org",
+            "handheldfriendly": "True",
+            "msapplication-tooltip": "The official home of the Python Programming Language",
+            "apple-mobile-web-app-title": "Python.org",
+            "og:title": "Comparing Python to Other Languages",
+            "msapplication-tileimage": "/static/metro-icon-144x144-precomposed.png",
+            "msapplication-navbutton-color": "#3673a5",
+            "og:description": "The official home of the Python Programming Language",
+            "og:image:secure_url": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "og:url": "https://www.python.org/doc/essays/comparisons/",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "width": "200",
+            "type": "1",
+            "height": "200"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Comparison of Data Analysis Tools: Excel, R, Python and BI Tools ...",
+      "htmlTitle": "Comparison of Data Analysis Tools: Excel, R, Python and BI Tools ...",
+      "link": "https://towardsdatascience.com/comparison-of-data-analysis-tools-excel-r-python-and-bi-tools-6c4685a8ea6f",
+      "displayLink": "towardsdatascience.com",
+      "snippet": "The era of data analysis has already arrived. From the state, government, and enterprises to individuals, big data and data analysis have become trends that ...",
+      "htmlSnippet": "The era of data analysis has already arrived. From the state, government, and enterprises to individuals, big data and data analysis have become trends that&nbsp;...",
+      "cacheId": "hPceDzB1SI0J",
+      "formattedUrl": "https://towardsdatascience.com/comparison-of-data-analysis-tools-excel-r- python-and-bi-tools-6c4685a8ea6f",
+      "htmlFormattedUrl": "https://towardsdatascience.com/comparison-of-data-analysis-tools-excel-r- python-and-bi-tools-6c4685a8ea6f",
+      "pagemap": {
+        "metatags": [
+          {
+            "twitter:app:url:iphone": "medium://p/6c4685a8ea6f",
+            "og:image": "https://miro.medium.com/max/862/0*X-YNoc3xqG9c5pW4.png",
+            "theme-color": "#000000",
+            "article:published_time": "2019-07-03T12:37:19.625Z",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Medium",
+            "al:android:package": "com.medium.reader",
+            "twitter:label1": "Reading time",
+            "twitter:app:id:iphone": "828256236",
+            "title": "Comparison of Data Analysis Tools: Excel, R, Python and BI Tools | by Lewis Chou | Towards Data Science",
+            "al:ios:url": "medium://p/6c4685a8ea6f",
+            "og:description": "The era of data analysis has already arrived. From the state, government, and enterprises to individuals, big data and data analysis have…",
+            "al:ios:app_store_id": "828256236",
+            "twitter:data1": "6 min read",
+            "twitter:site": "@TDataScience",
+            "og:type": "article",
+            "twitter:title": "Comparison of Data Analysis Tools: Excel, R, Python and BI Tools",
+            "al:ios:app_name": "Medium",
+            "author": "Lewis Chou",
+            "og:title": "Comparison of Data Analysis Tools: Excel, R, Python and BI Tools",
+            "al:web:url": "https://towardsdatascience.com/comparison-of-data-analysis-tools-excel-r-python-and-bi-tools-6c4685a8ea6f",
+            "article:author": "https://lewischou62.medium.com",
+            "twitter:image:src": "https://miro.medium.com/max/862/0*X-YNoc3xqG9c5pW4.png",
+            "al:android:url": "medium://p/6c4685a8ea6f",
+            "referrer": "unsafe-url",
+            "fb:app_id": "542599432471018",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+            "twitter:description": "The era of data analysis has already arrived. From the state, government, and enterprises to individuals, big data and data analysis have…",
+            "og:url": "https://towardsdatascience.com/comparison-of-data-analysis-tools-excel-r-python-and-bi-tools-6c4685a8ea6f",
+            "twitter:app:name:iphone": "Medium",
+            "al:android:app_name": "Medium"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://miro.medium.com/max/862/0*X-YNoc3xqG9c5pW4.png",
+            "width": "295",
+            "type": "1",
+            "height": "171"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python Packaging User Guide",
+      "htmlTitle": "Python Packaging User Guide",
+      "link": "https://packaging.python.org/",
+      "displayLink": "packaging.python.org",
+      "snippet": "The Python Packaging User Guide (PyPUG) is a collection of tutorials and guides for packaging Python software.",
+      "htmlSnippet": "The Python Packaging User Guide (PyPUG) is a collection of tutorials and guides for packaging Python software.",
+      "cacheId": "C-_0bjC45uMJ",
+      "formattedUrl": "https://packaging.python.org/",
+      "htmlFormattedUrl": "https://packaging.python.org/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python vs R vs SAS | Which Data Analysis Tool should I Learn?",
+      "htmlTitle": "Python vs R vs SAS | Which Data Analysis Tool should I Learn?",
+      "link": "https://www.analyticsvidhya.com/blog/2017/09/sas-vs-vs-python-tool-learn/",
+      "displayLink": "www.analyticsvidhya.com",
+      "snippet": "Sep 12, 2017 ... SAS: SAS has been the undisputed market leader in commercial analytics space. The software offers huge array of statistical functions, has good ...",
+      "htmlSnippet": "Sep 12, 2017 \u003cb\u003e...\u003c/b\u003e SAS: SAS has been the undisputed market leader in commercial analytics space. The software offers huge array of statistical functions, has good&nbsp;...",
+      "cacheId": "YfL0EB0_HDgJ",
+      "formattedUrl": "https://www.analyticsvidhya.com/blog/2017/.../sas-vs-vs-python-tool-learn/",
+      "htmlFormattedUrl": "https://www.analyticsvidhya.com/blog/2017/.../sas-vs-vs-python-tool-learn/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/09/Python-vs.-R-vs.-SAS-%E2%80%93-which-tool-should-I-learn.png",
+            "og:type": "article",
+            "article:published_time": "2017-09-11T18:30:56+00:00",
+            "og:image:width": "500",
+            "twitter:card": "summary",
+            "og:site_name": "Analytics Vidhya",
+            "og:title": "Python vs R vs SAS | Which Data Analysis Tool should I Learn?",
+            "og:image:height": "500",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "og:description": "Comparison of Python vs R vs SAS data analysis tools along various parameters with recommendations for data analysts and data scientists",
+            "twitter:creator": "@jainkunal",
+            "article:publisher": "https://www.facebook.com/AnalyticsVidhya/",
+            "twitter:data1": "Kunal Jain",
+            "twitter:data2": "9 minutes",
+            "twitter:site": "@analyticsvidhya",
+            "article:modified_time": "2020-06-07T09:29:26+00:00",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "og:locale": "en_US",
+            "og:url": "https://www.analyticsvidhya.com/blog/2017/09/sas-vs-vs-python-tool-learn/",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/09/Python-vs.-R-vs.-SAS-%E2%80%93-which-tool-should-I-learn.png",
+            "width": "225",
+            "type": "1",
+            "height": "225"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python vs. R for Data Science: What's the Difference? - DataCamp",
+      "htmlTitle": "Python vs. R for Data Science: What&#39;s the Difference? - DataCamp",
+      "link": "https://www.datacamp.com/community/blog/when-to-use-python-or-r",
+      "displayLink": "www.datacamp.com",
+      "snippet": "Jan 7, 2020 ... Here's how to determine when to use the two most popular languages for data science: Python and R.",
+      "htmlSnippet": "Jan 7, 2020 \u003cb\u003e...\u003c/b\u003e Here&#39;s how to determine when to use the two most popular languages for data science: Python and R.",
+      "cacheId": "eVednEGbFOAJ",
+      "formattedUrl": "https://www.datacamp.com/community/blog/when-to-use-python-or-r",
+      "htmlFormattedUrl": "https://www.datacamp.com/community/blog/when-to-use-python-or-r",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://cdn.datacamp.com/community/logos/medium/placeholder.jpg",
+            "og:type": "article",
+            "twitter:title": "Python vs. R for Data Science: What’s the Difference?",
+            "twitter:card": "summary",
+            "og:site_name": "DataCamp Community",
+            "twitter:domain": "www.datacamp.com",
+            "og:title": "Python vs. R for Data Science: What’s the Difference?",
+            "twitter:image:height": "628",
+            "og:description": "Here’s how to determine when to use the two most popular languages for data science: Python and R.",
+            "twitter:creator": "@DataCamp",
+            "twitter:image": "https://cdn.datacamp.com/community/logos/medium/placeholder.jpg",
+            "article:publisher": "https://www.facebook.com/DataCamp-726282547396228",
+            "next-head-count": "32",
+            "twitter:image:alt": "Python vs. R for Data Science: What’s the Difference?",
+            "fb:app_id": "726282547396228",
+            "twitter:site": "@DataCamp",
+            "twitter:image:width": "1200",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+            "og:author": "Richie Cotton",
+            "twitter:description": "Here’s how to determine when to use the two most popular languages for data science: Python and R.",
+            "og:published_time": "2020-01-07T17:00:00.000Z",
+            "og:url": "https://www.datacamp.com/community/blog/when-to-use-python-or-r"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.datacamp.com/community/logos/medium/placeholder.jpg",
+            "width": "225",
+            "type": "1",
+            "height": "225"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Use of Python in GIS - GIS Lounge",
+      "htmlTitle": "The Use of Python in GIS - GIS Lounge",
+      "link": "https://www.gislounge.com/use-python-gis/",
+      "displayLink": "www.gislounge.com",
+      "snippet": "Jun 13, 2017 ... Python today is by far the most widely used language by GIS users and programmers.",
+      "htmlSnippet": "Jun 13, 2017 \u003cb\u003e...\u003c/b\u003e Python today is by far the most widely used language by GIS users and programmers.",
+      "cacheId": "dYK1h3Dp9qAJ",
+      "formattedUrl": "https://www.gislounge.com/use-python-gis/",
+      "htmlFormattedUrl": "https://www.gislounge.com/use-python-gis/",
+      "pagemap": {
+        "hcard": [
+          {
+            "url_text": "Mark Altaweel",
+            "fn": "Mark Altaweel",
+            "url": "https://www.gislounge.com/author/mark-altaweel/"
+          }
+        ],
+        "person": [
+          {
+            "name": "Mark Altaweel",
+            "url": "Mark Altaweel"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.gislounge.com/wp-content/uploads/2017/06/python-gis.png",
+            "og:type": "article",
+            "article:published_time": "2017-06-13T14:04:56+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "The Use of Python in GIS",
+            "og:image:width": "600",
+            "og:site_name": "GIS Lounge",
+            "og:title": "The Use of Python in GIS",
+            "og:image:height": "461",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "og:updated_time": "2020-07-17T19:39:32+00:00",
+            "msapplication-tileimage": "https://www.gislounge.com/wp-content/uploads/2020/06/cropped-GIS-lounge-avi-270x270.png",
+            "og:description": "Python today is by far the most widely used language by GIS users and programmers.",
+            "twitter:image": "https://www.gislounge.com/wp-content/uploads/2017/06/python-gis.png",
+            "twitter:data1": "Mark Altaweel",
+            "twitter:data2": "4 minutes",
+            "article:modified_time": "2020-07-17T19:39:32+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Python today is by far the most widely used language by GIS users and programmers.",
+            "og:locale": "en_US",
+            "og:url": "https://www.gislounge.com/use-python-gis/"
+          }
+        ],
+        "creativework": [
+          {
+            "text": "The use of Python with GIS has substantially increased over the last two decades, particularly with the introduction of Python 2.0 series in 2000, which included many new programming features..."
+          },
+          {
+            "image": "https://cdn.shortpixel.ai/spai/w_554+q_glossy+ret_img+to_auto/https://www.gislounge.com/wp-content/uploads/2021/07/webgis-roadmap-tek-kshetri-emmanuel-jolaiya-211x150.png",
+            "headline": "Open-Source Web-GIS Development Roadmap"
+          },
+          {
+            "image": "https://cdn.shortpixel.ai/spai/w_554+q_glossy+ret_img+to_auto/https://www.gislounge.com/wp-content/uploads/2020/01/qgis-label-toolbar-211x150.png",
+            "headline": "Tutorials in GIS"
+          },
+          {
+            "image": "https://cdn.shortpixel.ai/spai/w_554+q_glossy+ret_img+to_auto/https://www.gislounge.com/wp-content/uploads/2014/07/explorer-for-arcgis-brings-gis-to-the-mac-lg-211x150.png",
+            "headline": "What is GIS?"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.gislounge.com/wp-content/uploads/2017/06/python-gis.png",
+            "width": "256",
+            "type": "1",
+            "height": "197"
+          }
+        ],
+        "hatomfeed": [
+          {}
+        ],
+        "blog": [
+          {
+            "datemodified": "2020-07-17T19:39:32-07:00",
+            "datepublished": "2017-06-13T14:04:56-07:00"
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "headline": "GIS Lounge"
+          }
+        ]
+      }
+    }
+  ]
+}
+,
+   "4":{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "511000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 21,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "511000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 31,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "511000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 41,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "context": {
+    "title": "darik"
+  },
+  "searchInformation": {
+    "searchTime": 0.694703,
+    "formattedSearchTime": "0.69",
+    "totalResults": "511000000",
+    "formattedTotalResults": "511,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "AUR helpers - ArchWiki",
+      "htmlTitle": "AUR helpers - ArchWiki",
+      "link": "https://wiki.archlinux.org/title/AUR_helpers",
+      "displayLink": "wiki.archlinux.org",
+      "snippet": "Sep 3, 2021 ... AUR packages are redistributed in form of PKGBUILDs and need an AUR helper to automate the re-build process. However, keep in mind that a ...",
+      "htmlSnippet": "Sep 3, 2021 \u003cb\u003e...\u003c/b\u003e AUR packages are redistributed in form of PKGBUILDs and need an AUR helper to automate the re-build process. However, keep in mind that a&nbsp;...",
+      "cacheId": "RjPnCjxqGW8J",
+      "formattedUrl": "https://wiki.archlinux.org/title/AUR_helpers",
+      "htmlFormattedUrl": "https://wiki.archlinux.org/title/AUR_helpers",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "no-referrer-when-downgrade"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "GH_CPython | Food4Rhino",
+      "htmlTitle": "GH_CPython | Food4Rhino",
+      "link": "https://www.food4rhino.com/en/app/ghcpython",
+      "displayLink": "www.food4rhino.com",
+      "snippet": "CPython for grasshopper. The Idea of this plugin is to provide a component that implements CPython codes inside grasshopper. It requires having Python installed ...",
+      "htmlSnippet": "CPython for grasshopper. The Idea of this plugin is to provide a component that implements CPython codes inside grasshopper. It requires having Python installed&nbsp;...",
+      "cacheId": "xU0OJ4txznEJ",
+      "formattedUrl": "https://www.food4rhino.com/en/app/ghcpython",
+      "htmlFormattedUrl": "https://www.food4rhino.com/en/app/ghcpython",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://static.food4rhino.com/s3fs-public/users-files/mahmoudabdelrahman/app/pythonlogo-512.png",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "GH_CPython",
+            "article:published_time": "2017-08-01T09:17:59+02:00",
+            "og:site_name": "Food4Rhino",
+            "dcterms.language": "en",
+            "og:image:url": "https://static.food4rhino.com/s3fs-public/users-files/mahmoudabdelrahman/app/pythonlogo-512.png",
+            "twitter:url": "https://www.food4rhino.com/en/app/ghcpython",
+            "dcterms.type": "Text",
+            "og:title": "GH_CPython",
+            "dcterms.title": "GH_CPython",
+            "dcterms.description": "Cpython plugin for Grasshopper",
+            "dcterms.date": "2017-08-01T09:17+02:00",
+            "og:updated_time": "2017-11-28T22:05:19+01:00",
+            "og:description": "Cpython plugin for Grasshopper",
+            "article:modified_time": "2017-11-28T22:05:19+01:00",
+            "viewport": "width=981",
+            "twitter:description": "Cpython plugin for Grasshopper",
+            "dcterms.format": "text/html",
+            "og:url": "https://www.food4rhino.com/en/app/ghcpython",
+            "dcterms.identifier": "https://www.food4rhino.com/en/app/ghcpython"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.food4rhino.com/s3fs-public/users-files/mahmoudabdelrahman/app/pythonlogo-512.png",
+            "width": "225",
+            "type": "1",
+            "height": "225"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Research Computing Bootcamp Videos | Information Services and ...",
+      "htmlTitle": "Research Computing Bootcamp Videos | Information Services and ...",
+      "link": "https://www.ualberta.ca/information-services-and-technology/research-computing/bootcamps.html",
+      "displayLink": "www.ualberta.ca",
+      "snippet": "Research Computing Bootcamps are a week-long event designed for faculty members, students, postdoctoral fellows, and other researchers across campus to ...",
+      "htmlSnippet": "Research Computing Bootcamps are a week-long event designed for faculty members, students, postdoctoral fellows, and other researchers across campus to&nbsp;...",
+      "cacheId": "SBJtytz8NQ0J",
+      "formattedUrl": "https://www.ualberta.ca/information-services-and.../bootcamps.html",
+      "htmlFormattedUrl": "https://www.ualberta.ca/information-services-and.../bootcamps.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "svc-type": "Technology Support;",
+            "svc-keywords": "bootcamp videos, python, hpc, cloud, parallelism, regular expressions, scheduling",
+            "svc-campus": "Online",
+            "uofaid": "a2ecf869ac14059132331e0850d8bc61",
+            "svc-type-top": "Technology Support",
+            "svc-page-type": "Resources",
+            "viewport": "width=device-width, initial-scale=1",
+            "page-type": "Service",
+            "svc-aud-top": "Employees",
+            "svc-provider": "VP Services & Finance",
+            "svc-name": "Research Computing Bootcamp Videos",
+            "svc-provider-keywords": "Information Services & Technology, IST",
+            "svc-audience": "Employees;"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/VEYXFiv62PU/maxresdefault.jpg",
+            "width": "300",
+            "type": "1",
+            "height": "168"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "When Python scores over PHP?",
+      "htmlTitle": "When Python scores over PHP?",
+      "link": "https://www.softkraft.co/python-vs-php/",
+      "displayLink": "www.softkraft.co",
+      "snippet": "Having a powerful tool such as Python has its advantages and has resulted in many powerful startups like Instagram, Pinterest, and Reddit using Python-based ...",
+      "htmlSnippet": "Having a powerful tool \u003cb\u003esuch as Python has its advantages and\u003c/b\u003e has resulted in many powerful startups like Instagram, Pinterest, and Reddit using Python-based&nbsp;...",
+      "cacheId": "KVLpp7ftZUsJ",
+      "formattedUrl": "https://www.softkraft.co/python-vs-php/",
+      "htmlFormattedUrl": "https://www.softkraft.co/python-vs-php/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://assets.softkraft.co/uploads/python-vs-php.gif",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "theme-color": "#0c2d70",
+            "twitter:site": "soft_kraft",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "og:title": "When Python scores over PHP?",
+            "og:url": "https://www.softkraft.co/python-vs-php/",
+            "og:description": "When you hear the words \"Server-side Programming\" a number of languages are going to come to mind. But amongst that list are two that are very much loved and respected by programmers worldwide. These are obviously PHP and Python. The debate on which to use for any core web application has raged on since the very beginning."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://assets.softkraft.co/uploads/python-vs-php.gif"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python Software Foundation Employees",
+      "htmlTitle": "Python Software Foundation Employees",
+      "link": "https://www.python.org/psf/records/staff/",
+      "displayLink": "www.python.org",
+      "snippet": "Python Software Foundation Employees. Ewa Jodlowska. Executive Director Ewa has been with the Python Software Foundation since 2012 and prior to that she ...",
+      "htmlSnippet": "Python Software Foundation Employees. Ewa Jodlowska. Executive Director Ewa has been with the Python Software Foundation since 2012 and prior to that she&nbsp;...",
+      "cacheId": "QKPbZ8kGuioJ",
+      "formattedUrl": "https://www.python.org/psf/records/staff/",
+      "htmlFormattedUrl": "https://www.python.org/psf/records/staff/",
+      "pagemap": {
+        "metatags": [
+          {
+            "application-name": "Python.org",
+            "msapplication-tilecolor": "#3673a5",
+            "og:image": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "og:type": "website",
+            "og:site_name": "Python.org",
+            "handheldfriendly": "True",
+            "msapplication-tooltip": "The official home of the Python Programming Language",
+            "apple-mobile-web-app-title": "Python.org",
+            "og:title": "Python Software Foundation Employees",
+            "msapplication-tileimage": "/static/metro-icon-144x144-precomposed.png",
+            "msapplication-navbutton-color": "#3673a5",
+            "og:description": "The official home of the Python Programming Language",
+            "og:image:secure_url": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "og:url": "https://www.python.org/psf/records/staff/",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "width": "200",
+            "type": "1",
+            "height": "200"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What's New in Python 2.3 — Python 3.10.0 documentation",
+      "htmlTitle": "What&#39;s New in Python 2.3 — Python 3.10.0 documentation",
+      "link": "https://docs.python.org/3/whatsnew/2.3.html",
+      "displayLink": "docs.python.org",
+      "snippet": "For full details, you should refer to the documentation for Python 2.3, such as the Python Library Reference and the Python Reference Manual.",
+      "htmlSnippet": "For full details, you should refer to the documentation for Python 2.3, \u003cb\u003esuch as the Python Library Reference and\u003c/b\u003e the Python Reference Manual.",
+      "cacheId": "alwURO3Voy0J",
+      "formattedUrl": "https://docs.python.org/3/whatsnew/2.3.html",
+      "htmlFormattedUrl": "https://docs.python.org/3/whatsnew/2.3.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python and Finance: An Introductory Programming Tutorial | Toptal",
+      "htmlTitle": "Python and Finance: An Introductory Programming Tutorial | Toptal",
+      "link": "https://www.toptal.com/finance/financial-modeling/python-and-finance",
+      "displayLink": "www.toptal.com",
+      "snippet": "Python provides many advantages over the traditionally popular VBA scripts for finance professionals looking to automate and enhance their work processes.",
+      "htmlSnippet": "Python provides many advantages over the traditionally popular VBA scripts for finance professionals looking to automate and enhance their work processes.",
+      "cacheId": "rZWUypmRd-oJ",
+      "formattedUrl": "https://www.toptal.com/finance/financial-modeling/python-and-finance",
+      "htmlFormattedUrl": "https://www.toptal.com/finance/financial-modeling/python-and-finance",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/18037/python-and-finance-af7335a89d21d5d0fd49fce5cc9d187c.png",
+            "twitter:card": "summary_large_image",
+            "og:type": "article",
+            "twitter:site": "@toptal",
+            "og:site_name": "Toptal Finance Blog",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:title": "Python and Finance – Power Up Your Spreadsheets",
+            "og:url": "https://www.toptal.com/finance/financial-modeling/python-and-finance",
+            "og:description": "Python provides many advantages over the traditionally popular VBA scripts for finance professionals looking to automate and enhance their work processes. This article explores how to use Python and finance together via a practical step-by-step tutorial."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/18037/python-and-finance-af7335a89d21d5d0fd49fce5cc9d187c.png",
+            "width": "311",
+            "type": "1",
+            "height": "162"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What's New in Python 2.4 — Python 3.10.0 documentation",
+      "htmlTitle": "What&#39;s New in Python 2.4 — Python 3.10.0 documentation",
+      "link": "https://docs.python.org/3/whatsnew/2.4.html",
+      "displayLink": "docs.python.org",
+      "snippet": "For full details, you should refer to the documentation for Python 2.4, such as the Python Library Reference and the Python Reference Manual.",
+      "htmlSnippet": "For full details, you should refer to the documentation for Python 2.4, \u003cb\u003esuch as the Python Library Reference and\u003c/b\u003e the Python Reference Manual.",
+      "cacheId": "wuINiy0wmtUJ",
+      "formattedUrl": "https://docs.python.org/3/whatsnew/2.4.html",
+      "htmlFormattedUrl": "https://docs.python.org/3/whatsnew/2.4.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CMPU 196 - Data Visualization Tools and Techniques using Python ...",
+      "htmlTitle": "CMPU 196 - Data Visualization Tools and Techniques using Python ...",
+      "link": "https://catalogue.vassar.edu/preview_course_nopop.php?catoid=46&coid=262278",
+      "displayLink": "catalogue.vassar.edu",
+      "snippet": "Students learn how to use visualization tools such as Python's pandas library and Microsoft's PowerBI. The Department. One 2-hour period.",
+      "htmlSnippet": "Students learn how to use visualization tools \u003cb\u003esuch as Python&#39;s pandas library and\u003c/b\u003e Microsoft&#39;s PowerBI. The Department. One 2-hour period.",
+      "cacheId": "AjiN3u8g72AJ",
+      "formattedUrl": "https://catalogue.vassar.edu/preview_course_nopop.php?catoid=46&coid...",
+      "htmlFormattedUrl": "https://catalogue.vassar.edu/preview_course_nopop.php?catoid=46&amp;coid...",
+      "pagemap": {
+        "hcard": [
+          {
+            "url_text": "Office of the Registrar at Vassar College",
+            "fn": "Office of the Registrar at Vassar College",
+            "url": "http://registrar.vassar.edu/"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What's New in Python 2.2 — Python 3.10.0 documentation",
+      "htmlTitle": "What&#39;s New in Python 2.2 — Python 3.10.0 documentation",
+      "link": "https://docs.python.org/3/whatsnew/2.2.html",
+      "displayLink": "docs.python.org",
+      "snippet": "For full details, you should refer to the documentation for Python 2.2, such as the Python Library Reference and the Python Reference Manual.",
+      "htmlSnippet": "For full details, you should refer to the documentation for Python 2.2, \u003cb\u003esuch as the Python Library Reference and\u003c/b\u003e the Python Reference Manual.",
+      "cacheId": "C7IVb0O0HOoJ",
+      "formattedUrl": "https://docs.python.org/3/whatsnew/2.2.html",
+      "htmlFormattedUrl": "https://docs.python.org/3/whatsnew/2.2.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ]
+      }
+    }
+  ]
+}
+ ,
+   "5":{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "42",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 2,
+        "startIndex": 31,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "42",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 2,
+        "startIndex": 41,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "context": {
+    "title": "darik"
+  },
+  "searchInformation": {
+    "searchTime": 0.462287,
+    "formattedSearchTime": "0.46",
+    "totalResults": "42",
+    "formattedTotalResults": "42"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "What is a leviathan spirit? | GotQuestions.org",
+      "htmlTitle": "What is a leviathan spirit? | GotQuestions.org",
+      "link": "https://www.gotquestions.org/leviathan-spirit.html",
+      "displayLink": "www.gotquestions.org",
+      "snippet": "... might entirely overlap with the behavior of other spirits, given names such as Python or Kundalini, or placed in categories such as “water spirits.”",
+      "htmlSnippet": "... might entirely overlap with the behavior of other spirits, given names \u003cb\u003esuch as Python or Kundalini, or\u003c/b\u003e placed in categories such as “water spirits.”",
+      "cacheId": "_mJr-O70dDEJ",
+      "formattedUrl": "https://www.gotquestions.org/leviathan-spirit.html",
+      "htmlFormattedUrl": "https://www.gotquestions.org/leviathan-spirit.html",
+      "pagemap": {
+        "imageobject": [
+          {
+            "width": "400",
+            "url": "https://www.gotquestions.org/img/GQlogo.png",
+            "height": "79"
+          }
+        ],
+        "organization": [
+          {
+            "name": "GotQuestions.org"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.gotquestions.org/img/OG/GQ-OG.jpg",
+            "og:type": "article",
+            "og:site_name": "GotQuestions.org",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+            "og:url": "https://www.gotquestions.org/leviathan-spirit.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.gotquestions.org/img/OG/GQ-OG.jpg",
+            "width": "311",
+            "type": "1",
+            "height": "162"
+          }
+        ],
+        "article": [
+          {
+            "image": "https://www.gotquestions.org/img/GQlogo.png",
+            "articlebody": "Answer The “leviathan spirit,” or the “the spirit of leviathan” is one of many terms associated with a particular view of demonic oppression. By taking scriptural references to leviathan...",
+            "keywords": "leviathan spirit",
+            "datemodified": "2021-04-26",
+            "author": "GotQuestions.org",
+            "name": "What is a leviathan spirit?",
+            "description": "What is a leviathan spirit? Does the Bible say anything about a leviathan spirit?",
+            "headline": "What is a leviathan spirit?",
+            "url": "https://www.gotquestions.org/leviathan-spirit.html",
+            "datepublished": "2019-05-02",
+            "mainentityofpage": "https://www.gotquestions.org/leviathan-spirit.html"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Home",
+            "name": "Home",
+            "position": "1"
+          },
+          {
+            "item": "Content Index",
+            "name": "Content Index",
+            "position": "2"
+          },
+          {
+            "item": "Angels and Demons",
+            "name": "Angels and Demons",
+            "position": "3"
+          },
+          {
+            "item": "Basics on Angels and Demons",
+            "name": "Basics on Angels and Demons",
+            "position": "4"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Data Analytics Strategist – HConnect (f/m/d) - Job bei ...",
+      "htmlTitle": "Data Analytics Strategist – HConnect (f/m/d) - Job bei ...",
+      "link": "https://www.stepstone.de/stellenangebote--Data-Analytics-Strategist-HConnect-f-m-d-Heidelberg-HeidelbergCement-AG--7489277-inline.html",
+      "displayLink": "www.stepstone.de",
+      "snippet": "Aktuelles Stellenangebot als Data Analytics Strategist – HConnect (f/m/d) in Heidelberg bei der Firma HeidelbergCement AG.",
+      "htmlSnippet": "Aktuelles Stellenangebot als Data Analytics Strategist – HConnect (f/m/d) in Heidelberg bei der Firma HeidelbergCement AG.",
+      "cacheId": "y9yynhUYBRkJ",
+      "formattedUrl": "https://www.stepstone.de/stellenangebote--Data-Analytics-Strategist-HConnect -f-m-d-Heidelberg-HeidelbergCement-AG--7489277-inline.html",
+      "htmlFormattedUrl": "https://www.stepstone.de/stellenangebote--Data-Analytics-Strategist-HConnect -f-m-d-Heidelberg-HeidelbergCement-AG--7489277-inline.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://www.stepstone.de/modules/duplo/resources/images/logo/stepstone-logo-facebook.jpg",
+            "msapplication-config": "/modules/duplo/resources/favicons/stepstone/browserconfig.xml?v=VuWeZv6r",
+            "og:type": "website",
+            "og:image:width": "1200",
+            "theme-color": "#ffffff",
+            "og:site_name": "stepstone.de",
+            "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+            "og:image:height": "630",
+            "google": "nositelinkssearchbox",
+            "msapplication-tileimage": "/modules/duplo/resources/favicons/stepstone/mstile-144x144.png?v=VuWeZv6r",
+            "serverid": "live/5.4/tomcat",
+            "layout": "/modules/duplo/layouts/layout--rwd.cfm",
+            "twitter:site": "@stepstone_de",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "de_DE",
+            "x-event": "offerviewpage:general.index",
+            "event": "offerviewpage:general"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.stepstone.de/modules/duplo/resources/images/logo/stepstone-logo-facebook.jpg",
+            "width": "310",
+            "type": "1",
+            "height": "163"
+          }
+        ]
+      }
+    }
+  ]
+}
+,
+   "6": {
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "517000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 41,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "517000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 51,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "517000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 61,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "context": {
+    "title": "darik"
+  },
+  "searchInformation": {
+    "searchTime": 0.750136,
+    "formattedSearchTime": "0.75",
+    "totalResults": "517000000",
+    "formattedTotalResults": "517,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Why You Should Make Python Part of Your Programming Skillset",
+      "htmlTitle": "Why You Should Make Python Part of Your Programming Skillset",
+      "link": "https://www.apollotechnical.com/python-part-of-your-programming-skillset/",
+      "displayLink": "www.apollotechnical.com",
+      "snippet": "5 days ago ... Good programming skills have become a valuable asset to companies, and potential tech employees are expected to have some rudimentary ...",
+      "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e Good programming skills have become a valuable asset to companies, and potential tech employees are expected to have some rudimentary&nbsp;...",
+      "cacheId": "iCnFBhOysfkJ",
+      "formattedUrl": "https://www.apollotechnical.com/python-part-of-your-programming-skillset/",
+      "htmlFormattedUrl": "https://www.apollotechnical.com/python-part-of-your-programming-skillset/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://www.apollotechnical.com/wp-content/uploads/2021/10/real-python-code-developing-1024x683.jpg",
+            "og:type": "article",
+            "article:published_time": "2021-10-17T20:05:02+00:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Apollo Technical LLC",
+            "og:title": "Why You Should Make Python Part of Your Programming Skillset",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "og:description": "Good programming skills have become a valuable asset to companies, and potential tech employees are expected to have some rudimentary knowledge in certain programming languages.",
+            "twitter:creator": "@ApolloTechnical",
+            "article:publisher": "https://www.facebook.com/ApolloTechnical",
+            "twitter:data1": "Ryan Bradshaw",
+            "twitter:data2": "4 minutes",
+            "twitter:site": "@ApolloTechnical",
+            "article:modified_time": "2021-10-17T20:05:04+00:00",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:locale": "en_US",
+            "og:url": "https://www.apollotechnical.com/python-part-of-your-programming-skillset/"
+          }
+        ],
+        "blogposting": [
+          {
+            "articlebody": "Good programming skills have become a valuable asset to companies, and potential tech employees are expected to have some rudimentary knowledge in certain programming languages.Such programming...",
+            "headline": "Why You Should Make Python Part of Your Programming Skillset"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Top Python Interview Questions (2021) - InterviewBit",
+      "htmlTitle": "Top Python Interview Questions (2021) - InterviewBit",
+      "link": "https://www.interviewbit.com/python-interview-questions/",
+      "displayLink": "www.interviewbit.com",
+      "snippet": "Learn and Practice on almost all coding interview questions asked historically and get referred to the best tech companies.",
+      "htmlSnippet": "Learn and Practice on almost all coding interview questions asked historically and get referred to the best tech companies.",
+      "cacheId": "lQyKQI3veYUJ",
+      "formattedUrl": "https://www.interviewbit.com/python-interview-questions/",
+      "htmlFormattedUrl": "https://www.interviewbit.com/python-interview-questions/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://s3.ap-south-1.amazonaws.com/myinterviewtrainer-domestic/public_assets/assets/000/000/884/original/Python_Interview_Questions_%281%29.jpg?1629889436",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Top Python Interview Questions (2021) - InterviewBit",
+            "og:site_name": "InterviewBit",
+            "author": "Kings Gambit Labs",
+            "csrf-param": "authenticity_token",
+            "og:description": "Learn and Practice on almost all coding interview questions asked historically and get referred to the best tech companies",
+            "twitter:creator": "@interview_bit",
+            "twitter:image": "https://s3.ap-south-1.amazonaws.com/myinterviewtrainer-domestic/public_assets/assets/000/000/884/original/Python_Interview_Questions_%281%29.jpg?1629889436",
+            "wot-verification": "dd174b20fbdb0fd91285",
+            "twitter:image:alt": "InterviewBit",
+            "fb:app_id": "314158428787536",
+            "twitter:site": "@interview_bit",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0, user-scalable=no",
+            "twitter:description": "Learn and Practice on almost all coding interview questions asked historically and get referred to the best tech companies",
+            "og:site": "InterviewBit",
+            "csrf-token": "qVNg0+nrw1LfwpZaukheJYJKAoFEBwHFfEp7F38tqjRF3/+sqxzTr4qr2bpTVkoRptV4Ef4i77fbtMW76ohn2A==",
+            "og:url": "https://www.interviewbit.com/python-interview-questions/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s3.ap-south-1.amazonaws.com/myinterviewtrainer-domestic/public_assets/assets/000/000/884/original/Python_Interview_Questions_%281%29.jpg?1629889436",
+            "width": "310",
+            "type": "1",
+            "height": "163"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Why are physicists stuck with Fortran and not willing to move to ...",
+      "htmlTitle": "Why are physicists stuck with Fortran and not willing to move to ...",
+      "link": "https://www.researchgate.net/post/Why-are-physicists-stuck-with-Fortran-and-not-willing-to-move-to-Python-with-NumPy-and-Scipy",
+      "displayLink": "www.researchgate.net",
+      "snippet": "But if reprodutibility, development speed and utilization of additional libraries, I would recommend a script language such as Python, Perl or Julia.",
+      "htmlSnippet": "But if reprodutibility, development speed and utilization of additional libraries, I would recommend a script language \u003cb\u003esuch as Python, Perl or\u003c/b\u003e Julia.",
+      "formattedUrl": "https://www.researchgate.net/.../Why-are-physicists-stuck-with-Fortran-and- not-willing-to-move-to-Python-with-NumPy-and-Scipy",
+      "htmlFormattedUrl": "https://www.researchgate.net/.../Why-are-physicists-stuck-with-Fortran-and- not-willing-to-move-to-Python-with-NumPy-and-Scipy",
+      "pagemap": {
+        "person": [
+          {
+            "image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+            "name": "Noor Hafizah",
+            "url": "https://www.researchgate.net/scientific-contributions/Noor-Hafizah-2056624069",
+            "mainentityofpage": "https://www.researchgate.net/scientific-contributions/Noor-Hafizah-2056624069"
+          },
+          {
+            "image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+            "name": "Binti Abdul Aziz",
+            "url": "https://www.researchgate.net/scientific-contributions/Binti-Abdul-Aziz-2056615950",
+            "mainentityofpage": "https://www.researchgate.net/scientific-contributions/Binti-Abdul-Aziz-2056615950"
+          },
+          {
+            "image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+            "name": "Masayuki K Yamamoto",
+            "url": "https://www.researchgate.net/scientific-contributions/Masayuki-K-Yamamoto-26306840",
+            "mainentityofpage": "https://www.researchgate.net/scientific-contributions/Masayuki-K-Yamamoto-26306840"
+          },
+          {
+            "image": "https://i1.rgstatic.net/ii/profile.image/273655087235087-1442255865520_Q64/Mamoru-Yamamoto.jpg",
+            "name": "Mamoru Yamamoto",
+            "url": "https://www.researchgate.net/profile/Mamoru-Yamamoto",
+            "mainentityofpage": "https://www.researchgate.net/profile/Mamoru-Yamamoto"
+          },
+          {
+            "image": "https://i1.rgstatic.net/ii/profile.image/825459315060736-1573816245205_Q64/Derya-Varol.jpg",
+            "name": "Derya Varol",
+            "url": "https://www.researchgate.net/profile/Derya-Varol",
+            "mainentityofpage": "https://www.researchgate.net/profile/Derya-Varol"
+          },
+          {
+            "image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg",
+            "name": "Jörg Frochte",
+            "url": "https://www.researchgate.net/scientific-contributions/Joerg-Frochte-25563042",
+            "mainentityofpage": "https://www.researchgate.net/scientific-contributions/Joerg-Frochte-25563042"
+          }
+        ],
+        "organization": [
+          {
+            "name": "unknown",
+            "logo": "unknown",
+            "url": "unknown"
+          },
+          {
+            "name": "unknown",
+            "logo": "unknown",
+            "url": "unknown"
+          },
+          {
+            "name": "unknown",
+            "logo": "unknown",
+            "url": "unknown"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "ResearchGate",
+            "msapplication-tilecolor": "#00ccbb",
+            "og:image": "https://i1.rgstatic.net/ii/profile.image/512313637126144-1499156497413_Q512/Giovanni-De-Gasperis.jpg",
+            "theme-color": "#444444",
+            "twitter:card": "summary",
+            "twitter:title": "Why are physicists  stuck with Fortran and not willing to move to...",
+            "og:type": "website",
+            "og:site_name": "ResearchGate",
+            "rg-request-token": "aad-ZdC1I9buExlVDIWvNXeZmpmKxEmW2FaP/PkokfbPI2aZHpk68EcYfbVYOC9zRqTWcmYcjafsWDGeR2pcL7eHZVcHjsCqrKX2F0uVmb/fOYf6Y6y4hKmKhN1fig6AhbkBc3k+2xX01RN7OtwQptkw4YIIKMHpcJRHtdTiwSSq036VxiULri0vh7lVeCeDmE4tfPQ5e0rZVKGvB7GV0K+U2k+bXPIQiipmxrRuBFXR4ftsXEAUCJ2BhhCpiOHltVbflvBY6nTEa9RUJIlc4kv0dRwWgAZToyUyqN8=",
+            "twitter:url": "https://www.researchgate.net/post/Why-are-physicists-stuck-with-Fortran-and-not-willing-to-move-to-Python-with-NumPy-and-Scipy",
+            "og:title": "Why are physicists stuck with Fortran and not willing to move to Python with NumPy and Scipy?",
+            "msapplication-tileimage": "https://www.researchgate.net/mstile-144x144.png",
+            "twitter:creator": "@ResearchGate",
+            "og:description": "Read 132 answers by scientists to the question asked by Giovanni De Gasperis on Dec 22, 2014",
+            "twitter:image": "https://i1.rgstatic.net/ii/profile.image/512313637126144-1499156497413_Q128/Giovanni-De-Gasperis.jpg",
+            "referrer": "origin-when-cross-origin",
+            "twitter:site": "@ResearchGate",
+            "viewport": "width=device-width,initial-scale=1",
+            "twitter:description": "Nowadays all of the major Fortran related numerical calculus have exactly mapped equivalent libraries in more modern language framework like Numerical Python (NumPy) and Scientific Python...",
+            "rg:id": "PT:54983ea1d4c118ad478b45fb",
+            "og:site": "ResearchGate",
+            "og:url": "https://www.researchgate.net/post/Why-are-physicists-stuck-with-Fortran-and-not-willing-to-move-to-Python-with-NumPy-and-Scipy"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i1.rgstatic.net/ii/profile.image/512313637126144-1499156497413_Q512/Giovanni-De-Gasperis.jpg",
+            "width": "225",
+            "type": "1",
+            "height": "225"
+          }
+        ],
+        "scholarlyarticle": [
+          {
+            "datemodified": "2021-05-16",
+            "headline": "Software Development for Wind Profiler Signal Processing Using Python with NumPy and SciPy",
+            "mainentityofpage": "https://www.researchgate.net/publication/267247190_Software_Development_for_Wind_Profiler_Signal_Processing_Using_Python_with_NumPy_and_SciPy"
+          },
+          {
+            "datemodified": "2019-12-17",
+            "headline": "“TEKNİK KÖKENLİ BİR YAZITBİLİM VE ARKEOLOJİ ARAŞTIRMA ENSTİTÜSÜ” KURULMASI Dördüncü Yayın(Üçüncü Güncelleme) ESTABLISHING “A TECHNICAL BASED INSCRIPTION SCIENCE AND...",
+            "datepublished": "2017-12-22",
+            "mainentityofpage": "https://www.researchgate.net/publication/322006495_TEKNIK_KOKENLI_BIR_YAZITBILIM_VE_ARKEOLOJI_ARASTIRMA_ENSTITUSU_KURULMASI_Dorduncu_YayinUcuncu_Guncelleme_ESTABLISHING_A_TECHNICAL_BASED_INSCRIPTION_SCIENCE_AND_ARCHAEOLOGY_RESEARCH_INSTITUTE_Fourth_Ve"
+          },
+          {
+            "datemodified": "2021-01-09",
+            "headline": "Python, NumPy, SciPy und Matplotlib – in a nutshell",
+            "datepublished": "2020-11-16",
+            "mainentityofpage": "https://www.researchgate.net/publication/347054797_Python_NumPy_SciPy_und_Matplotlib_-_in_a_nutshell"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Install NumPy {Windows, Linux and MacOS}",
+      "htmlTitle": "How to Install NumPy {Windows, Linux and MacOS}",
+      "link": "https://phoenixnap.com/kb/install-numpy",
+      "displayLink": "phoenixnap.com",
+      "snippet": "May 8, 2020 ... For more Python package tutorials, check out our other KB articles such as Best Python IDEs and more! Was this article helpful?",
+      "htmlSnippet": "May 8, 2020 \u003cb\u003e...\u003c/b\u003e For more Python package tutorials, check out our other KB articles \u003cb\u003esuch as Best Python IDEs and\u003c/b\u003e more! Was this article helpful?",
+      "cacheId": "uKrwkNHS-jIJ",
+      "formattedUrl": "https://phoenixnap.com/kb/install-numpy",
+      "htmlFormattedUrl": "https://phoenixnap.com/kb/install-numpy",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://phoenixnap.com/kb/wp-content/uploads/2021/04/how-to-install-numpy.png",
+            "og:type": "article",
+            "article:published_time": "2020-05-08T14:57:30+00:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Knowledge Base by phoenixNAP",
+            "og:title": "How to Install NumPy {Windows, Linux and MacOS}",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "og:description": "Install Numpy (Numerical Python) on your system using the pip command. This guide shows you how to set up NumPy on Linux, Windows, or Mac.",
+            "twitter:creator": "@phoenixNAP",
+            "article:publisher": "https://www.facebook.com/phoenixnap",
+            "twitter:data1": "Sofija Simic",
+            "twitter:data2": "4 minutes",
+            "twitter:site": "@phoenixNAP",
+            "article:modified_time": "2021-07-01T12:35:13+00:00",
+            "viewport": "width=device-width",
+            "og:locale": "en_US",
+            "og:url": "https://phoenixnap.com/kb/install-numpy"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://phoenixnap.com/kb/wp-content/uploads/2021/04/how-to-install-numpy.png",
+            "width": "317",
+            "type": "1",
+            "height": "159"
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "name": "Phoenixnap home"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Why such popularity with Python? - Software Engineering Stack ...",
+      "htmlTitle": "Why such popularity with Python? - Software Engineering Stack ...",
+      "link": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python",
+      "displayLink": "softwareengineering.stackexchange.com",
+      "snippet": "Python is a well-designed language with a reasonably clean syntax, a comprehensive standard library, excellent included and third party documentation, ...",
+      "htmlSnippet": "Python is a well-designed language with a reasonably clean syntax, a comprehensive standard library, excellent included and third party documentation,&nbsp;...",
+      "cacheId": "aimkJg4w0c8J",
+      "formattedUrl": "https://softwareengineering.stackexchange.com/.../why-such-popularity-with- python",
+      "htmlFormattedUrl": "https://softwareengineering.stackexchange.com/.../why-such-popularity-with- python",
+      "pagemap": {
+        "question": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/softwareengineering/Img/apple-touch-icon.png?v=5e581fc45e58",
+            "upvotecount": "56",
+            "answercount": "16",
+            "name": "Why such popularity with Python? [closed]",
+            "text": "As it currently stands, this question is not a good fit for our Q&A format. We expect answers to be supported by facts, references, or expertise, but this question will likely solicit debate,...",
+            "datecreated": "2010-09-20T03:33:57",
+            "url": "Share"
+          }
+        ],
+        "answer": [
+          {
+            "upvotecount": "61",
+            "text": "Python is a well-designed language with a reasonably clean syntax, a comprehensive standard library, excellent included and third party documentation, widespread deployment, and the immediacy...",
+            "datecreated": "2010-09-20T03:52:57",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/5429#5429"
+          },
+          {
+            "upvotecount": "76",
+            "text": "I've found Python to be the most natural programming language that I've ever written code in. I've coded in a lot of languages before and after Python, and to a greater or lesser extent, you...",
+            "datecreated": "2010-09-20T04:02:59",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/5430#5430"
+          },
+          {
+            "upvotecount": "26",
+            "text": "I hope this doesn't sound too cynical, but IMO Python is so popular for the exact same reason Java, C# and Objective-C are. Not because there's anything spectacular about the languages themselves,...",
+            "datecreated": "2010-09-20T03:39:08",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/5428#5428"
+          },
+          {
+            "upvotecount": "11",
+            "text": "My experience is that the people who find true joy in programming often seek a language that fits them better than what they learned at school or university. Basically this means that they...",
+            "datecreated": "2010-09-20T06:47:31",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/5458#5458"
+          },
+          {
+            "upvotecount": "9",
+            "text": "Compared to Ruby, which is really cool and produces amazing Code Golf-offs, Python has this core philosophy that \"There should be one - and preferably only one - obvious way to do [things],\"...",
+            "datecreated": "2010-10-22T23:26:54",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/14019#14019"
+          },
+          {
+            "upvotecount": "8",
+            "text": "I started to love Python for the same reason that Eric S. Raymond describes: the act of writing programs in Python is conceptually very similar to thinking the act of designing code in my head....",
+            "datecreated": "2010-09-20T23:40:13",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/5743#5743"
+          },
+          {
+            "upvotecount": "6",
+            "text": "Firstly, trifling language quirks like forced indentation in Python matters little if the language itself is powerfully expressive and useful. I was also turned away at first due to it, but...",
+            "datecreated": "2010-09-20T09:59:50",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/5511#5511"
+          },
+          {
+            "upvotecount": "6",
+            "text": "The philosophy that the Benevolent Dictator should enforce his idea of good style[1], his idea of good programming, his idea of how to program frustrates me regularly. I don't think like van...",
+            "datecreated": "2010-10-23T00:00:30",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/14024#14024"
+          },
+          {
+            "upvotecount": "5",
+            "text": "I think to some degree Python is the only programming language you'll ever need, unless you want to write an OS kernel. It is suitable for the interactive use, random hacks, system administration,...",
+            "datecreated": "2010-09-23T10:16:04",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/6609#6609"
+          },
+          {
+            "upvotecount": "5",
+            "text": "Since 2004, I've used Python to develop: GUIs Scripting ray tracer scenes with Python to C++ bindings Cross platform automated build systems Test scripts General purpose tools to solve your...",
+            "datecreated": "2010-10-22T21:38:44",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/13998#13998"
+          },
+          {
+            "upvotecount": "4",
+            "text": "To me Python has been a dear friend. It's a decent scripting and prototyping language. The key things I can think of are: Clean syntax, very simplistic and easy to understand Multi-paradigm,...",
+            "datecreated": "2010-09-20T14:21:41",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/5585#5585"
+          },
+          {
+            "upvotecount": "4",
+            "text": "It's elegant and really easy to learn, and once you're familiar with its basic types (especially lists) your productivity has no limit. It's perfect for prototyping algorithms, or for writing...",
+            "datecreated": "2010-10-22T23:16:21",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/14018#14018"
+          },
+          {
+            "upvotecount": "3",
+            "text": "Many Python lovers I see just switched from C surroundings and were impressed with stuff like \"Hello \"+ \"World\" is \"Hello World\". So I would say this is the first scripting language that does...",
+            "datecreated": "2010-09-20T13:45:13",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/5570#5570"
+          },
+          {
+            "upvotecount": "2",
+            "text": "Reapproaching the question now that I'm a little less tired: Python is a language I've found particularly well suited for scientific programming tasks, which is one of the places where its...",
+            "datecreated": "2011-09-26T00:35:44",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/110619#110619"
+          },
+          {
+            "upvotecount": "1",
+            "text": "Python is a very 'webby' language in both the frameworks available (Django, Zope etc) and in the easily importable libraries, which again cover many web functions. For web developers making...",
+            "datecreated": "2010-09-20T07:57:37",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/5478#5478"
+          },
+          {
+            "upvotecount": "0",
+            "text": "I think one of the main reasons is that 90% google is made from Python. However, Python is also an easy to learn, powerful programming language. It has efficient high-level data structures...",
+            "datecreated": "2011-01-19T10:13:42",
+            "url": "https://softwareengineering.stackexchange.com/questions/5427/why-such-popularity-with-python/38065#38065"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Data Science SME: Python, R, Machine Learning and AI - Specialist ...",
+      "htmlTitle": "Data Science SME: Python, R, Machine Learning and AI - Specialist ...",
+      "link": "https://apply.deloitte.com/careers/JobDetail/Data-Science-SME-Python-R-Machine-Learning-and-AI-Specialist-Senior/15775",
+      "displayLink": "apply.deloitte.com",
+      "snippet": "Position Summary · Experience with programming languages such as Python, R, and VBA; and query languages such as SQL · Experience with data visualization tools, ...",
+      "htmlSnippet": "Position Summary &middot; Experience with programming languages \u003cb\u003esuch as Python, R, and\u003c/b\u003e VBA; and query languages such as SQL &middot; Experience with data visualization tools,&nbsp;...",
+      "cacheId": "Qewo7sjDAQ0J",
+      "formattedUrl": "https://apply.deloitte.com/careers/JobDetail/Data-Science...R.../15775",
+      "htmlFormattedUrl": "https://apply.deloitte.com/careers/JobDetail/Data-Science...R.../15775",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://apply.deloitte.com/portal/7/images/logo--hiring-organization.png",
+            "og:type": "website",
+            "avature.portal.id": "7",
+            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.5, user-scalable=1",
+            "og:title": "Check out this job at Deloitte, Data Science SME: Python, R, Machine Learning and AI - Specialist Senior",
+            "og:url": "https://apply.deloitte.com/careers/JobDetail/Data-Science-SME-Python-R-Machine-Learning-and-AI-Specialist-Senior/15775",
+            "og:description": "Data Scientist - Specialist Senior  Do you want to build your brand by working for a leading consulting firm that drives eminence in the marketplace? Are you interested in leveraging your skills..."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://apply.deloitte.com/portal/7/images/logo--hiring-organization.png",
+            "width": "311",
+            "type": "1",
+            "height": "162"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What You Need to Know About Google Career Certificates ...",
+      "htmlTitle": "What You Need to Know About Google Career Certificates ...",
+      "link": "https://www.usnews.com/education/google-career-certifications",
+      "displayLink": "www.usnews.com",
+      "snippet": "May 3, 2021 ... Google's online learning programs now cover user-experience design, project management and data analytics – and include an Android development ...",
+      "htmlSnippet": "May 3, 2021 \u003cb\u003e...\u003c/b\u003e Google&#39;s online learning programs now cover user-experience design, project management and data analytics – and include an Android development&nbsp;...",
+      "cacheId": "S9XTMXQERh0J",
+      "formattedUrl": "https://www.usnews.com/education/google-career-certifications",
+      "htmlFormattedUrl": "https://www.usnews.com/education/google-career-certifications",
+      "pagemap": {
+        "metatags": [
+          {
+            "preview": "If you’re interested in a new job in some of the fastest-growing technology sectors, Google Career Certificates can provide some of the skills you’ll need. Google’s online learning programs now cover user-experience design, project management and data analytics – and include an Android development ...",
+            "og:image": "https://www.usnews.com/dims4/USNEWS/f07b593/2147483647/crop/1996x1331%2B3%2B0/resize/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F6f%2Fde%2F60140533476ba5d0dd3c0742f5da%2F210430-stock.jpg",
+            "sailthru.date": "2021-05-03T17:12Z",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "What You Need to Know About Google Career Certificates",
+            "og:site_name": "US News & World Report",
+            "msvalidate.01": "A8E47FA91124063A4A9C78AD5273DC0F",
+            "og:title": "What You Need to Know About Google Career Certificates",
+            "vertical": "Education",
+            "optimizely": "Optimizely is supported by this application but is not enabled for this page.",
+            "fb:pages": "5834919267",
+            "og:description": "Google Career Certificates could help you prepare for a tech sector job.",
+            "og:image:secure_url": "https://www.usnews.com/dims4/USNEWS/f07b593/2147483647/crop/1996x1331%2B3%2B0/resize/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F6f%2Fde%2F60140533476ba5d0dd3c0742f5da%2F210430-stock.jpg",
+            "twitter:image": "https://www.usnews.com/dims4/USNEWS/f07b593/2147483647/crop/1996x1331%2B3%2B0/resize/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F6f%2Fde%2F60140533476ba5d0dd3c0742f5da%2F210430-stock.jpg",
+            "referrer": "origin",
+            "site": "Education",
+            "fb:app_id": "130063997038366",
+            "twitter:site": "@USNews",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+            "zone": "Education Home",
+            "twitter:description": "Google Career Certificates could help you prepare for a tech sector job.",
+            "og:url": "//www.usnews.com/education/google-career-certifications",
+            "sailthru.author": "Jeffrey L.  Katz"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.usnews.com/dims4/USNEWS/f07b593/2147483647/crop/1996x1331%2B3%2B0/resize/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F6f%2Fde%2F60140533476ba5d0dd3c0742f5da%2F210430-stock.jpg",
+            "width": "275",
+            "type": "1",
+            "height": "183"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Education",
+            "name": "Education",
+            "position": "1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How do you set up a local testing server? - Learn web development ...",
+      "htmlTitle": "How do you set up a local testing server? - Learn web development ...",
+      "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server",
+      "displayLink": "developer.mozilla.org",
+      "snippet": "Oct 8, 2021 ... ... but it is merely a static file server; it doesn't know how to run code written in languages such as Python, PHP or JavaScript.",
+      "htmlSnippet": "Oct 8, 2021 \u003cb\u003e...\u003c/b\u003e ... but it is merely a static file server; it doesn&#39;t know how to run code written in languages \u003cb\u003esuch as Python, PHP or\u003c/b\u003e JavaScript.",
+      "cacheId": "rvfQo_oiEkYJ",
+      "formattedUrl": "https://developer.mozilla.org/en-US/docs/.../set_up_a_local_testing_server",
+      "htmlFormattedUrl": "https://developer.mozilla.org/en-US/docs/.../set_up_a_local_testing_server",
+      "pagemap": {
+        "BreadcrumbList": [
+          {}
+        ],
+        "metatags": [
+          {
+            "og:image": "https://developer.mozilla.org/mdn-social-share.0ca9dbda.png",
+            "theme-color": "#ffffff",
+            "twitter:card": "summary_large_image",
+            "viewport": "width=device-width,initial-scale=1",
+            "og:title": "How do you set up a local testing server? - Learn web development | MDN",
+            "og:locale": "en-US",
+            "position": "1",
+            "og:url": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server",
+            "og:description": "This article explains how to set up a simple local testing server on your machine, and the basics of how to use it."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://developer.mozilla.org/mdn-social-share.0ca9dbda.png",
+            "width": "300",
+            "type": "1",
+            "height": "168"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Course Details: Web Development with Python and MySQL (INFO1 ...",
+      "htmlTitle": "Course Details: Web Development with Python and MySQL (INFO1 ...",
+      "link": "http://www.sps.nyu.edu/professional-pathways/courses/INFO1-CE9367-web-development-with-python-and-mysql.html",
+      "displayLink": "www.sps.nyu.edu",
+      "snippet": "Learn the fundamentals of two of today's most popular tools in the web development space. MySQL is the world's most popular open-source database management ...",
+      "htmlSnippet": "Learn the fundamentals of two of today&#39;s most popular tools in the web development space. MySQL is the world&#39;s most popular open-source database management&nbsp;...",
+      "cacheId": "6hcJ-cBhzHUJ",
+      "formattedUrl": "www.sps.nyu.edu/.../INFO1-CE9367-web-development-with-python-and- mysql.html",
+      "htmlFormattedUrl": "www.sps.nyu.edu/.../INFO1-CE9367-web-development-with-python-and- mysql.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#e9ebf1",
+            "og:image": "http://www.sps.nyu.edu/etc/designs/nyusps/assets/img/favicon/sps-share-icon.png",
+            "msapplication-config": "/etc/designs/nyusps/assets/img/favicon/browserconfig.xml?v=1.0",
+            "twitter:card": "summary",
+            "theme-color": "#e9ebf1",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "Web Development with Python and MySQL (INFO1-CE9367) | NYU SPS Professional Pathways",
+            "og:url": "http://www.sps.nyu.edu/professional-pathways/courses/INFO1-CE9367-web-development-with-python-and-mysql.html",
+            "msapplication-tileimage": "/etc/designs/nyusps/assets/img/favicon/mstile-144x144.png?v=1.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.sps.nyu.edu/etc/designs/nyusps/assets/img/favicon/sps-share-icon.png",
+            "width": "200",
+            "type": "1",
+            "height": "200"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Enterprise Python - Full Stack Python",
+      "htmlTitle": "Enterprise Python - Full Stack Python",
+      "link": "https://www.fullstackpython.com/enterprise-python.html",
+      "displayLink": "www.fullstackpython.com",
+      "snippet": "In addition, \"scripting languages\" such as Python, Perl and Ruby were not yet robust enough in the 1990s because their core standard libraries were still ...",
+      "htmlSnippet": "In addition, &quot;scripting languages&quot; \u003cb\u003esuch as Python, Perl and\u003c/b\u003e Ruby were not yet robust enough in the 1990s because their core standard libraries were still&nbsp;...",
+      "cacheId": "pne_qAnaRSsJ",
+      "formattedUrl": "https://www.fullstackpython.com/enterprise-python.html",
+      "htmlFormattedUrl": "https://www.fullstackpython.com/enterprise-python.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://www.fullstackpython.com/img/pages/default.jpg",
+            "twitter:card": "summary",
+            "twitter:title": "Enterprise Python",
+            "twitter:site": "@fullstackpython",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:title": "Enterprise Python",
+            "og:url": "https://www.fullstackpython.com/enterprise-python.html",
+            "twitter:creator": "@mattmakai",
+            "og:description": "Python is widely used to build enterprise application in large organizations around the world.",
+            "twitter:image": "https://www.fullstackpython.com/img/pages/default.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.fullstackpython.com/img/pages/default.jpg",
+            "width": "318",
+            "type": "1",
+            "height": "159"
+          }
+        ]
+      }
+    }
+  ]
+}
+,
+   "7": {
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 51,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 61,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "searchInformation": {
+    "searchTime": 0.425836,
+    "formattedSearchTime": "0.43",
+    "totalResults": "0",
+    "formattedTotalResults": "0"
+  }
+}
+,
+   "8": {
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "514000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 61,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "514000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 71,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "totalResults": "514000000",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 81,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "context": {
+    "title": "darik"
+  },
+  "searchInformation": {
+    "searchTime": 0.821965,
+    "formattedSearchTime": "0.82",
+    "totalResults": "514000000",
+    "formattedTotalResults": "514,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Comparing .NET (C#) to Python",
+      "htmlTitle": "Comparing .NET (C#) to Python",
+      "link": "https://www.codemag.com/article/1407051/Python-for-C",
+      "displayLink": "www.codemag.com",
+      "snippet": "Sep 8, 2021 ... Types in languages such as Python, Ruby, and JavaScript are built more than they are defined by their code. Thus, any form of static typing ...",
+      "htmlSnippet": "Sep 8, 2021 \u003cb\u003e...\u003c/b\u003e Types in languages \u003cb\u003esuch as Python, Ruby, and\u003c/b\u003e JavaScript are built more than they are defined by their code. Thus, any form of static typing&nbsp;...",
+      "cacheId": "o5FRIMcJvlQJ",
+      "formattedUrl": "https://www.codemag.com/article/1407051/Python-for-C",
+      "htmlFormattedUrl": "https://www.codemag.com/article/1407051/Python-for-C",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "http://www.codemag.com/Magazine/CoverLarge/dfd0787e-65c5-49ab-851d-10bb6ac143d3",
+            "fb:app_id": "225285904297383",
+            "og:type": "article",
+            "twitter:title": "Python for C# Developers",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+            "author": "CODE Magazine, EPS Software Corp., \u003ca href=\"/People/Bio/Michael.Kennedy\"\u003eMichael Kennedy\u003c/a\u003e",
+            "twitter:description": "Are you comparing Python to .NET and wondering if",
+            "og:title": "Python for C# Developers",
+            "og:url": "https://www.codemag.com/article/1407051/Python-for-C",
+            "og:description": "Are you comparing Python to .NET and wondering if"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.codemag.com/Magazine/CoverLarge/dfd0787e-65c5-49ab-851d-10bb6ac143d3",
+            "width": "197",
+            "type": "1",
+            "height": "256"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "19 Best YouTube Channels to Learn Python for Beginners (in 2021)",
+      "htmlTitle": "19 Best YouTube Channels to Learn Python for Beginners (in 2021)",
+      "link": "https://mikkegoes.com/youtube-channels-learn-python/",
+      "displayLink": "mikkegoes.com",
+      "snippet": "You don't have to browse through hundreds of videos to learn Python programming for the absolute beginner. Simply choose a video below and start learning right ...",
+      "htmlSnippet": "You don&#39;t have to browse through hundreds of videos to learn Python programming for the absolute beginner. Simply choose a video below and start learning right&nbsp;...",
+      "cacheId": "uHPWlVYvvwYJ",
+      "formattedUrl": "https://mikkegoes.com/youtube-channels-learn-python/",
+      "htmlFormattedUrl": "https://mikkegoes.com/youtube-channels-learn-python/",
+      "pagemap": {
+        "metatags": [
+          {
+            "p:domain_verify": "0fb3227c750c6197eeac44120ae59d18",
+            "og:image": "https://mikkegoes.com/wp-content/uploads/2020/02/Best-YouTube-Channels-to-Learn-Python-for-Beginners-Learn-Programming-and-Web-Development-for-Free.jpg",
+            "og:type": "article",
+            "article:published_time": "2020-02-18T13:27:53+00:00",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Mikke Goes Coding",
+            "og:title": "19 Best YouTube Channels to Learn Python for Beginners (in 2021)",
+            "og:image:height": "628",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "msapplication-tileimage": "https://mikkegoes.com/wp-content/uploads/2020/11/cropped-favicon-270x270.png",
+            "og:description": "Use these best YouTube Channels to learn Python for beginners and start learning programming for free with easy video tutorials right now.",
+            "twitter:creator": "@mikkegoes",
+            "article:publisher": "https://www.facebook.com/mikkegoes/",
+            "twitter:data1": "Mikke",
+            "twitter:data2": "16 minutes",
+            "twitter:site": "@mikkegoes",
+            "article:modified_time": "2021-10-13T17:00:19+00:00",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+            "og:locale": "en_US",
+            "og:url": "https://mikkegoes.com/youtube-channels-learn-python/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://mikkegoes.com/wp-content/uploads/2020/02/Best-YouTube-Channels-to-Learn-Python-for-Beginners-Learn-Programming-and-Web-Development-for-Free.jpg",
+            "width": "311",
+            "type": "1",
+            "height": "162"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Gorgias - Full Stack Python Developer",
+      "htmlTitle": "Gorgias - Full Stack Python Developer",
+      "link": "https://jobs.lever.co/gorgias/6b3f3796-7eff-4654-af37-cfbb97d197b6",
+      "displayLink": "jobs.lever.co",
+      "snippet": "Our product creates a unified customer profile by combining emails, live-chat, and social-media messages with e-commerce data such as purchase and delivery ...",
+      "htmlSnippet": "Our product creates a unified customer profile by combining emails, live-chat, and social-media messages with e-commerce data such as purchase and delivery&nbsp;...",
+      "cacheId": "ibrqej9m-n8J",
+      "formattedUrl": "https://jobs.lever.co/gorgias/6b3f3796-7eff-4654-af37-cfbb97d197b6",
+      "htmlFormattedUrl": "https://jobs.lever.co/gorgias/6b3f3796-7eff-4654-af37-cfbb97d197b6",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://lever-client-logos.s3.amazonaws.com/127360ab-62d3-42d3-a27b-ee32dc4cd2e9-1555533930769.png",
+            "twitter:title": "Gorgias - Full Stack Python Developer",
+            "og:image:width": "1200",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Responsible for building high-performance and reliable web server applications and all components of the company software used by customer support agents. This includes improving the overall experience for the customer by creating new features and functionalities for the company software using Python and JavaScript. Work with other developers to write a fast Python REST API used by our web application and mobile applications, managing our infrastructure to handle the traffic generated by our customers using different applications, and writing highly reliable messaging pipeline enabling our customers to receive and send messages via our helpdesk on several communication channels. Design and implement the customer facing REST API. Implement the company’s application programming interface used both by product and b2b customers. Write and code application that handle data and automation. Write and code a Flask/Celery application with clear APIs that can manage data syncing and webhook deli",
+            "og:title": "Gorgias - Full Stack Python Developer",
+            "og:image:height": "630",
+            "og:url": "https://jobs.lever.co/gorgias/6b3f3796-7eff-4654-af37-cfbb97d197b6",
+            "og:description": "Responsible for building high-performance and reliable web server applications and all components of the company software used by customer support agents. This includes improving the overall experience for the customer by creating new features and functionalities for the company software using Python and JavaScript. Work with other developers to write a fast Python REST API used by our web application and mobile applications, managing our infrastructure to handle the traffic generated by our customers using different applications, and writing highly reliable messaging pipeline enabling our customers to receive and send messages via our helpdesk on several communication channels. Design and implement the customer facing REST API. Implement the company’s application programming interface used both by product and b2b customers. Write and code application that handle data and automation. Write and code a Flask/Celery application with clear APIs that can manage data syncing and webhook deli",
+            "twitter:image": "https://lever-client-logos.s3.amazonaws.com/127360ab-62d3-42d3-a27b-ee32dc4cd2e9-1555533735163.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lever-client-logos.s3.amazonaws.com/127360ab-62d3-42d3-a27b-ee32dc4cd2e9-1555533930769.png",
+            "width": "460",
+            "type": "1",
+            "height": "110"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Microservices Architecture on Google App Engine",
+      "htmlTitle": "Microservices Architecture on Google App Engine",
+      "link": "https://cloud.google.com/appengine/docs/standard/python/microservices-on-app-engine",
+      "displayLink": "cloud.google.com",
+      "snippet": "Microservices refers to an architectural style for developing applications. Microservices allow a large application to be decomposed into independent ...",
+      "htmlSnippet": "Microservices refers to an architectural style for developing applications. Microservices allow a large application to be decomposed into independent&nbsp;...",
+      "cacheId": "fOJa8SHNDJgJ",
+      "formattedUrl": "https://cloud.google.com/appengine/docs/.../microservices-on-app-engine",
+      "htmlFormattedUrl": "https://cloud.google.com/appengine/docs/.../microservices-on-app-engine",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+            "og:type": "website",
+            "theme-color": "#039be5",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "google-signin-client-id": "721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com",
+            "og:site_name": "Google Cloud",
+            "og:title": "Microservices Architecture on Google App Engine",
+            "og:image:height": "630",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en",
+            "google-signin-scope": "profile email https://www.googleapis.com/auth/developerprofiles https://www.googleapis.com/auth/developerprofiles.award https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/webhistory",
+            "og:url": "https://cloud.google.com/appengine/docs/standard/python/microservices-on-app-engine"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+            "width": "310",
+            "type": "1",
+            "height": "163"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to install and configure Python on a hosted server - GoDaddy ...",
+      "htmlTitle": "How to install and configure Python on a hosted server - GoDaddy ...",
+      "link": "https://www.godaddy.com/garage/how-to-install-and-configure-python-on-a-hosted-server/",
+      "displayLink": "www.godaddy.com",
+      "snippet": "Jun 1, 2015 ... Inside this container-like environment, you can use your newer version of Python — such as Python 3.4.3 or 2.7.2.",
+      "htmlSnippet": "Jun 1, 2015 \u003cb\u003e...\u003c/b\u003e Inside this container-like environment, you can use your newer version of Python — \u003cb\u003esuch as Python 3.4.3 or\u003c/b\u003e 2.7.2.",
+      "cacheId": "PMjEusoFkYcJ",
+      "formattedUrl": "https://www.godaddy.com/.../how-to-install-and-configure-python-on-a- hosted-server/",
+      "htmlFormattedUrl": "https://www.godaddy.com/.../how-to-install-and-configure-python-on-a- hosted-server/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://www.godaddy.com/garage/wp-content/uploads/2015/05/pythonthumb.jpg",
+            "msapplication-config": "https://www.godaddy.com/garage/wp-content/themes/godaddy-blog/favicon/browserconfig.xml",
+            "article:published_time": "2015-06-01T14:00:47+00:00",
+            "og:image:width": "1000",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#ffffff",
+            "og:site_name": "GoDaddy Blog",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "msapplication-tileimage": "https://www.godaddy.com/garage/wp-content/themes/godaddy-blog/favicon/ms-icon-144x144.png",
+            "og:description": "With clear programs, code readability and convenience, Python takes the bite out of a developer’s job. Learn how to install Python on your server.",
+            "twitter:creator": "@GoDaddy",
+            "article:publisher": "http://www.facebook.com/godaddy",
+            "twitter:data1": "Steven Vaughan-Nichols",
+            "twitter:data2": "6 minutes",
+            "twitter:site": "@GoDaddy",
+            "article:modified_time": "2021-04-01T14:04:36+00:00",
+            "msapplication-tilecolor": "#ffffff",
+            "og:type": "article",
+            "og:title": "How to install and configure Python on a hosted server",
+            "og:image:height": "560",
+            "fb:pages": "8749090685",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://www.godaddy.com/garage/how-to-install-and-configure-python-on-a-hosted-server/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.godaddy.com/garage/wp-content/uploads/2015/05/pythonthumb.jpg",
+            "width": "300",
+            "type": "1",
+            "height": "168"
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "name": "Supporting Your Customers",
+            "url": "Supporting Your Customers"
+          },
+          {
+            "name": "Creative Services",
+            "url": "Creative Services"
+          },
+          {
+            "name": "Domains",
+            "url": "Domains"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Free Python Course | 2+ Hours of Video Tutorials, Online Certification",
+      "htmlTitle": "Free Python Course | 2+ Hours of Video Tutorials, Online Certification",
+      "link": "https://www.educba.com/software-development/courses/free-python-course/",
+      "displayLink": "www.educba.com",
+      "snippet": "... and professionals with similar programming skills in roles such as Python Developer or Python Architect or Django Developer can opt for this course.",
+      "htmlSnippet": "... and professionals with similar programming skills in roles \u003cb\u003esuch as Python Developer or\u003c/b\u003e Python Architect or Django Developer can opt for this course.",
+      "cacheId": "ZMDjW003We4J",
+      "formattedUrl": "https://www.educba.com/software-development/.../free-python-course/",
+      "htmlFormattedUrl": "https://www.educba.com/software-development/.../free-python-course/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://cdn.educba.com/img/Free-Python-Course-Certificate.jpg",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "og:site_name": "EDUCBA",
+            "geo.region": "India",
+            "og:title": "Free Python Course | 2+ Hours of Video Tutorials, Online Certification",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "geo.position": "19.114165;72.893039",
+            "msapplication-tileimage": "https://cdn.educba.com/academy/wp-content/uploads/2020/05/cropped-apple-touch-icon-270x270.png",
+            "og:description": "Free Python Online Course includes 4+ hours of video tutorials & Lifetime Access to learn about basic concept of Python programming right from scratch",
+            "twitter:creator": "@corporatebridge",
+            "article:publisher": "https://www.facebook.com/CorporateBridgeGroup",
+            "twitter:data1": "Sadhana Patil",
+            "twitter:data2": "7 minutes",
+            "twitter:site": "@corporatebridge",
+            "article:modified_time": "2020-04-28T07:07:14+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://www.educba.com/software-development/courses/free-python-course/",
+            "geo.placename": "Mumbai"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.educba.com/img/Free-Python-Course-Certificate.jpg",
+            "width": "259",
+            "type": "1",
+            "height": "194"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python Packaging User Guide",
+      "htmlTitle": "Python Packaging User Guide",
+      "link": "https://packaging.python.org/",
+      "displayLink": "packaging.python.org",
+      "snippet": "The Python Packaging User Guide (PyPUG) is a collection of tutorials and guides for packaging Python software.",
+      "htmlSnippet": "The Python Packaging User Guide (PyPUG) is a collection of tutorials and guides for packaging Python software.",
+      "cacheId": "C-_0bjC45uMJ",
+      "formattedUrl": "https://packaging.python.org/",
+      "htmlFormattedUrl": "https://packaging.python.org/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Use of Python in GIS - GIS Lounge",
+      "htmlTitle": "The Use of Python in GIS - GIS Lounge",
+      "link": "https://www.gislounge.com/use-python-gis/",
+      "displayLink": "www.gislounge.com",
+      "snippet": "Jun 13, 2017 ... Python today is by far the most widely used language by GIS users and programmers.",
+      "htmlSnippet": "Jun 13, 2017 \u003cb\u003e...\u003c/b\u003e Python today is by far the most widely used language by GIS users and programmers.",
+      "cacheId": "dYK1h3Dp9qAJ",
+      "formattedUrl": "https://www.gislounge.com/use-python-gis/",
+      "htmlFormattedUrl": "https://www.gislounge.com/use-python-gis/",
+      "pagemap": {
+        "hcard": [
+          {
+            "url_text": "Mark Altaweel",
+            "fn": "Mark Altaweel",
+            "url": "https://www.gislounge.com/author/mark-altaweel/"
+          }
+        ],
+        "person": [
+          {
+            "name": "Mark Altaweel",
+            "url": "Mark Altaweel"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.gislounge.com/wp-content/uploads/2017/06/python-gis.png",
+            "og:type": "article",
+            "article:published_time": "2017-06-13T14:04:56+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "The Use of Python in GIS",
+            "og:image:width": "600",
+            "og:site_name": "GIS Lounge",
+            "og:title": "The Use of Python in GIS",
+            "og:image:height": "461",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "og:updated_time": "2020-07-17T19:39:32+00:00",
+            "msapplication-tileimage": "https://www.gislounge.com/wp-content/uploads/2020/06/cropped-GIS-lounge-avi-270x270.png",
+            "og:description": "Python today is by far the most widely used language by GIS users and programmers.",
+            "twitter:image": "https://www.gislounge.com/wp-content/uploads/2017/06/python-gis.png",
+            "twitter:data1": "Mark Altaweel",
+            "twitter:data2": "4 minutes",
+            "article:modified_time": "2020-07-17T19:39:32+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Python today is by far the most widely used language by GIS users and programmers.",
+            "og:locale": "en_US",
+            "og:url": "https://www.gislounge.com/use-python-gis/"
+          }
+        ],
+        "creativework": [
+          {
+            "text": "The use of Python with GIS has substantially increased over the last two decades, particularly with the introduction of Python 2.0 series in 2000, which included many new programming features..."
+          },
+          {
+            "image": "https://cdn.shortpixel.ai/spai/w_554+q_glossy+ret_img+to_auto/https://www.gislounge.com/wp-content/uploads/2021/07/webgis-roadmap-tek-kshetri-emmanuel-jolaiya-211x150.png",
+            "headline": "Open-Source Web-GIS Development Roadmap"
+          },
+          {
+            "image": "https://cdn.shortpixel.ai/spai/w_554+q_glossy+ret_img+to_auto/https://www.gislounge.com/wp-content/uploads/2020/01/qgis-label-toolbar-211x150.png",
+            "headline": "Tutorials in GIS"
+          },
+          {
+            "image": "https://cdn.shortpixel.ai/spai/w_554+q_glossy+ret_img+to_auto/https://www.gislounge.com/wp-content/uploads/2014/07/explorer-for-arcgis-brings-gis-to-the-mac-lg-211x150.png",
+            "headline": "What is GIS?"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.gislounge.com/wp-content/uploads/2017/06/python-gis.png",
+            "width": "256",
+            "type": "1",
+            "height": "197"
+          }
+        ],
+        "hatomfeed": [
+          {}
+        ],
+        "blog": [
+          {
+            "datemodified": "2020-07-17T19:39:32-07:00",
+            "datepublished": "2017-06-13T14:04:56-07:00"
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "headline": "GIS Lounge"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Java vs. Python: Which Programming Language Is Best for You ...",
+      "htmlTitle": "Java vs. Python: Which Programming Language Is Best for You ...",
+      "link": "https://newrelic.com/blog/nerd-life/java-python-comparison",
+      "displayLink": "newrelic.com",
+      "snippet": "Apr 16, 2018 ... Both are powerful programming languages, for example, with large, devoted communities and a huge array of libraries supported by legions of ...",
+      "htmlSnippet": "Apr 16, 2018 \u003cb\u003e...\u003c/b\u003e Both are powerful programming languages, for example, with large, devoted communities and a huge array of libraries supported by legions of&nbsp;...",
+      "cacheId": "N1xHGjz-jHgJ",
+      "formattedUrl": "https://newrelic.com/blog/nerd-life/java-python-comparison",
+      "htmlFormattedUrl": "https://newrelic.com/blog/nerd-life/java-python-comparison",
+      "pagemap": {
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#008c99",
+            "og:image": "https://newrelic.com/sites/default/files/2021-04/boxing-ring-min.jpg",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "New Relic",
+            "handheldfriendly": "true",
+            "og:title": "Java vs. Python: Which Programming Language Is Best for You?",
+            "msapplication-tileimage": "/themes/custom/curio/assets/images/metadata/og-newrelic-logo.jpg",
+            "type": "blog",
+            "og:description": "We compare two popular and powerful programming languages.",
+            "twitter:site": "@newrelic",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "We compare two popular and powerful programming languages.",
+            "mobileoptimized": "width"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newrelic.com/sites/default/files/2021-04/boxing-ring-min.jpg",
+            "width": "440",
+            "type": "1",
+            "height": "114"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Top 13 Scripting Languages You Should Pay Attention to in 2021",
+      "htmlTitle": "Top 13 Scripting Languages You Should Pay Attention to in 2021",
+      "link": "https://kinsta.com/blog/scripting-languages/",
+      "displayLink": "kinsta.com",
+      "snippet": "Mar 19, 2021 ... 'Compiled' means that a programming language has its own compiler that translates the syntax into machine code before runtime. In contrast, ...",
+      "htmlSnippet": "Mar 19, 2021 \u003cb\u003e...\u003c/b\u003e &#39;Compiled&#39; means that a programming language has its own compiler that translates the syntax into machine code before runtime. In contrast,&nbsp;...",
+      "cacheId": "Fm6_xBQpT58J",
+      "formattedUrl": "https://kinsta.com/blog/scripting-languages/",
+      "htmlFormattedUrl": "https://kinsta.com/blog/scripting-languages/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://kinsta.com/wp-content/uploads/2020/11/scripting-languages.jpg",
+            "theme-color": "#5333ED",
+            "og:type": "article",
+            "article:published_time": "2020-11-09T10:31:00+00:00",
+            "og:image:width": "1460",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Kinsta®",
+            "og:title": "Top 13 Scripting Languages You Should Pay Attention to in 2021",
+            "og:image:height": "730",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "msapplication-tileimage": "https://kinsta.com/wp-content/uploads/2020/09/kinsta-favicon.png",
+            "og:description": "Scripting languages are a specific kind of computer languages that you can use to give instructions to other software, such as a web browser, server, or",
+            "twitter:creator": "@azaleamollis",
+            "article:publisher": "https://www.facebook.com/kinstahosting",
+            "twitter:data1": "Anna Monus",
+            "twitter:data2": "25 minutes",
+            "twitter:site": "@kinsta",
+            "article:modified_time": "2021-03-19T16:40:39+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://kinsta.com/blog/scripting-languages/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://kinsta.com/wp-content/uploads/2020/11/scripting-languages.jpg",
+            "width": "318",
+            "type": "1",
+            "height": "159"
+          }
+        ]
+      }
+    }
+  ]
+}
+,
+   "9":{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 71,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 81,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "searchInformation": {
+    "searchTime": 0.28738,
+    "formattedSearchTime": "0.29",
+    "totalResults": "0",
+    "formattedTotalResults": "0"
+  }
+}
+ ,
+   "10":{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 81,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"such as Python * or OR and\"",
+        "searchTerms": "\"such as Python * or OR and\"",
+        "count": 10,
+        "startIndex": 91,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "eef1ce54ee2a2ef00"
+      }
+    ]
+  },
+  "searchInformation": {
+    "searchTime": 0.269984,
+    "formattedSearchTime": "0.27",
+    "totalResults": "0",
+    "formattedTotalResults": "0"
+  }
+}
+
+}

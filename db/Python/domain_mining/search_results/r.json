@@ -1,0 +1,1593 @@
+{
+   "results":[
+      {
+         "title":"Python vs. R for Data Science - and why you are wasting your ...",
+         "link":"https://towardsdatascience.com/python-vs-r-for-data-science-cf2699dfff4b",
+         "description":"Nov 17, 2020 — On the other hand, R is purely for statistics and data analysis, with graphs that are nicer and more customizable than those in Python. R uses ...",
+         "additional_links":[
+            {
+               "text":"Python vs. R for Data Science - and why you are wasting your ...https://towardsdatascience.com › ...",
+               "href":"https://towardsdatascience.com/python-vs-r-for-data-science-cf2699dfff4b"
+            }
+         ],
+         "cite":{
+            "domain":"https://towardsdatascience.com › ...",
+            "span":" › ..."
+         }
+      },
+      {
+         "title":"R vs Python for Data Analysis — An Objective Comparison",
+         "link":"https://www.dataquest.io/blog/python-vs-r/",
+         "description":"Oct 21, 2020 — R vs Python — which is better for data analysis and data science? Compare the two languages side by side for an objective answer!",
+         "additional_links":[
+            {
+               "text":"R vs Python for Data Analysis — An Objective Comparisonhttps://www.dataquest.io › Blog",
+               "href":"https://www.dataquest.io/blog/python-vs-r/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.dataquest.io › Blog",
+            "span":" › Blog"
+         }
+      },
+      {
+         "title":"Python or R: Which to choose for your next data project",
+         "link":"https://sdtimes.com/data/python-or-r-which-to-choose-for-your-next-data-project/",
+         "description":"Jun 29, 2021 — R is a language specifically designed for data analysis so it has a lot of useful features built in, but Python is a general-purpose language ...",
+         "additional_links":[
+            {
+               "text":"Python or R: Which to choose for your next data projecthttps://sdtimes.com › data › python-or-r-which-to-choo...",
+               "href":"https://sdtimes.com/data/python-or-r-which-to-choose-for-your-next-data-project/"
+            }
+         ],
+         "cite":{
+            "domain":"https://sdtimes.com › data › python-or-r-which-to-choo...",
+            "span":" › data › python-or-r-which-to-choo..."
+         }
+      },
+      {
+         "title":"R vs. Python for Data Science: Explainer & Learning Tips",
+         "link":"https://blog.edx.org/r-vs.-python-for-data-science-explainer-learning-tips",
+         "description":"May 21, 2021 — Python and R are considered essential data science programming languages. Ideally, you'd master both for a well-rounded programming ...",
+         "additional_links":[
+            {
+               "text":"R vs. Python for Data Science: Explainer & Learning Tipshttps://blog.edx.org › r-vs.-python-for-data-science-exp...",
+               "href":"https://blog.edx.org/r-vs.-python-for-data-science-explainer-learning-tips"
+            }
+         ],
+         "cite":{
+            "domain":"https://blog.edx.org › r-vs.-python-for-data-science-exp...",
+            "span":" › r-vs.-python-for-data-science-exp..."
+         }
+      },
+      {
+         "title":"Python for R Users Course | DataCamp",
+         "link":"https://www.datacamp.com/courses/python-for-r-users",
+         "description":"This course is for R users who want to get up to speed with Python!",
+         "additional_links":[
+            {
+               "text":"Python for R Users Course | DataCamphttps://www.datacamp.com › courses › python-for-r-users",
+               "href":"https://www.datacamp.com/courses/python-for-r-users"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.datacamp.com › courses › python-for-r-users",
+            "span":" › courses › python-for-r-users"
+         }
+      },
+      {
+         "title":"R vs. Python, a comprehensive guide for data professionals",
+         "link":"https://medium.com/analytics-and-data/r-vs-python-a-comprehensive-guide-for-data-professionals-321e8dead598",
+         "description":" › analytics-and-data  › analytics-and-data Feb 16, 2020 — ",
+         "additional_links":[
+            {
+               "text":"R vs. Python, a comprehensive guide for data professionalshttps://medium.com › analytics-and-data",
+               "href":"https://medium.com/analytics-and-data/r-vs-python-a-comprehensive-guide-for-data-professionals-321e8dead598"
+            },
+            {
+               "text":"The battle between Python & R has been concluded - Mediumhttps://medium.com › codex › the-battle-between-pytho...",
+               "href":"https://medium.com/codex/the-battle-between-python-r-has-been-concluded-b6ffda4ef87"
+            }
+         ],
+         "cite":{
+            "domain":"https://medium.com › analytics-and-data",
+            "span":" › analytics-and-data"
+         }
+      },
+      {
+         "title":"R vs. Python, a comprehensive guide for data professionals",
+         "link":"https://medium.com/analytics-and-data/r-vs-python-a-comprehensive-guide-for-data-professionals-321e8dead598",
+         "description":"Feb 16, 2020 — Furthermore a lot of statistics courses do teach R. Python on the other hand is a typical introductory programming language, being taught in the ...",
+         "additional_links":[
+            {
+               "text":"R vs. Python, a comprehensive guide for data professionalshttps://medium.com › analytics-and-data",
+               "href":"https://medium.com/analytics-and-data/r-vs-python-a-comprehensive-guide-for-data-professionals-321e8dead598"
+            }
+         ],
+         "cite":{
+            "domain":"https://medium.com › analytics-and-data",
+            "span":" › analytics-and-data"
+         }
+      },
+      {
+         "title":"The battle between Python & R has been concluded - Medium",
+         "link":"https://medium.com/codex/the-battle-between-python-r-has-been-concluded-b6ffda4ef87",
+         "description":"Aug 29, 2021 — I've seen several articles with titles like “Python vs. R”, “Which is better: Python or R?”, and “The best data science programming ...",
+         "additional_links":[
+            {
+               "text":"The battle between Python & R has been concluded - Mediumhttps://medium.com › codex › the-battle-between-pytho...",
+               "href":"https://medium.com/codex/the-battle-between-python-r-has-been-concluded-b6ffda4ef87"
+            }
+         ],
+         "cite":{
+            "domain":"https://medium.com › codex › the-battle-between-pytho...",
+            "span":" › codex › the-battle-between-pytho..."
+         }
+      },
+      {
+         "title":"R vs. Python: What's the best language for Data Science?",
+         "link":"https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/",
+         "description":" › 2019/12/17 › r-vs-python-w...  › 2019/12/17 › r-vs-python-w... 2019-12-17. Categories: News Data Science Leadership Tags: Python R. This is a question that we at RStudio hear a lot. With the tremendous growth in both ...",
+         "additional_links":[
+            {
+               "text":"R vs. Python: What's the best language for Data Science?https://blog.rstudio.com › 2019/12/17 › r-vs-python-w...",
+               "href":"https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/"
+            },
+            {
+               "text":"RStudio: A Single Home for R and Python Data Sciencehttps://blog.rstudio.com › 2021/01/13 › one-home-for-...",
+               "href":"https://blog.rstudio.com/2021/01/13/one-home-for-r-and-python/"
+            }
+         ],
+         "cite":{
+            "domain":"https://blog.rstudio.com › 2019/12/17 › r-vs-python-w...",
+            "span":" › 2019/12/17 › r-vs-python-w..."
+         }
+      },
+      {
+         "title":"R vs. Python: What's the best language for Data Science?",
+         "link":"https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/",
+         "description":"2019-12-17. Categories: News Data Science Leadership Tags: Python R. This is a question that we at RStudio hear a lot. With the tremendous growth in both ...",
+         "additional_links":[
+            {
+               "text":"R vs. Python: What's the best language for Data Science?https://blog.rstudio.com › 2019/12/17 › r-vs-python-w...",
+               "href":"https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/"
+            }
+         ],
+         "cite":{
+            "domain":"https://blog.rstudio.com › 2019/12/17 › r-vs-python-w...",
+            "span":" › 2019/12/17 › r-vs-python-w..."
+         }
+      },
+      {
+         "title":"RStudio: A Single Home for R and Python Data Science",
+         "link":"https://blog.rstudio.com/2021/01/13/one-home-for-r-and-python/",
+         "description":"RStudio: A Single Home for R and Python Data Science. Lou Bajuk. 2021-01-13. Categories: Data Science Leadership Tags: Python R. R and Python logo ...",
+         "additional_links":[
+            {
+               "text":"RStudio: A Single Home for R and Python Data Sciencehttps://blog.rstudio.com › 2021/01/13 › one-home-for-...",
+               "href":"https://blog.rstudio.com/2021/01/13/one-home-for-r-and-python/"
+            }
+         ],
+         "cite":{
+            "domain":"https://blog.rstudio.com › 2021/01/13 › one-home-for-...",
+            "span":" › 2021/01/13 › one-home-for-..."
+         }
+      },
+      {
+         "title":"R or Python? - Reasons behind this Cloud War - Analytics ...",
+         "link":"https://www.analyticsvidhya.com/blog/2021/05/r-or-python-reasons-behind-this-cloud-war/",
+         "description":"May 17, 2021 — Beginner Programming Python R. This article was published as a part of the Data Science Blogathon. Every human being needs oxygen to survive ...",
+         "additional_links":[
+            {
+               "text":"R or Python? - Reasons behind this Cloud War - Analytics ...https://www.analyticsvidhya.com › blog › 2021/05 › r-...",
+               "href":"https://www.analyticsvidhya.com/blog/2021/05/r-or-python-reasons-behind-this-cloud-war/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.analyticsvidhya.com › blog › 2021/05 › r-...",
+            "span":" › blog › 2021/05 › r-..."
+         }
+      },
+      {
+         "title":"R vs Python: R's out of top 20 programming languages despite ...",
+         "link":"https://www.zdnet.com/article/r-vs-python-rs-out-of-top-20-programming-languages-despite-boom-in-statistical-jobs/",
+         "description":"May 7, 2019 — Is R usage among developers declining because of Python? ... Statistical programming language R has fallen off Tiobe index's list of the 20 most ...",
+         "additional_links":[
+            {
+               "text":"R vs Python: R's out of top 20 programming languages despite ...https://www.zdnet.com › Topic › Enterprise Software",
+               "href":"https://www.zdnet.com/article/r-vs-python-rs-out-of-top-20-programming-languages-despite-boom-in-statistical-jobs/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.zdnet.com › Topic › Enterprise Software",
+            "span":" › Topic › Enterprise Software"
+         }
+      },
+      {
+         "title":"R vs Python: What's The Difference, Features & Application?",
+         "link":"https://hackr.io/blog/r-vs-python",
+         "description":"Jan 27, 2021 — Python Programming languages · How to Run a Python Script? tags Python R R vs Python. Share: share-facebook ...",
+         "additional_links":[
+            {
+               "text":"R vs Python: What's The Difference, Features & Application?https://hackr.io › blog › r-vs-python",
+               "href":"https://hackr.io/blog/r-vs-python"
+            }
+         ],
+         "cite":{
+            "domain":"https://hackr.io › blog › r-vs-python",
+            "span":" › blog › r-vs-python"
+         }
+      },
+      {
+         "title":"Python vs R: What Language Is Better For Data Science ...",
+         "link":"https://www.ideamotive.co/blog/python-vs-r-what-language-is-better-for-data-science-projects",
+         "description":"Nov 26, 2020 — Both languages have their pros and cons, so their selection is very important. Read this article to find out what programming language is ...",
+         "additional_links":[
+            {
+               "text":"Python vs R: What Language Is Better For Data Science ...https://www.ideamotive.co › blog › python-vs-r-what-l...",
+               "href":"https://www.ideamotive.co/blog/python-vs-r-what-language-is-better-for-data-science-projects"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.ideamotive.co › blog › python-vs-r-what-l...",
+            "span":" › blog › python-vs-r-what-l..."
+         }
+      },
+      {
+         "title":"Python & R Programming | Udemy",
+         "link":"https://www.udemy.com/course/programming-python-and-r-with-data-science/",
+         "description":" › ... › Python  › ... › Python",
+         "additional_links":[
+            {
+               "text":"Python & R Programming | Udemyhttps://www.udemy.com › ... › Python",
+               "href":"https://www.udemy.com/course/programming-python-and-r-with-data-science/"
+            },
+            {
+               "text":"Data Analysis using Python and R for Absolute Beginner.https://www.udemy.com › ... › Data Science",
+               "href":"https://www.udemy.com/course/python-r-programming/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.udemy.com › ... › Python",
+            "span":" › ... › Python"
+         }
+      },
+      {
+         "title":"Python & R Programming | Udemy",
+         "link":"https://www.udemy.com/course/programming-python-and-r-with-data-science/",
+         "description":"Learn the two most widely used programming languages with Data Science: Python and R.",
+         "additional_links":[
+            {
+               "text":"Python & R Programming | Udemyhttps://www.udemy.com › ... › Python",
+               "href":"https://www.udemy.com/course/programming-python-and-r-with-data-science/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.udemy.com › ... › Python",
+            "span":" › ... › Python"
+         }
+      },
+      {
+         "title":"Data Analysis using Python and R for Absolute Beginner.",
+         "link":"https://www.udemy.com/course/python-r-programming/",
+         "description":"Learn to write code in Python and R for Data Science. Learn art of Data Analysis and Visualization with 8 case studies.",
+         "additional_links":[
+            {
+               "text":"Data Analysis using Python and R for Absolute Beginner.https://www.udemy.com › ... › Data Science",
+               "href":"https://www.udemy.com/course/python-r-programming/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.udemy.com › ... › Data Science",
+            "span":" › ... › Data Science"
+         }
+      },
+      {
+         "title":"Moving from R to Python: The Libraries You Need to Know",
+         "link":"https://www.kdnuggets.com/2017/02/moving-r-python-libraries.html",
+         "description":"Original. Reposted with permission. Related: Eight Things an R user Will Find Frustrating When Trying to Learn Python · R vs Python for Data Science: The Winner ...",
+         "additional_links":[
+            {
+               "text":"Moving from R to Python: The Libraries You Need to Knowhttps://www.kdnuggets.com › 2017/02 › moving-r-pyt...",
+               "href":"https://www.kdnuggets.com/2017/02/moving-r-python-libraries.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.kdnuggets.com › 2017/02 › moving-r-pyt...",
+            "span":" › 2017/02 › moving-r-pyt..."
+         }
+      },
+      {
+         "title":"Python and R for the Modern Data Scientist [Book] - O'Reilly ...",
+         "link":"https://www.oreilly.com/library/view/python-and-r/9781492093398/",
+         "description":"Success in data science depends on the flexible and appropriate use of tools. That includes Python and R, two of the foundational programming languages in ...",
+         "additional_links":[
+            {
+               "text":"Python and R for the Modern Data Scientist [Book] - O'Reilly ...https://www.oreilly.com › library › view › python-and-r",
+               "href":"https://www.oreilly.com/library/view/python-and-r/9781492093398/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.oreilly.com › library › view › python-and-r",
+            "span":" › library › view › python-and-r"
+         }
+      },
+      {
+         "title":"Calling Python from R • reticulate",
+         "link":"https://rstudio.github.io/reticulate/articles/calling_python.html",
+         "description":" › reticulate › articles › calling_...  › reticulate › articles › calling_...",
+         "additional_links":[
+            {
+               "text":"Calling Python from R • reticulatehttps://rstudio.github.io › reticulate › articles › calling_...",
+               "href":"https://rstudio.github.io/reticulate/articles/calling_python.html"
+            },
+            {
+               "text":"rpy2: Python-R bridgehttps://rpy2.github.io",
+               "href":"https://rpy2.github.io/"
+            }
+         ],
+         "cite":{
+            "domain":"https://rstudio.github.io › reticulate › articles › calling_...",
+            "span":" › reticulate › articles › calling_..."
+         }
+      },
+      {
+         "title":"Calling Python from R • reticulate",
+         "link":"https://rstudio.github.io/reticulate/articles/calling_python.html",
+         "description":"The reticulate package provides an R interface to Python modules, classes, and functions. For example, this code imports the Python os module and calls some ...",
+         "additional_links":[
+            {
+               "text":"Calling Python from R • reticulatehttps://rstudio.github.io › reticulate › articles › calling_...",
+               "href":"https://rstudio.github.io/reticulate/articles/calling_python.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://rstudio.github.io › reticulate › articles › calling_...",
+            "span":" › reticulate › articles › calling_..."
+         }
+      },
+      {
+         "title":"rpy2: Python-R bridge",
+         "link":"https://rpy2.github.io/",
+         "description":"The source code is also in a public repository on Github. License. The same license as R: GPLv2 or greater. rpy2 in the ...",
+         "additional_links":[
+            {
+               "text":"rpy2: Python-R bridgehttps://rpy2.github.io",
+               "href":"https://rpy2.github.io/"
+            }
+         ],
+         "cite":{
+
+         }
+      },
+      {
+         "title":"Project Jupyter | Home",
+         "link":"https://jupyter.org/",
+         "description":"The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and ...",
+         "additional_links":[
+            {
+               "text":"Project Jupyter | Homehttps://jupyter.org",
+               "href":"https://jupyter.org/"
+            }
+         ],
+         "cite":{
+
+         }
+      },
+      {
+         "title":"Is Python Strangling R to Death? - Datanami",
+         "link":"https://www.datanami.com/2019/08/15/is-python-strangling-r-to-death/",
+         "description":"Aug 15, 2019 — As programming languages go, there's no denying that Python is hot. Originally created as a general-purpose scripting language, ...",
+         "additional_links":[
+            {
+               "text":"Is Python Strangling R to Death? - Datanamihttps://www.datanami.com › 2019/08/15 › is-python-str...",
+               "href":"https://www.datanami.com/2019/08/15/is-python-strangling-r-to-death/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.datanami.com › 2019/08/15 › is-python-str...",
+            "span":" › 2019/08/15 › is-python-str..."
+         }
+      },
+      {
+         "title":"Calling Python from R - CRAN",
+         "link":"https://cran.r-project.org/web/packages/reticulate/vignettes/calling_python.html",
+         "description":"The reticulate package provides an R interface to Python modules, classes, and functions. For example, this code imports the Python os module and calls some ...",
+         "additional_links":[
+            {
+               "text":"Calling Python from R - CRANhttps://cran.r-project.org › web › reticulate › vignettes",
+               "href":"https://cran.r-project.org/web/packages/reticulate/vignettes/calling_python.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://cran.r-project.org › web › reticulate › vignettes",
+            "span":" › web › reticulate › vignettes"
+         }
+      },
+      {
+         "title":"rstudio/reticulate: R Interface to Python - GitHub",
+         "link":"https://github.com/rstudio/reticulate",
+         "description":"R Interface to Python. R-CMD-check. The reticulate package provides a comprehensive set of tools for interoperability between Python and R. The package ...",
+         "additional_links":[
+            {
+               "text":"rstudio/reticulate: R Interface to Python - GitHubhttps://github.com › rstudio › reticulate",
+               "href":"https://github.com/rstudio/reticulate"
+            }
+         ],
+         "cite":{
+            "domain":"https://github.com › rstudio › reticulate",
+            "span":" › rstudio › reticulate"
+         }
+      },
+      {
+         "title":"R (programming language) - Wikipedia",
+         "link":"https://en.wikipedia.org/wiki/R_(programming_language)",
+         "description":"R is a programming language and free software environment for statistical computing and graphics supported by the R Core Team and the R Foundation for ...Stable release: 4.1.2 / 1 November 2021; 8 days ...First appeared: August 1993; 28 years agoDeveloper: R Core TeamLicense: GNU GPL v2",
+         "additional_links":[
+            {
+               "text":"R (programming language) - Wikipediahttps://en.wikipedia.org › wiki › R_(programming_lang...",
+               "href":"https://en.wikipedia.org/wiki/R_(programming_language)"
+            },
+            {
+               "text":"GNU GPL v2",
+               "href":"http://en.wikipedia.org/wiki/GNU_GPL"
+            }
+         ],
+         "cite":{
+            "domain":"https://en.wikipedia.org › wiki › R_(programming_lang...",
+            "span":" › wiki › R_(programming_lang..."
+         }
+      },
+      {
+         "title":"Should you learn Python or R in 2021? | R-bloggers",
+         "link":"https://www.r-bloggers.com/2021/01/should-you-learn-python-or-r-in-2021/",
+         "description":"Jan 27, 2021 — Each month, we release tons of great content on R for Business. Register to get fresh R Tips straight to your inbox. For years Python and R ...",
+         "additional_links":[
+            {
+               "text":"Should you learn Python or R in 2021? | R-bloggershttps://www.r-bloggers.com › 2021 › January",
+               "href":"https://www.r-bloggers.com/2021/01/should-you-learn-python-or-r-in-2021/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.r-bloggers.com › 2021 › January",
+            "span":" › 2021 › January"
+         }
+      },
+      {
+         "title":"The real question R vs Python?: bioinformatics - Reddit",
+         "link":"https://www.reddit.com/r/bioinformatics/comments/lez284/the_real_question_r_vs_python/",
+         "description":"Feb 7, 2021 — Python is a general purpose language which has some problems with the integrity of advanced statistical packages (unverified authors and code).",
+         "additional_links":[
+            {
+               "text":"The real question R vs Python?: bioinformatics - Reddithttps://www.reddit.com › comments › lez284 › the_real...",
+               "href":"https://www.reddit.com/r/bioinformatics/comments/lez284/the_real_question_r_vs_python/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.reddit.com › comments › lez284 › the_real...",
+            "span":" › comments › lez284 › the_real..."
+         }
+      },
+      {
+         "title":"Azure Data Studio notebooks (Python, R) - SQL - Microsoft Docs",
+         "link":"https://docs.microsoft.com/en-us/sql/machine-learning/install/sql-machine-learning-azure-data-studio",
+         "description":"Aug 3, 2021 — Learn how to run Python and R scripts in a notebook in Azure Data Studio with SQL Server Machine Learning Services.",
+         "additional_links":[
+            {
+               "text":"Azure Data Studio notebooks (Python, R) - SQL - Microsoft Docshttps://docs.microsoft.com › Docs › SQL › ML › Install",
+               "href":"https://docs.microsoft.com/en-us/sql/machine-learning/install/sql-machine-learning-azure-data-studio"
+            }
+         ],
+         "cite":{
+            "domain":"https://docs.microsoft.com › Docs › SQL › ML › Install",
+            "span":" › Docs › SQL › ML › Install"
+         }
+      },
+      {
+         "title":"From an expert statistician's tool kit: R vs Python programming ...",
+         "link":"https://www.iqvia.com/blogs/2021/06/from-an-expert-statisticians-tool-kit-r-vs-python-programming-language",
+         "description":"Jun 2, 2021 — In recent years, leaders in the pharmaceutical industry have relied on data science to guide their decision making around vital drug ...",
+         "additional_links":[
+            {
+               "text":"From an expert statistician's tool kit: R vs Python programming ...https://www.iqvia.com › blogs › 2021/06 › from-an-ex...",
+               "href":"https://www.iqvia.com/blogs/2021/06/from-an-expert-statisticians-tool-kit-r-vs-python-programming-language"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.iqvia.com › blogs › 2021/06 › from-an-ex...",
+            "span":" › blogs › 2021/06 › from-an-ex..."
+         }
+      },
+      {
+         "title":"Which is better for data analysis: R or Python? - Quora",
+         "link":"https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python",
+         "description":"You may be a new data budding whiz kid, seasoned programmer delving in field of data mining and wondering which language to follow – Python or R for data ...144 answers  ·  Top answer: The general principle I've found is that R's advantages play more strongly the closer your ...",
+         "additional_links":[
+            {
+               "text":"Which is better for data analysis: R or Python? - Quorahttps://www.quora.com › Which-is-better-for-data-anal...",
+               "href":"https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python"
+            },
+            {
+               "text":"144 answers",
+               "href":"https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python?top_ans=2568658"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.quora.com › Which-is-better-for-data-anal...",
+            "span":" › Which-is-better-for-data-anal..."
+         }
+      },
+      {
+         "title":"Data Scientist Python R Jobs, Employment | Indeed.com",
+         "link":"https://www.indeed.com/jobs?q=%22data+Scientist%22+Python+R",
+         "description":"5547 Data Scientist Python R jobs available on Indeed.com. Apply to Data Scientist, Senior Data Scientist and more!",
+         "additional_links":[
+            {
+               "text":"Data Scientist Python R Jobs, Employment | Indeed.comhttps://www.indeed.com › jobs",
+               "href":"https://www.indeed.com/jobs?q=%22data+Scientist%22+Python+R"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.indeed.com › jobs",
+            "span":" › jobs"
+         }
+      },
+      {
+         "title":"Should you learn R or Python for data science? - Revolution ...",
+         "link":"https://blog.revolutionanalytics.com/2018/06/python-or-r.html",
+         "description":"Jun 28, 2018 — One of the most common questions I get asked is, \"Should I learn R or Python?\". My general response is: it's up to you!",
+         "additional_links":[
+            {
+               "text":"Should you learn R or Python for data science? - Revolution ...https://blog.revolutionanalytics.com › 2018/06 › pytho...",
+               "href":"https://blog.revolutionanalytics.com/2018/06/python-or-r.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://blog.revolutionanalytics.com › 2018/06 › pytho...",
+            "span":" › 2018/06 › pytho..."
+         }
+      },
+      {
+         "title":"Overview of the Julia-Python-R Universe - Open Risk Manual",
+         "link":"https://www.openriskmanual.org/wiki/Overview_of_the_Julia-Python-R_Universe",
+         "description":"Aspect, Python, R, Julia, Comment. First Release, 1991, 1995, 2009, Both the Python and R ecosystems have a long history of development and both received a ...",
+         "additional_links":[
+            {
+               "text":"Overview of the Julia-Python-R Universe - Open Risk Manualhttps://www.openriskmanual.org › wiki › Overview_of...",
+               "href":"https://www.openriskmanual.org/wiki/Overview_of_the_Julia-Python-R_Universe"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.openriskmanual.org › wiki › Overview_of...",
+            "span":" › wiki › Overview_of..."
+         }
+      },
+      {
+         "title":"How to Use R and Python in Power BI | Iteration Insights",
+         "link":"https://iterationinsights.com/article/r-and-python-in-power-bi/",
+         "description":"Sep 14, 2020 — Tagged. Power BIPythonR. Stephen Zielke PhD. Stephen is an Analytics Consultant with Iteration Insights, a tech-enabled data analytics ...",
+         "additional_links":[
+            {
+               "text":"How to Use R and Python in Power BI | Iteration Insightshttps://iterationinsights.com › article › r-and-python-in-...",
+               "href":"https://iterationinsights.com/article/r-and-python-in-power-bi/"
+            }
+         ],
+         "cite":{
+            "domain":"https://iterationinsights.com › article › r-and-python-in-...",
+            "span":" › article › r-and-python-in-..."
+         }
+      },
+      {
+         "title":"How to program with Python and R in Jupyter Notebook",
+         "link":"https://anderfernandez.com/en/blog/how-to-program-with-python-and-r-in-the-same-jupyter-notebook/",
+         "description":"In my opinion both programming languages excel at something. For example, regarding Deep Learining Python is king while in regards of data wrangling… I stick ...",
+         "additional_links":[
+            {
+               "text":"How to program with Python and R in Jupyter Notebookhttps://anderfernandez.com › blog › how-to-program-w...",
+               "href":"https://anderfernandez.com/en/blog/how-to-program-with-python-and-r-in-the-same-jupyter-notebook/"
+            }
+         ],
+         "cite":{
+            "domain":"https://anderfernandez.com › blog › how-to-program-w...",
+            "span":" › blog › how-to-program-w..."
+         }
+      },
+      {
+         "title":"Advancing into Analytics: From Excel to Python and R 1st Edition",
+         "link":"https://www.amazon.com/Advancing-into-Analytics-Excel-Python/dp/149209434X",
+         "description":"Author George Mount, founder and CEO of Stringfest Analytics, demonstrates key statistical concepts with spreadsheets, then pivots your existing knowledge about ...",
+         "additional_links":[
+            {
+               "text":"Advancing into Analytics: From Excel to Python and R 1st Editionhttps://www.amazon.com › Advancing-into-Analytics-E...",
+               "href":"https://www.amazon.com/Advancing-into-Analytics-Excel-Python/dp/149209434X"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.amazon.com › Advancing-into-Analytics-E...",
+            "span":" › Advancing-into-Analytics-E..."
+         }
+      },
+      {
+         "title":"Python v R: Important Differences To Be Aware Of - Practical ...",
+         "link":"https://www.practicaldatascience.org/html/python_v_r.html",
+         "description":"Periods are operators in Python: In R, it's common to use periods in variable names (like: my.list ). There are many syntax differences between R and Python, ...",
+         "additional_links":[
+            {
+               "text":"Python v R: Important Differences To Be Aware Of - Practical ...https://www.practicaldatascience.org › html › python_v_r",
+               "href":"https://www.practicaldatascience.org/html/python_v_r.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.practicaldatascience.org › html › python_v_r",
+            "span":" › html › python_v_r"
+         }
+      },
+      {
+         "title":"The Julia Programming Language",
+         "link":"https://julialang.org/",
+         "description":"The official website for the Julia Language. Julia is a language that is fast, dynamic, easy to use, and open source. Click here to learn more.",
+         "additional_links":[
+            {
+               "text":"The Julia Programming Languagehttps://julialang.org",
+               "href":"https://julialang.org/"
+            }
+         ],
+         "cite":{
+
+         }
+      },
+      {
+         "title":"MatLab vs. Python vs. R - Journal of Data Science",
+         "link":"https://www.jds-online.com/files/150%E5%AE%8C%E6%88%90V.pdf",
+         "description":"by C Ozgur · 2017 · Cited by 85 — Abstract: Matlab, Python and R have all been used successfully in teaching college students fundamentals of mathematics & statistics. In today's data driven.",
+         "additional_links":[
+            {
+               "text":"MatLab vs. Python vs. R - Journal of Data Sciencehttps://www.jds-online.com › files › 150完成V",
+               "href":"https://www.jds-online.com/files/150%E5%AE%8C%E6%88%90V.pdf"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.jds-online.com › files › 150完成V",
+            "span":" › files › 150完成V"
+         }
+      },
+      {
+         "title":"Why R for Data Science – and Not Python! - Learning Machines",
+         "link":"https://blog.ephorie.de/why-r-for-data-science-and-not-python",
+         "description":"Sep 23, 2021 — There are literally hundreds of programming languages out there, e.g. the whole alphabet of one letter programming languages is taken.",
+         "additional_links":[
+            {
+               "text":"Why R for Data Science – and Not Python! - Learning Machineshttps://blog.ephorie.de › why-r-for-data-science-and-no...",
+               "href":"https://blog.ephorie.de/why-r-for-data-science-and-not-python"
+            }
+         ],
+         "cite":{
+            "domain":"https://blog.ephorie.de › why-r-for-data-science-and-no...",
+            "span":" › why-r-for-data-science-and-no..."
+         }
+      },
+      {
+         "title":"How to read SMAP data into MATLAB, Python, R, IDL, or NCL",
+         "link":"https://nsidc.org/support/98509547-How-do-I-read-SMAP-data-into-MATLAB-or-Python-",
+         "description":"The HDF Group has example code for access and visualization of SMAP data in MATLAB, Python, IDL, and NCL. Jupyter notebooks are available on the NSIDC ...",
+         "additional_links":[
+            {
+               "text":"How to read SMAP data into MATLAB, Python, R, IDL, or NCLhttps://nsidc.org › support › 98509547-How-do-I-read-...",
+               "href":"https://nsidc.org/support/98509547-How-do-I-read-SMAP-data-into-MATLAB-or-Python-"
+            }
+         ],
+         "cite":{
+            "domain":"https://nsidc.org › support › 98509547-How-do-I-read-...",
+            "span":" › support › 98509547-How-do-I-read-..."
+         }
+      },
+      {
+         "title":"R Vs Python - The most trending debate of aspiring Data ...",
+         "link":"https://data-flair.training/blogs/r-vs-python/",
+         "description":"Could you take 15 seconds and share your happy experience on Google | Facebook. Tags: R and Python DifferenceR vs PythonR Vs Python for Data Science ...",
+         "additional_links":[
+            {
+               "text":"R Vs Python - The most trending debate of aspiring Data ...https://data-flair.training › DataFlair › R Tutorials",
+               "href":"https://data-flair.training/blogs/r-vs-python/"
+            }
+         ],
+         "cite":{
+            "domain":"https://data-flair.training › DataFlair › R Tutorials",
+            "span":" › DataFlair › R Tutorials"
+         }
+      },
+      {
+         "title":"Comparison of top data science libraries for Python, R and ...",
+         "link":"https://activewizards.com/blog/comparison-of-top-data-science-libraries-for-python-r-and-scala-infographic/",
+         "description":"Comparison of top data science libraries for Python, R and Scala [Infographic]. data sciencemachine learningscalapythonrinfographicstrends.",
+         "additional_links":[
+            {
+               "text":"Comparison of top data science libraries for Python, R and ...https://activewizards.com › blog › comparison-of-top-d...",
+               "href":"https://activewizards.com/blog/comparison-of-top-data-science-libraries-for-python-r-and-scala-infographic/"
+            }
+         ],
+         "cite":{
+            "domain":"https://activewizards.com › blog › comparison-of-top-d...",
+            "span":" › blog › comparison-of-top-d..."
+         }
+      },
+      {
+         "title":"Sr Data Scientist - $215k (Python/R Tableau) - CyberCoders",
+         "link":"https://www.cybercoders.com/sr-data-scientist-215k-python-r-tableau-job-600905",
+         "description":"Jul 15, 2021 — Job Title: Sr Data Scientist - $215k (Python/R Tableau) Location: Fort Washington, PA Salary: $150k-$215k Base + Benefits and 401k",
+         "additional_links":[
+            {
+               "text":"Sr Data Scientist - $215k (Python/R Tableau) - CyberCodershttps://www.cybercoders.com › sr-data-scientist-215k-p...",
+               "href":"https://www.cybercoders.com/sr-data-scientist-215k-python-r-tableau-job-600905"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.cybercoders.com › sr-data-scientist-215k-p...",
+            "span":" › sr-data-scientist-215k-p..."
+         }
+      },
+      {
+         "title":"5 Reasons to Learn Python if You Already Know R Programming",
+         "link":"https://www.jigsawacademy.com/learn-python-already-know-r-programming/",
+         "description":"One of the things that I have come across while browsing through the Job Descriptions of a Data Scientist on portals like Glassdoor is the seemingly ...",
+         "additional_links":[
+            {
+               "text":"5 Reasons to Learn Python if You Already Know R Programminghttps://www.jigsawacademy.com › learn-python-alread...",
+               "href":"https://www.jigsawacademy.com/learn-python-already-know-r-programming/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.jigsawacademy.com › learn-python-alread...",
+            "span":" › learn-python-alread..."
+         }
+      },
+      {
+         "title":"\"Data Scientist's Analysis Toolbox: Comparison of Python, R ...",
+         "link":"https://scholar.smu.edu/datasciencereview/vol1/iss2/7/",
+         "description":"by J Brittain · 2018 · Cited by 9 — A quantitative analysis will be performed on experiments utilizing three different tools used for Data Science. The analysis will include replication of ...",
+         "additional_links":[
+            {
+               "text":"\"Data Scientist's Analysis Toolbox: Comparison of Python, R ...https://scholar.smu.edu › datasciencereview › vol1 › iss2",
+               "href":"https://scholar.smu.edu/datasciencereview/vol1/iss2/7/"
+            }
+         ],
+         "cite":{
+            "domain":"https://scholar.smu.edu › datasciencereview › vol1 › iss2",
+            "span":" › datasciencereview › vol1 › iss2"
+         }
+      },
+      {
+         "title":"R vs. Python: Which is a better programming language for ...",
+         "link":"https://www.techrepublic.com/article/r-vs-python-which-is-a-better-programming-language-for-data-science/",
+         "description":"Jun 14, 2019 — The Python vs. R debate rages on in the data scientist community. Here's how the two coding languages match up.",
+         "additional_links":[
+            {
+               "text":"R vs. Python: Which is a better programming language for ...https://www.techrepublic.com › Topic › Big Data",
+               "href":"https://www.techrepublic.com/article/r-vs-python-which-is-a-better-programming-language-for-data-science/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.techrepublic.com › Topic › Big Data",
+            "span":" › Topic › Big Data"
+         }
+      },
+      {
+         "title":"Dash Overview - Plotly",
+         "link":"https://plotly.com/dash/",
+         "description":"Nov 16, 2020 — The Dash platform empowers data science teams to focus on the data and models, while producing and sharing enterprise-ready analytic apps ...",
+         "additional_links":[
+            {
+               "text":"Dash Overview - Plotlyhttps://plotly.com › dash",
+               "href":"https://plotly.com/dash/"
+            }
+         ],
+         "cite":{
+            "domain":"https://plotly.com › dash",
+            "span":" › dash"
+         }
+      },
+      {
+         "title":"Python vs R: Which Language to Choose for Deep Learning?",
+         "link":"https://data-science-blog.com/blog/2020/02/18/python-vs-r-which-language-to-choose-for-deep-learning/",
+         "description":"Feb 18, 2020 — While machine learning and deep learning sit at the core of data science, the concepts of deep learning become essential to understand as it can ...",
+         "additional_links":[
+            {
+               "text":"Python vs R: Which Language to Choose for Deep Learning?https://data-science-blog.com › blog › 2020/02/18 › py...",
+               "href":"https://data-science-blog.com/blog/2020/02/18/python-vs-r-which-language-to-choose-for-deep-learning/"
+            }
+         ],
+         "cite":{
+            "domain":"https://data-science-blog.com › blog › 2020/02/18 › py...",
+            "span":" › blog › 2020/02/18 › py..."
+         }
+      },
+      {
+         "title":"Python, R, SAS and SPSS - The best tool for statistics",
+         "link":"https://economicpoint.com/python-vs-r-sas-spss",
+         "description":"There is a wide range of statistical software and programming languages to chose from. SAS, SPSS, R, and Python are the most used. SAS and SPSS are ...",
+         "additional_links":[
+            {
+               "text":"Python, R, SAS and SPSS - The best tool for statisticshttps://economicpoint.com › python-vs-r-sas-spss",
+               "href":"https://economicpoint.com/python-vs-r-sas-spss"
+            }
+         ],
+         "cite":{
+            "domain":"https://economicpoint.com › python-vs-r-sas-spss",
+            "span":" › python-vs-r-sas-spss"
+         }
+      },
+      {
+         "title":"Extreme Gradient Boosting with R and Python - Fisseha ...",
+         "link":"https://datascience-enthusiast.com/R/ML_python_R_part2.html",
+         "description":"It gives among the best performances in many machine learning applications. It is optimized gradient-boosting machine learning library. The core algorithm is ...",
+         "additional_links":[
+            {
+               "text":"Extreme Gradient Boosting with R and Python - Fisseha ...https://datascience-enthusiast.com › ML_python_R_part2",
+               "href":"https://datascience-enthusiast.com/R/ML_python_R_part2.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://datascience-enthusiast.com › ML_python_R_part2",
+            "span":" › ML_python_R_part2"
+         }
+      },
+      {
+         "title":"Python vs R in Data Science: This is The One You Should ...",
+         "link":"https://www.upgrad.com/blog/python-vs-r-in-data-science/",
+         "description":"Nov 13, 2019 — Python is one of the most popular programming languages. It was released in 1989, and since then, it has become a household name in the coding ...",
+         "additional_links":[
+            {
+               "text":"Python vs R in Data Science: This is The One You Should ...https://www.upgrad.com › Blog › Data Science",
+               "href":"https://www.upgrad.com/blog/python-vs-r-in-data-science/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.upgrad.com › Blog › Data Science",
+            "span":" › Blog › Data Science"
+         }
+      },
+      {
+         "title":"R vs Python: For Statistics and Data Science in 2020 - Code ...",
+         "link":"https://www.codeconquest.com/versus/r-vs-python-for-statistics-and-data-science-in-2020/",
+         "description":"For statistical analysis, R seems to be the better choice while Python provides a more general approach to data science. Both R and Python are considered ...",
+         "additional_links":[
+            {
+               "text":"R vs Python: For Statistics and Data Science in 2020 - Code ...https://www.codeconquest.com › Versus",
+               "href":"https://www.codeconquest.com/versus/r-vs-python-for-statistics-and-data-science-in-2020/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.codeconquest.com › Versus",
+            "span":" › Versus"
+         }
+      },
+      {
+         "title":"Python Vs R: Know The Difference - InterviewBit",
+         "link":"https://www.interviewbit.com/blog/python-vs-r/",
+         "description":"Oct 10, 2021 — The world is moving towards the next technological wonder. Data Science and Artificial Intelligence are the ones leading this from the ...",
+         "additional_links":[
+            {
+               "text":"Python Vs R: Know The Difference - InterviewBithttps://www.interviewbit.com › InterviewBit › Compare",
+               "href":"https://www.interviewbit.com/blog/python-vs-r/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.interviewbit.com › InterviewBit › Compare",
+            "span":" › InterviewBit › Compare"
+         }
+      },
+      {
+         "title":"Algorithmic Trading and Finance Models with Python, R, and ...",
+         "link":"https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training",
+         "description":"Learn how to make informed trading decisions by using software tools—like Excel, Python, R, and Stata—to build models or algorithms that use quantitative, ...",
+         "additional_links":[
+            {
+               "text":"Algorithmic Trading and Finance Models with Python, R, and ...https://www.linkedin.com › learning › algorithmic-trading...",
+               "href":"https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.linkedin.com › learning › algorithmic-trading...",
+            "span":" › learning › algorithmic-trading..."
+         }
+      },
+      {
+         "title":"Python & R Programme for Beginners - 360DigiTMG",
+         "link":"https://360digitmg.com/india/python-r-programming",
+         "description":"360DigiTMG Provides the Exclusive Python and R Programming Certification Course Training Program for Beginners. Practical Training on R Programming, ... Rating: 5 · ‎4,207 votes",
+         "additional_links":[
+            {
+               "text":"Python & R Programme for Beginners - 360DigiTMGhttps://360digitmg.com › india › python-r-programming",
+               "href":"https://360digitmg.com/india/python-r-programming"
+            }
+         ],
+         "cite":{
+            "domain":"https://360digitmg.com › india › python-r-programming",
+            "span":" › india › python-r-programming"
+         },
+         "g_review_stars":" Rating: 5 · ‎4,207 votes"
+      },
+      {
+         "title":"Equivalent of Paste R to Python - Stack Overflow",
+         "link":"https://stackoverflow.com/questions/21292552/equivalent-of-paste-r-to-python",
+         "description":"python r pandas paste. I am a new python afficionado. For R users, there is one function : paste that helps to concatenate two or more variables in a ...9 answers  ·  Top answer: This very much works like Paste command in R:\nR code:\n\nwords = c(\"Here\", \"I\",\"want\",\"to\",\"concatenat ...",
+         "additional_links":[
+            {
+               "text":"Equivalent of Paste R to Python - Stack Overflowhttps://stackoverflow.com › questions › equivalent-of-p...",
+               "href":"https://stackoverflow.com/questions/21292552/equivalent-of-paste-r-to-python"
+            },
+            {
+               "text":"9 answers",
+               "href":"https://stackoverflow.com/a/47493666"
+            }
+         ],
+         "cite":{
+            "domain":"https://stackoverflow.com › questions › equivalent-of-p...",
+            "span":" › questions › equivalent-of-p..."
+         }
+      },
+      {
+         "title":"Python, R, Machine Learning and AI - Specialist Senior - - 15775",
+         "link":"https://apply.deloitte.com/careers/JobDetail/Data-Science-SME-Python-R-Machine-Learning-and-AI-Specialist-Senior/15775",
+         "description":"Data Scientist - Specialist Senior Do you want to build your brand by working for a leading consulting firm that drives eminence in the marketplace?",
+         "additional_links":[
+            {
+               "text":"Python, R, Machine Learning and AI - Specialist Senior - - 15775https://apply.deloitte.com › careers › JobDetail › Data-S...",
+               "href":"https://apply.deloitte.com/careers/JobDetail/Data-Science-SME-Python-R-Machine-Learning-and-AI-Specialist-Senior/15775"
+            }
+         ],
+         "cite":{
+            "domain":"https://apply.deloitte.com › careers › JobDetail › Data-S...",
+            "span":" › careers › JobDetail › Data-S..."
+         }
+      },
+      {
+         "title":"Python vs SAS vs R - Which is the best Tool for Analytics? in ...",
+         "link":"https://mindmajix.com/python-vs-sas-vs-r",
+         "description":"Apr 15, 2021 — SAS vs R vs Python - In this blog, you can learn what is Python, SAS, and R, Factors, Applications, and Deep Learning, etc,... Read More! Rating: 5 · ‎48,460 reviews",
+         "additional_links":[
+            {
+               "text":"Python vs SAS vs R - Which is the best Tool for Analytics? in ...https://mindmajix.com › python-vs-sas-vs-r",
+               "href":"https://mindmajix.com/python-vs-sas-vs-r"
+            }
+         ],
+         "cite":{
+            "domain":"https://mindmajix.com › python-vs-sas-vs-r",
+            "span":" › python-vs-sas-vs-r"
+         },
+         "g_review_stars":" Rating: 5 · ‎48,460 reviews"
+      },
+      {
+         "title":"Python's Pandas vs. R's dplyr - Which Is The Best Data ...",
+         "link":"https://appsilon.com/pandas-vs-dplyr/",
+         "description":"Feb 6, 2021 — R's dplyr – Which Is The Best Data Analysis Library. data analyticspythonrtutorials · Appsilon. Posted by Appsilon. 6 February, ...",
+         "additional_links":[
+            {
+               "text":"Python's Pandas vs. R's dplyr - Which Is The Best Data ...https://appsilon.com › pandas-vs-dplyr",
+               "href":"https://appsilon.com/pandas-vs-dplyr/"
+            }
+         ],
+         "cite":{
+            "domain":"https://appsilon.com › pandas-vs-dplyr",
+            "span":" › pandas-vs-dplyr"
+         }
+      },
+      {
+         "title":"Python for R Users: A Data Science Approach | Wiley",
+         "link":"https://www.wiley.com/en-sg/Python+for+R+Users%3A+A+Data+Science+Approach-p-9781119126768",
+         "description":"1 Introduction to Python R and Data Science 1. 1.1 What Is Python? 1. 1.2 What Is R? 2. 1.3 What Is Data Science? 3. 1.4 The Future for Data Scientists 3.",
+         "additional_links":[
+            {
+               "text":"Python for R Users: A Data Science Approach | Wileyhttps://www.wiley.com › en-sg › Python+for+R+Users:...",
+               "href":"https://www.wiley.com/en-sg/Python+for+R+Users%3A+A+Data+Science+Approach-p-9781119126768"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.wiley.com › en-sg › Python+for+R+Users:...",
+            "span":" › en-sg › Python+for+R+Users:..."
+         }
+      },
+      {
+         "title":"Julia Is Easy to Learn — Fluent in Python, Julia, and R",
+         "link":"https://medium.datadriveninvestor.com/are-you-trilingual-fluent-in-python-julia-and-r-cbd9a6f46db6",
+         "description":"Mar 15, 2021 — Python is the dominate data science language, R is a mature data science language, and Julia is gaining its traction.",
+         "additional_links":[
+            {
+               "text":"Julia Is Easy to Learn — Fluent in Python, Julia, and Rhttps://medium.datadriveninvestor.com › ...",
+               "href":"https://medium.datadriveninvestor.com/are-you-trilingual-fluent-in-python-julia-and-r-cbd9a6f46db6"
+            }
+         ],
+         "cite":{
+            "domain":"https://medium.datadriveninvestor.com › ...",
+            "span":" › ..."
+         }
+      },
+      {
+         "title":"Data Science in ArcGIS Using Python and R - Esri",
+         "link":"https://www.esri.com/content/dam/esrisites/en-us/events/conferences/2020/federal-gis/data-science-in-arcgis-using-python-and-r.pdf",
+         "description":"Well over 12,000 packages to enhance core. • Most widely used statistical software in the world. • Diverse and powerful.",
+         "additional_links":[
+            {
+               "text":"Data Science in ArcGIS Using Python and R - Esrihttps://www.esri.com › conferences › federal-gis › d...",
+               "href":"https://www.esri.com/content/dam/esrisites/en-us/events/conferences/2020/federal-gis/data-science-in-arcgis-using-python-and-r.pdf"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.esri.com › conferences › federal-gis › d...",
+            "span":" › conferences › federal-gis › d..."
+         }
+      },
+      {
+         "title":"renv source: R/python.R - Rdrr.io",
+         "link":"https://rdrr.io/cran/renv/src/R/python.R",
+         "description":"Jul 22, 2021 — R/python.R defines the following functions: renv_python_validate renv_python_active renv_python_module_available renv_python_select ...",
+         "additional_links":[
+            {
+               "text":"renv source: R/python.R - Rdrr.iohttps://rdrr.io › CRAN › renv",
+               "href":"https://rdrr.io/cran/renv/src/R/python.R"
+            }
+         ],
+         "cite":{
+            "domain":"https://rdrr.io › CRAN › renv",
+            "span":" › CRAN › renv"
+         }
+      },
+      {
+         "title":"python-r-ai - Repo One",
+         "link":"https://repo1.dso.mil/dsop/opensource/pipeline-test-project/python-r-ai",
+         "description":"Description. This multi-stage image contains both R and Python interpreters with AI/ML related packages. This image inherits from the python38-ai and r-base ...",
+         "additional_links":[
+            {
+               "text":"python-r-ai - Repo Onehttps://repo1.dso.mil › ... › pipeline-test-project",
+               "href":"https://repo1.dso.mil/dsop/opensource/pipeline-test-project/python-r-ai"
+            }
+         ],
+         "cite":{
+            "domain":"https://repo1.dso.mil › ... › pipeline-test-project",
+            "span":" › ... › pipeline-test-project"
+         }
+      },
+      {
+         "title":"Python, R, Other Programming Languages Thriving Long-Term",
+         "link":"https://insights.dice.com/2020/08/04/python-r-programming-languages-thriving-long-term/",
+         "description":"Aug 4, 2020 — If you've seen any of the programming-language rankings that analyst firms regularly publish, you know that the languages in those rankings' ...",
+         "additional_links":[
+            {
+               "text":"Python, R, Other Programming Languages Thriving Long-Termhttps://insights.dice.com › 2020/08/04 › python-r-progr...",
+               "href":"https://insights.dice.com/2020/08/04/python-r-programming-languages-thriving-long-term/"
+            }
+         ],
+         "cite":{
+            "domain":"https://insights.dice.com › 2020/08/04 › python-r-progr...",
+            "span":" › 2020/08/04 › python-r-progr..."
+         }
+      },
+      {
+         "title":"Domino Data Lab: The Enterprise MLOps Platform",
+         "link":"https://www.dominodatalab.com/",
+         "description":"Domino's enterprise MLOps platform accelerates research, speeds model deployment, and increases collaboration for code-first data science teams at scale.",
+         "additional_links":[
+            {
+               "text":"Domino Data Lab: The Enterprise MLOps Platformhttps://www.dominodatalab.com",
+               "href":"https://www.dominodatalab.com/"
+            }
+         ],
+         "cite":{
+
+         }
+      },
+      {
+         "title":"R vs Python: Which Is Best for Data? - Qvault",
+         "link":"https://qvault.io/python/r-vs-python/",
+         "description":"Aug 25, 2021 — Python and R made a name for themselves as top-end competitors in the world of data science for their ability to seamlessly navigate and ...",
+         "additional_links":[
+            {
+               "text":"R vs Python: Which Is Best for Data? - Qvaulthttps://qvault.io › Python",
+               "href":"https://qvault.io/python/r-vs-python/"
+            }
+         ],
+         "cite":{
+            "domain":"https://qvault.io › Python",
+            "span":" › Python"
+         }
+      },
+      {
+         "title":"Requests for default Python/R packages and libraries",
+         "link":"https://support.terra.bio/hc/en-us/community/posts/360056085831-Requests-for-default-Python-R-packages-and-libraries",
+         "description":"Jan 13, 2020 — If there is a package or library you would like to see made part of the default Terra runtime configurations, please make a comment below...",
+         "additional_links":[
+            {
+               "text":"Requests for default Python/R packages and librarieshttps://support.terra.bio › en-us › community › posts",
+               "href":"https://support.terra.bio/hc/en-us/community/posts/360056085831-Requests-for-default-Python-R-packages-and-libraries"
+            }
+         ],
+         "cite":{
+            "domain":"https://support.terra.bio › en-us › community › posts",
+            "span":" › en-us › community › posts"
+         }
+      },
+      {
+         "title":"Web Scraping: Python vs. R Showdown - SDSclub",
+         "link":"https://sdsclub.com/web-scraping-python-vs-r-showdown/",
+         "description":"Aug 28, 2020 — There is a good number of programming languages out there being used for web scraping. Python & R are among the most widely used languages ...",
+         "additional_links":[
+            {
+               "text":"Web Scraping: Python vs. R Showdown - SDSclubhttps://sdsclub.com › Blog",
+               "href":"https://sdsclub.com/web-scraping-python-vs-r-showdown/"
+            }
+         ],
+         "cite":{
+            "domain":"https://sdsclub.com › Blog",
+            "span":" › Blog"
+         }
+      },
+      {
+         "title":"Data Umbrella - Python, R, SQL, DS - 2021 Latin America ...",
+         "link":"https://www.dataumbrella.org/resources/python-r-sql-ds",
+         "description":"Resources for Learning Python. Introductory Blog. Learning Python: From Zero to Hero (quick read). Free online tutorials.",
+         "additional_links":[
+            {
+               "text":"Data Umbrella - Python, R, SQL, DS - 2021 Latin America ...https://www.dataumbrella.org › resources › python-r-sq...",
+               "href":"https://www.dataumbrella.org/resources/python-r-sql-ds"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.dataumbrella.org › resources › python-r-sq...",
+            "span":" › resources › python-r-sq..."
+         }
+      },
+      {
+         "title":"Individual Edition - Anaconda",
+         "link":"https://www.anaconda.com/products/individual",
+         "description":"Anaconda's open-source Individual Edition is the easiest way to perform Python/R data science and machine learning on a single machine.",
+         "additional_links":[
+            {
+               "text":"Individual Edition - Anacondahttps://www.anaconda.com › products › individual",
+               "href":"https://www.anaconda.com/products/individual"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.anaconda.com › products › individual",
+            "span":" › products › individual"
+         }
+      },
+      {
+         "title":"Python & R in production — the API way - Josiah Parry",
+         "link":"https://josiahparry.com/post/2021-03-28-python-r/",
+         "description":"Mar 28, 2021 — By shifting from language based tools that call the other language and translate their objects like reticulate and rpy2, to APIs we can develop ...",
+         "additional_links":[
+            {
+               "text":"Python & R in production — the API way - Josiah Parryhttps://josiahparry.com › post › 2021-03-28-python-r",
+               "href":"https://josiahparry.com/post/2021-03-28-python-r/"
+            }
+         ],
+         "cite":{
+            "domain":"https://josiahparry.com › post › 2021-03-28-python-r",
+            "span":" › post › 2021-03-28-python-r"
+         }
+      },
+      {
+         "title":"IBM Data Science Professional Certificate | Coursera",
+         "link":"https://www.coursera.org/professional-certificates/ibm-data-science",
+         "description":"Offered by IBM. Kickstart your career in data science & ML. Build data science skills, learn Python & SQL, analyze & visualize data, build .",
+         "additional_links":[
+            {
+               "text":"IBM Data Science Professional Certificate | Courserahttps://www.coursera.org › ... › Data Analysis",
+               "href":"https://www.coursera.org/professional-certificates/ibm-data-science"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.coursera.org › ... › Data Analysis",
+            "span":" › ... › Data Analysis"
+         }
+      },
+      {
+         "title":"Python vs (and) R for Data Science | by Brian Ray | Noteworthy",
+         "link":"https://blog.usejournal.com/python-vs-and-r-for-data-science-833b48ccc91d?",
+         "description":"Jun 10, 2018 — As requested, I'm publishing this guide for those wishing to choose between Python and R Programming languages for Data Science.",
+         "additional_links":[
+            {
+               "text":"Python vs (and) R for Data Science | by Brian Ray | Noteworthyhttps://blog.usejournal.com › ...",
+               "href":"https://blog.usejournal.com/python-vs-and-r-for-data-science-833b48ccc91d?"
+            }
+         ],
+         "cite":{
+            "domain":"https://blog.usejournal.com › ...",
+            "span":" › ..."
+         }
+      },
+      {
+         "title":"Difference Between Python and R Machine Learning",
+         "link":"http://www.differencebetween.net/technology/difference-between-python-and-r-machine-learning/",
+         "description":"Python has become the de facto standard for many data science applications which combines the power of general-purpose programming languages with the ...",
+         "additional_links":[
+            {
+               "text":"Difference Between Python and R Machine Learninghttp://www.differencebetween.net › Technology",
+               "href":"http://www.differencebetween.net/technology/difference-between-python-and-r-machine-learning/"
+            }
+         ],
+         "cite":{
+            "domain":"http://www.differencebetween.net › Technology",
+            "span":" › Technology"
+         }
+      },
+      {
+         "title":"R vs Python: Different similarities and similar differences",
+         "link":"https://gigadom.in/2017/05/22/r-vs-python-different-similarities-and-similar-differences/",
+         "description":"May 22, 2017 — A debate about which language is better suited for Datascience, R or Python, can set off diehard fans of these languages into a tizzy.",
+         "additional_links":[
+            {
+               "text":"R vs Python: Different similarities and similar differenceshttps://gigadom.in › 2017/05/22 › r-vs-python-differen...",
+               "href":"https://gigadom.in/2017/05/22/r-vs-python-different-similarities-and-similar-differences/"
+            }
+         ],
+         "cite":{
+            "domain":"https://gigadom.in › 2017/05/22 › r-vs-python-differen...",
+            "span":" › 2017/05/22 › r-vs-python-differen..."
+         }
+      },
+      {
+         "title":"Walking the Python-R Bridge - Code Like A Girl",
+         "link":"https://code.likeagirl.io/walking-the-python-r-bridge-66b63bab0fbd",
+         "description":"For one of the projects at work, in the Data Science team, we have most of our analytics capabilities and scripts written in R. We wrote an R package for ...",
+         "additional_links":[
+            {
+               "text":"Walking the Python-R Bridge - Code Like A Girlhttps://code.likeagirl.io › walking-the-python-r-bridge-...",
+               "href":"https://code.likeagirl.io/walking-the-python-r-bridge-66b63bab0fbd"
+            }
+         ],
+         "cite":{
+            "domain":"https://code.likeagirl.io › walking-the-python-r-bridge-...",
+            "span":" › walking-the-python-r-bridge-..."
+         }
+      },
+      {
+         "title":"100 ways to learn Python and R for data science",
+         "link":"https://opensource.com/article/19/5/learn-python-r-data-science",
+         "description":"May 15, 2019 — Want to learn data science? Find recommended courses in the Data Science Repo, a community-sourced directory of Python and R learning ...",
+         "additional_links":[
+            {
+               "text":"100 ways to learn Python and R for data sciencehttps://opensource.com › article › learn-python-r-data-s...",
+               "href":"https://opensource.com/article/19/5/learn-python-r-data-science"
+            }
+         ],
+         "cite":{
+            "domain":"https://opensource.com › article › learn-python-r-data-s...",
+            "span":" › article › learn-python-r-data-s..."
+         }
+      },
+      {
+         "title":"Comparison of Data Analysis Tools: Excel, R, Python, and BI ...",
+         "link":"https://dzone.com/articles/comparison-of-data-analysis-tools-excel-r-python-a",
+         "description":"Jun 10, 2019 — 3.2 R vs. Python. R and Python are both data analysis tools that need to be programmed. The difference is that R is used exclusively in the ...",
+         "additional_links":[
+            {
+               "text":"Comparison of Data Analysis Tools: Excel, R, Python, and BI ...https://dzone.com › Big Data Zone",
+               "href":"https://dzone.com/articles/comparison-of-data-analysis-tools-excel-r-python-a"
+            }
+         ],
+         "cite":{
+            "domain":"https://dzone.com › Big Data Zone",
+            "span":" › Big Data Zone"
+         }
+      },
+      {
+         "title":"Where should I start - R or Python? - SAGE Campus",
+         "link":"https://campus.sagepub.com/blog/where-should-i-start-r-or-python",
+         "description":"Mar 22, 2018 — If you conduct social science research and you are using Stata, SAS, or SPSS, you might be looking to learn how to use some of the new tools ...",
+         "additional_links":[
+            {
+               "text":"Where should I start - R or Python? - SAGE Campushttps://campus.sagepub.com › blog › where-should-i-start...",
+               "href":"https://campus.sagepub.com/blog/where-should-i-start-r-or-python"
+            }
+         ],
+         "cite":{
+            "domain":"https://campus.sagepub.com › blog › where-should-i-start...",
+            "span":" › blog › where-should-i-start..."
+         }
+      },
+      {
+         "title":"How to choose between R and Python for careers in data ...",
+         "link":"https://workingnation.com/r-python-data-science-careers/",
+         "description":"Jun 7, 2018 — Data scientists are a hot commodity in the tech world. Discovering which coding language will help you achieve the Big Data career of your ...",
+         "additional_links":[
+            {
+               "text":"How to choose between R and Python for careers in data ...https://workingnation.com › r-python-data-science-care...",
+               "href":"https://workingnation.com/r-python-data-science-careers/"
+            }
+         ],
+         "cite":{
+            "domain":"https://workingnation.com › r-python-data-science-care...",
+            "span":" › r-python-data-science-care..."
+         }
+      },
+      {
+         "title":"SAS vs R vs Python - The Battle for Data Science! - TechVidvan",
+         "link":"https://techvidvan.com/tutorials/sas-vs-r-vs-python/",
+         "description":"Feb 25, 2020 — Tags: best analytics toolsData science from scratchlearn Python for data sciencePython for data scienceR for Data ScienceR vs PythonR Vs ...",
+         "additional_links":[
+            {
+               "text":"SAS vs R vs Python - The Battle for Data Science! - TechVidvanhttps://techvidvan.com › TechVidvan › R Tutorials",
+               "href":"https://techvidvan.com/tutorials/sas-vs-r-vs-python/"
+            }
+         ],
+         "cite":{
+            "domain":"https://techvidvan.com › TechVidvan › R Tutorials",
+            "span":" › TechVidvan › R Tutorials"
+         }
+      },
+      {
+         "title":"R and Python Integration | Sisense for Cloud Data Teams",
+         "link":"https://dtdocs.sisense.com/article/r-and-python",
+         "description":"Looking for More? Code Templates; Limit Preview; Custom Modules; Available Libraries. Adding Python to a Chart. Once a SQL query has been successfully run for a ...",
+         "additional_links":[
+            {
+               "text":"R and Python Integration | Sisense for Cloud Data Teamshttps://dtdocs.sisense.com › article › r-and-python",
+               "href":"https://dtdocs.sisense.com/article/r-and-python"
+            }
+         ],
+         "cite":{
+            "domain":"https://dtdocs.sisense.com › article › r-and-python",
+            "span":" › article › r-and-python"
+         }
+      },
+      {
+         "title":"Python VS. R VS. SAS- Which is the best tool for data scientists?",
+         "link":"https://blog.insaid.co/python-r-sas-top-programming-languages-ranked/",
+         "description":"Apr 27, 2019 — Comparing Python, R and SAS across different criteria to suggest the best programming language. The article discusses the ease of learning, ...",
+         "additional_links":[
+            {
+               "text":"Python VS. R VS. SAS- Which is the best tool for data scientists?https://blog.insaid.co › python-r-sas-top-programming-l...",
+               "href":"https://blog.insaid.co/python-r-sas-top-programming-languages-ranked/"
+            }
+         ],
+         "cite":{
+            "domain":"https://blog.insaid.co › python-r-sas-top-programming-l...",
+            "span":" › python-r-sas-top-programming-l..."
+         }
+      },
+      {
+         "title":"The Battle Between R and Python - JanBask Training",
+         "link":"https://www.janbasktraining.com/blog/difference-between-r-and-python/",
+         "description":"Dec 22, 2019 — What Is the Difference Between R And Python? R vs Python - Understanding R vs Python for Data Science? According to us, both R and Python ...",
+         "additional_links":[
+            {
+               "text":"The Battle Between R and Python - JanBask Traininghttps://www.janbasktraining.com › blog › difference-be...",
+               "href":"https://www.janbasktraining.com/blog/difference-between-r-and-python/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.janbasktraining.com › blog › difference-be...",
+            "span":" › blog › difference-be..."
+         }
+      },
+      {
+         "title":"Advanced Data Reshaping in Python and R - Win Vector LLC",
+         "link":"https://win-vector.com/2019/09/04/advanced-data-reshaping-in-python-and-r/",
+         "description":"Sep 4, 2019 — Tagged as: cdata Coordinatized Data data coordinates data wrangling data_algebra Pandas python R SQL. jmount. Data Scientist and trainer at ...",
+         "additional_links":[
+            {
+               "text":"Advanced Data Reshaping in Python and R - Win Vector LLChttps://win-vector.com › 2019/09/04 › advanced-data-r...",
+               "href":"https://win-vector.com/2019/09/04/advanced-data-reshaping-in-python-and-r/"
+            }
+         ],
+         "cite":{
+            "domain":"https://win-vector.com › 2019/09/04 › advanced-data-r...",
+            "span":" › 2019/09/04 › advanced-data-r..."
+         }
+      },
+      {
+         "title":"QGIS and use of Python/R [closed] - GIS StackExchange",
+         "link":"https://gis.stackexchange.com/questions/362080/qgis-and-use-of-python-r",
+         "description":"May 18, 2020 · 1 answerQGIS tools run based on C++ and not Python, as MrXsquared and marcelo pointed me out. Still, you don't need to know any programming language ...",
+         "additional_links":[
+            {
+               "text":"QGIS and use of Python/R [closed] - GIS StackExchangehttps://gis.stackexchange.com › questions › qgis-and-us...",
+               "href":"https://gis.stackexchange.com/questions/362080/qgis-and-use-of-python-r"
+            }
+         ],
+         "cite":{
+            "domain":"https://gis.stackexchange.com › questions › qgis-and-us...",
+            "span":" › questions › qgis-and-us..."
+         }
+      },
+      {
+         "title":"How to use Python and R Together with ... - RapidMiner vs R",
+         "link":"https://rapidminer.com/blog/rapidminer-vs-r-tips-tricks-how-to-use-python-r-rapidminer/",
+         "description":"Sep 13, 2016 — You just need to visit the Marketplace and download the Python Scripting and R Scripting operators and restart RapidMiner Studio. Once you do ...",
+         "additional_links":[
+            {
+               "text":"How to use Python and R Together with ... - RapidMiner vs Rhttps://rapidminer.com › blog › rapidminer-vs-r-tips-tri...",
+               "href":"https://rapidminer.com/blog/rapidminer-vs-r-tips-tricks-how-to-use-python-r-rapidminer/"
+            }
+         ],
+         "cite":{
+            "domain":"https://rapidminer.com › blog › rapidminer-vs-r-tips-tri...",
+            "span":" › blog › rapidminer-vs-r-tips-tri..."
+         }
+      },
+      {
+         "title":"Install - SciPy",
+         "link":"https://scipy.org/install/",
+         "description":"Scientific Python Distributions (recommended). Python distributions provide the language itself, along with the most commonly used packages and tools. These ...",
+         "additional_links":[
+            {
+               "text":"Install - SciPyhttps://scipy.org › install",
+               "href":"https://scipy.org/install/"
+            }
+         ],
+         "cite":{
+            "domain":"https://scipy.org › install",
+            "span":" › install"
+         }
+      },
+      {
+         "title":"R vs Python For Data Science In 2019 - - Codersera",
+         "link":"https://codersera.com/blog/r-vs-python-for-data-science/",
+         "description":"Aug 29, 2019 — Like Python, much of R's syntax is based on C, but unlike Python R was not envisioned as a language that anyone could learn and use, ...",
+         "additional_links":[
+            {
+               "text":"R vs Python For Data Science In 2019 - - Coderserahttps://codersera.com › blog › r-vs-python-for-data-scie...",
+               "href":"https://codersera.com/blog/r-vs-python-for-data-science/"
+            }
+         ],
+         "cite":{
+            "domain":"https://codersera.com › blog › r-vs-python-for-data-scie...",
+            "span":" › blog › r-vs-python-for-data-scie..."
+         }
+      },
+      {
+         "title":"Python vs R for AI, Machine Learning, and Data Science",
+         "link":"https://www.innoarchitech.com/blog/python-vs-or-r-artificial-intelligence-ai-machine-learning-data-science-which-use",
+         "description":"Aug 1, 2017 — This article covers Python vs R vs other languages for data science, machine learning, and artificial intelligence (AI), including which to ...",
+         "additional_links":[
+            {
+               "text":"Python vs R for AI, Machine Learning, and Data Sciencehttps://www.innoarchitech.com › blog › python-vs-or-r...",
+               "href":"https://www.innoarchitech.com/blog/python-vs-or-r-artificial-intelligence-ai-machine-learning-data-science-which-use"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.innoarchitech.com › blog › python-vs-or-r...",
+            "span":" › blog › python-vs-or-r..."
+         }
+      },
+      {
+         "title":"Python R Homepage - MicroStrategy Community",
+         "link":"https://community.microstrategy.com/s/article/Python-R-Homepage",
+         "description":"Aug 6, 2018 — Python R Homepage ... MicroStrategy provides high-level Python and R interfaces called “mstrio” which are designed to give data scientists and ...",
+         "additional_links":[
+            {
+               "text":"Python R Homepage - MicroStrategy Communityhttps://community.microstrategy.com › article › Python...",
+               "href":"https://community.microstrategy.com/s/article/Python-R-Homepage"
+            }
+         ],
+         "cite":{
+            "domain":"https://community.microstrategy.com › article › Python...",
+            "span":" › article › Python..."
+         }
+      },
+      {
+         "title":"Python - R-distributed Distribution in Statistics - GeeksforGeeks",
+         "link":"https://www.geeksforgeeks.org/python-r-distributed-distribution-in-statistics/",
+         "description":"Jan 14, 2020 — scipy.stats.rdist() is a R-distributed (symmetric beta) continuous random variable. It is inherited from the of generic methods as an ...",
+         "additional_links":[
+            {
+               "text":"Python - R-distributed Distribution in Statistics - GeeksforGeekshttps://www.geeksforgeeks.org › python-r-distributed-d...",
+               "href":"https://www.geeksforgeeks.org/python-r-distributed-distribution-in-statistics/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.geeksforgeeks.org › python-r-distributed-d...",
+            "span":" › python-r-distributed-d..."
+         }
+      },
+      {
+         "title":"R or Python - R-Craft",
+         "link":"https://www.r-craft.org/r-news/r-or-python/",
+         "description":"Sep 5, 2019 — My blog post aims at aspiring data scientists who have to decide which programming language they want to learn first.",
+         "additional_links":[
+            {
+               "text":"R or Python - R-Crafthttps://www.r-craft.org › r-news › r-or-python",
+               "href":"https://www.r-craft.org/r-news/r-or-python/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.r-craft.org › r-news › r-or-python",
+            "span":" › r-news › r-or-python"
+         }
+      },
+      {
+         "title":"R vs Python? No! R and Python (and something else) - Data ...",
+         "link":"https://www.datasciencecentral.com/profiles/blogs/r-vs-python-r-and-python-and-something-else",
+         "description":"Oct 3, 2016 — WOLFRAM MATHEMATICA Before assessing R and Python, I will start with Wolfram Mathematica. It's a powerful software, similar to MatLab.",
+         "additional_links":[
+            {
+               "text":"R vs Python? No! R and Python (and something else) - Data ...https://www.datasciencecentral.com › profiles › blogs",
+               "href":"https://www.datasciencecentral.com/profiles/blogs/r-vs-python-r-and-python-and-something-else"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.datasciencecentral.com › profiles › blogs",
+            "span":" › profiles › blogs"
+         }
+      },
+      {
+         "title":"Should I Learn Python or R for Data Science? - Simpliv Blog",
+         "link":"https://blog.simpliv.com/should-i-learn-python-or-r-for-data-science/",
+         "description":"May 8, 2020 — If you are someone who wishes to make a career in Data Science, then the ultimate question you have to face is, which programming language you ...",
+         "additional_links":[
+            {
+               "text":"Should I Learn Python or R for Data Science? - Simpliv Bloghttps://blog.simpliv.com › Blog",
+               "href":"https://blog.simpliv.com/should-i-learn-python-or-r-for-data-science/"
+            }
+         ],
+         "cite":{
+            "domain":"https://blog.simpliv.com › Blog",
+            "span":" › Blog"
+         }
+      },
+      {
+         "title":"Data Science and Analytics (with Python, R and SPSS Programming)",
+         "link":"https://books.google.com/books?id=iiEEEAAAQBAJ&pg=PA26&lpg=PA26&dq=%22Python+R%22&source=bl&ots=yLMPf-8pnr&sig=ACfU3U0AShXfklX_ELwtv_Lq8W_nVZrFwg&hl=en&sa=X&ved=2ahUKEwjilbOC-4v0AhV4IzQIHWcTAs0Q6AF6BQjHAhAD",
+         "description":"V.K. Jain · Computers",
+         "additional_links":[
+            {
+               "text":"Data Science and Analytics (with Python, R and SPSS Programming)https://books.google.com › books",
+               "href":"https://books.google.com/books?id=iiEEEAAAQBAJ&pg=PA26&lpg=PA26&dq=%22Python+R%22&source=bl&ots=yLMPf-8pnr&sig=ACfU3U0AShXfklX_ELwtv_Lq8W_nVZrFwg&hl=en&sa=X&ved=2ahUKEwjilbOC-4v0AhV4IzQIHWcTAs0Q6AF6BQjHAhAD"
+            },
+            {
+               "text":"V.K. Jain",
+               "href":"/search?num=100&tbm=bks&q=inauthor:%22V.K.+Jain%22&sa=X&ved=2ahUKEwjilbOC-4v0AhV4IzQIHWcTAs0Q9Ah6BQjHAhAG"
+            }
+         ],
+         "cite":{
+            "domain":"https://books.google.com › books",
+            "span":" › books"
+         }
+      },
+      {
+         "title":"Python for R Users: A Data Science Approach",
+         "link":"https://books.google.com/books?id=pYogCwAAQBAJ&pg=RA1-PA9&lpg=RA1-PA9&dq=%22Python+R%22&source=bl&ots=Cx5YDpLRIn&sig=ACfU3U1Mle2It1Xl6B3uL_G54iC6Yf6nMQ&hl=en&sa=X&ved=2ahUKEwjilbOC-4v0AhV4IzQIHWcTAs0Q6AF6BQjIAhAD",
+         "description":"Ajay Ohri · 2017 · ‎Computers",
+         "additional_links":[
+            {
+               "text":"Python for R Users: A Data Science Approachhttps://books.google.com › books",
+               "href":"https://books.google.com/books?id=pYogCwAAQBAJ&pg=RA1-PA9&lpg=RA1-PA9&dq=%22Python+R%22&source=bl&ots=Cx5YDpLRIn&sig=ACfU3U1Mle2It1Xl6B3uL_G54iC6Yf6nMQ&hl=en&sa=X&ved=2ahUKEwjilbOC-4v0AhV4IzQIHWcTAs0Q6AF6BQjIAhAD"
+            },
+            {
+               "text":"Ajay Ohri",
+               "href":"/search?num=100&tbm=bks&q=inauthor:%22Ajay+Ohri%22&sa=X&ved=2ahUKEwjilbOC-4v0AhV4IzQIHWcTAs0Q9Ah6BQjIAhAG"
+            }
+         ],
+         "cite":{
+            "domain":"https://books.google.com › books",
+            "span":" › books"
+         }
+      },
+      {
+         "title":"The Essential Toolbox of Data Science: Python, R, Git, and ...",
+         "link":"https://link.springer.com/protocol/10.1007/978-1-0716-0239-3_15",
+         "description":"by WS Pittard · 2020 · Cited by 6 — The daily work in data science involves a set of essential tools: the programming languages Python and R, the version control tool Git and ...",
+         "additional_links":[
+            {
+               "text":"The Essential Toolbox of Data Science: Python, R, Git, and ...https://link.springer.com › protocol",
+               "href":"https://link.springer.com/protocol/10.1007/978-1-0716-0239-3_15"
+            }
+         ],
+         "cite":{
+            "domain":"https://link.springer.com › protocol",
+            "span":" › protocol"
+         }
+      }
+   ],
+   "image_results":[
+
+   ],
+   "total":3240000,
+   "answers":[
+
+   ],
+   "ts":2.9460701942443848,
+   "device_region":"US",
+   "device_type":"desktop"
+}

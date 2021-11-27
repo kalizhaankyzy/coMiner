@@ -1,0 +1,2954 @@
+{
+   "1":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"639000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":1,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "nextPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"639000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":11,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "context":{
+         "title":"darik"
+      },
+      "searchInformation":{
+         "searchTime":0.390866,
+         "formattedSearchTime":"0.39",
+         "totalResults":"639000",
+         "formattedTotalResults":"639,000"
+      },
+      "items":[
+         {
+            "kind":"customsearch#result",
+            "title":"Gresham Toyota: Toyota Dealer Gresham OR New & Used Cars for ...",
+            "htmlTitle":"Gresham Toyota: Toyota Dealer Gresham OR New &amp; Used Cars for ...",
+            "link":"https://www.greshamtoyota.com/",
+            "displayLink":"www.greshamtoyota.com",
+            "snippet":"Are you wondering, where is Gresham Toyota or what is the closest Toyota ... Stop by Gresham Toyota or search our online inventory to find the used car, ...",
+            "htmlSnippet":"Are you wondering, where is Gresham <b>Toyota or</b> what is the closest Toyota ... Stop by Gresham <b>Toyota or</b> search our online inventory to find the used car,&nbsp;...",
+            "cacheId":"xJrow6v9SSMJ",
+            "formattedUrl":"https://www.greshamtoyota.com/",
+            "htmlFormattedUrl":"https://www.greshamtoyota.com/",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "referrer":"always",
+                     "msvalidate.01":"D2E5E05AA953722B95EA98E198DFB544",
+                     "viewport":"width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0",
+                     "page-category":"home"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.greshamtoyota.com/assets/d1126/img/home/cta-new-inv-hover.jpg",
+                     "width":"300",
+                     "type":"1",
+                     "height":"168"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Royal Moore Toyota: Toyota Dealer near Portland",
+            "htmlTitle":"Royal Moore Toyota: Toyota Dealer near Portland",
+            "link":"https://www.royalmooretoyota.com/",
+            "displayLink":"www.royalmooretoyota.com",
+            "snippet":"Results 1 - 10 of 1581 ... Find the New Car of Your Dreams at Royal Moore Toyota. Get Moore when buying a new Toyota or used car. Get Moore Value, Moore Warranty, ...",
+            "htmlSnippet":"Results 1 - 10 of 1581 <b>...</b> Find the New Car of Your Dreams at Royal Moore Toyota. Get Moore when buying a new <b>Toyota or</b> used car. Get Moore Value, Moore Warranty,&nbsp;...",
+            "cacheId":"hY96H57LS24J",
+            "formattedUrl":"https://www.royalmooretoyota.com/",
+            "htmlFormattedUrl":"https://www.royalmooretoyota.com/",
+            "pagemap":{
+               "hcard":[
+                  {
+                     "fn":"Royal Moore Toyota"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "expires":"never",
+                     "og:type":"website",
+                     "msvalidate.01":"C8033F768190CD3458CFDCA60E26B2F9",
+                     "author":"Royal Moore Toyota",
+                     "og:title":"Toyota Dealer near Portland | Royal Moore Toyota",
+                     "distribution":"global",
+                     "locale":"en_US",
+                     "og:description":"Looking for a Toyota dealer near Portland, OR? Visit Royal Moore Toyota, your one-stop shop for Toyota sales service and parts in Hillsboro, OR.",
+                     "facebook-domain-verification":"x72nt5ihkcbeaxrm1g6kgjy2prsasq",
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1",
+                     "apple-mobile-web-app-capable":"yes",
+                     "providerid":"DDC",
+                     "og:url":"https://www.royalmooretoyota.com/",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://pictures.dealer.com/r/royalmooretoyota/0928/6d1ae6b45509a3cb1aea090271be6e3ex.jpg?impolicy=downsize&w=568",
+                     "width":"370",
+                     "type":"1",
+                     "height":"136"
+                  }
+               ],
+               "hproduct":[
+                  {
+                     "fn":"2021 Toyota Tacoma TRD Off Road V6 Truck Double Cab",
+                     "description":"Engine: 3.5L V-6 cyl Transmission: Automatic Exterior Color: Silver Sky Metallic Interior Color: TRD Off-Road Fabric In Cement Black",
+                     "photo":"https://pictures.dealer.com/r/royalmooretoyota/0308/bb4b57bce8bc72aad088fc9254e97252x.jpg?impolicy=downsize&w=300",
+                     "currency":"USD",
+                     "currency_iso4217":"840",
+                     "url":"https://www.royalmooretoyota.com/new/Toyota/2021-Toyota-Tacoma-840e88f40a0e09a92f16f0bc6b025660.htm"
+                  },
+                  {
+                     "fn":"2021 Toyota Tacoma SR5 V6 Truck Double Cab",
+                     "description":"Engine: 3.5L V-6 cyl Transmission: Automatic Exterior Color: Silver Sky Metallic Interior Color: Gray",
+                     "photo":"https://pictures.dealer.com/r/royalmooretoyota/0308/bb4b57bce8bc72aad088fc9254e97252x.jpg?impolicy=downsize&w=300",
+                     "currency":"USD",
+                     "currency_iso4217":"840",
+                     "url":"https://www.royalmooretoyota.com/new/Toyota/2021-Toyota-Tacoma-b8f49b880a0e09af1f17917c395e3300.htm"
+                  },
+                  {
+                     "fn":"2021 Toyota 4Runner TRD Off Road Premium SUV",
+                     "description":"Engine: 4.0L V-6 cyl Transmission: Automatic Exterior Color: Super White Interior Color: Graphite",
+                     "photo":"https://pictures.dealer.com/r/royalmooretoyota/0308/bb4b57bce8bc72aad088fc9254e97252x.jpg?impolicy=downsize&w=300",
+                     "currency":"USD",
+                     "currency_iso4217":"840",
+                     "url":"https://www.royalmooretoyota.com/new/Toyota/2021-Toyota-4Runner-01138afd0a0e09711100bd16626798b6.htm"
+                  },
+                  {
+                     "fn":"2021 Toyota 4Runner TRD Off Road Premium SUV",
+                     "description":"Engine: 4.0L V-6 cyl Transmission: Automatic Exterior Color: Nautical Blue Interior Color: Black",
+                     "photo":"https://pictures.dealer.com/r/royalmooretoyota/0308/bb4b57bce8bc72aad088fc9254e97252x.jpg?impolicy=downsize&w=300",
+                     "currency":"USD",
+                     "currency_iso4217":"840",
+                     "url":"https://www.royalmooretoyota.com/new/Toyota/2021-Toyota-4Runner-071173da0a0e09af3da87d5dd441b66a.htm"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Coos Bay Toyota: Toyota Dealer Coos Bay OR New & Used Cars for ...",
+            "htmlTitle":"Coos Bay Toyota: Toyota Dealer Coos Bay OR New &amp; Used Cars for ...",
+            "link":"https://www.coosbaytoyota.com/",
+            "displayLink":"www.coosbaytoyota.com",
+            "snippet":"Are you wondering, where is Coos Bay Toyota or what is the closest Toyota dealer ... Stop by Coos Bay Toyota or search our online inventory to find the used ...",
+            "htmlSnippet":"Are you wondering, where is Coos Bay <b>Toyota or</b> what is the closest Toyota dealer ... Stop by Coos Bay <b>Toyota or</b> search our online inventory to find the used&nbsp;...",
+            "cacheId":"a-XkdQeW8uMJ",
+            "formattedUrl":"https://www.coosbaytoyota.com/",
+            "htmlFormattedUrl":"https://www.coosbaytoyota.com/",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "referrer":"always",
+                     "msvalidate.01":"D2E5E05AA953722B95EA98E198DFB544",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "page-category":"home",
+                     "format-detection":"telephone=no",
+                     "facebook-domain-verification":"xcfj5dkjl3y7oi0pji3wdgd63h92ow"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://toyota.com/content/common/img/jellies/homepage/2021/sienna-side.png",
+                     "width":"345",
+                     "type":"1",
+                     "height":"146"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"What is ToyotaCare Plus? | Toyota Owners",
+            "htmlTitle":"What is ToyotaCare Plus? | Toyota Owners",
+            "link":"https://www.toyota.com/owners/parts-service/toyota-care-plus",
+            "displayLink":"www.toyota.com",
+            "snippet":"Find your Toyota or Scion model so that we can personalize your experience. SELECT MODEL, TOYOTA MODELS, SCION MODELS. SELECT YEAR.",
+            "htmlSnippet":"Find your <b>Toyota or</b> Scion model so that we can personalize your experience. SELECT MODEL, TOYOTA MODELS, SCION MODELS. SELECT YEAR.",
+            "cacheId":"4KXQ0eIrTvUJ",
+            "formattedUrl":"https://www.toyota.com/owners/parts-service/toyota-care-plus",
+            "htmlFormattedUrl":"https://www.toyota.com/owners/parts-service/toyota-care-plus",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "viewport":"width=device-width, initial-scale=1, maximum-scale=2"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://toyota.scene7.com/is/image/toyota/tc-service-center?scl=1&fmt=png-alpha",
+                     "width":"168",
+                     "type":"1",
+                     "height":"168"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Used Vehicles For Sale Salem, OR | Capitol Toyota",
+            "htmlTitle":"Used Vehicles For Sale Salem, OR | Capitol Toyota",
+            "link":"https://www.captoyota.com/used-inventory/index.htm",
+            "displayLink":"www.captoyota.com",
+            "snippet":"Our used car dealership in Salem, OR sells a wide variety of used cars for our drivers to choose from. Whether you're looking for a used Toyota, or another ...",
+            "htmlSnippet":"Our used car dealership in Salem, OR sells a wide variety of used cars for our drivers to choose from. Whether you&#39;re looking for a used Toyota, or another&nbsp;...",
+            "cacheId":"jgo7jVIyLS4J",
+            "formattedUrl":"https://www.captoyota.com/used-inventory/index.htm",
+            "htmlFormattedUrl":"https://www.captoyota.com/used-inventory/index.htm",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "expires":"never",
+                     "og:type":"website",
+                     "msvalidate.01":"214E31595AB750017C4E941DAE77FB05",
+                     "author":"Capitol Toyota",
+                     "og:title":"Used Vehicles For Sale Salem, OR | Capitol Toyota",
+                     "distribution":"global",
+                     "y_key":"763774a1dafdf94e",
+                     "locale":"en_US",
+                     "og:description":"Visit Capitol Toyota to buy a used car, truck, van or SUV in Salem, OR. Serving drivers near Keizer, Stayton, Monmouth and Dallas, OR. Call 855-281-1594 to test drive a used vehicle today!",
+                     "facebook-domain-verification":"5g5z7padi81jrzmojdax05a6qgford",
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1",
+                     "apple-mobile-web-app-capable":"yes",
+                     "providerid":"DDC",
+                     "og:url":"https://www.captoyota.com/used-inventory/index.htm",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.toyota.com/content/common/img/jellies/global-nav/2020/rav4/base.png",
+                     "width":"306",
+                     "type":"1",
+                     "height":"130"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Service Offers Near Tualatin, OR",
+            "htmlTitle":"Service Offers Near Tualatin, OR",
+            "link":"https://www.toyota.com/owners/parts-service/service-specials.or.tualatin",
+            "displayLink":"www.toyota.com",
+            "snippet":"Find your Toyota or Scion model so that we can personalize your experience. ... Find your Toyota or Scion model so that we can personalize your experience.",
+            "htmlSnippet":"Find your <b>Toyota or</b> Scion model so that we can personalize your experience. ... Find your <b>Toyota or</b> Scion model so that we can personalize your experience.",
+            "cacheId":"ruA5NCTc__cJ",
+            "formattedUrl":"https://www.toyota.com/owners/parts-service/service-specials.or.tualatin",
+            "htmlFormattedUrl":"https://www.toyota.com/owners/parts-service/service-specials.or.tualatin",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "viewport":"width=device-width, initial-scale=1, maximum-scale=2"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://toyota.scene7.com/is/image/toyota/serviceoffer-promo-banner-mobile?scl=1&fmt=jpeg",
+                     "width":"204",
+                     "type":"1",
+                     "height":"247"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota Parts Center | Grants Pass Toyota | Grants Pass, OR",
+            "htmlTitle":"Toyota Parts Center | Grants Pass Toyota | Grants Pass, OR",
+            "link":"https://www.grantspasstoyota.com/find-genuine-toyota-parts.html",
+            "displayLink":"www.grantspasstoyota.com",
+            "snippet":"Whether you are looking for wiper blades for your Toyota, cabin air filters for a Camry or timing belts for older Toyota vehicles, our team of trained Toyota ...",
+            "htmlSnippet":"Whether you are looking for wiper blades for your Toyota, cabin air filters for a Camry or timing belts for older Toyota vehicles, our team of trained Toyota&nbsp;...",
+            "cacheId":"06HqLyyLDmIJ",
+            "formattedUrl":"https://www.grantspasstoyota.com/find-genuine-toyota-parts.html",
+            "htmlFormattedUrl":"https://www.grantspasstoyota.com/find-genuine-toyota-parts.html",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"Find certified OEM parts that fit your specific model of car, truck, van, or SUV at the Grants Pass Toyota auto parts center near Medford, OR. Order online now!",
+                     "og:type":"website",
+                     "icbm":"42.423580169677734,-123.33502197265625",
+                     "geo.region":"US-OR",
+                     "viewport":"width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0",
+                     "og:title":"Toyota Parts Center | Grants Pass Toyota | Grants Pass, OR",
+                     "dc.title":"Toyota Parts Center | Grants Pass Toyota | Grants Pass, OR",
+                     "geo.position":"42.423580169677734,-123.33502197265625",
+                     "og:url":"https://www.grantspasstoyota.com/find-genuine-toyota-parts.html",
+                     "geo.placename":"Grants Pass",
+                     "og:description":"Find certified OEM parts that fit your specific model of car, truck, van, or SUV at the Grants Pass Toyota auto parts center near Medford, OR. Order online now!",
+                     "format-detection":"telephone=no"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"India Needs to Choose the Economy It Wants: Toyota or Pakora ...",
+            "htmlTitle":"India Needs to Choose the Economy It Wants: <b>Toyota or</b> Pakora ...",
+            "link":"https://www.bloomberg.com/opinion/articles/2020-09-20/india-needs-to-choose-the-economy-it-wants-toyota-or-pakora",
+            "displayLink":"www.bloomberg.com",
+            "snippet":"Sep 19, 2020 ... Toyota or Pakora? India Must Choose. The country should be supplanting China in manufacturing. Taxes of up to 50% on cars show how wrong ...",
+            "htmlSnippet":"Sep 19, 2020 <b>...</b> <b>Toyota or</b> Pakora? India Must Choose. The country should be supplanting China in manufacturing. Taxes of up to 50% on cars show how wrong&nbsp;...",
+            "cacheId":"HBWzxfASoQ0J",
+            "formattedUrl":"https://www.bloomberg.com/.../india-needs-to-choose-the-economy-it-wants- toyota-or-pakora",
+            "htmlFormattedUrl":"https://www.bloomberg.com/.../india-needs-to-choose-the-economy-it-wants- <b>toyota-or</b>-pakora",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWn_DywOBWbI/v1/1200x782.jpg",
+                     "twitter:card":"summary_large_image",
+                     "og:site_name":"Bloomberg.com",
+                     "sailthru.tags":"India,TOYOTA MOTOR CORP,Taxes,Narendra Damodardas Modi,Automotive,China,Government,Investing,Jobs,Drugs,view,view",
+                     "lotame-bbg-topic":"infrastructure,government,automotive,taxes,emerging-markets,brics,science,indian-politicians,consumer-discretionary,transportation",
+                     "al:android:package":"com.bloomberg.android.plus",
+                     "parsely-author":"Andy Mukherjee",
+                     "og:description":"The country should be supplanting China in manufacturing. Taxes of up to 50% on cars show how wrong things have gone.",
+                     "twitter:image":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWn_DywOBWbI/v1/1200x782.jpg",
+                     "parsely-type":"post",
+                     "twitter:site":"@bopinion",
+                     "parsely-link":"https://www.bloomberg.com/opinion/articles/2020-09-20/india-needs-to-choose-the-economy-it-wants-toyota-or-pakora",
+                     "iso-8601-publish-date":"2020-09-20T00:15:59.566Z",
+                     "sailthru.title":"Toyota or Pakora? India Must Choose",
+                     "checksum":"38c5bdab9870348c231d44bd4439ab78",
+                     "parsely-image-url":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWn_DywOBWbI/v1/1200x782.jpg",
+                     "parsely-section":"view",
+                     "article:content_tier":"metered",
+                     "fb:status":"Buying a car isn't a sin. India taxes like it is.",
+                     "sailthru.date":"2020-09-20T00:15:59.566Z",
+                     "og:type":"article",
+                     "twitter:title":"Toyota or Pakora? India Must Choose",
+                     "parsely-post-id":"QGXKQNT1UM0X01",
+                     "og:title":"Toyota or Pakora? India Must Choose",
+                     "parsely-title":"India Needs to Choose the Economy It Wants: Toyota or Pakora?",
+                     "parsely-pub-date":"2020-09-20T00:15:59.566Z",
+                     "al:android:url":"bloomberg://www.bloomberg.com/opinion/articles/2020-09-20/india-needs-to-choose-the-economy-it-wants-toyota-or-pakora?utm_medium=applink&utm_source=facebook",
+                     "lotame-bbg-category":"politics,luxury",
+                     "referrer":"unsafe-url",
+                     "parsely-tags":"India,TOYOTA MOTOR CORP,Taxes,Narendra Damodardas Modi,Automotive,China,Government,Investing,Jobs,Drugs,Secondary Brand: view,Franchise: view,Region: Global,Page: archived",
+                     "sailthru.description":"The country should be supplanting China in manufacturing. Taxes of up to 50% on cars show how wrong things have gone.",
+                     "apple-mobile-web-app-status-bar-style":"black",
+                     "viewport":"width=device-width, initial-scale=1, viewport-fit=cover",
+                     "twitter:description":"The country should be supplanting China in manufacturing. Taxes of up to 50% on cars show how wrong things have gone.",
+                     "apple-mobile-web-app-capable":"no",
+                     "og:url":"https://www.bloomberg.com/opinion/articles/2020-09-20/india-needs-to-choose-the-economy-it-wants-toyota-or-pakora",
+                     "validatedat":"2021-11-14T13:32:05.064Z",
+                     "al:android:app_name":"Bloomberg",
+                     "sailthru.author":"Andy Mukherjee",
+                     "article:opinion":"true"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWn_DywOBWbI/v1/1200x782.jpg",
+                     "width":"278",
+                     "type":"1",
+                     "height":"181"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Process Your Toyota or Lexus Lease Return With Us! | Pat Lobb ...",
+            "htmlTitle":"Process Your <b>Toyota or</b> Lexus Lease Return With Us! | Pat Lobb ...",
+            "link":"https://www.toyotaofmckinney.com/toyota-lexus-lease-return-center-dallas.htm",
+            "displayLink":"www.toyotaofmckinney.com",
+            "snippet":"Let Us Help! At Toyota of McKinney, we make lease returns easy. No matter which dealership you leased from, our team can process your Toyota or Lexus return ...",
+            "htmlSnippet":"Let Us Help! At Toyota of McKinney, we make lease returns easy. No matter which dealership you leased from, our team can process your <b>Toyota or</b> Lexus return&nbsp;...",
+            "cacheId":"u0AxsYNWl60J",
+            "formattedUrl":"https://www.toyotaofmckinney.com/toyota-lexus-lease-return-center-dallas. htm",
+            "htmlFormattedUrl":"https://www.toyotaofmckinney.com/toyota-lexus-lease-return-center-dallas. htm",
+            "pagemap":{
+               "hcard":[
+                  {
+                     "fn":"Pat Lobb Toyota of McKinney"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "expires":"never",
+                     "og:type":"website",
+                     "msvalidate.01":"00C40223CBE2D69855E6160530342A28",
+                     "author":"Pat Lobb Toyota of McKinney",
+                     "og:title":"Process Your Toyota or Lexus Lease Return With Us! | Pat Lobb Toyota of McKinney",
+                     "distribution":"global",
+                     "locale":"en_US",
+                     "facebook-domain-verification":"41mna7gvo8zyuu1ch3d5a4shobi0hv",
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1",
+                     "apple-mobile-web-app-capable":"yes",
+                     "providerid":"DDC",
+                     "og:url":"https://www.toyotaofmckinney.com/toyota-lexus-lease-return-center-dallas.htm",
+                     "format-detection":"telephone=no"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota vs. Ford Comparison in St. Louis, MO",
+            "htmlTitle":"Toyota vs. Ford Comparison in St. Louis, MO",
+            "link":"https://www.seegertoyota.com/research-toyota-vs-ford.html",
+            "displayLink":"www.seegertoyota.com",
+            "snippet":"Is Toyota or Ford More Reliable? If you want a vehicle that you can rely on, the only choice is Toyota. Consider the 2017 J.D. Power Vehicle Dependability ...",
+            "htmlSnippet":"Is <b>Toyota or</b> Ford More Reliable? If you want a vehicle that you can rely on, the only choice is Toyota. Consider the 2017 J.D. Power Vehicle Dependability&nbsp;...",
+            "cacheId":"QF4xVKsyUJEJ",
+            "formattedUrl":"https://www.seegertoyota.com/research-toyota-vs-ford.html",
+            "htmlFormattedUrl":"https://www.seegertoyota.com/research-toyota-vs-ford.html",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"Ford and Toyota are two of the most popular automotive brands in the United States. When comparing U.S. auto sales, Ford produces the number one best-selling truck while Toyota produces two of the top three best-selling cars. Let the experts at Seeger Toyota help you determine which brand fits your needs and lifestyle!",
+                     "og:type":"website",
+                     "icbm":"38.681301116943359,-90.474746704101563",
+                     "geo.region":"US-MO",
+                     "viewport":"width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0",
+                     "og:title":"Toyota vs. Ford Comparison in St. Louis, MO",
+                     "dc.title":"Toyota vs. Ford Comparison in St. Louis, MO",
+                     "geo.position":"38.681301116943359,-90.474746704101563",
+                     "og:url":"https://www.seegertoyota.com/research-toyota-vs-ford.html",
+                     "geo.placename":"St Louis",
+                     "og:description":"Ford and Toyota are two of the most popular automotive brands in the United States. When comparing U.S. auto sales, Ford produces the number one best-selling truck while Toyota produces two of the top three best-selling cars. Let the experts at Seeger Toyota help you determine which brand fits your needs and lifestyle!",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.seegertoyota.com/static/dealer-12152/944227.jpg",
+                     "width":"435",
+                     "type":"1",
+                     "height":"116"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "2":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "previousPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"535000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":1,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"535000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":11,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "nextPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"535000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":21,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "context":{
+         "title":"darik"
+      },
+      "searchInformation":{
+         "searchTime":0.32523,
+         "formattedSearchTime":"0.33",
+         "totalResults":"535000",
+         "formattedTotalResults":"535,000"
+      },
+      "items":[
+         {
+            "kind":"customsearch#result",
+            "title":"Schedule a Test Drive of a New Toyota or Used Car | Toyota City",
+            "htmlTitle":"Schedule a Test Drive of a New <b>Toyota or</b> Used Car | Toyota City",
+            "link":"https://www.toyotacityny.com/testdrive.aspx",
+            "displayLink":"www.toyotacityny.com",
+            "snippet":"Schedule an appointment to test drive a new Toyota or used car at Toyota City in Mamaroneck, NY.",
+            "htmlSnippet":"Schedule an appointment to test drive a new <b>Toyota or</b> used car at Toyota City in Mamaroneck, NY.",
+            "cacheId":"Pgf2jn5bfmkJ",
+            "formattedUrl":"https://www.toyotacityny.com/testdrive.aspx",
+            "htmlFormattedUrl":"https://www.toyotacityny.com/testdrive.aspx",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"Schedule an appointment to test drive a new Toyota or used car at Toyota City in Mamaroneck, NY",
+                     "og:type":"website",
+                     "geo.region":"US-NY",
+                     "og:title":"Schedule a Test Drive of a New Toyota or Used Car | Toyota City",
+                     "geo.position":"40.954158782958984,-73.717742919921875",
+                     "og:description":"Schedule an appointment to test drive a new Toyota or used car at Toyota City in Mamaroneck, NY",
+                     "facebook-domain-verification":"bpi4b478wswbi24cl081k75xh4gxyz",
+                     "icbm":"40.954158782958984,-73.717742919921875",
+                     "viewport":"width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0",
+                     "dc.title":"Schedule a Test Drive of a New Toyota or Used Car | Toyota City",
+                     "og:url":"https://www.toyotacityny.com/testdrive.aspx",
+                     "geo.placename":"Mamaroneck",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.toyota.com/content/common/img/jellies/global-nav/2020/rav4/base.png",
+                     "width":"306",
+                     "type":"1",
+                     "height":"130"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Schedule a Test Drive of a New Toyota or Used Car | Gatorland Toyota",
+            "htmlTitle":"Schedule a Test Drive of a New <b>Toyota or</b> Used Car | Gatorland Toyota",
+            "link":"https://www.gatorlandtoyota.com/testdrive.aspx",
+            "displayLink":"www.gatorlandtoyota.com",
+            "snippet":"Schedule an appointment to test drive a new Toyota or used car at Gatorland Toyota in Gainesville, FL.",
+            "htmlSnippet":"Schedule an appointment to test drive a new <b>Toyota or</b> used car at Gatorland Toyota in Gainesville, FL.",
+            "cacheId":"xvjsAR_h7nMJ",
+            "formattedUrl":"https://www.gatorlandtoyota.com/testdrive.aspx",
+            "htmlFormattedUrl":"https://www.gatorlandtoyota.com/testdrive.aspx",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"Schedule an appointment to test drive a new Toyota or used car at Gatorland Toyota in Gainesville, FL",
+                     "og:type":"website",
+                     "icbm":"29.680112838745117,-82.318435668945313",
+                     "geo.region":"US-FL",
+                     "viewport":"width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0",
+                     "og:title":"Schedule a Test Drive of a New Toyota or Used Car | Gatorland Toyota",
+                     "dc.title":"Schedule a Test Drive of a New Toyota or Used Car | Gatorland Toyota",
+                     "geo.position":"29.680112838745117,-82.318435668945313",
+                     "og:url":"https://www.gatorlandtoyota.com/testdrive.aspx",
+                     "geo.placename":"Gainesville",
+                     "og:description":"Schedule an appointment to test drive a new Toyota or used car at Gatorland Toyota in Gainesville, FL",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.gatorlandtoyota.com/resources/components/testDrive/images/testdrive.jpg",
+                     "width":"284",
+                     "type":"1",
+                     "height":"177"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota vs. Honda (Which Makes the Right Car for You ...",
+            "htmlTitle":"Toyota vs. Honda (Which Makes the Right Car for You ...",
+            "link":"https://www.repairsmith.com/i/blog/toyota-vs-honda-which-make-right-car/",
+            "displayLink":"www.repairsmith.com",
+            "snippet":"May 6, 2020 ... Which has lower maintenance costs, Toyota or Honda? Data shows that Toyotas and Hondas are among the least expensive cars to keep on the road ...",
+            "htmlSnippet":"May 6, 2020 <b>...</b> Which has lower maintenance costs, <b>Toyota or</b> Honda? Data shows that Toyotas and Hondas are among the least expensive cars to keep on the road&nbsp;...",
+            "cacheId":"fdwyqqQnEKQJ",
+            "formattedUrl":"https://www.repairsmith.com/i/blog/toyota-vs-honda-which-make-right-car/",
+            "htmlFormattedUrl":"https://www.repairsmith.com/i/blog/toyota-vs-honda-which-make-right-car/",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://repairsmith-prod-wordpress.s3.amazonaws.com/2020/05/R.jpg",
+                     "theme-color":"#ffb300",
+                     "og:type":"article",
+                     "article:published_time":"2020-05-06T20:44:31+00:00",
+                     "og:image:width":"1920",
+                     "twitter:card":"summary_large_image",
+                     "og:site_name":"RepairSmith",
+                     "og:title":"Toyota vs. Honda (Which Makes the Right Car for You?)",
+                     "og:image:height":"1080",
+                     "twitter:label1":"Written by",
+                     "twitter:label2":"Est. reading time",
+                     "og:description":"Toyota vs Honda is the clash of Japanese titans. They're famously reliable and sensible, but which has the right price, performance, and range to suit you?",
+                     "article:publisher":"https://www.facebook.com/Repairsmith/",
+                     "twitter:data1":"Jessica Chou",
+                     "twitter:data2":"10 minutes",
+                     "article:modified_time":"2020-09-03T00:02:18+00:00",
+                     "viewport":"width=device-width,minimum-scale=1,user-scalable=no",
+                     "og:locale":"en_US",
+                     "og:url":"https://www.repairsmith.com/i/blog/toyota-vs-honda-which-make-right-car/"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://repairsmith-prod-wordpress.s3.amazonaws.com/2020/05/R.jpg",
+                     "width":"300",
+                     "type":"1",
+                     "height":"168"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Turn In Your Subaru, Toyota, or Honda Lease | White River Subaru",
+            "htmlTitle":"Turn In Your Subaru, Toyota, or Honda Lease | White River Subaru",
+            "link":"https://www.whiteriversubaru.com/finance/subaru-lease-return.htm",
+            "displayLink":"www.whiteriversubaru.com",
+            "snippet":"We want your vehicle, so if you turn in your lease now, we will pay off your remaining lease payments up to $500. This offer is valid for any Subaru, Toyota, or ...",
+            "htmlSnippet":"We want your vehicle, so if you turn in your lease now, we will pay off your remaining lease payments up to $500. This offer is valid for any Subaru, Toyota, or&nbsp;...",
+            "cacheId":"ct9btKLqGIkJ",
+            "formattedUrl":"https://www.whiteriversubaru.com/finance/subaru-lease-return.htm",
+            "htmlFormattedUrl":"https://www.whiteriversubaru.com/finance/subaru-lease-return.htm",
+            "pagemap":{
+               "hcard":[
+                  {
+                     "fn":"White River Subaru"
+                  },
+                  {
+                     "fn":"White River Subaru"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "expires":"never",
+                     "og:type":"website",
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1",
+                     "author":"White River Subaru",
+                     "apple-mobile-web-app-capable":"yes",
+                     "providerid":"DDC",
+                     "og:title":"Turn In Your Subaru, Toyota, or Honda Lease | White River Subaru",
+                     "distribution":"global",
+                     "og:url":"https://www.whiteriversubaru.com/finance/subaru-lease-return.htm",
+                     "locale":"en_US",
+                     "og:description":"At White River Subaru, we'll accept your Subaru, Toyota, Or Honda lease & pay off any remaining payments up to $500! Call us or stop in today!",
+                     "format-detection":"telephone=no"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Suburban Toyota of Troy is your choice for anew Toyota or used car ...",
+            "htmlTitle":"Suburban Toyota of Troy is your choice for anew <b>Toyota or</b> used car ...",
+            "link":"https://www.suburbantoyotaoftroy.com/",
+            "displayLink":"www.suburbantoyotaoftroy.com",
+            "snippet":"Visit Suburban Toyota of Troy for all of your automotive needs. We buy and sell cars and have a service center to help keep you on the road.",
+            "htmlSnippet":"Visit Suburban Toyota of Troy for all of your automotive needs. We buy and sell cars and have a service center to help keep you on the road.",
+            "cacheId":"lnAXLG6aFXkJ",
+            "formattedUrl":"https://www.suburbantoyotaoftroy.com/",
+            "htmlFormattedUrl":"https://www.suburbantoyotaoftroy.com/",
+            "pagemap":{
+               "hcard":[
+                  {
+                     "fn":"Suburban Toyota of Troy"
+                  }
+               ],
+               "autodealer":[
+                  {
+                     "name":"Suburban Toyota of Troy, your Local Toyota Dealer Serving Troy and Detroit",
+                     "description":"Not only will you find Toyota models at our dealership, serving the greater Troy and Detroit areas, you'll also find a friendly and accommodating staff eager to assist you.…",
+                     "brand":"Toyota"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "expires":"never",
+                     "og:type":"website",
+                     "msvalidate.01":"00C40223CBE2D69855E6160530342A28",
+                     "author":"Suburban Toyota of Troy",
+                     "og:title":"Suburban Toyota of Troy is your choice for anew Toyota or used car in Michigan.",
+                     "distribution":"global",
+                     "locale":"en_US",
+                     "og:description":"Visit Suburban Toyota of Troy for all of your automotive needs. We buy and sell cars and have a service center to help keep you on the road. Call us today at 888-711-9404.",
+                     "viewport":"width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0",
+                     "apple-mobile-web-app-capable":"yes",
+                     "providerid":"DDC",
+                     "og:url":"https://www.suburbantoyotaoftroy.com/",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://av2-ladtech-assets-prd.constellationagency.com/order-export/7c648450-d27c-48f6-bb06-fd46dc20f988_website_order%20your%20camry%20today%20at%20suburban%20toyota%20of%20troy_456%20x%20462_2021_toyota_camry_le__1.jpg",
+                     "width":"223",
+                     "type":"1",
+                     "height":"226"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Finance a New Toyota or Used Car in Lawton, OK | Toyota of Lawton",
+            "htmlTitle":"Finance a New <b>Toyota or</b> Used Car in Lawton, OK | Toyota of Lawton",
+            "link":"https://www.toyotaoflawton.com/financing/index.htm",
+            "displayLink":"www.toyotaoflawton.com",
+            "snippet":"It's easy to buy or lease a new Toyota or used car! Apply online with the Financing Department at Toyota of Lawton Oklahoma for the best auto loan on a ...",
+            "htmlSnippet":"It&#39;s easy to buy or lease a new <b>Toyota or</b> used car! Apply online with the Financing Department at Toyota of Lawton Oklahoma for the best auto loan on a&nbsp;...",
+            "cacheId":"Id_ZsXqOpGQJ",
+            "formattedUrl":"https://www.toyotaoflawton.com/financing/index.htm",
+            "htmlFormattedUrl":"https://www.toyotaoflawton.com/financing/index.htm",
+            "pagemap":{
+               "hcard":[
+                  {
+                     "fn":"Toyota of Lawton"
+                  },
+                  {
+                     "fn":"Toyota of Lawton"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "expires":"never",
+                     "og:type":"website",
+                     "msvalidate.01":"00C40223CBE2D69855E6160530342A28",
+                     "author":"Toyota of Lawton",
+                     "og:title":"Finance a New Toyota or Used Car in Lawton, OK | Toyota of Lawton",
+                     "distribution":"global",
+                     "locale":"en_US",
+                     "og:description":"It's easy to buy or lease a new Toyota or used car! Apply online with the Financing Department at Toyota of Lawton Oklahoma for the best auto loan on a great new or used car, SUV or truck!",
+                     "facebook-domain-verification":"mh1dtgcfqrlvicvv1opxk040xwjjtr",
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1",
+                     "apple-mobile-web-app-capable":"yes",
+                     "providerid":"DDC",
+                     "og:url":"https://www.toyotaoflawton.com/financing/index.htm",
+                     "format-detection":"telephone=no"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Jeep, Subaru, Toyota or Volvo for Sale in Carson City, NV - Carson ...",
+            "htmlTitle":"Jeep, Subaru, <b>Toyota or</b> Volvo for Sale in Carson City, NV - Carson ...",
+            "link":"https://www.carsoncitytoyota.com/facebook-inventory/jeep-subaru-toyota-volvo-carson-city-nv/?cy=89701&mk=29&mk=60&mk=63&mk=65",
+            "displayLink":"www.carsoncitytoyota.com",
+            "snippet":"Jeep, Subaru, Toyota or Volvo for Sale in Carson City, NV. View our Carson City Toyota inventory to find the right vehicle to fit your style and budget!",
+            "htmlSnippet":"Jeep, Subaru, <b>Toyota or</b> Volvo for Sale in Carson City, NV. View our Carson City Toyota inventory to find the right vehicle to fit your style and budget!",
+            "cacheId":"3ZRLxh-RcTgJ",
+            "formattedUrl":"https://www.carsoncitytoyota.com/.../jeep-subaru-toyota-volvo-carson-city- nv/?...",
+            "htmlFormattedUrl":"https://www.carsoncitytoyota.com/.../jeep-subaru-toyota-volvo-carson-city- nv/?...",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "referrer":"always",
+                     "msvalidate.01":"D2E5E05AA953722B95EA98E198DFB544",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "page-category":"search",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://cloudflareimages.dealereprocess.com/resrc/images/c_limit,fl_lossy,w_180/v1/dvp/493/4692743203-aHR0cDovL2ltYWdlcy51bml0c2ludmVudG9yeS5jb20vdXBsb2Fkcy9waG90b3MvMC8yMDIxLTA3LTA1LzUzOTUzMzItZTNkZjU5ZDczYzk1Njg0MjMzNzIyODBiZTAzYTViYmUuanBn",
+                     "width":"180",
+                     "type":"1",
+                     "height":"101"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Car Loan | Finance a New Toyota or Used Car in Tacoma, WA | Titus ...",
+            "htmlTitle":"Car Loan | Finance a New <b>Toyota or</b> Used Car in Tacoma, WA | Titus ...",
+            "link":"https://www.tituswilltoyota.com/financing/index.htm",
+            "displayLink":"www.tituswilltoyota.com",
+            "snippet":"Finance your new or used Toyota car, truck, or SUV at Titus-Will Toyota. We have great finance rates available on the Toyota Tacoma, Tundra, RAV4, Camry or ...",
+            "htmlSnippet":"Finance your new or used Toyota car, truck, or SUV at Titus-Will Toyota. We have great finance rates available on the Toyota Tacoma, Tundra, RAV4, Camry or&nbsp;...",
+            "cacheId":"TxXNmm2C7m4J",
+            "formattedUrl":"https://www.tituswilltoyota.com/financing/index.htm",
+            "htmlFormattedUrl":"https://www.tituswilltoyota.com/financing/index.htm",
+            "pagemap":{
+               "hcard":[
+                  {
+                     "fn":"Titus-Will Toyota"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "expires":"never",
+                     "og:type":"website",
+                     "author":"Titus-Will Toyota",
+                     "og:title":"Car Loan | Finance a New Toyota or Used Car in Tacoma, WA | Titus-Will Toyota",
+                     "distribution":"global",
+                     "locale":"en_US",
+                     "og:description":"Finance your new or used Toyota car, truck, or SUV at Titus-Will Toyota. We have great finance rates available on the Toyota Tacoma, Tundra, RAV4, Camry or 4Runner drivers near Puyallup, Olympia, Renton, & Seattle, WA have been looking for.",
+                     "facebook-domain-verification":"5t6smoo46wfbhkkzpftzl43rowqvcw",
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1",
+                     "apple-mobile-web-app-capable":"yes",
+                     "providerid":"DDC",
+                     "og:url":"https://www.tituswilltoyota.com/financing/index.htm",
+                     "format-detection":"telephone=no"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Staff | Klamath Falls Toyota, OR Car Dealership",
+            "htmlTitle":"Staff | Klamath Falls Toyota, OR Car Dealership",
+            "link":"https://www.klamathfallstoyota.com/dealership/staff.htm",
+            "displayLink":"www.klamathfallstoyota.com",
+            "snippet":"Juan Maldonado: General Manager: JuanMaldonado@lithia.com. United Way Key Club Giver. Favorite Movie: AVATAR. Favorite Sports Team: DETROIT LIONS.",
+            "htmlSnippet":"Juan Maldonado: General Manager: JuanMaldonado@lithia.com. United Way Key Club Giver. Favorite Movie: AVATAR. Favorite Sports Team: DETROIT LIONS.",
+            "cacheId":"6UO61scb98MJ",
+            "formattedUrl":"https://www.klamathfallstoyota.com/dealership/staff.htm",
+            "htmlFormattedUrl":"https://www.klamathfallstoyota.com/dealership/staff.htm",
+            "pagemap":{
+               "hcard":[
+                  {
+                     "fn":"Juan Maldonado",
+                     "title":"General Manager"
+                  },
+                  {
+                     "fn":"Juan Lugunas",
+                     "title":"Finance Manager"
+                  },
+                  {
+                     "fn":"Chris Hinklin",
+                     "title":"Sales Manager"
+                  },
+                  {
+                     "fn":"Timothy Boozer",
+                     "title":"Sales Desk Manager"
+                  },
+                  {
+                     "fn":"Simon Smith",
+                     "title":"Finance Manager"
+                  },
+                  {
+                     "fn":"Nathan Woodruff",
+                     "title":"Sales Rep"
+                  },
+                  {
+                     "fn":"Earl Baca",
+                     "title":"Sale Rep"
+                  },
+                  {
+                     "fn":"Tanner Krag",
+                     "title":"Sale Rep"
+                  },
+                  {
+                     "fn":"Vanessa Baumgart",
+                     "title":"Sales Rep"
+                  },
+                  {
+                     "fn":"Levi Durighello",
+                     "title":"Sales Rep"
+                  }
+               ],
+               "person":[
+                  {
+                     "role":"General Manager"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "expires":"never",
+                     "og:type":"website",
+                     "msvalidate.01":"291C9BAA86C920360F736EBFE1C12A4A",
+                     "author":"Klamath Falls Toyota",
+                     "og:title":"Staff | Klamath Falls Toyota, OR Car Dealership",
+                     "distribution":"global",
+                     "locale":"en_US",
+                     "og:description":"Learn about Our Staff at your local Klamath Falls Toyota Toyota Dealership, in Klamath Falls, OR with new and used cars, trucks and SUVs",
+                     "facebook-domain-verification":"l5g608l6yfesjbmrl6yme6djqb7hd4",
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1",
+                     "apple-mobile-web-app-capable":"yes",
+                     "providerid":"DDC",
+                     "og:url":"https://www.klamathfallstoyota.com/dealership/staff.htm",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://pictures.dealer.com/l/lithiatoyotaofklamathfalls/0434/5b3e303ffe867d79bdadea45659bc8b9x.jpg?impolicy=resize&w=250",
+                     "width":"250",
+                     "type":"1",
+                     "height":"168"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Schedule a Test Drive of a New Toyota or Used Car | Karl Malone ...",
+            "htmlTitle":"Schedule a Test Drive of a New <b>Toyota or</b> Used Car | Karl Malone ...",
+            "link":"https://www.karlmalonetoyotaofruston.com/testdrive.aspx",
+            "displayLink":"www.karlmalonetoyotaofruston.com",
+            "snippet":"Schedule an appointment to test drive a new Toyota or used car at Karl Malone Toyota of Ruston in Ruston, LA.",
+            "htmlSnippet":"Schedule an appointment to test drive a new <b>Toyota or</b> used car at Karl Malone Toyota of Ruston in Ruston, LA.",
+            "cacheId":"8EgJxKx1whoJ",
+            "formattedUrl":"https://www.karlmalonetoyotaofruston.com/testdrive.aspx",
+            "htmlFormattedUrl":"https://www.karlmalonetoyotaofruston.com/testdrive.aspx",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"Schedule an appointment to test drive a new Toyota or used car at Karl Malone Toyota of Ruston in Ruston, LA",
+                     "og:type":"website",
+                     "icbm":"32.541519165039062,-92.625984191894531",
+                     "geo.region":"US-LA",
+                     "viewport":"width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0",
+                     "og:title":"Schedule a Test Drive of a New Toyota or Used Car | Karl Malone Toyota of Ruston",
+                     "dc.title":"Schedule a Test Drive of a New Toyota or Used Car | Karl Malone Toyota of Ruston",
+                     "geo.position":"32.541519165039062,-92.625984191894531",
+                     "og:url":"https://www.karlmalonetoyotaofruston.com/testdrive.aspx",
+                     "geo.placename":"Ruston",
+                     "og:description":"Schedule an appointment to test drive a new Toyota or used car at Karl Malone Toyota of Ruston in Ruston, LA",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.karlmalonetoyotaofruston.com/resources/components/testDrive/images/testdrive.jpg",
+                     "width":"284",
+                     "type":"1",
+                     "height":"177"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "3":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "previousPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"639000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":11,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"639000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":21,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "nextPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"639000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":31,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "context":{
+         "title":"darik"
+      },
+      "searchInformation":{
+         "searchTime":0.324379,
+         "formattedSearchTime":"0.32",
+         "totalResults":"639000",
+         "formattedTotalResults":"639,000"
+      },
+      "items":[
+         {
+            "kind":"customsearch#result",
+            "title":"Schedule a Test Drive of a New Toyota or Used Car | Karl Malone ...",
+            "htmlTitle":"Schedule a Test Drive of a New <b>Toyota or</b> Used Car | Karl Malone ...",
+            "link":"https://www.karlmalonetoyotaofruston.com/testdrive.aspx",
+            "displayLink":"www.karlmalonetoyotaofruston.com",
+            "snippet":"Schedule an appointment to test drive a new Toyota or used car at Karl Malone Toyota of Ruston in Ruston, LA.",
+            "htmlSnippet":"Schedule an appointment to test drive a new <b>Toyota or</b> used car at Karl Malone Toyota of Ruston in Ruston, LA.",
+            "cacheId":"8EgJxKx1whoJ",
+            "formattedUrl":"https://www.karlmalonetoyotaofruston.com/testdrive.aspx",
+            "htmlFormattedUrl":"https://www.karlmalonetoyotaofruston.com/testdrive.aspx",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"Schedule an appointment to test drive a new Toyota or used car at Karl Malone Toyota of Ruston in Ruston, LA",
+                     "og:type":"website",
+                     "icbm":"32.541519165039062,-92.625984191894531",
+                     "geo.region":"US-LA",
+                     "viewport":"width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0",
+                     "og:title":"Schedule a Test Drive of a New Toyota or Used Car | Karl Malone Toyota of Ruston",
+                     "dc.title":"Schedule a Test Drive of a New Toyota or Used Car | Karl Malone Toyota of Ruston",
+                     "geo.position":"32.541519165039062,-92.625984191894531",
+                     "og:url":"https://www.karlmalonetoyotaofruston.com/testdrive.aspx",
+                     "geo.placename":"Ruston",
+                     "og:description":"Schedule an appointment to test drive a new Toyota or used car at Karl Malone Toyota of Ruston in Ruston, LA",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.karlmalonetoyotaofruston.com/resources/components/testDrive/images/testdrive.jpg",
+                     "width":"284",
+                     "type":"1",
+                     "height":"177"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"10 Things About TFS - Toyota USA Newsroom",
+            "htmlTitle":"10 Things About TFS - Toyota USA Newsroom",
+            "link":"https://pressroom.toyota.com/10-things-about-tfs/",
+            "displayLink":"pressroom.toyota.com",
+            "snippet":"Aug 12, 2019 ... Just because TFS is a Toyota company, doesn't mean a customer has to finance their Toyota or Lexus vehicle with TFS.",
+            "htmlSnippet":"Aug 12, 2019 <b>...</b> Just because TFS is a Toyota company, doesn&#39;t mean a customer has to finance their <b>Toyota or</b> Lexus vehicle with TFS.",
+            "cacheId":"39ujcutIba0J",
+            "formattedUrl":"https://pressroom.toyota.com/10-things-about-tfs/",
+            "htmlFormattedUrl":"https://pressroom.toyota.com/10-things-about-tfs/",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:type":"article",
+                     "article:published_time":"2019-08-12T17:00:42+00:00",
+                     "twitter:card":"summary_large_image",
+                     "og:site_name":"Toyota USA Newsroom",
+                     "og:title":"10 Things About TFS - Toyota USA Newsroom",
+                     "twitter:label1":"Written by",
+                     "twitter:label2":"Est. reading time",
+                     "og:description":"1. Its official name is Toyota Motor Credit Corporation. A lot of people don’t go by their real names. Marilyn Monroe was really Norma Jean Mortensen. Samuel Langhorne Clemens wrote as Mark Twain. In that vein, Toyota Financial Services (TFS) […]",
+                     "twitter:image":"https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2019/08/1TFSjpg.jpg",
+                     "twitter:data1":"Amy Nguyen",
+                     "twitter:data2":"4 minutes",
+                     "article:modified_time":"2021-04-15T21:23:09+00:00",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "og:locale":"en_US",
+                     "og:url":"https://pressroom.toyota.com/10-things-about-tfs/"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2019/08/1TFSjpg.jpg",
+                     "width":"296",
+                     "type":"1",
+                     "height":"170"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"SuperTech 3310 Engine Air Filter, Replacement Filter for Toyota or ...",
+            "htmlTitle":"SuperTech 3310 Engine Air Filter, Replacement Filter for <b>Toyota or</b> ...",
+            "link":"https://www.walmart.com/ip/SuperTech-3310-Engine-Air-Filter-Replacement-Filter-for-Toyota-or-Jeep/600082072",
+            "displayLink":"www.walmart.com",
+            "snippet":"If you need a replacement air filter for your Toyota or Jeep, look no further than this SuperTech 3310. Get SuperTech oil, air, and cabin filters right here on ...",
+            "htmlSnippet":"If you need a replacement air filter for your <b>Toyota or</b> Jeep, look no further than this SuperTech 3310. Get SuperTech oil, air, and cabin filters right here on&nbsp;...",
+            "cacheId":"r53EsHSh2nkJ",
+            "formattedUrl":"https://www.walmart.com/ip/SuperTech-3310...Toyota-or.../600082072",
+            "htmlFormattedUrl":"https://www.walmart.com/ip/SuperTech-3310...<b>Toyota-or</b>.../600082072",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://i5.walmartimages.com/asr/66dd3654-50d5-45e4-97b5-7efa5c64bca9_1.9a21a961ea5a8c2b2bda06c910e17311.jpeg",
+                     "next-head-count":"17",
+                     "fb:app_id":"105223049547814",
+                     "og:type":"product.item",
+                     "og:site_name":"Walmart.com",
+                     "viewport":"width=device-width",
+                     "og:title":"SuperTech 3310 Engine Air Filter, Replacement Filter for Toyota or Jeep - Walmart.com",
+                     "og:url":"https://www.walmart.com/ip/SuperTech-3310-Engine-Air-Filter-Replacement-Filter-for-Toyota-or-Jeep/600082072",
+                     "og:description":"Arrives by tomorrow Buy SuperTech 3310 Engine Air Filter, Replacement Filter for Toyota or Jeep at Walmart.com"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://i5.walmartimages.com/asr/66dd3654-50d5-45e4-97b5-7efa5c64bca9_1.9a21a961ea5a8c2b2bda06c910e17311.jpeg",
+                     "width":"225",
+                     "type":"1",
+                     "height":"225"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Denny Menholt Toyota | New & Used Toyota Dealer in Rapid City, SD",
+            "htmlTitle":"Denny Menholt Toyota | New &amp; Used Toyota Dealer in Rapid City, SD",
+            "link":"https://www.dennymenholttoyota.com/",
+            "displayLink":"www.dennymenholttoyota.com",
+            "snippet":"Stop by Denny Menholt Toyota or search our online inventory to find the used car, truck, or SUV that is right for you. We have used cars, trucks, and SUVs ...",
+            "htmlSnippet":"Stop by Denny Menholt <b>Toyota or</b> search our online inventory to find the used car, truck, or SUV that is right for you. We have used cars, trucks, and SUVs&nbsp;...",
+            "cacheId":"QS8-nrnLG5EJ",
+            "formattedUrl":"https://www.dennymenholttoyota.com/",
+            "htmlFormattedUrl":"https://www.dennymenholttoyota.com/",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "referrer":"always",
+                     "msvalidate.01":"D2E5E05AA953722B95EA98E198DFB544",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "page-category":"home",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.dennymenholttoyota.com/assets/d649/img/cta-schedule-service.jpg",
+                     "width":"250",
+                     "type":"1",
+                     "height":"202"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Financing Application in Waterford, MI | Finance a New Toyota or ...",
+            "htmlTitle":"Financing Application in Waterford, MI | Finance a New <b>Toyota or</b> ...",
+            "link":"https://www.szottm59toyota.com/finance-application.htm",
+            "displayLink":"www.szottm59toyota.com",
+            "snippet":"When making that next step and purchasing a new Toyota or used car in the greater Detroit area, look no further than the Szott M-59 Toyota financing ...",
+            "htmlSnippet":"When making that next step and purchasing a new <b>Toyota or</b> used car in the greater Detroit area, look no further than the Szott M-59 Toyota financing&nbsp;...",
+            "cacheId":"r-44xF1NXp0J",
+            "formattedUrl":"https://www.szottm59toyota.com/finance-application.htm",
+            "htmlFormattedUrl":"https://www.szottm59toyota.com/finance-application.htm",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "expires":"never",
+                     "og:type":"website",
+                     "msvalidate.01":"662F8D33C6B3379BE3EF3189C970D3E6",
+                     "author":"Szott M-59 Toyota",
+                     "og:title":"Financing Application in Waterford, MI | Finance a New Toyota or Used Car near Detroit, Bloomfield and Rochester, MI",
+                     "distribution":"global",
+                     "locale":"en_US",
+                     "og:description":"When making that next step and purchasing a new Toyota or used car in the greater Detroit area, look no further than the Szott M-59 Toyota financing department.  Fill out this application to drive off our lot with a new or used car today.",
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1",
+                     "apple-mobile-web-app-capable":"yes",
+                     "providerid":"DDC",
+                     "og:url":"https://www.szottm59toyota.com/finance-application.htm",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.routeone.net/XRD/getMicrositeImage?page=home&image=body&entityRteOneId=HP1BM&language=en&country=US&entityType=DEALER&productRteOneId=XRDSTNDRD",
+                     "width":"292",
+                     "type":"1",
+                     "height":"173"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Schedule a Test Drive of a New Toyota or Used Car | Toyota of ...",
+            "htmlTitle":"Schedule a Test Drive of a New <b>Toyota or</b> Used Car | Toyota of ...",
+            "link":"https://www.toyotaofdartmouth.com/testdrive.aspx",
+            "displayLink":"www.toyotaofdartmouth.com",
+            "snippet":"Schedule an appointment to test drive a new Toyota or used car at Toyota of Dartmouth in North Dartmouth, MA.",
+            "htmlSnippet":"Schedule an appointment to test drive a new <b>Toyota or</b> used car at Toyota of Dartmouth in North Dartmouth, MA.",
+            "cacheId":"SbAu3z6MIvcJ",
+            "formattedUrl":"https://www.toyotaofdartmouth.com/testdrive.aspx",
+            "htmlFormattedUrl":"https://www.toyotaofdartmouth.com/testdrive.aspx",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"Schedule an appointment to test drive a new Toyota or used car at Toyota of Dartmouth in North Dartmouth, MA",
+                     "og:type":"website",
+                     "geo.region":"US-MA",
+                     "og:title":"Schedule a Test Drive of a New Toyota or Used Car | Toyota of Dartmouth",
+                     "geo.position":"41.648544311523438,-70.986717224121094",
+                     "og:description":"Schedule an appointment to test drive a new Toyota or used car at Toyota of Dartmouth in North Dartmouth, MA",
+                     "facebook-domain-verification":"l4ealrwznalsijapz6ysfv1413go8n",
+                     "icbm":"41.648544311523438,-70.986717224121094",
+                     "viewport":"width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0",
+                     "dc.title":"Schedule a Test Drive of a New Toyota or Used Car | Toyota of Dartmouth",
+                     "og:url":"https://www.toyotaofdartmouth.com/testdrive.aspx",
+                     "geo.placename":"North Dartmouth",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.toyotaofdartmouth.com/resources/components/testDrive/images/testdrive.jpg",
+                     "width":"284",
+                     "type":"1",
+                     "height":"177"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"GMC, Toyota or Volkswagen for Sale in Pasadena, CA - Honda Of ...",
+            "htmlTitle":"GMC, <b>Toyota or</b> Volkswagen for Sale in Pasadena, CA - Honda Of ...",
+            "link":"https://www.hondaofpasadena.com/facebook-inventory/gmc-toyota-volkswagen-pasadena-ca/?cy=91102&mk=22&mk=63&mk=64",
+            "displayLink":"www.hondaofpasadena.com",
+            "snippet":"GMC, Toyota or Volkswagen for Sale in Pasadena, CA. View our Honda Of Pasadena inventory to find the right vehicle to fit your style and budget!",
+            "htmlSnippet":"GMC, <b>Toyota or</b> Volkswagen for Sale in Pasadena, CA. View our Honda Of Pasadena inventory to find the right vehicle to fit your style and budget!",
+            "cacheId":"d690hc93GMYJ",
+            "formattedUrl":"https://www.hondaofpasadena.com/.../gmc-toyota-volkswagen-pasadena-ca/? ...",
+            "htmlFormattedUrl":"https://www.hondaofpasadena.com/.../gmc-toyota-volkswagen-pasadena-ca/? ...",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "referrer":"always",
+                     "msvalidate.01":"D2E5E05AA953722B95EA98E198DFB544",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "page-category":"search",
+                     "dealerid":"208143",
+                     "providerid":"DealereProcess",
+                     "format-detection":"telephone=no"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Order Toyota Accessories in Miamisburg, OH | Customize Your ...",
+            "htmlTitle":"Order Toyota Accessories in Miamisburg, OH | Customize Your ...",
+            "link":"https://www.walkertoyota.com/accessories/",
+            "displayLink":"www.walkertoyota.com",
+            "snippet":"Personalize your Toyota or Scion by ordering accessories from Walker Toyota. Contact our Toyota parts department in Miamisburg to place your order!",
+            "htmlSnippet":"Personalize your <b>Toyota or</b> Scion by ordering accessories from Walker Toyota. Contact our Toyota parts department in Miamisburg to place your order!",
+            "cacheId":"5KJNosqbOZsJ",
+            "formattedUrl":"https://www.walkertoyota.com/accessories/",
+            "htmlFormattedUrl":"https://www.walkertoyota.com/accessories/",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:street-address":"8457 N Springboro Pike",
+                     "og:image":"https://di-uploads-development.dealerinspire.com/walkertoyota/uploads/2019/02/WalkerToyotaOGIMage.png",
+                     "place:location:longitude":"-84.225375",
+                     "twitter:card":"summary_large_image",
+                     "og:site_name":"Walker Toyota",
+                     "business:contact_data:locality":"Miamisburg",
+                     "og:email":"contact@walkerautogroup.com",
+                     "place:location:latitude":"39.635810",
+                     "og:locality":"Miamisburg",
+                     "og:description":"Personalize your Toyota or Scion by ordering accessories from Walker Toyota. Contact our Toyota parts department in Miamisburg to place your order!",
+                     "article:publisher":"https://www.facebook.com/WalkerToyota/",
+                     "og:image:secure_url":"https://di-uploads-development.dealerinspire.com/walkertoyota/uploads/2019/02/WalkerToyotaOGIMage.png",
+                     "twitter:image":"https://di-uploads-development.dealerinspire.com/walkertoyota/uploads/2019/02/WalkerToyotaOGIMage.png",
+                     "og:phone_number":"877-605-6576",
+                     "twitter:site":"@https://twitter.com/WalkerToyota",
+                     "og:longitude":"-84.225375",
+                     "og:country-name":"US",
+                     "og:region":"OH",
+                     "business:contact_data:postal_code":"45342",
+                     "og:type":"article",
+                     "twitter:title":"Order Toyota Accessories in Miamisburg, OH | Customize Your Toyota or Scion",
+                     "business:contact_data:region":"OH",
+                     "business:contact_data:email":"contact@walkerautogroup.com",
+                     "business:contact_data:phone_number":"877-605-6576",
+                     "og:title":"Order Toyota Accessories in Miamisburg, OH | Customize Your Toyota or Scion",
+                     "og:latitude":"39.635810",
+                     "og:postal-code":"45342",
+                     "viewport":"width=device-width,minimum-scale=1,initial-scale=1, user-scalable=no, maximum-scale=1, height=device-height",
+                     "twitter:description":"Personalize your Toyota or Scion by ordering accessories from Walker Toyota. Contact our Toyota parts department in Miamisburg to place your order!",
+                     "business:contact_data:country":"US",
+                     "business:contact_data:street_address":"8457 N Springboro Pike",
+                     "og:url":"https://www.walkertoyota.com/accessories/"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://di-uploads-development.dealerinspire.com/walkertoyota/uploads/2019/02/WalkerToyotaOGIMage.png",
+                     "width":"200",
+                     "type":"1",
+                     "height":"200"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Schedule a Test Drive of a New Toyota or Used Car ... - Greenwood",
+            "htmlTitle":"Schedule a Test Drive of a New <b>Toyota or</b> Used Car ... - Greenwood",
+            "link":"https://www.ballentinetoyota.com/testdrive.aspx",
+            "displayLink":"www.ballentinetoyota.com",
+            "snippet":"Schedule an appointment to test drive a new Toyota or used car at Ballentine Toyota in Greenwood, SC.",
+            "htmlSnippet":"Schedule an appointment to test drive a new <b>Toyota or</b> used car at Ballentine Toyota in Greenwood, SC.",
+            "cacheId":"Ii4PxjJ2GxoJ",
+            "formattedUrl":"https://www.ballentinetoyota.com/testdrive.aspx",
+            "htmlFormattedUrl":"https://www.ballentinetoyota.com/testdrive.aspx",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"Schedule an appointment to test drive a new Toyota or used car at Ballentine Toyota in Greenwood, SC",
+                     "og:type":"website",
+                     "viewport":"width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0",
+                     "og:title":"Schedule a Test Drive of a New Toyota or Used Car | Ballentine Toyota",
+                     "dc.title":"Schedule a Test Drive of a New Toyota or Used Car | Ballentine Toyota",
+                     "og:url":"https://www.ballentinetoyota.com/testdrive.aspx",
+                     "og:description":"Schedule an appointment to test drive a new Toyota or used car at Ballentine Toyota in Greenwood, SC",
+                     "format-detection":"telephone=no"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.ballentinetoyota.com/resources/components/testDrive/images/testdrive.jpg",
+                     "width":"284",
+                     "type":"1",
+                     "height":"177"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota or Lexus [Explicit] by Jf Million Air on Amazon Music ...",
+            "htmlTitle":"<b>Toyota or</b> Lexus [Explicit] by Jf Million Air on Amazon Music ...",
+            "link":"https://www.amazon.com/Toyota-or-Lexus-Explicit/dp/B085RQ4725",
+            "displayLink":"www.amazon.com",
+            "snippet":"Check out Toyota or Lexus [Explicit] by Jf Million Air on Amazon Music. Stream ad-free or purchase CD's and MP3s now on Amazon.com.",
+            "htmlSnippet":"Check out <b>Toyota or</b> Lexus [Explicit] by Jf Million Air on Amazon Music. Stream ad-free or purchase CD&#39;s and MP3s now on Amazon.com.",
+            "cacheId":"2kFZlgLxUfYJ",
+            "formattedUrl":"https://www.amazon.com/Toyota-or-Lexus-Explicit/dp/B085RQ4725",
+            "htmlFormattedUrl":"https://www.amazon.com/<b>Toyota-or</b>-Lexus-Explicit/dp/B085RQ4725",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://images-na.ssl-images-amazon.com/images/I/61bHsl-UPrL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                     "og:title":"Toyota or Lexus [Explicit]",
+                     "og:url":"https://www.amazon.com/dp/B085RQ4725/ref=tsm_1_fb_lk",
+                     "title":"Toyota or Lexus [Explicit] by Jf Million Air on Amazon Music - Amazon.com",
+                     "og:description":"Toyota or Lexus [Explicit]"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://m.media-amazon.com/images/I/91jF57glDEL._SS500_.jpg",
+                     "width":"225",
+                     "type":"1",
+                     "height":"225"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "4":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "previousPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"638000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":21,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"638000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":31,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "nextPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"638000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":41,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "context":{
+         "title":"darik"
+      },
+      "searchInformation":{
+         "searchTime":0.29873,
+         "formattedSearchTime":"0.30",
+         "totalResults":"638000",
+         "formattedTotalResults":"638,000"
+      },
+      "items":[
+         {
+            "kind":"customsearch#result",
+            "title":"Schedule a Test Drive of a New Toyota or Used Car",
+            "htmlTitle":"Schedule a Test Drive of a New <b>Toyota or</b> Used Car",
+            "link":"https://www.bryaneaslertoyota.com/testdrive.aspx",
+            "displayLink":"www.bryaneaslertoyota.com",
+            "snippet":"Schedule an appointment to test drive a new Toyota or used car at Bryan Easler Toyota in Hendersonville, NC.",
+            "htmlSnippet":"Schedule an appointment to test drive a new <b>Toyota or</b> used car at Bryan Easler Toyota in Hendersonville, NC.",
+            "cacheId":"kxod75qULCsJ",
+            "formattedUrl":"https://www.bryaneaslertoyota.com/testdrive.aspx",
+            "htmlFormattedUrl":"https://www.bryaneaslertoyota.com/testdrive.aspx",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"Schedule an appointment to test drive a new Toyota or used car at Bryan Easler Toyota in Hendersonville, NC",
+                     "og:type":"website",
+                     "viewport":"width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0",
+                     "og:title":"Schedule a Test Drive of a New Toyota or Used Car | Bryan Easler Toyota",
+                     "dc.title":"Schedule a Test Drive of a New Toyota or Used Car | Bryan Easler Toyota",
+                     "og:url":"https://www.bryaneaslertoyota.com/testdrive.aspx",
+                     "og:description":"Schedule an appointment to test drive a new Toyota or used car at Bryan Easler Toyota in Hendersonville, NC",
+                     "format-detection":"telephone=no",
+                     "facebook-domain-verification":"p1i1mn7jxzpua8hftay6z53sj83ve9"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.bryaneaslertoyota.com/resources/components/testDrive/images/testdrive.jpg",
+                     "width":"284",
+                     "type":"1",
+                     "height":"177"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota exec defends higher incentive levels in US | Reuters",
+            "htmlTitle":"Toyota exec defends higher incentive levels in US | Reuters",
+            "link":"https://www.reuters.com/article/toyota-incentives/toyota-exec-defends-higher-incentive-levels-in-us-idUKN0410326920110205",
+            "displayLink":"www.reuters.com",
+            "snippet":"Feb 4, 2011 ... Carter said that he does not expect a major escalation of auto prices at Toyota or in the U.S. market in general. Auto prices as measured as ...",
+            "htmlSnippet":"Feb 4, 2011 <b>...</b> Carter said that he does not expect a major escalation of auto prices at <b>Toyota or</b> in the U.S. market in general. Auto prices as measured as&nbsp;...",
+            "cacheId":"f6PhR4gQPD4J",
+            "formattedUrl":"https://www.reuters.com/.../toyota-exec-defends-higher-incentive-levels-in-us -idUKN0410326920110205",
+            "htmlFormattedUrl":"https://www.reuters.com/.../toyota-exec-defends-higher-incentive-levels-in-us -idUKN0410326920110205",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                     "twitter:card":"summary_large_image",
+                     "og:site_name":"U.S.",
+                     "og:article:modified_time":"2011-02-05T05:22:53Z",
+                     "analyticsattributes.topicchannel":"Markets",
+                     "analyticsattributes.backendchannellist":"governmentFilingsNews;rbssConsumerGoodsAndRetailNews;cyclicalConsumerGoodsSector",
+                     "twitter:creator":"@Reuters",
+                     "og:description":"* Seven new or revamped Toyota brand products in US in '11",
+                     "article:publisher":"https://www.facebook.com/Reuters",
+                     "revision_date":"2011-02-05T05:22:53Z",
+                     "og:article:section":"Cyclical Consumer Goods",
+                     "analyticsattributes.articledate":"2011-02-05T05:22:53Z",
+                     "dcsext.dartzone":"reuters.com/sectors/cyclicals/article",
+                     "author":"Bernie Woodall",
+                     "analyticsattributes.keywords":"TOYOTA/INCENTIVES",
+                     "og:article:published_time":"2011-02-05T05:24:37Z",
+                     "og:article:tag":"TOYOTA/INCENTIVES",
+                     "twitter:image:src":"https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                     "analyticsattributes.topicsubchannel":"Sectors",
+                     "analyticsattributes.edition":"us",
+                     "og:locale":"en_US",
+                     "dcsext.contentchannel":"cyclicalConsumerGoodsSector",
+                     "analyticsattributes.contenttype":"Article",
+                     "sailthru.image.full":"https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                     "sailthru.author":"Bernie Woodall",
+                     "msapplication-config":"none",
+                     "analyticsattributes.title":"Toyota exec defends higher incentive levels in US",
+                     "theme-color":"#ffffff",
+                     "twitter:image":"https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                     "twitter:site":"@Reuters",
+                     "news_keywords":"TOYOTA/INCENTIVES",
+                     "sailthru.title":"Toyota exec defends higher incentive levels in US",
+                     "analyticsattributes.contenttitle":"Toyota exec defends higher incentive levels in US",
+                     "analyticsattributes.canonicalurl":"https://www.reuters.com/article/toyota-incentives-idUKN0410326920110205",
+                     "analyticsattributes.channel":"Article - Markets",
+                     "og:article:author":"Bernie Woodall",
+                     "msapplication-tilecolor":"#ff8000",
+                     "sailthru.date":"2011-02-05T05:22:53Z",
+                     "og:type":"article",
+                     "twitter:title":"Toyota exec defends higher incentive levels in US",
+                     "og:title":"Toyota exec defends higher incentive levels in US",
+                     "dcsext.channellist":"governmentFilingsNews;rbssConsumerGoodsAndRetailNews;cyclicalConsumerGoodsSector",
+                     "analyticsattributes.keywordslug":"TOYOTA/INCENTIVES",
+                     "analyticsattributes.author":"Bernie Woodall",
+                     "analyticsattributes.contentchannel":"Markets - Sectors",
+                     "sailthru.description":"* Seven new or revamped Toyota brand products in US in '11",
+                     "fb:app_id":"988502044532272",
+                     "viewport":"width=device-width",
+                     "twitter:description":"* Seven new or revamped Toyota brand products in US in '11",
+                     "og:url":"https://www.reuters.com/article/toyota-incentives-idUKN0410326920110205"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                     "width":"310",
+                     "type":"1",
+                     "height":"163"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota, Honda; down, but not out | Reuters",
+            "htmlTitle":"Toyota, Honda; down, but not out | Reuters",
+            "link":"https://www.reuters.com/article/us-autos-japan/toyota-honda-down-but-not-out-idUSTRE4BA4N720081211",
+            "displayLink":"www.reuters.com",
+            "snippet":"Dec 11, 2008 ... “This is not a buying time for either Toyota or Honda,” said Mitsushige Akino, chief fund manager at Ichiyoshi Investment Management.",
+            "htmlSnippet":"Dec 11, 2008 <b>...</b> “This is not a buying time for either <b>Toyota or</b> Honda,” said Mitsushige Akino, chief fund manager at Ichiyoshi Investment Management.",
+            "cacheId":"NvVqECVWbDEJ",
+            "formattedUrl":"https://www.reuters.com/.../toyota-honda-down-but-not-out- idUSTRE4BA4N720081211",
+            "htmlFormattedUrl":"https://www.reuters.com/.../toyota-honda-down-but-not-out- idUSTRE4BA4N720081211",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://static.reuters.com/resources/r/?m=02&d=20081211&t=2&i=7184206&r=2008-12-11T161044Z_01_BTRE4BA18Y200_RTROPTP_0_AUTOS&w=800",
+                     "twitter:card":"summary_large_image",
+                     "og:site_name":"U.S.",
+                     "og:article:modified_time":"2008-12-11T16:43:47Z",
+                     "analyticsattributes.topicchannel":"News - Reuters Edge",
+                     "analyticsattributes.backendchannellist":"reutersEdge",
+                     "twitter:creator":"@Reuters",
+                     "og:description":"Japanese auto stocks have been pummeled this year by a sharp global slide in car demand as consumers either put off buying big-ticket items or face tighter credit due to the financial crisis.",
+                     "article:publisher":"https://www.facebook.com/Reuters",
+                     "revision_date":"2008-12-11T16:43:47Z",
+                     "og:article:section":"Reuters Edge",
+                     "analyticsattributes.articledate":"2008-12-11T16:43:47Z",
+                     "dcsext.dartzone":"reuters.com/world/article",
+                     "author":"Chang-Ran Kim, Asia autos correspondent",
+                     "analyticsattributes.keywords":"US,AUTOS,JAPAN",
+                     "og:article:published_time":"2008-12-11T16:15:05Z",
+                     "og:article:tag":"US,AUTOS,JAPAN",
+                     "twitter:image:src":"https://static.reuters.com/resources/r/?m=02&d=20081211&t=2&i=7184206&r=2008-12-11T161044Z_01_BTRE4BA18Y200_RTROPTP_0_AUTOS&w=800",
+                     "analyticsattributes.topicsubchannel":"reutersEdge",
+                     "analyticsattributes.edition":"us",
+                     "og:locale":"en_US",
+                     "dcsext.contentchannel":"reutersEdge",
+                     "analyticsattributes.contenttype":"Article",
+                     "sailthru.image.full":"https://static.reuters.com/resources/r/?m=02&d=20081211&t=2&i=7184206&r=2008-12-11T161044Z_01_BTRE4BA18Y200_RTROPTP_0_AUTOS&w=800",
+                     "sailthru.author":"Chang-Ran Kim, Asia autos correspondent",
+                     "msapplication-config":"none",
+                     "analyticsattributes.title":"Toyota, Honda; down, but not out",
+                     "theme-color":"#ffffff",
+                     "twitter:image":"https://static.reuters.com/resources/r/?m=02&d=20081211&t=2&i=7184206&r=2008-12-11T161044Z_01_BTRE4BA18Y200_RTROPTP_0_AUTOS&w=800",
+                     "twitter:site":"@Reuters",
+                     "news_keywords":"US;AUTOS;JAPAN",
+                     "sailthru.title":"Toyota, Honda; down, but not out",
+                     "analyticsattributes.contenttitle":"Toyota, Honda; down, but not out",
+                     "analyticsattributes.canonicalurl":"https://www.reuters.com/article/us-autos-japan-idUSTRE4BA4N720081211",
+                     "analyticsattributes.channel":"News",
+                     "og:article:author":"Chang-Ran Kim, Asia autos correspondent",
+                     "msapplication-tilecolor":"#ff8000",
+                     "sailthru.date":"2008-12-11T16:43:47Z",
+                     "og:type":"article",
+                     "twitter:title":"Toyota, Honda; down, but not out",
+                     "og:title":"Toyota, Honda; down, but not out",
+                     "dcsext.channellist":"reutersEdge",
+                     "analyticsattributes.inlinetype":"Image",
+                     "analyticsattributes.keywordslug":"US-AUTOS-JAPAN",
+                     "analyticsattributes.author":"Chang-Ran Kim, Asia autos correspondent",
+                     "analyticsattributes.contentchannel":"News - Reuters Edge - reutersEdge",
+                     "sailthru.description":"Japanese auto stocks have been pummeled this year by a sharp global slide in car demand as consumers either put off buying big-ticket items or face tighter credit due to the financial crisis.",
+                     "viewport":"width=device-width",
+                     "twitter:description":"Japanese auto stocks have been pummeled this year by a sharp global slide in car demand as consumers either put off buying big-ticket items or face tighter credit due to the financial crisis.",
+                     "og:url":"https://www.reuters.com/article/us-autos-japan-idUSTRE4BA4N720081211"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://static.reuters.com/resources/r/?m=02&d=20081211&t=2&i=7184206&r=2008-12-11T161044Z_01_BTRE4BA18Y200_RTROPTP_0_AUTOS&w=800",
+                     "width":"288",
+                     "type":"1",
+                     "height":"175"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Luca|Frums on Twitter: \"@rysimmons I figured Toyota or some other ...",
+            "htmlTitle":"Luca|Frums on Twitter: &quot;@rysimmons I figured <b>Toyota or</b> some other ...",
+            "link":"https://twitter.com/encorestage/status/1144286604158050305",
+            "displayLink":"twitter.com",
+            "snippet":"Jun 27, 2019 ... got another capitalism greatest hit. i will give you one hundred thousand dollars if you can guess the brand by the end. Embedded video.",
+            "htmlSnippet":"Jun 27, 2019 <b>...</b> got another capitalism greatest hit. i will give you one hundred thousand dollars if you can guess the brand by the end. Embedded video.",
+            "cacheId":"A8umaoRzNtMJ",
+            "formattedUrl":"https://twitter.com/encorestage/status/1144286604158050305",
+            "htmlFormattedUrl":"https://twitter.com/encorestage/status/1144286604158050305",
+            "pagemap":{
+               "person":[
+                  {
+                     "identifier":"943201",
+                     "givenname":"Ryan",
+                     "disambiguatingdescription":"verified",
+                     "additionalname":"rysimmons"
+                  },
+                  {
+                     "identifier":"178404628",
+                     "givenname":"Luca|Frums",
+                     "additionalname":"encorestage"
+                  }
+               ],
+               "interactioncounter":[
+                  {
+                     "userinteractioncount":"119518",
+                     "interactiontype":"https://schema.org/LikeAction",
+                     "name":"Likes",
+                     "url":"https://twitter.com/rysimmons/status/1144283018825277440/likes"
+                  },
+                  {
+                     "userinteractioncount":"36737",
+                     "interactiontype":"https://schema.org/InteractAction",
+                     "name":"Retweets",
+                     "url":"https://twitter.com/rysimmons/status/1144283018825277440/retweets"
+                  },
+                  {
+                     "userinteractioncount":"20903",
+                     "interactiontype":"https://schema.org/InteractAction",
+                     "name":"Quotes",
+                     "url":"https://twitter.com/rysimmons/status/1144283018825277440/retweets/with_comments"
+                  },
+                  {
+                     "userinteractioncount":"7032",
+                     "interactiontype":"https://schema.org/InteractAction",
+                     "name":"Replies",
+                     "url":"https://twitter.com/rysimmons/status/1144283018825277440"
+                  },
+                  {
+                     "userinteractioncount":"2497",
+                     "interactiontype":"https://schema.org/FollowAction",
+                     "name":"Likes"
+                  },
+                  {
+                     "userinteractioncount":"1493",
+                     "interactiontype":"https://schema.org/SubscribeAction",
+                     "name":"Retweets"
+                  },
+                  {
+                     "userinteractioncount":"26071",
+                     "interactiontype":"https://schema.org/LikeAction",
+                     "name":"Quotes"
+                  },
+                  {
+                     "userinteractioncount":"42",
+                     "interactiontype":"https://schema.org/LikeAction",
+                     "name":"Likes",
+                     "url":"https://twitter.com/encorestage/status/1144286604158050305/likes"
+                  },
+                  {
+                     "userinteractioncount":"1",
+                     "interactiontype":"https://schema.org/InteractAction",
+                     "name":"Retweets",
+                     "url":"https://twitter.com/encorestage/status/1144286604158050305/retweets"
+                  },
+                  {
+                     "userinteractioncount":"0",
+                     "interactiontype":"https://schema.org/InteractAction",
+                     "name":"Quotes",
+                     "url":"https://twitter.com/encorestage/status/1144286604158050305/retweets/with_comments"
+                  },
+                  {
+                     "userinteractioncount":"1",
+                     "interactiontype":"https://schema.org/InteractAction",
+                     "name":"Replies",
+                     "url":"https://twitter.com/encorestage/status/1144286604158050305"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "og:image":"https://pbs.twimg.com/profile_images/896247940527702016/LPlgSQ2Q_normal.jpg",
+                     "theme-color":"#ffffff",
+                     "og:type":"article",
+                     "og:site_name":"Twitter",
+                     "al:ios:app_name":"Twitter",
+                     "apple-mobile-web-app-title":"Twitter",
+                     "og:title":"Luca|Frums on Twitter",
+                     "al:android:package":"com.twitter.android",
+                     "al:ios:url":"twitter://status?id=1144286604158050305",
+                     "og:description":"@rysimmons I figured Toyota or some other car company from inscrutable life shots\nI was not prepared",
+                     "al:ios:app_store_id":"333903271",
+                     "facebook-domain-verification":"x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                     "al:android:url":"twitter://status?id=1144286604158050305",
+                     "fb:app_id":"2231777543",
+                     "apple-mobile-web-app-status-bar-style":"white",
+                     "viewport":"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                     "mobile-web-app-capable":"yes",
+                     "og:url":"https://twitter.com/encorestage/status/1144286604158050305",
+                     "al:android:app_name":"Twitter"
+                  }
+               ],
+               "videoobject":[
+                  {
+                     "duration":"PT0H2M17S",
+                     "embedurl":"https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1144283018825277440",
+                     "contenturl":"https://video.twimg.com/ext_tw_video/1144282962176946177/pu/vid/1280x720/o_aaacxKLp5SVcKY.mp4?tag=10",
+                     "uploaddate":"2019-06-27T16:35:06.000Z",
+                     "name":"@rysimmons's video Tweet",
+                     "description":"Embedded video",
+                     "caption":"Embedded video",
+                     "thumbnailurl":"https://pbs.twimg.com/ext_tw_video_thumb/1144282962176946177/pu/img/hZIAZWD2YVII3K4a.jpg"
+                  }
+               ],
+               "collection":[
+                  {
+                     "name":"Tweet with replies"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://pbs.twimg.com/profile_images/896247940527702016/LPlgSQ2Q_normal.jpg",
+                     "width":"48",
+                     "type":"1",
+                     "height":"48"
+                  }
+               ],
+               "socialmediaposting":[
+                  {
+                     "identifier":"1144283018825277440",
+                     "commentcount":"7032",
+                     "articlebody":"got another capitalism greatest hit. i will give you one hundred thousand dollars if you can guess the brand by the end",
+                     "position":"1",
+                     "datecreated":"2019-06-27T16:35:06.000Z",
+                     "datepublished":"2019-06-27T16:35:06.000Z",
+                     "url":"https://twitter.com/rysimmons/status/1144283018825277440"
+                  },
+                  {
+                     "identifier":"1144286604158050305",
+                     "commentcount":"1",
+                     "articlebody":"I figured Toyota or some other car company from inscrutable life shots I was not prepared",
+                     "ispartof":"https://twitter.com/rysimmons/status/1144283018825277440",
+                     "position":"2",
+                     "datecreated":"2019-06-27T16:49:20.000Z",
+                     "datepublished":"2019-06-27T16:49:20.000Z",
+                     "url":"https://twitter.com/encorestage/status/1144286604158050305",
+                     "mainentityofpage":"https://twitter.com/encorestage/status/1144286604158050305"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota Will Offer To Fix Gas Pedals and Software In Its Cars To Stop ...",
+            "htmlTitle":"Toyota Will Offer To Fix Gas Pedals and Software In Its Cars To Stop ...",
+            "link":"https://spectrum.ieee.org/riskfactor/computing/it/toyota-will-offer-to-fix-gas-pedals-and-software-in-its-cars-to-stop-runaways",
+            "displayLink":"spectrum.ieee.org",
+            "snippet":"Nov 26, 2009 ... Second: \"Vehicles with any genuine Toyota or Lexus accessory all-weather floor mat will be provided with newly-designed replacement driver- ...",
+            "htmlSnippet":"Nov 26, 2009 <b>...</b> Second: &quot;Vehicles with any genuine <b>Toyota or</b> Lexus accessory all-weather floor mat will be provided with newly-designed replacement driver-&nbsp;...",
+            "formattedUrl":"https://spectrum.ieee.org/.../toyota-will-offer-to-fix-gas-pedals-and-software- in-its-cars-to-stop-runaways",
+            "htmlFormattedUrl":"https://spectrum.ieee.org/.../toyota-will-offer-to-fix-gas-pedals-and-software- in-its-cars-to-stop-runaways",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "twitter:card":"summary_large_image",
+                     "twitter:title":"Toyota Will Offer To Fix Gas Pedals and Software In Its Cars To Stop Runaways",
+                     "og:type":"blog-riskfactor",
+                     "og:site_name":"IEEE Spectrum: Technology, Engineering, and Science News",
+                     "parsely-post-id":"/riskfactor/computing/it/toyota-will-offer-to-fix-gas-pedals-and-software-in-its-cars-to-stop-runaways",
+                     "og:title":"Toyota Will Offer To Fix Gas Pedals and Software In Its Cars To Stop Runaways",
+                     "parsely-author":"Robert N. Charette",
+                     "parsely-title":"Toyota Will Offer To Fix Gas Pedals and Software In Its Cars To Stop Runaways",
+                     "og:description":"Toyota Says It's",
+                     "parsely-pub-date":"2009-11-26T06:00:00Z",
+                     "layout":"spectrum",
+                     "parsely-type":"post",
+                     "parsely-tags":"runaway cars,smart cars,software in cars,toyota,topic.computing,subtopic.it",
+                     "twitter:site":"@IEEESpectrum",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "parsely-link":"https://spectrum.ieee.org/riskfactor/computing/it/toyota-will-offer-to-fix-gas-pedals-and-software-in-its-cars-to-stop-runaways",
+                     "twitter:description":"Toyota Says It's",
+                     "parsely-image-url":"https://spectrum.ieee.org/riskfactor/computing/it/toyota-will-offer-to-fix-gas-pedals-and-software-in-its-cars-to-stop-runaways",
+                     "parsely-section":"Risk Factor",
+                     "og:url":"/riskfactor/computing/it/toyota-will-offer-to-fix-gas-pedals-and-software-in-its-cars-to-stop-runaways"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://spectrum.ieee.org/image/MTQ1MzA3NQ.gif",
+                     "width":"150",
+                     "type":"1",
+                     "height":"75"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"James E. J hnson, Esq. Matthew ishbein, Esq. Helen Can ell, Esq ...",
+            "htmlTitle":"James E. J hnson, Esq. Matthew ishbein, Esq. Helen Can ell, Esq ...",
+            "link":"https://www.gibsondunn.com/wp-content/uploads/documents/publications/Toyota_DPA.pdf",
+            "displayLink":"www.gibsondunn.com",
+            "snippet":"Mar 19, 2014 ... Toyota or ny of its agents or employees acting within the scope of their employment related to violations the federal laws of the United ...",
+            "htmlSnippet":"Mar 19, 2014 <b>...</b> <b>Toyota or</b> ny of its agents or employees acting within the scope of their employment related to violations the federal laws of the United&nbsp;...",
+            "cacheId":"6PjaZSY0imkJ",
+            "formattedUrl":"https://www.gibsondunn.com/wp-content/uploads/.../Toyota_DPA.pdf",
+            "htmlFormattedUrl":"https://www.gibsondunn.com/wp-content/uploads/.../Toyota_DPA.pdf",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "moddate":"D:20140406172936-04'00'",
+                     "creationdate":"D:20041029191702+09'00'",
+                     "creator":"Canon",
+                     "producer":"Adobe Acrobat 9.44 Paper Capture Plug-in"
+                  }
+               ]
+            },
+            "mime":"application/pdf",
+            "fileFormat":"PDF/Adobe Acrobat"
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Marina del Rey Toyota",
+            "htmlTitle":"Marina del Rey Toyota",
+            "link":"https://m.facebook.com/marinadelreytoyota/posts/?ref=page_internal&mt_nav=0",
+            "displayLink":"m.facebook.com",
+            "snippet":"MARINADELREYTOYOTA.COM. We Make it Easy at Marina del Rey Toyota to Get Your New Toyota or Used Car - Sales Event in Los Angeles.",
+            "htmlSnippet":"MARINADELREYTOYOTA.COM. We Make it Easy at Marina del Rey Toyota to Get Your New <b>Toyota or</b> Used Car - Sales Event in Los Angeles.",
+            "cacheId":"C4LHCxkkrS8J",
+            "formattedUrl":"https://m.facebook.com/marinadelreytoyota/posts/?ref=page_internal...",
+            "htmlFormattedUrl":"https://m.facebook.com/marinadelreytoyota/posts/?ref=page_internal...",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "referrer":"default",
+                     "og:image":"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=186142598063665",
+                     "viewport":"user-scalable=no,initial-scale=1,maximum-scale=1",
+                     "og:title":"Marina del Rey Toyota",
+                     "og:url":"https://www.facebook.com/pages/category/Car-Dealership/marinadelreytoyota/posts/",
+                     "og:description":"Marina del Rey Toyota, Marina del Rey, California. 4,504 likes · 11 talking about this · 1,286 were here. Get \"A Whale of a Deal\" at Marina del Rey Toyota!"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=186142598063665",
+                     "width":"225",
+                     "type":"1",
+                     "height":"225"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Estes v. Toyota Fin. Serv.",
+            "htmlTitle":"Estes v. Toyota Fin. Serv.",
+            "link":"https://casetext.com/case/estes-v-toyota-fin-serv-1",
+            "displayLink":"casetext.com",
+            "snippet":"Jun 22, 2015 ... Read Estes v. Toyota Fin. Serv., No 14-CV-1300 (JFB)(SIL), see flags on bad law, and search Casetext's comprehensive legal database.",
+            "htmlSnippet":"Jun 22, 2015 <b>...</b> Read Estes v. Toyota Fin. Serv., No 14-CV-1300 (JFB)(SIL), see flags on bad law, and search Casetext&#39;s comprehensive legal database.",
+            "cacheId":"42tgsMm5iuYJ",
+            "formattedUrl":"https://casetext.com/case/estes-v-toyota-fin-serv-1",
+            "htmlFormattedUrl":"https://casetext.com/case/estes-v-toyota-fin-serv-1",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Interictal epileptiform discharges in new‐onset epilepsy among ...",
+            "htmlTitle":"Interictal epileptiform discharges in new‐onset epilepsy among ...",
+            "link":"https://onlinelibrary.wiley.com/doi/abs/10.1111/ncn3.12025",
+            "displayLink":"onlinelibrary.wiley.com",
+            "snippet":"Jul 14, 2015 ... Tomoko Toyota or Hiroaki Adachi Department of Neurology, University of Occupational and Environmental Health School of Medicine, ...",
+            "htmlSnippet":"Jul 14, 2015 <b>...</b> Tomoko <b>Toyota or</b> Hiroaki Adachi Department of Neurology, University of Occupational and Environmental Health School of Medicine,&nbsp;...",
+            "formattedUrl":"https://onlinelibrary.wiley.com/doi/abs/10.1111/ncn3.12025",
+            "htmlFormattedUrl":"https://onlinelibrary.wiley.com/doi/abs/10.1111/ncn3.12025",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "citation_keywords":"complex partial seizure",
+                     "og:image":"https://onlinelibrary.wiley.com/cms/asset/bce42e8e-580d-48f0-a412-051597189f60/ncn3.2016.4.issue-1.cover.jpg",
+                     "apple-itunes-app":"app-id=808716704",
+                     "citation_publication_date":"2016/01/01",
+                     "citation_title":"Interictal epileptiform discharges in new‐onset epilepsy among older adults",
+                     "citation_author_institution":"Department of Neurology University of Occupational and Environmental Health School of Medicine Kitakyushu Japan",
+                     "og:site_name":"Wiley Online Library",
+                     "citation_publisher":"John Wiley & Sons, Ltd",
+                     "citation_journal_title":"Neurology and Clinical Neuroscience",
+                     "og:description":"Background\nThe incidence of epilepsy is highest in older adults and exceeds that observed in children. Seizure disorders are also more common among older adults. However, there are few reports of in...",
+                     "citation_online_date":"2015/08/12",
+                     "citation_issn":"2049-4173",
+                     "citation_language":"en",
+                     "citation_fulltext_html_url":"https://onlinelibrary.wiley.com/doi/full/10.1111/ncn3.12025",
+                     "citation_pdf_url":"https://onlinelibrary.wiley.com/doi/pdf/10.1111/ncn3.12025",
+                     "citation_lastpage":"9",
+                     "og:type":"Article",
+                     "pbcontext":";requestedJournal:journal:20494173;issue:issue:doi\\:10.1111/ncn3.2016.4.issue-1;page:string:Article/Chapter View;ctype:string:Journal Content;subPage:string:Abstract;website:website:pericles;article:article:doi\\:10.1111/ncn3.12025;journal:journal:20494173;wgroup:string:Publication Websites;pageGroup:string:Publication Pages",
+                     "og:title":"Interictal epileptiform discharges in new‐onset epilepsy among older adults",
+                     "citation_author":"Tomoko Toyota",
+                     "citation_abstract_html_url":"https://onlinelibrary.wiley.com/doi/abs/10.1111/ncn3.12025",
+                     "citation_issue":"1",
+                     "epdf_available":"false",
+                     "citation_firstpage":"3",
+                     "referrer":"origin-when-cross-origin",
+                     "viewport":"width=device-width,initial-scale=1",
+                     "citation_doi":"10.1111/ncn3.12025",
+                     "dc.identifier":"10.1111/ncn3.12025",
+                     "citation_volume":"4",
+                     "og:url":"https://onlinelibrary.wiley.com/doi/10.1111/ncn3.12025",
+                     "article_references":"Toyota, T., Akamatsu, N., Tanaka, A., Yamano, M., Fujino, Y., Tsuji, S. and Adachi, H. (2016), Interictal epileptiform discharges in new‐onset epilepsy among older adults. Neurol Clin Neurosci, 4: 3-9. https://doi.org/10.1111/ncn3.12025"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://onlinelibrary.wiley.com/cms/asset/bce42e8e-580d-48f0-a412-051597189f60/ncn3.2016.4.issue-1.cover.jpg",
+                     "width":"196",
+                     "type":"1",
+                     "height":"258"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Let's Reduce Our Buts : Memmos : NPR",
+            "htmlTitle":"Let&#39;s Reduce Our Buts : Memmos : NPR",
+            "link":"https://www.npr.org/sections/memmos/2015/10/22/605683473/let-s-reduce-our-buts",
+            "displayLink":"www.npr.org",
+            "snippet":"Oct 22, 2015 ... Standards & Practices Editor Mark Memmott writes occasional notes about the issues journalists encounter and the way NPR handles them.",
+            "htmlSnippet":"Oct 22, 2015 <b>...</b> Standards &amp; Practices Editor Mark Memmott writes occasional notes about the issues journalists encounter and the way NPR handles them.",
+            "formattedUrl":"https://www.npr.org/sections/memmos/2015/10/22/.../let-s-reduce-our-buts",
+            "htmlFormattedUrl":"https://www.npr.org/sections/memmos/2015/10/22/.../let-s-reduce-our-buts",
+            "pagemap":{
+               "speakablespecification":[
+                  {
+                     "cssselector":"[data-is-speakable]"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "date":"2015-10-22",
+                     "og:image":"https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+                     "og:type":"article",
+                     "twitter:card":"summary",
+                     "twitter:title":"Let's Reduce Our Buts",
+                     "og:site_name":"NPR.org",
+                     "twitter:domain":"npr.org",
+                     "og:title":"Let's Reduce Our Buts",
+                     "rating":"General",
+                     "og:description":"Standards &amp; Practices Editor Mark Memmott writes occasional notes about the issues journalists encounter and the way NPR handles them. They often expand on topics covered in the Ethics Handbook.",
+                     "fb:pages":"10643211755",
+                     "fb:app_id":"138837436154588",
+                     "twitter:site":"@NPR",
+                     "viewport":"width=device-width, initial-scale=1, shrink-to-fit=no",
+                     "article:content_tier":"free",
+                     "og:url":"https://www.npr.org/sections/memmos/2015/10/22/605683473/let-s-reduce-our-buts",
+                     "article:opinion":"false"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+                     "width":"300",
+                     "type":"1",
+                     "height":"168"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "5":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "previousPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"700000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":31,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"700000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":41,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "nextPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"700000",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":51,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "context":{
+         "title":"darik"
+      },
+      "searchInformation":{
+         "searchTime":0.356642,
+         "formattedSearchTime":"0.36",
+         "totalResults":"700000",
+         "formattedTotalResults":"700,000"
+      },
+      "items":[
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota Boshoku to Acquire Mechanical Seat Frame Component ...",
+            "htmlTitle":"Toyota Boshoku to Acquire Mechanical Seat Frame Component ...",
+            "link":"https://www.aisin.com/en/news/2014/005025.html",
+            "displayLink":"www.aisin.com",
+            "snippet":"Dec 19, 2014 ... The operations of Aisin Seiki and Shiroki's development and manufacturing of mechanical seat frames components (customer: Toyota or Toyota ...",
+            "htmlSnippet":"Dec 19, 2014 <b>...</b> The operations of Aisin Seiki and Shiroki&#39;s development and manufacturing of mechanical seat frames components (customer: <b>Toyota or</b> Toyota&nbsp;...",
+            "cacheId":"TP7kIbKoN9MJ",
+            "formattedUrl":"https://www.aisin.com/en/news/2014/005025.html",
+            "htmlFormattedUrl":"https://www.aisin.com/en/news/2014/005025.html",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "msapplication-tilecolor":"#000",
+                     "og:image":"https://www.aisin.com/jp/assets/img/common/ogp.jpg",
+                     "msapplication-config":"https://www.aisin.com/en/browserconfig.xml",
+                     "og:type":"website",
+                     "theme-color":"#001a72",
+                     "og:site_name":"AISIN CORPORATION Global Website",
+                     "viewport":"width=device-width,initial-scale=1.0",
+                     "og:title":"Toyota Boshoku to Acquire Mechanical Seat Frame Component Business from Aisin Seiki and Shiroki Building an Integrated System from Development to Production in order to deliver Ever-better Seats | AISIN CORPORATION Global Website",
+                     "og:url":"http://www.aisin.com/en/news/2014/005025.html",
+                     "msapplication-tileimage":"https://www.aisin.com/jp/assets/img/common/mstile-144x144.png",
+                     "og:description":"AISIN CORPORATION Global Website - Products, Technology, Group/Company Information, Sustainability, IR Information, Careers."
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.aisin.com/jp/assets/img/common/ogp.jpg",
+                     "width":"310",
+                     "type":"1",
+                     "height":"163"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"2268 CEC_Toy T-TEN_Electrical_Brakes_Steer and Susp.docx",
+            "htmlTitle":"2268 CEC_Toy T-TEN_Electrical_Brakes_Steer and Susp.docx",
+            "link":"https://www.starkstate.edu/wp-content/uploads/2021/06/2268-CEC_Toy-T-TEN_Electrical_Brakes_Steer-and-Susp.pdf",
+            "displayLink":"www.starkstate.edu",
+            "snippet":"program structure also allows ample time for students to attend classes at Stark State College while working at an approved Toyota or Lexus dealership.",
+            "htmlSnippet":"program structure also allows ample time for students to attend classes at Stark State College while working at an approved <b>Toyota or</b> Lexus dealership.",
+            "cacheId":"9hjen0BgPaAJ",
+            "formattedUrl":"https://www.starkstate.edu/.../2268-CEC_Toy-T-TEN_Electrical_Brakes_ Steer-and-Susp.pdf",
+            "htmlFormattedUrl":"https://www.starkstate.edu/.../2268-CEC_Toy-T-TEN_Electrical_Brakes_ Steer-and-Susp.pdf",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "moddate":"D:20210401134318-04'00'",
+                     "creationdate":"D:20210401134313-04'00'",
+                     "creator":"Acrobat PDFMaker 21 for Word",
+                     "sourcemodified":"D:20210108195750",
+                     "author":"LRay0319",
+                     "producer":"Adobe PDF Library 21.1.177",
+                     "company":"Stark State College",
+                     "category":"2268",
+                     "title":"2268 CEC_Toy T-TEN_Electrical_Brakes_Steer and Susp.docx"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"x-raw-image:///f58df0e10039642e4c570929a4973ff049324a651ce6ea79f7bc7691eb25219c",
+                     "width":"228",
+                     "type":"1",
+                     "height":"76"
+                  }
+               ]
+            },
+            "mime":"application/pdf",
+            "fileFormat":"PDF/Adobe Acrobat"
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Android Market Terms of Service Definition | Law Insider",
+            "htmlTitle":"Android Market Terms of Service Definition | Law Insider",
+            "link":"https://www.lawinsider.com/dictionary/android-market-terms-of-service",
+            "displayLink":"www.lawinsider.com",
+            "snippet":"This license is between Toyota and you (and not Apple or Google) and is effective until terminated by Toyota or by you. As between Toyota and Apple, ...",
+            "htmlSnippet":"This license is between Toyota and you (and not Apple or Google) and is effective until terminated by <b>Toyota or</b> by you. As between Toyota and Apple,&nbsp;...",
+            "cacheId":"Bi8bevQ1-OkJ",
+            "formattedUrl":"https://www.lawinsider.com/dictionary/android-market-terms-of-service",
+            "htmlFormattedUrl":"https://www.lawinsider.com/dictionary/android-market-terms-of-service",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "application-name":"Law Insider",
+                     "msapplication-tilecolor":"#0d4a86",
+                     "og:image":"https://www.lawinsider.com/images/common/law-insider-og-image.png",
+                     "og:type":"website",
+                     "og:image:width":"1200",
+                     "theme-color":"#0d4a86",
+                     "og:site_name":"Law Insider",
+                     "msvalidate.01":"60365486D867F4447F7BA0103B945BC7",
+                     "og:title":"Android Market Terms of Service Definition | Law Insider",
+                     "apple-mobile-web-app-title":"Law Insider",
+                     "og:image:height":"1200",
+                     "msapplication-tileimage":"/images/touch/ms-touch-icon-144x144-precomposed.png",
+                     "og:description":"Sample Contracts and Business Agreements",
+                     "msapplication-navbutton-color":"#0d4a86",
+                     "apple-mobile-web-app-status-bar-style":"#0d4a86",
+                     "msapplication-tap-highlight":"no",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "apple-mobile-web-app-capable":"yes",
+                     "mobile-web-app-capable":"yes"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.lawinsider.com/images/common/law-insider-og-image.png",
+                     "width":"225",
+                     "type":"1",
+                     "height":"225"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Clemons Ford Lincoln Toyota - Home | Facebook",
+            "htmlTitle":"Clemons Ford Lincoln Toyota - Home | Facebook",
+            "link":"https://www.facebook.com/pages/category/Automotive-Repair-Shop/Clemons-Ford-Lincoln-Toyota-102411445228429/",
+            "displayLink":"www.facebook.com",
+            "snippet":"We will work to get you into a New Ford, Lincoln, or Toyota or Certif...ied Used Vehicle with LOW payments, 0% APR Financing, or ✓ Up to $11,000 off of New ...",
+            "htmlSnippet":"We will work to get you into a New Ford, Lincoln, or <b>Toyota or</b> Certif...ied Used Vehicle with LOW payments, 0% APR Financing, or ✓ Up to $11,000 off of New&nbsp;...",
+            "cacheId":"IdCQsNafVnAJ",
+            "formattedUrl":"https://www.facebook.com/.../Clemons-Ford-Lincoln-Toyota- 102411445228429/",
+            "htmlFormattedUrl":"https://www.facebook.com/.../Clemons-Ford-Lincoln-Toyota- 102411445228429/",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "al:android:url":"fb://page/102411445228429?referrer=app_link",
+                     "referrer":"default",
+                     "og:image":"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=102411445228429",
+                     "al:ios:app_name":"Facebook",
+                     "og:title":"Clemons Ford Lincoln Toyota",
+                     "al:android:package":"com.facebook.katana",
+                     "al:ios:url":"fb://page/?id=102411445228429",
+                     "og:url":"https://www.facebook.com/pages/category/Automotive-Repair-Shop/Clemons-Ford-Lincoln-Toyota-102411445228429/",
+                     "og:description":"Clemons Ford Lincoln Toyota. 31 likes. We have a strong and committed sales staff with many years of experience satisfying our customers' needs. Feel free to browse our inventory online, request more...",
+                     "al:android:app_name":"Facebook",
+                     "al:ios:app_store_id":"284882215"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=102411445228429",
+                     "width":"225",
+                     "type":"1",
+                     "height":"225"
+                  }
+               ],
+               "listitem":[
+                  {
+                     "item":"Places",
+                     "name":"Places",
+                     "position":"1"
+                  },
+                  {
+                     "item":"Ottumwa, Iowa",
+                     "name":"Ottumwa, Iowa",
+                     "position":"2"
+                  },
+                  {
+                     "item":"Automotive, Aircraft & Boat",
+                     "name":"Automotive, Aircraft & Boat",
+                     "position":"3"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"A Race and Commercials Almost Merge Into One - The New York ...",
+            "htmlTitle":"A Race and Commercials Almost Merge Into One - The New York ...",
+            "link":"https://www.nytimes.com/2007/02/20/sports/othersports/20sandomir.html",
+            "displayLink":"www.nytimes.com",
+            "snippet":"Feb 20, 2007 ... But with the Toyota or Camry names spoken 21 times (modest for a video self-portrait) and witnessed 47 other times (usually on cars or ...",
+            "htmlSnippet":"Feb 20, 2007 <b>...</b> But with the <b>Toyota or</b> Camry names spoken 21 times (modest for a video self-portrait) and witnessed 47 other times (usually on cars or&nbsp;...",
+            "formattedUrl":"https://www.nytimes.com/2007/02/20/sports/othersports/20sandomir.html",
+            "htmlFormattedUrl":"https://www.nytimes.com/2007/02/20/sports/othersports/20sandomir.html",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2007",
+                     "nyt_uri":"nyt://article/622bb85c-9c63-50ad-a6f9-6a6d9382a5ea",
+                     "twitter:app:id:googleplay":"com.nytimes.android",
+                     "twitter:card":"summary_large_image",
+                     "article:published_time":"2007-02-20T05:00:00.000Z",
+                     "pt":"article",
+                     "twitter:url":"https://www.nytimes.com/2007/02/20/sports/othersports/20sandomir.html",
+                     "pdate":"20070220",
+                     "articleid":"1154666003898",
+                     "al:android:package":"com.nytimes.android",
+                     "al:ipad:app_store_id":"357066198",
+                     "twitter:app:name:googleplay":"NYTimes",
+                     "og:description":"No other major sport uses its athletes as much as Nascar does, but, then, no other sport is as linked to its sponsors as Nascar is.",
+                     "twitter:image":"https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png?year=2007",
+                     "pst":"News",
+                     "twitter:image:alt":"Tony Stewart appeared in advertisements for five of his sponsors during coverage of Sunday’s Daytona 500.",
+                     "al:iphone:app_name":"NYTimes",
+                     "twitter:site":"@nytimes",
+                     "article:modified_time":"2007-02-20T05:28:24.000Z",
+                     "news_keywords":"advertising;marketing,NASCAR,Sports,Car Racing",
+                     "scg":"othersports",
+                     "article:content_tier":"metered",
+                     "msapplication-starturl":"https://www.nytimes.com",
+                     "image":"https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2007",
+                     "og:type":"article",
+                     "og:image:alt":"Tony Stewart appeared in advertisements for five of his sponsors during coverage of Sunday’s Daytona 500.",
+                     "twitter:title":"A Race and Commercials Almost Merge Into One (Published 2007)",
+                     "article:section":"Sports",
+                     "cg":"sports",
+                     "pubp_event_id":"pubp://event/3287ab1b899f40bcac134c5b7844561b",
+                     "og:title":"A Race and Commercials Almost Merge Into One (Published 2007)",
+                     "cn":"tv-sports",
+                     "url":"https://www.nytimes.com/2007/02/20/sports/othersports/20sandomir.html",
+                     "article:tag":"Advertising and Marketing",
+                     "al:iphone:url":"nytimes://www.nytimes.com/2007/02/20/sports/othersports/20sandomir.html",
+                     "al:android:url":"nyt://article/622bb85c-9c63-50ad-a6f9-6a6d9382a5ea",
+                     "twitter:app:url:googleplay":"nyt://article/622bb85c-9c63-50ad-a6f9-6a6d9382a5ea",
+                     "fb:app_id":"9869919170",
+                     "al:ipad:url":"nytimes://www.nytimes.com/2007/02/20/sports/othersports/20sandomir.html",
+                     "byl":"By Richard Sandomir",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "twitter:description":"No other major sport uses its athletes as much as Nascar does, but, then, no other sport is as linked to its sponsors as Nascar is.",
+                     "al:iphone:app_store_id":"284862083",
+                     "al:ipad:app_name":"NYTimes",
+                     "og:url":"https://www.nytimes.com/2007/02/20/sports/othersports/20sandomir.html",
+                     "al:android:app_name":"NYTimes",
+                     "article:opinion":"false"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2007",
+                     "width":"310",
+                     "type":"1",
+                     "height":"163"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota/Lexus Minority Owners Dealership Association Day of ...",
+            "htmlTitle":"Toyota/Lexus Minority Owners Dealership Association Day of ...",
+            "link":"https://hacr.org/toyota-lexus-minority-owners-dealership-association-day-of-service/",
+            "displayLink":"hacr.org",
+            "snippet":"May 22, 2020 ... ... in need of food and instructing them to visit one of the participating Toyota or Lexus dealerships to pick up their grocery box.",
+            "htmlSnippet":"May 22, 2020 <b>...</b> ... in need of food and instructing them to visit one of the participating <b>Toyota or</b> Lexus dealerships to pick up their grocery box.",
+            "cacheId":"atp9LY0ElvQJ",
+            "formattedUrl":"https://hacr.org/toyota-lexus-minority-owners-dealership-association-day-of- service/",
+            "htmlFormattedUrl":"https://hacr.org/toyota-lexus-minority-owners-dealership-association-day-of- service/",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://hacr.org/wp-content/uploads/2021/08/Corporate-Member-Blog-Featured-Images-4.png",
+                     "article:published_time":"2020-05-22T13:00:00+00:00",
+                     "og:image:width":"280",
+                     "twitter:card":"summary_large_image",
+                     "theme-color":"#ffffff",
+                     "og:site_name":"HACR",
+                     "twitter:label1":"Written by",
+                     "twitter:label2":"Est. reading time",
+                     "msapplication-tileimage":"https://hacr.org/wp-content/uploads/2021/07/cropped-hacr-favicon-270x270.png",
+                     "og:description":"The Toyota/Lexus Minority Owners Dealership Association (TLMODA) is working with The Salvation Army during the coronavirus pandemic.",
+                     "twitter:creator":"@HACRORG",
+                     "article:publisher":"https://www.facebook.com/HACR.ORG",
+                     "twitter:data1":"Andrea Franco",
+                     "twitter:data2":"3 minutes",
+                     "twitter:site":"@HACRORG",
+                     "article:modified_time":"2021-08-24T17:58:33+00:00",
+                     "og:type":"article",
+                     "og:title":"Toyota/Lexus Minority Owners Dealership Association Day of Service - HACR",
+                     "og:image:height":"255",
+                     "msapplication-navbutton-color":"#ffffff",
+                     "url":"https://hacr.org/toyota-lexus-minority-owners-dealership-association-day-of-service/",
+                     "apple-mobile-web-app-status-bar-style":"black-translucent",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "apple-mobile-web-app-capable":"yes",
+                     "og:locale":"en_US",
+                     "position":"1",
+                     "og:url":"https://hacr.org/toyota-lexus-minority-owners-dealership-association-day-of-service/"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://hacr.org/wp-content/uploads/2018/11/Asset-2@1x-e1626986153818.png",
+                     "width":"120",
+                     "type":"0",
+                     "height":"44"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Compare working at Toyota vs AutoNation",
+            "htmlTitle":"Compare working at Toyota vs AutoNation",
+            "link":"https://www.indeed.com/companies/compare/Toyota-vs-Autonation-ddee2c1c672dd481-842a4dfff3f6f085",
+            "displayLink":"www.indeed.com",
+            "snippet":"Compare company reviews, salaries and ratings to find out if Toyota or AutoNation is right for you. Toyota is most highly rated for Culture and AutoNation ...",
+            "htmlSnippet":"Compare company reviews, salaries and ratings to find out if <b>Toyota or</b> AutoNation is right for you. Toyota is most highly rated for Culture and AutoNation&nbsp;...",
+            "cacheId":"DIeVkzGmOAQJ",
+            "formattedUrl":"https://www.indeed.com/.../Toyota-vs-Autonation-ddee2c1c672dd481- 842a4dfff3f6f085",
+            "htmlFormattedUrl":"https://www.indeed.com/.../Toyota-vs-Autonation-ddee2c1c672dd481- 842a4dfff3f6f085",
+            "pagemap":{
+               "aggregaterating":[
+                  {
+                     "ratingvalue":"4.0",
+                     "ratingcount":"4110"
+                  },
+                  {
+                     "ratingvalue":"3.4",
+                     "ratingcount":"3229"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "viewport":"width=device-width, initial-scale=1"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Agreement Containing Consent Order",
+            "htmlTitle":"Agreement Containing Consent Order",
+            "link":"https://www.ftc.gov/sites/default/files/documents/cases/2012/06/120607franklinautomallagree.pdf",
+            "displayLink":"www.ftc.gov",
+            "snippet":"The Federal Trade Commission (“Commission”) has conducted an investigation of certain acts and practices of Franklin's Budget Car Sales, Inc., ...",
+            "htmlSnippet":"The Federal Trade Commission (“Commission”) has conducted an investigation of certain acts and practices of Franklin&#39;s Budget Car Sales, Inc.,&nbsp;...",
+            "cacheId":"o9VnM7L3_ikJ",
+            "formattedUrl":"https://www.ftc.gov/sites/default/files/.../120607franklinautomallagree.pdf",
+            "htmlFormattedUrl":"https://www.ftc.gov/sites/default/files/.../120607franklinautomallagree.pdf",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "moddate":"D:20120607101851-04'00'",
+                     "creationdate":"D:20120518123021-04'00'",
+                     "creator":"PrintServer130",
+                     "author":"Federal Trade Commission",
+                     "subject":"Agreement Containing Consent Order",
+                     "producer":"Corel PDF Engine Version 11.4.0.100",
+                     "title":"Agreement Containing Consent Order"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"x-raw-image:///d24ca0c53dda5103f8f92da18e915adc9dd04e8c59078322b5d247562090d9fc",
+                     "width":"197",
+                     "type":"1",
+                     "height":"255"
+                  }
+               ]
+            },
+            "mime":"application/pdf",
+            "fileFormat":"PDF/Adobe Acrobat"
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Q&A Accelerator Pedal",
+            "htmlTitle":"Q&amp;A Accelerator Pedal",
+            "link":"http://online.wsj.com/public/resources/documents/ToyotaQA01272010.pdf",
+            "displayLink":"online.wsj.com",
+            "snippet":"Jan 27, 2010 ... Q5: Are there any other Toyota or Lexus vehicles involved? A5: No, this specific condition only affects the above vehicles.",
+            "htmlSnippet":"Jan 27, 2010 <b>...</b> Q5: Are there any other <b>Toyota or</b> Lexus vehicles involved? A5: No, this specific condition only affects the above vehicles.",
+            "cacheId":"EAhAXTX8AuAJ",
+            "formattedUrl":"online.wsj.com/public/resources/documents/ToyotaQA01272010.pdf",
+            "htmlFormattedUrl":"online.wsj.com/public/resources/documents/ToyotaQA01272010.pdf",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "moddate":"D:20100122093451-05'00'",
+                     "creationdate":"D:20100122093053-05'00'",
+                     "creator":"PScript5.dll Version 5.2",
+                     "author":"morinog",
+                     "producer":"Acrobat Distiller 7.0.5 (Windows)",
+                     "title":"Q&A Accelerator Pedal"
+                  }
+               ]
+            },
+            "mime":"application/pdf",
+            "fileFormat":"PDF/Adobe Acrobat"
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota woes mount as gov't examines Prius brakes | Taiwan News ...",
+            "htmlTitle":"Toyota woes mount as gov&#39;t examines Prius brakes | Taiwan News ...",
+            "link":"https://www.taiwannews.com.tw/en/news/1173491",
+            "displayLink":"www.taiwannews.com.tw",
+            "snippet":"Feb 5, 2010 ... Issa said he would focus on whether Toyota or NHTSA failed to properly deal with safety complaints or address them quickly enough.",
+            "htmlSnippet":"Feb 5, 2010 <b>...</b> Issa said he would focus on whether <b>Toyota or</b> NHTSA failed to properly deal with safety complaints or address them quickly enough.",
+            "cacheId":"HVUpiY6_qX4J",
+            "formattedUrl":"https://www.taiwannews.com.tw/en/news/1173491",
+            "htmlFormattedUrl":"https://www.taiwannews.com.tw/en/news/1173491",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://www.taiwannews.com.tw/images/category/580888eb17740.jpg",
+                     "og:type":"article",
+                     "og:image:width":"640",
+                     "article:section":"World",
+                     "article:published_time":"2010-02-05T06:31:09+08:00",
+                     "og:site_name":"Taiwan News",
+                     "msvalidate.01":"1B767768A4DBD00EE727D7234A6D366E",
+                     "author":"Taiwan News",
+                     "og:title":"Toyota woes mount as gov't examines Prius brakes | Taiwan News | 2010-02-05 06:31:09",
+                     "og:image:height":"442",
+                     "og:description":"Toyota woes mount as gov't examines Prius brakes | 2010-02-05 06:31:09",
+                     "facebook-domain-verification":"q4fy6l35qbwr2dlqr8npke035vv7ns",
+                     "fb:app_id":"1082075965223782",
+                     "viewport":"width=device-width, initial-scale=1",
+                     "og:url":"https://www.taiwannews.com.tw/en/news/1173491"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://www.taiwannews.com.tw/images/category/580888eb17740.jpg",
+                     "width":"275",
+                     "type":"1",
+                     "height":"183"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "6":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "previousPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"55",
+               "searchTerms":"\"Toyota or\"",
+               "count":5,
+               "startIndex":41,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "totalResults":"55",
+               "searchTerms":"\"Toyota or\"",
+               "count":5,
+               "startIndex":51,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "context":{
+         "title":"darik"
+      },
+      "searchInformation":{
+         "searchTime":0.43191,
+         "formattedSearchTime":"0.43",
+         "totalResults":"55",
+         "formattedTotalResults":"55"
+      },
+      "items":[
+         {
+            "kind":"customsearch#result",
+            "title":"BUTZEL LONG Toyota Terms (10/1/21) Change Analysis 1 BUTZEL ...",
+            "htmlTitle":"BUTZEL LONG Toyota Terms (10/1/21) Change Analysis 1 BUTZEL ...",
+            "link":"https://www.butzel.com/assets/htmldocuments/uploads/2021/Client%20Alerts/20210415_Toyota_Terms_Analysis_Rev.pdf",
+            "displayLink":"www.butzel.com",
+            "snippet":"Apr 15, 2021 ... If Toyota or Supplier is legally required to disclose the other's Confidential Information, it must provide the other with advance written ...",
+            "htmlSnippet":"Apr 15, 2021 <b>...</b> If <b>Toyota or</b> Supplier is legally required to disclose the other&#39;s Confidential Information, it must provide the other with advance written&nbsp;...",
+            "cacheId":"tXUN8z4baSEJ",
+            "formattedUrl":"https://www.butzel.com/.../20210415_Toyota_Terms_Analysis_Rev.pdf",
+            "htmlFormattedUrl":"https://www.butzel.com/.../20210415_Toyota_Terms_Analysis_Rev.pdf",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "moddate":"D:20210415122348-04'00'",
+                     "creator":"Microsoft® Word for Office 365",
+                     "creationdate":"D:20210415122348-04'00'",
+                     "author":"Klein, Sheldon",
+                     "producer":"Microsoft® Word for Office 365",
+                     "title":"."
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"x-raw-image:///04242ea39ad25394c6cb061215222d3c4e3a79330d28bd46a3c7be37cfac033c",
+                     "width":"255",
+                     "type":"1",
+                     "height":"197"
+                  }
+               ]
+            },
+            "mime":"application/pdf",
+            "fileFormat":"PDF/Adobe Acrobat"
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Home - Marketing Research Resources - LibGuides at High Point ...",
+            "htmlTitle":"Home - Marketing Research Resources - LibGuides at High Point ...",
+            "link":"https://guides.highpoint.edu/mkt",
+            "displayLink":"guides.highpoint.edu",
+            "snippet":"Sep 27, 2021 ... I was expecting to see Toyota or even Chevrolet at the top but not Ford. Many of my family members and some of my friends have domestic ...",
+            "htmlSnippet":"Sep 27, 2021 <b>...</b> I was expecting to see <b>Toyota or</b> even Chevrolet at the top but not Ford. Many of my family members and some of my friends have domestic&nbsp;...",
+            "formattedUrl":"https://guides.highpoint.edu/mkt",
+            "htmlFormattedUrl":"https://guides.highpoint.edu/mkt",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "msapplication-tilecolor":"#ffc40d",
+                     "msapplication-config":"//libapps.s3.amazonaws.com/apps/common/favicon/browserconfig.xml",
+                     "theme-color":"#ffffff",
+                     "dc.description":"Marketing Research Resources at HPULibraries",
+                     "og:type":"website",
+                     "twitter:card":"summary_large_image",
+                     "og:title":"LibGuides: Marketing Research Resources: Home",
+                     "dc.rights":"Copyright High Point University 2021",
+                     "dc.date.created":"Jan 23, 2020",
+                     "og:description":"Marketing Research Resources at HPULibraries",
+                     "dc.publishers":"High Point University",
+                     "twitter:site":"@springshare",
+                     "viewport":"width=device-width, initial-scale=1.0",
+                     "dc.creator":"David Bryden",
+                     "dc.title":"LibGuides: Marketing Research Resources: Home",
+                     "dc.date.modified":"Sep 27, 2021",
+                     "dc.subject":"Business & Economics",
+                     "dc.identifier":"https://guides.highpoint.edu/c.php?g=996969&p=7215547",
+                     "dc.language":"en",
+                     "og:url":"https://guides.highpoint.edu/c.php?g=996969&p=7215547"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Billing Code 4910-59-P DEPARTMENT OF TRANSPORTATION ...",
+            "htmlTitle":"Billing Code 4910-59-P DEPARTMENT OF TRANSPORTATION ...",
+            "link":"https://public-inspection.federalregister.gov/2021-05921.pdf",
+            "displayLink":"public-inspection.federalregister.gov",
+            "snippet":"Mar 22, 2021 ... other MY 2020 Corolla seating positions and are not used on any other Toyota or. Lexus models. Concerning the Joyson Safety Systems seat ...",
+            "htmlSnippet":"Mar 22, 2021 <b>...</b> other MY 2020 Corolla seating positions and are not used on any other <b>Toyota or</b>. Lexus models. Concerning the Joyson Safety Systems seat&nbsp;...",
+            "cacheId":"iGKsgg3n7fsJ",
+            "formattedUrl":"https://public-inspection.federalregister.gov/2021-05921.pdf",
+            "htmlFormattedUrl":"https://public-inspection.federalregister.gov/2021-05921.pdf",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "moddate":"D:20210322084533-04'00'",
+                     "creationdate":"D:20210322084533-04'00'",
+                     "creator":"pdftk 2.02 - www.pdftk.com",
+                     "producer":"itext-paulo-155 (itextpdf.sf.net-lowagie.com)"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"x-raw-image:///e461986bd191e6fe4a0805e987a511b5062d688e9821f32a568c07461a28fe66",
+                     "width":"197",
+                     "type":"1",
+                     "height":"255"
+                  }
+               ]
+            },
+            "mime":"application/pdf",
+            "fileFormat":"PDF/Adobe Acrobat"
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Toyota prepares to lose position as world's largest carmaker | Toyota ...",
+            "htmlTitle":"Toyota prepares to lose position as world&#39;s largest carmaker | Toyota ...",
+            "link":"https://www.theguardian.com/business/2011/jun/10/toyota-prepares-to-lose-position-as-worlds-largest-carmaker",
+            "displayLink":"www.theguardian.com",
+            "snippet":"Jun 10, 2011 ... I have never owned a toyota or worked for them - but I recognise a solid brand and product when I see it , or use it.",
+            "htmlSnippet":"Jun 10, 2011 <b>...</b> I have never owned a <b>toyota or</b> worked for them - but I recognise a solid brand and product when I see it , or use it.",
+            "cacheId":"DlE8BLWdOSQJ",
+            "formattedUrl":"https://www.theguardian.com/.../toyota-prepares-to-lose-position-as-worlds- largest-carmaker",
+            "htmlFormattedUrl":"https://www.theguardian.com/.../toyota-prepares-to-lose-position-as-worlds- largest-carmaker",
+            "pagemap":{
+               "metatags":[
+                  {
+                     "og:image":"https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/6/10/1307722244209/Satoshi-Ozawa-007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=74ebafb42343811eebae6689db45e192",
+                     "twitter:app:id:googleplay":"com.guardian",
+                     "twitter:app:url:iphone":"gnmguardian://business/2011/jun/10/toyota-prepares-to-lose-position-as-worlds-largest-carmaker?contenttype=Article&source=twitter",
+                     "theme-color":"#052962",
+                     "og:image:width":"1200",
+                     "article:published_time":"2011-06-10T16:11:18.000Z",
+                     "twitter:card":"summary_large_image",
+                     "og:site_name":"the Guardian",
+                     "twitter:app:url:ipad":"gnmguardian://business/2011/jun/10/toyota-prepares-to-lose-position-as-worlds-largest-carmaker?contenttype=Article&source=twitter",
+                     "twitter:app:name:googleplay":"The Guardian",
+                     "al:ios:url":"gnmguardian://business/2011/jun/10/toyota-prepares-to-lose-position-as-worlds-largest-carmaker?contenttype=Article&source=applinks",
+                     "twitter:app:id:iphone":"409128287",
+                     "og:description":"Profits expected to fall by 31% in aftermath of tsunami",
+                     "article:publisher":"https://www.facebook.com/theguardian",
+                     "al:ios:app_store_id":"409128287",
+                     "twitter:dnt":"on",
+                     "twitter:image":"https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/6/10/1307722244209/Satoshi-Ozawa-007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&s=046024684f7b0ce080648f48e90449e6",
+                     "twitter:site":"@guardian",
+                     "article:modified_time":"2017-11-26T18:21:47.000Z",
+                     "og:type":"article",
+                     "article:section":"Business",
+                     "al:ios:app_name":"The Guardian",
+                     "og:title":"Toyota prepares to lose position as world's largest carmaker",
+                     "og:image:height":"720",
+                     "twitter:app:id:ipad":"409128287",
+                     "article:author":"https://www.theguardian.com/profile/danmilmo",
+                     "article:tag":"Toyota,Automotive industry,Business,Japan disaster,Japan,World news,Asia Pacific",
+                     "fb:app_id":"180444840287",
+                     "twitter:app:url:googleplay":"guardian://www.theguardian.com/business/2011/jun/10/toyota-prepares-to-lose-position-as-worlds-largest-carmaker",
+                     "twitter:app:name:ipad":"The Guardian",
+                     "viewport":"width=device-width,minimum-scale=1,initial-scale=1",
+                     "og:url":"http://www.theguardian.com/business/2011/jun/10/toyota-prepares-to-lose-position-as-worlds-largest-carmaker",
+                     "twitter:app:name:iphone":"The Guardian"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/6/10/1307722244209/Satoshi-Ozawa-007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=74ebafb42343811eebae6689db45e192",
+                     "width":"310",
+                     "type":"1",
+                     "height":"163"
+                  }
+               ]
+            }
+         },
+         {
+            "kind":"customsearch#result",
+            "title":"Who Makes the Best Engines, Toyota or Honda - YouTube",
+            "htmlTitle":"Who Makes the Best Engines, <b>Toyota or</b> Honda - YouTube",
+            "link":"https://www.youtube.com/watch?v=FcFcUg9iAvM",
+            "displayLink":"www.youtube.com",
+            "snippet":"Sep 13, 2018 ... Toyota vs Honda engine. Who Makes the Best Engines, Toyota or Honda, FYI and car review with Scotty Kilmer. Toyota engine reliability.",
+            "htmlSnippet":"Sep 13, 2018 <b>...</b> Toyota vs Honda engine. Who Makes the Best Engines, <b>Toyota or</b> Honda, FYI and car review with Scotty Kilmer. Toyota engine reliability.",
+            "cacheId":"FrVkvfA2UfIJ",
+            "formattedUrl":"https://www.youtube.com/watch?v=FcFcUg9iAvM",
+            "htmlFormattedUrl":"https://www.youtube.com/watch?v=FcFcUg9iAvM",
+            "pagemap":{
+               "imageobject":[
+                  {
+                     "width":"1280",
+                     "url":"https://i.ytimg.com/vi/FcFcUg9iAvM/maxresdefault.jpg",
+                     "height":"720"
+                  }
+               ],
+               "person":[
+                  {
+                     "name":"Scotty Kilmer",
+                     "url":"http://www.youtube.com/user/scottykilmer"
+                  }
+               ],
+               "metatags":[
+                  {
+                     "og:image":"https://i.ytimg.com/vi/FcFcUg9iAvM/maxresdefault.jpg",
+                     "theme-color":"rgba(255, 255, 255, 0.98)",
+                     "og:image:width":"1280",
+                     "og:type":"video.other",
+                     "og:site_name":"YouTube",
+                     "al:ios:app_name":"YouTube",
+                     "og:title":"Who Makes the Best Engines, Toyota or Honda",
+                     "og:image:height":"720",
+                     "al:android:package":"com.google.android.youtube",
+                     "title":"Who Makes the Best Engines, Toyota or Honda",
+                     "al:ios:url":"vnd.youtube://www.youtube.com/watch?v=FcFcUg9iAvM&feature=applinks",
+                     "al:web:url":"http://www.youtube.com/watch?v=FcFcUg9iAvM&feature=applinks",
+                     "og:video:secure_url":"https://www.youtube.com/embed/FcFcUg9iAvM",
+                     "og:video:tag":"the best",
+                     "og:description":"Toyota vs Honda engine. Who Makes the Best Engines, Toyota or Honda, FYI and car review with Scotty Kilmer. Toyota engine reliability. Honda engine reliabili...",
+                     "og:video:width":"1280",
+                     "al:ios:app_store_id":"544007664",
+                     "al:android:url":"vnd.youtube://www.youtube.com/watch?v=FcFcUg9iAvM&feature=applinks",
+                     "og:video:type":"text/html",
+                     "og:video:height":"720",
+                     "og:video:url":"https://www.youtube.com/embed/FcFcUg9iAvM",
+                     "og:url":"https://www.youtube.com/watch?v=FcFcUg9iAvM",
+                     "al:android:app_name":"YouTube"
+                  }
+               ],
+               "videoobject":[
+                  {
+                     "embedurl":"https://www.youtube.com/embed/FcFcUg9iAvM",
+                     "playertype":"HTML5 Flash",
+                     "isfamilyfriendly":"true",
+                     "uploaddate":"2018-09-13",
+                     "description":"Toyota vs Honda engine. Who Makes the Best Engines, Toyota or Honda, FYI and car review with Scotty Kilmer. Toyota engine reliability. Honda engine reliabili...",
+                     "videoid":"FcFcUg9iAvM",
+                     "url":"https://www.youtube.com/watch?v=FcFcUg9iAvM",
+                     "duration":"PT5M40S",
+                     "unlisted":"False",
+                     "name":"Who Makes the Best Engines, Toyota or Honda",
+                     "paid":"False",
+                     "width":"1280",
+                     "regionsallowed":"AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                     "genre":"Autos & Vehicles",
+                     "interactioncount":"1486219",
+                     "channelid":"UCuxpxCCevIlF-k-K5YU8XPA",
+                     "datepublished":"2018-09-13",
+                     "thumbnailurl":"https://i.ytimg.com/vi/FcFcUg9iAvM/maxresdefault.jpg",
+                     "height":"720"
+                  }
+               ],
+               "cse_image":[
+                  {
+                     "src":"https://i.ytimg.com/vi/FcFcUg9iAvM/maxresdefault.jpg",
+                     "width":"300",
+                     "type":"1",
+                     "height":"168"
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "7":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "previousPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":51,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":61,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "searchInformation":{
+         "searchTime":0.420743,
+         "formattedSearchTime":"0.42",
+         "totalResults":"0",
+         "formattedTotalResults":"0"
+      }
+   },
+   "8":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "previousPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":61,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":71,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "searchInformation":{
+         "searchTime":0.434878,
+         "formattedSearchTime":"0.43",
+         "totalResults":"0",
+         "formattedTotalResults":"0"
+      }
+   },
+   "9":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "previousPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":71,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":81,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "searchInformation":{
+         "searchTime":0.299451,
+         "formattedSearchTime":"0.30",
+         "totalResults":"0",
+         "formattedTotalResults":"0"
+      }
+   },
+   "10":{
+      "kind":"customsearch#search",
+      "url":{
+         "type":"application/json",
+         "template":"https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+      },
+      "queries":{
+         "previousPage":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":81,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ],
+         "request":[
+            {
+               "title":"Google Custom Search - \"Toyota or\"",
+               "searchTerms":"\"Toyota or\"",
+               "count":10,
+               "startIndex":91,
+               "inputEncoding":"utf8",
+               "outputEncoding":"utf8",
+               "safe":"active",
+               "cx":"eef1ce54ee2a2ef00"
+            }
+         ]
+      },
+      "searchInformation":{
+         "searchTime":0.442872,
+         "formattedSearchTime":"0.44",
+         "totalResults":"0",
+         "formattedTotalResults":"0"
+      }
+   }
+}

@@ -1,0 +1,1574 @@
+{
+   "results":[
+      {
+         "title":"1. Extending Python with C or C++ — Python 3.10.0 ...",
+         "link":"https://docs.python.org/3/extending/extending.html",
+         "description":" › extending › extending  › extending › extending",
+         "additional_links":[
+            {
+               "text":"1. Extending Python with C or C++ — Python 3.10.0 ...https://docs.python.org › extending › extending",
+               "href":"https://docs.python.org/3/extending/extending.html"
+            },
+            {
+               "text":"Python/C API Reference Manual — Python 3.10.0 ...https://docs.python.org › c-api",
+               "href":"https://docs.python.org/3/c-api/index.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://docs.python.org › extending › extending",
+            "span":" › extending › extending"
+         }
+      },
+      {
+         "title":"1. Extending Python with C or C++ — Python 3.10.0 ...",
+         "link":"https://docs.python.org/3/extending/extending.html",
+         "description":"These modules let you write Python code to interface with C code and are more portable between implementations of Python than writing and compiling a C ...",
+         "additional_links":[
+            {
+               "text":"1. Extending Python with C or C++ — Python 3.10.0 ...https://docs.python.org › extending › extending",
+               "href":"https://docs.python.org/3/extending/extending.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://docs.python.org › extending › extending",
+            "span":" › extending › extending"
+         }
+      },
+      {
+         "title":"Python/C API Reference Manual — Python 3.10.0 ...",
+         "link":"https://docs.python.org/3/c-api/index.html",
+         "description":"This manual documents the API used by C and C++ programmers who want to write extension modules or embed Python. It is a companion to Extending and Embedding ...",
+         "additional_links":[
+            {
+               "text":"Python/C API Reference Manual — Python 3.10.0 ...https://docs.python.org › c-api",
+               "href":"https://docs.python.org/3/c-api/index.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://docs.python.org › c-api",
+            "span":" › c-api"
+         }
+      },
+      {
+         "title":"How to use the -c flag in python - Stack Overflow",
+         "link":"https://stackoverflow.com/questions/27157683/how-to-use-the-c-flag-in-python",
+         "description":"Nov 26, 2014 — I noticed in the python doc that there is a -c flag. Here is what python doc says: Execute the Python code in command. command can be one or ...2 answers  ·  Top answer: Just pass regular Python code as the argument to the flag:\n\npython -c 'print 1\nprint 2' ...Python -c switch - Stack Overflow2 answersApr 5, 2013Can we use C code in Python? - Stack Overflow3 answersSep 12, 2013Using 'python -c' option in Windows command prompt ...1 answerJun 8, 2017How to put my Python C-module inside package ...2 answersMay 30, 2021More results from stackoverflow.com",
+         "additional_links":[
+            {
+               "text":"How to use the -c flag in python - Stack Overflowhttps://stackoverflow.com › questions › how-to-use-the-...",
+               "href":"https://stackoverflow.com/questions/27157683/how-to-use-the-c-flag-in-python"
+            },
+            {
+               "text":"2 answers",
+               "href":"https://stackoverflow.com/a/27157703"
+            },
+            {
+               "text":"Python -c switch - Stack Overflow",
+               "href":"https://stackoverflow.com/questions/15835316/python-c-switch"
+            },
+            {
+               "text":"Can we use C code in Python? - Stack Overflow",
+               "href":"https://stackoverflow.com/questions/18762621/can-we-use-c-code-in-python"
+            },
+            {
+               "text":"Using 'python -c' option in Windows command prompt ...",
+               "href":"https://stackoverflow.com/questions/32266621/using-python-c-option-in-windows-command-prompt"
+            },
+            {
+               "text":"How to put my Python C-module inside package ...",
+               "href":"https://stackoverflow.com/questions/12856931/how-to-put-my-python-c-module-inside-package"
+            }
+         ],
+         "cite":{
+            "domain":"https://stackoverflow.com › questions › how-to-use-the-...",
+            "span":" › questions › how-to-use-the-..."
+         }
+      },
+      {
+         "title":"Building a Python C Extension Module",
+         "link":"https://realpython.com/build-python-c-extension-module/",
+         "description":" › build-python-c-extension-mod...  › build-python-c-extension-mod... In this tutorial, you'll learn how to write Python interfaces in C. Find out how to invoke C functions from within Python and build Python C extension ...",
+         "additional_links":[
+            {
+               "text":"Building a Python C Extension Modulehttps://realpython.com › build-python-c-extension-mod...",
+               "href":"https://realpython.com/build-python-c-extension-module/"
+            },
+            {
+               "text":"C for Python Programmershttps://realpython.com › c-for-python-programmers",
+               "href":"https://realpython.com/c-for-python-programmers/"
+            }
+         ],
+         "cite":{
+            "domain":"https://realpython.com › build-python-c-extension-mod...",
+            "span":" › build-python-c-extension-mod..."
+         }
+      },
+      {
+         "title":"Building a Python C Extension Module",
+         "link":"https://realpython.com/build-python-c-extension-module/",
+         "description":"In this tutorial, you'll learn how to write Python interfaces in C. Find out how to invoke C functions from within Python and build Python C extension ...",
+         "additional_links":[
+            {
+               "text":"Building a Python C Extension Modulehttps://realpython.com › build-python-c-extension-mod...",
+               "href":"https://realpython.com/build-python-c-extension-module/"
+            }
+         ],
+         "cite":{
+            "domain":"https://realpython.com › build-python-c-extension-mod...",
+            "span":" › build-python-c-extension-mod..."
+         }
+      },
+      {
+         "title":"C for Python Programmers",
+         "link":"https://realpython.com/c-for-python-programmers/",
+         "description":"Jan 20, 2021 — In this tutorial, you'll learn the basics of the C language, which is used in the source code for CPython, the most popular Python ...",
+         "additional_links":[
+            {
+               "text":"C for Python Programmershttps://realpython.com › c-for-python-programmers",
+               "href":"https://realpython.com/c-for-python-programmers/"
+            }
+         ],
+         "cite":{
+            "domain":"https://realpython.com › c-for-python-programmers",
+            "span":" › c-for-python-programmers"
+         }
+      },
+      {
+         "title":"22. Python C extensions — Python Tips 0.1 documentation",
+         "link":"https://book.pythontips.com/en/latest/python_c_extension.html",
+         "description":"Python C extensions¶. An interesting feature offered to developers by the CPython implementation is the ease of interfacing C code to Python.",
+         "additional_links":[
+            {
+               "text":"22. Python C extensions — Python Tips 0.1 documentationhttps://book.pythontips.com › latest › python_c_extensi...",
+               "href":"https://book.pythontips.com/en/latest/python_c_extension.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://book.pythontips.com › latest › python_c_extensi...",
+            "span":" › latest › python_c_extensi..."
+         }
+      },
+      {
+         "title":"Python Programming/Command-line one-liners - Wikibooks",
+         "link":"https://en.wikibooks.org/wiki/Python_Programming/Command-line_one-liners",
+         "description":"Imports a module required and outputs sine value. python -c \"for i in range(1,11):print(i)\". Uses a loop to output numbers from 1 to ...",
+         "additional_links":[
+            {
+               "text":"Python Programming/Command-line one-liners - Wikibookshttps://en.wikibooks.org › wiki › Command-line_one-li...",
+               "href":"https://en.wikibooks.org/wiki/Python_Programming/Command-line_one-liners"
+            }
+         ],
+         "cite":{
+            "domain":"https://en.wikibooks.org › wiki › Command-line_one-li...",
+            "span":" › wiki › Command-line_one-li..."
+         }
+      },
+      {
+         "title":"Enhancing Python with Custom C Extensions - Stack Abuse",
+         "link":"https://stackabuse.com/enhancing-python-with-custom-c-extensions/",
+         "description":"Jan 23, 2018 — Obtain or write C code; Write Python C API wrapper function; Define function(s) table; Define module; Write initialization function ...",
+         "additional_links":[
+            {
+               "text":"Enhancing Python with Custom C Extensions - Stack Abusehttps://stackabuse.com › enhancing-python-with-custo...",
+               "href":"https://stackabuse.com/enhancing-python-with-custom-c-extensions/"
+            }
+         ],
+         "cite":{
+            "domain":"https://stackabuse.com › enhancing-python-with-custo...",
+            "span":" › enhancing-python-with-custo..."
+         }
+      },
+      {
+         "title":"The hidden performance overhead of Python C extensions",
+         "link":"https://pythonspeed.com/articles/python-extension-performance/",
+         "description":"Apr 29, 2021 — The hidden performance overhead of Python C extensions ... Python is slow, and compiled languages like Rust, C, or C++ are fast. So when your ...",
+         "additional_links":[
+            {
+               "text":"The hidden performance overhead of Python C extensionshttps://pythonspeed.com › articles › python-extension-p...",
+               "href":"https://pythonspeed.com/articles/python-extension-performance/"
+            }
+         ],
+         "cite":{
+            "domain":"https://pythonspeed.com › articles › python-extension-p...",
+            "span":" › articles › python-extension-p..."
+         }
+      },
+      {
+         "title":"Chapter 8 The Connector/Python C Extension - MySQL ...",
+         "link":"https://dev.mysql.com/doc/connector-python/en/connector-python-cext.html",
+         "description":"Section 8.1, “Application Development with the Connector/Python C Extension”, describes how applications that use the mysql.connector module can use the C ...",
+         "additional_links":[
+            {
+               "text":"Chapter 8 The Connector/Python C Extension - MySQL ...https://dev.mysql.com › doc › connector-python-cext",
+               "href":"https://dev.mysql.com/doc/connector-python/en/connector-python-cext.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://dev.mysql.com › doc › connector-python-cext",
+            "span":" › doc › connector-python-cext"
+         }
+      },
+      {
+         "title":"2.8. Interfacing with C - Scipy Lecture Notes",
+         "link":"https://scipy-lectures.org/advanced/interfacing_with_c/interfacing_with_c.html",
+         "description":"Since reference counting bugs are easy to create and hard to track down, anyone really needing to use the Python C-API should read the section about objects ...",
+         "additional_links":[
+            {
+               "text":"2.8. Interfacing with C - Scipy Lecture Noteshttps://scipy-lectures.org › advanced › interfacing_with_c",
+               "href":"https://scipy-lectures.org/advanced/interfacing_with_c/interfacing_with_c.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://scipy-lectures.org › advanced › interfacing_with_c",
+            "span":" › advanced › interfacing_with_c"
+         }
+      },
+      {
+         "title":"Freenove Ultimate Starter Kit for Raspberry Pi 4 B 3 B+ 400 ...",
+         "link":"https://www.amazon.com/Freenove-Raspberry-Processing-Tutorials-Components/dp/B06W54L7B5",
+         "description":"Amazon.com: Freenove Ultimate Starter Kit for Raspberry Pi 4 B 3 B+ 400, 561-Page Detailed Tutorials, Python C Java Scratch Code, 223 Items, 72 Projects, ...Operating System: ‎Raspberry Pi OSItem Weight: ‎1.19 poundsComputer Memory Type: ‎DDR DRAM Rating: 4.6 · ‎2,840 reviews",
+         "additional_links":[
+            {
+               "text":"Freenove Ultimate Starter Kit for Raspberry Pi 4 B 3 B+ 400 ...https://www.amazon.com › Freenove-Raspberry-Proces...",
+               "href":"https://www.amazon.com/Freenove-Raspberry-Processing-Tutorials-Components/dp/B06W54L7B5"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.amazon.com › Freenove-Raspberry-Proces...",
+            "span":" › Freenove-Raspberry-Proces..."
+         },
+         "g_review_stars":" Rating: 4.6 · ‎2,840 reviews"
+      },
+      {
+         "title":"Python-C Integration - PYNQ ReadTheDocs",
+         "link":"https://pynq.readthedocs.io/en/v2.3/overlay_design_methodology/python-c_integration.html",
+         "description":"In some instances, the performance of Python classes to manage data transfer to an overlay may not be sufficient. Usually this would be determined by ...",
+         "additional_links":[
+            {
+               "text":"Python-C Integration - PYNQ ReadTheDocshttps://pynq.readthedocs.io › python-c_integration",
+               "href":"https://pynq.readthedocs.io/en/v2.3/overlay_design_methodology/python-c_integration.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://pynq.readthedocs.io › python-c_integration",
+            "span":" › python-c_integration"
+         }
+      },
+      {
+         "title":"This is the practice of Python C extensions. - GitHub",
+         "link":"https://github.com/starnight/python-c-extension",
+         "description":"Python C extension · Files in each directory. test.py: The test codes to run the module built from the C extension files. · 00-HelloWorld. It is a general hello ...",
+         "additional_links":[
+            {
+               "text":"This is the practice of Python C extensions. - GitHubhttps://github.com › starnight › python-c-extension",
+               "href":"https://github.com/starnight/python-c-extension"
+            }
+         ],
+         "cite":{
+            "domain":"https://github.com › starnight › python-c-extension",
+            "span":" › starnight › python-c-extension"
+         }
+      },
+      {
+         "title":"Write C++ extensions for Python - Visual Studio (Windows)",
+         "link":"https://docs.microsoft.com/en-us/visualstudio/python/working-with-c-cpp-python-in-visual-studio",
+         "description":"Oct 12, 2021 — This article walks you through building a C++ extension module for CPython that computes a hyperbolic tangent and calls it from Python code. The ...",
+         "additional_links":[
+            {
+               "text":"Write C++ extensions for Python - Visual Studio (Windows)https://docs.microsoft.com › ... › IDE › Python",
+               "href":"https://docs.microsoft.com/en-us/visualstudio/python/working-with-c-cpp-python-in-visual-studio"
+            }
+         ],
+         "cite":{
+            "domain":"https://docs.microsoft.com › ... › IDE › Python",
+            "span":" › ... › IDE › Python"
+         }
+      },
+      {
+         "title":"Embed Python scripting in C applications - IBM Software",
+         "link":"https://www6.software.ibm.com/developerworks/education/l-pythonscript/l-pythonscript-ltr.pdf",
+         "description":"The functions supported are all part of the Python C. API; you can use them just as you could any other part of the C API. Table 2 lists the main functions ...",
+         "additional_links":[
+            {
+               "text":"Embed Python scripting in C applications - IBM Softwarehttps://www6.software.ibm.com › l-pythonscript-ltr",
+               "href":"https://www6.software.ibm.com/developerworks/education/l-pythonscript/l-pythonscript-ltr.pdf"
+            }
+         ],
+         "cite":{
+            "domain":"https://www6.software.ibm.com › l-pythonscript-ltr",
+            "span":" › l-pythonscript-ltr"
+         }
+      },
+      {
+         "title":"Debugging Python C extensions with GDB | Red Hat Developer",
+         "link":"https://developers.redhat.com/articles/2021/09/08/debugging-python-c-extensions-gdb",
+         "description":"Sep 8, 2021 — You can use C debuggers to debug C extensions in Python 3.9. Learn how to use the improved Python debug build with the GNU Project Debugger ...",
+         "additional_links":[
+            {
+               "text":"Debugging Python C extensions with GDB | Red Hat Developerhttps://developers.redhat.com › articles › 2021/09/08",
+               "href":"https://developers.redhat.com/articles/2021/09/08/debugging-python-c-extensions-gdb"
+            }
+         ],
+         "cite":{
+            "domain":"https://developers.redhat.com › articles › 2021/09/08",
+            "span":" › articles › 2021/09/08"
+         }
+      },
+      {
+         "title":"Creating Basic Python C Extensions - Tutorial | TutorialEdge.net",
+         "link":"https://tutorialedge.net/python/python-c-extensions-tutorial/",
+         "description":"Dec 1, 2017 — In this tutorial we are going to take a look at how you can create a really simple Python module using the C programming language.",
+         "additional_links":[
+            {
+               "text":"Creating Basic Python C Extensions - Tutorial | TutorialEdge.nethttps://tutorialedge.net › python › python-c-extensions-...",
+               "href":"https://tutorialedge.net/python/python-c-extensions-tutorial/"
+            }
+         ],
+         "cite":{
+            "domain":"https://tutorialedge.net › python › python-c-extensions-...",
+            "span":" › python › python-c-extensions-..."
+         }
+      },
+      {
+         "title":"Make Python Hundreds of Times Faster With a C-Extension",
+         "link":"https://medium.com/swlh/make-python-hundreds-of-times-faster-with-a-c-extension-9d0a5180063e",
+         "description":"Jul 26, 2020 — The Python C API. The Python language provides an extensive C API that allows you to compile and build C functions that can accept and ...",
+         "additional_links":[
+            {
+               "text":"Make Python Hundreds of Times Faster With a C-Extensionhttps://medium.com › swlh",
+               "href":"https://medium.com/swlh/make-python-hundreds-of-times-faster-with-a-c-extension-9d0a5180063e"
+            }
+         ],
+         "cite":{
+            "domain":"https://medium.com › swlh",
+            "span":" › swlh"
+         }
+      },
+      {
+         "title":"for loop in one line (for python -c) - Code Review Stack ...",
+         "link":"https://codereview.stackexchange.com/questions/257607/for-loop-in-one-line-for-python-c",
+         "description":"Mar 25, 2021 · 1 answerIf you need to use python for being crossplattform and if you need to do this in one line then this is the way to go, yes. For some reason.",
+         "additional_links":[
+            {
+               "text":"for loop in one line (for python -c) - Code Review Stack ...https://codereview.stackexchange.com › questions › for...",
+               "href":"https://codereview.stackexchange.com/questions/257607/for-loop-in-one-line-for-python-c"
+            }
+         ],
+         "cite":{
+            "domain":"https://codereview.stackexchange.com › questions › for...",
+            "span":" › questions › for..."
+         }
+      },
+      {
+         "title":"Project 1: Python/C API – Welcome! - Muse – Union",
+         "link":"https://muse.union.edu/2017capstone-liuy/2017/03/17/project-1-pythonc-api/",
+         "description":"Mar 17, 2017 — There are total 10 Python C APIs. We have to: Develop a function to demonstrate usage of each API. Test the code thoroughly.",
+         "additional_links":[
+            {
+               "text":"Project 1: Python/C API – Welcome! - Muse – Unionhttps://muse.union.edu › 2017/03/17 › project-1-pytho...",
+               "href":"https://muse.union.edu/2017capstone-liuy/2017/03/17/project-1-pythonc-api/"
+            }
+         ],
+         "cite":{
+            "domain":"https://muse.union.edu › 2017/03/17 › project-1-pytho...",
+            "span":" › 2017/03/17 › project-1-pytho..."
+         }
+      },
+      {
+         "title":"Coding the Methods of a Python Class in C - O'Reilly Media",
+         "link":"https://www.oreilly.com/library/view/python-cookbook/0596001673/ch16s06.html",
+         "description":"... documentation on the Python C API at http://www.python.org/doc/current/api/api.html. Get Python Cookbook now with O'Reilly online learning.",
+         "additional_links":[
+            {
+               "text":"Coding the Methods of a Python Class in C - O'Reilly Mediahttps://www.oreilly.com › view › python-cookbook",
+               "href":"https://www.oreilly.com/library/view/python-cookbook/0596001673/ch16s06.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.oreilly.com › view › python-cookbook",
+            "span":" › view › python-cookbook"
+         }
+      },
+      {
+         "title":"what does python -c/-tt/... mean?: learnpython - Reddit",
+         "link":"https://www.reddit.com/r/learnpython/comments/v1zkm/what_does_python_ctt_mean/",
+         "description":"I'm going through a book on python and the author starts python in one of his examples by typing \"python -c\" in the command line and I have no idea …",
+         "additional_links":[
+            {
+               "text":"what does python -c/-tt/... mean?: learnpython - Reddithttps://www.reddit.com › learnpython › comments › w...",
+               "href":"https://www.reddit.com/r/learnpython/comments/v1zkm/what_does_python_ctt_mean/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.reddit.com › learnpython › comments › w...",
+            "span":" › learnpython › comments › w..."
+         }
+      },
+      {
+         "title":"CPython and the Python/C API - Cornell Virtual Workshop",
+         "link":"https://cvw.cac.cornell.edu/python/api",
+         "description":"The CPython interpreter (aka, \"python\") works by compiling Python source code to intermediate bytecodes, and then operating on those.",
+         "additional_links":[
+            {
+               "text":"CPython and the Python/C API - Cornell Virtual Workshophttps://cvw.cac.cornell.edu › python › api",
+               "href":"https://cvw.cac.cornell.edu/python/api"
+            }
+         ],
+         "cite":{
+            "domain":"https://cvw.cac.cornell.edu › python › api",
+            "span":" › python › api"
+         }
+      },
+      {
+         "title":"Using Python and C together - DEV Community",
+         "link":"https://dev.to/rapidnerd/using-python-and-c-together-d4e",
+         "description":"Aug 8, 2018 — Python and C, two of the most popular and greatest languages that have come out of programming. Many languages can communicate with each ...",
+         "additional_links":[
+            {
+               "text":"Using Python and C together - DEV Communityhttps://dev.to › rapidnerd",
+               "href":"https://dev.to/rapidnerd/using-python-and-c-together-d4e"
+            }
+         ],
+         "cite":{
+            "domain":"https://dev.to › rapidnerd",
+            "span":" › rapidnerd"
+         }
+      },
+      {
+         "title":"\"Hello, World!\" in Python, C, and C++ - aaronscher.com",
+         "link":"https://aaronscher.com/Programming/side_by_side/hello_world/hello_world.html",
+         "description":"Here I show how to print to screen the classic phrase \"Hello, World!\" using Python, C, and C++. I am using a Mac and the Terminal window.",
+         "additional_links":[
+            {
+               "text":"\"Hello, World!\" in Python, C, and C++ - aaronscher.comhttps://aaronscher.com › Programming › side_by_side",
+               "href":"https://aaronscher.com/Programming/side_by_side/hello_world/hello_world.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://aaronscher.com › Programming › side_by_side",
+            "span":" › Programming › side_by_side"
+         }
+      },
+      {
+         "title":"Python vs C: Compared and Contrasted | Career Karma",
+         "link":"https://careerkarma.com/blog/python-vs-c/",
+         "description":"Dec 18, 2019 — In brief, C is an older, compiled, low level, procedural programming language. It has more control over itself and the computer, and it runs ...",
+         "additional_links":[
+            {
+               "text":"Python vs C: Compared and Contrasted | Career Karmahttps://careerkarma.com › Blog › Python Resources",
+               "href":"https://careerkarma.com/blog/python-vs-c/"
+            }
+         ],
+         "cite":{
+            "domain":"https://careerkarma.com › Blog › Python Resources",
+            "span":" › Blog › Python Resources"
+         }
+      },
+      {
+         "title":"The Python/C API: Evolution, Usage Statistics, and Bug Patterns",
+         "link":"https://ieeexplore.ieee.org/document/9054835",
+         "description":"by M Hu · 2020 · Cited by 2 — Python has become one of the most popular programming languages in the era of data science and machine learning, especially for its diverse libraries and ...Date Added to IEEE Xplore: 02 April 2020DOI: 10.1109/SANER48275.2020.9054835Date of Conference: 18-21 Feb. 2020",
+         "additional_links":[
+            {
+               "text":"The Python/C API: Evolution, Usage Statistics, and Bug Patternshttps://ieeexplore.ieee.org › document",
+               "href":"https://ieeexplore.ieee.org/document/9054835"
+            }
+         ],
+         "cite":{
+            "domain":"https://ieeexplore.ieee.org › document",
+            "span":" › document"
+         }
+      },
+      {
+         "title":"Plant_Software Developer_Data Science (Python/C#/Java ...",
+         "link":"https://www.continental-jobs.com/index.php?ac=jobad&id=1547244&jobId=187465BR",
+         "description":"The Vehicle Networking and Information business area, with its vision of “Always On,” sees the vehicle of the future as a partner that supports its ...",
+         "additional_links":[
+            {
+               "text":"Plant_Software Developer_Data Science (Python/C#/Java ...https://www.continental-jobs.com › ...",
+               "href":"https://www.continental-jobs.com/index.php?ac=jobad&id=1547244&jobId=187465BR"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.continental-jobs.com › ...",
+            "span":" › ..."
+         }
+      },
+      {
+         "title":"Blob Detection Using OpenCV ( Python, C++ ) | - LearnOpenCV",
+         "link":"https://learnopencv.com/blob-detection-using-opencv-python-c/",
+         "description":"This beginner tutorial explains simple blob detection using OpenCV. C++ and Python code is available for study and practice.",
+         "additional_links":[
+            {
+               "text":"Blob Detection Using OpenCV ( Python, C++ ) | - LearnOpenCVhttps://learnopencv.com › blob-detection-using-opencv...",
+               "href":"https://learnopencv.com/blob-detection-using-opencv-python-c/"
+            }
+         ],
+         "cite":{
+            "domain":"https://learnopencv.com › blob-detection-using-opencv...",
+            "span":" › blob-detection-using-opencv..."
+         }
+      },
+      {
+         "title":"Python C Screws",
+         "link":"https://www.pythonfixings.co.nz/python-c-tech",
+         "description":"PYTHON C SCREWS are our purposely designed and proof-tested seismically rated masonry screw resulting in full composite behaviour of cavity-wall leafs and ...",
+         "additional_links":[
+            {
+               "text":"Python C Screwshttps://www.pythonfixings.co.nz › python-c-tech",
+               "href":"https://www.pythonfixings.co.nz/python-c-tech"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.pythonfixings.co.nz › python-c-tech",
+            "span":" › python-c-tech"
+         }
+      },
+      {
+         "title":"Python modules in C | Dan Foreman-Mackey",
+         "link":"https://dfm.io/posts/python-c-extensions/",
+         "description":"Aug 3, 2012 — Writing your own C extensions to Python can seem like a pretty daunting task when you first get started. If you take a look at the Python/C API ...",
+         "additional_links":[
+            {
+               "text":"Python modules in C | Dan Foreman-Mackeyhttps://dfm.io › posts › python-c-extensions",
+               "href":"https://dfm.io/posts/python-c-extensions/"
+            }
+         ],
+         "cite":{
+            "domain":"https://dfm.io › posts › python-c-extensions",
+            "span":" › posts › python-c-extensions"
+         }
+      },
+      {
+         "title":"Python C Developer Jobs, Employment | Indeed.com",
+         "link":"https://www.indeed.com/q-Python-C-Developer-jobs.html",
+         "description":"4057 Python C Developer jobs available on Indeed.com. Apply to Python Developer, Software Engineer, Full Stack Developer and more!",
+         "additional_links":[
+            {
+               "text":"Python C Developer Jobs, Employment | Indeed.comhttps://www.indeed.com › q-Python-C-Developer-jobs",
+               "href":"https://www.indeed.com/q-Python-C-Developer-jobs.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.indeed.com › q-Python-C-Developer-jobs",
+            "span":" › q-Python-C-Developer-jobs"
+         }
+      },
+      {
+         "title":"Python Types and C-Structures — NumPy v1.21 Manual",
+         "link":"https://numpy.org/doc/stable/reference/c-api/types-and-structures.html",
+         "description":"Indicates this data-type requires the Python C-API during access (so don't give up the GIL if array access is going to be needed). NPY_USE_GETITEM¶.",
+         "additional_links":[
+            {
+               "text":"Python Types and C-Structures — NumPy v1.21 Manualhttps://numpy.org › doc › stable › reference › c-api › t...",
+               "href":"https://numpy.org/doc/stable/reference/c-api/types-and-structures.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://numpy.org › doc › stable › reference › c-api › t...",
+            "span":" › doc › stable › reference › c-api › t..."
+         }
+      },
+      {
+         "title":"command line: python -c 'code here'",
+         "link":"https://python-forum.io/thread-9139.html",
+         "description":"Mar 23, 2018 — when tying to execute multi line code through the -c option of the python interpreter itself, i have not gotten anything to work. is this ...",
+         "additional_links":[
+            {
+               "text":"command line: python -c 'code here'https://python-forum.io › thread-9139",
+               "href":"https://python-forum.io/thread-9139.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://python-forum.io › thread-9139",
+            "span":" › thread-9139"
+         }
+      },
+      {
+         "title":"Tutorial: Build Sample Docker Type Python with C App - IOx",
+         "link":"https://developer.cisco.com/docs/iox/#!tutorial-build-sample-docker-type-python-with-c-app",
+         "description":"running docker container. Show how to copy built python module and create python runtime environment in base docker image for the python application. Sample ...",
+         "additional_links":[
+            {
+               "text":"Tutorial: Build Sample Docker Type Python with C App - IOxhttps://developer.cisco.com › docs › iox",
+               "href":"https://developer.cisco.com/docs/iox/#!tutorial-build-sample-docker-type-python-with-c-app"
+            }
+         ],
+         "cite":{
+            "domain":"https://developer.cisco.com › docs › iox",
+            "span":" › docs › iox"
+         }
+      },
+      {
+         "title":"SWIG and Python",
+         "link":"http://www.swig.org/Doc1.3/Python.html",
+         "description":"This is an advanced topic that assumes familiarity with the Python C API as well as the material in the \"Typemaps\" chapter. Before proceeding, it should be ...",
+         "additional_links":[
+            {
+               "text":"SWIG and Pythonhttp://www.swig.org › Doc1.3 › Python",
+               "href":"http://www.swig.org/Doc1.3/Python.html"
+            }
+         ],
+         "cite":{
+            "domain":"http://www.swig.org › Doc1.3 › Python",
+            "span":" › Doc1.3 › Python"
+         }
+      },
+      {
+         "title":"Embedding Python in Your C Programs | Linux Journal",
+         "link":"https://www.linuxjournal.com/article/8497",
+         "description":"Dec 30, 2005 — Once a C/C++ application is compiled, its code is pretty much static. At times, that can be a real hindrance. For example, if you want to allow ...",
+         "additional_links":[
+            {
+               "text":"Embedding Python in Your C Programs | Linux Journalhttps://www.linuxjournal.com › article",
+               "href":"https://www.linuxjournal.com/article/8497"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.linuxjournal.com › article",
+            "span":" › article"
+         }
+      },
+      {
+         "title":"The Levenshtein Python C extension module contains ...",
+         "link":"https://pythonrepo.com/repo/ztane-python-Levenshtein--python-text-processing",
+         "description":"6 days ago — The Levenshtein Python C extension module contains functions for fast computation of. Levenshtein (edit) distance, and edit operations ...",
+         "additional_links":[
+            {
+               "text":"The Levenshtein Python C extension module contains ...https://pythonrepo.com › repo › ztane-python-Levensht...",
+               "href":"https://pythonrepo.com/repo/ztane-python-Levenshtein--python-text-processing"
+            }
+         ],
+         "cite":{
+            "domain":"https://pythonrepo.com › repo › ztane-python-Levensht...",
+            "span":" › repo › ztane-python-Levensht..."
+         }
+      },
+      {
+         "title":"pythonpy - 'python -c', with tab completion and shorthand",
+         "link":"http://manpages.ubuntu.com/manpages/bionic/man1/py.1.html",
+         "description":"pythonpy will evaluate any Python expression from the command line. This will be done by the same Python interpreter that runs it. As this version uses Python 3 ...",
+         "additional_links":[
+            {
+               "text":"pythonpy - 'python -c', with tab completion and shorthandhttp://manpages.ubuntu.com › bionic › man1 › py.1.html",
+               "href":"http://manpages.ubuntu.com/manpages/bionic/man1/py.1.html"
+            }
+         ],
+         "cite":{
+            "domain":"http://manpages.ubuntu.com › bionic › man1 › py.1.html",
+            "span":" › bionic › man1 › py.1.html"
+         }
+      },
+      {
+         "title":"Team Corally Python (C-00181) - Jennys RC",
+         "link":"https://jennysrc.com/collections/corally-python-c-00181",
+         "description":"This model is discontinued - these parts are all we have left.",
+         "additional_links":[
+            {
+               "text":"Team Corally Python (C-00181) - Jennys RChttps://jennysrc.com › collections › corally-python-c-00...",
+               "href":"https://jennysrc.com/collections/corally-python-c-00181"
+            }
+         ],
+         "cite":{
+            "domain":"https://jennysrc.com › collections › corally-python-c-00...",
+            "span":" › collections › corally-python-c-00..."
+         }
+      },
+      {
+         "title":"Python/C API Reference Manual",
+         "link":"https://sceweb.sce.uhcl.edu/helm/WEBPAGE-Python/documentation/python_tutorial/api/api.html",
+         "description":"Python/C API Reference Manual. Guido van Rossum. Corporation for National Research Initiatives (CNRI) 1895 Preston White Drive, Reston, Va 20191, USA",
+         "additional_links":[
+            {
+               "text":"Python/C API Reference Manualhttps://sceweb.sce.uhcl.edu › helm › python_tutorial › api",
+               "href":"https://sceweb.sce.uhcl.edu/helm/WEBPAGE-Python/documentation/python_tutorial/api/api.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://sceweb.sce.uhcl.edu › helm › python_tutorial › api",
+            "span":" › helm › python_tutorial › api"
+         }
+      },
+      {
+         "title":"gdb/python/python.c - chromiumos/third_party/gdb - Google Git",
+         "link":"https://chromium.googlesource.com/chromiumos/third_party/gdb/+/4dcb84e2112f2fd7ce3a22e4ba567a43ec44940d/gdb/python/python.c",
+         "description":"General python/gdb code. Copyright (C) 2008-2013 Free Software Foundation, Inc. This file is part of GDB. This program is free software; ...",
+         "additional_links":[
+            {
+               "text":"gdb/python/python.c - chromiumos/third_party/gdb - Google Githttps://chromium.googlesource.com › chromiumos › p...",
+               "href":"https://chromium.googlesource.com/chromiumos/third_party/gdb/+/4dcb84e2112f2fd7ce3a22e4ba567a43ec44940d/gdb/python/python.c"
+            }
+         ],
+         "cite":{
+            "domain":"https://chromium.googlesource.com › chromiumos › p...",
+            "span":" › chromiumos › p..."
+         }
+      },
+      {
+         "title":"How to quickly embed python in your C++ Application | by Greg",
+         "link":"https://medium.datadriveninvestor.com/how-to-quickly-embed-python-in-your-c-application-23c19694813",
+         "description":"Aug 19, 2020 — Embedding Python in your application allows you to implement some of the functionality in python rather than pure C or C++.",
+         "additional_links":[
+            {
+               "text":"How to quickly embed python in your C++ Application | by Greghttps://medium.datadriveninvestor.com › ...",
+               "href":"https://medium.datadriveninvestor.com/how-to-quickly-embed-python-in-your-c-application-23c19694813"
+            }
+         ],
+         "cite":{
+            "domain":"https://medium.datadriveninvestor.com › ...",
+            "span":" › ..."
+         }
+      },
+      {
+         "title":"2143 - Python/C Developer – Remote - Intertech",
+         "link":"https://www.intertech.com/software-career/2143-python-c-developer-remote/",
+         "description":"4 days ago — Design and develop software products conforming to industry best practices and company standards, such as style guides and documentation ...",
+         "additional_links":[
+            {
+               "text":"2143 - Python/C Developer – Remote - Intertechhttps://www.intertech.com › Job Listings",
+               "href":"https://www.intertech.com/software-career/2143-python-c-developer-remote/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.intertech.com › Job Listings",
+            "span":" › Job Listings"
+         }
+      },
+      {
+         "title":"Principal AWS Software Engineer (Python, C#) - Remote",
+         "link":"https://www.cybercoders.com/principal-software-engineer-aws-python-c-sharp-react-remote-job-606745",
+         "description":"Sep 7, 2021 — Located in the greater Seattle area, we are a global leader in medical device technology that is actively seeking a Principal Cloud Software ...",
+         "additional_links":[
+            {
+               "text":"Principal AWS Software Engineer (Python, C#) - Remotehttps://www.cybercoders.com › principal-software-engi...",
+               "href":"https://www.cybercoders.com/principal-software-engineer-aws-python-c-sharp-react-remote-job-606745"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.cybercoders.com › principal-software-engi...",
+            "span":" › principal-software-engi..."
+         }
+      },
+      {
+         "title":"Improve Python Performances with ctypes | by Guillaume Androz",
+         "link":"https://towardsdatascience.com/improve-python-performances-with-ctypes-ef51cee2eb59",
+         "description":"May 5, 2021 — When it's time to look at python performances, it is commonly proven that python is a slow, really slow if you compare to compiled and lower ...",
+         "additional_links":[
+            {
+               "text":"Improve Python Performances with ctypes | by Guillaume Androzhttps://towardsdatascience.com › ...",
+               "href":"https://towardsdatascience.com/improve-python-performances-with-ctypes-ef51cee2eb59"
+            }
+         ],
+         "cite":{
+            "domain":"https://towardsdatascience.com › ...",
+            "span":" › ..."
+         }
+      },
+      {
+         "title":"Building a Python C extension module with CMake - Martino ...",
+         "link":"https://martinopilia.com/posts/2018/09/15/building-python-extension.html",
+         "description":"Sep 15, 2018 — This post presents a brief overview of Python C extensions and the most common tools available for their development, and it shows a way to ...",
+         "additional_links":[
+            {
+               "text":"Building a Python C extension module with CMake - Martino ...https://martinopilia.com › posts › 2018/09/15 › buildin...",
+               "href":"https://martinopilia.com/posts/2018/09/15/building-python-extension.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://martinopilia.com › posts › 2018/09/15 › buildin...",
+            "span":" › posts › 2018/09/15 › buildin..."
+         }
+      },
+      {
+         "title":"Python C code snippets - GitHub Wiki SEE",
+         "link":"https://github-wiki-see.page/m/facebookresearch/faiss/wiki/Python-C---code-snippets",
+         "description":"Python C code snippets ... It is not always obvious how the C++ and Python layers interact. Therefore, we give some handy code in Python notebooks that can be ...",
+         "additional_links":[
+            {
+               "text":"Python C code snippets - GitHub Wiki SEEhttps://github-wiki-see.page › facebookresearch › faiss",
+               "href":"https://github-wiki-see.page/m/facebookresearch/faiss/wiki/Python-C---code-snippets"
+            }
+         ],
+         "cite":{
+            "domain":"https://github-wiki-see.page › facebookresearch › faiss",
+            "span":" › facebookresearch › faiss"
+         }
+      },
+      {
+         "title":"How to Find the Mean of an Array in Python, C++, JavaScript ...",
+         "link":"https://www.makeuseof.com/find-mean-of-array/",
+         "description":"Sep 10, 2021 — Approach to Solve the Problem · Initialize a variable sumOfElements (with a value of 0) to store the sum of all elements in the array. · Iterate ...",
+         "additional_links":[
+            {
+               "text":"How to Find the Mean of an Array in Python, C++, JavaScript ...https://www.makeuseof.com › Programming",
+               "href":"https://www.makeuseof.com/find-mean-of-array/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.makeuseof.com › Programming",
+            "span":" › Programming"
+         }
+      },
+      {
+         "title":"Java Native Interface compared to Python/C API - Project Nayuki",
+         "link":"https://www.nayuki.io/page/java-native-interface-compared-to-python-c-api",
+         "description":"May 8, 2016 — Java and Python are both high-level object-oriented programming languages. Sometimes they need to invoke code implemented in a lower level ...",
+         "additional_links":[
+            {
+               "text":"Java Native Interface compared to Python/C API - Project Nayukihttps://www.nayuki.io › page › java-native-interface-co...",
+               "href":"https://www.nayuki.io/page/java-native-interface-compared-to-python-c-api"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.nayuki.io › page › java-native-interface-co...",
+            "span":" › page › java-native-interface-co..."
+         }
+      },
+      {
+         "title":"Any Windows Manager Controler libraries for Python/C/C++?",
+         "link":"https://askubuntu.com/questions/1327897/any-windows-manager-controler-libraries-for-python-c-c",
+         "description":"Mar 29, 2021 · 1 answerHave a look at libwnck. API docs for the Python bindings are here, you need to install the package gir1.2-wnck-1.0 to use them.",
+         "additional_links":[
+            {
+               "text":"Any Windows Manager Controler libraries for Python/C/C++?https://askubuntu.com › questions › any-windows-mana...",
+               "href":"https://askubuntu.com/questions/1327897/any-windows-manager-controler-libraries-for-python-c-c"
+            }
+         ],
+         "cite":{
+            "domain":"https://askubuntu.com › questions › any-windows-mana...",
+            "span":" › questions › any-windows-mana..."
+         }
+      },
+      {
+         "title":"Should You Learn Python, C, or Ruby to Be a Top Coder ...",
+         "link":"https://www.inc.com/larry-kim/should-you-learn-python-c-or-ruby-to-be-a-top-coder-infographic.html",
+         "description":"Feb 4, 2016 — Top coders have near limitless prospects when it comes to employment, or even opportunities to succeed in their own startups.",
+         "additional_links":[
+            {
+               "text":"Should You Learn Python, C, or Ruby to Be a Top Coder ...https://www.inc.com › larry-kim › should-you-learn-pyth...",
+               "href":"https://www.inc.com/larry-kim/should-you-learn-python-c-or-ruby-to-be-a-top-coder-infographic.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.inc.com › larry-kim › should-you-learn-pyth...",
+            "span":" › larry-kim › should-you-learn-pyth..."
+         }
+      },
+      {
+         "title":"How to Configure Eclipse for Python - Rose-Hulman",
+         "link":"https://www.rose-hulman.edu/class/csse/resources/Eclipse/eclipse-python-configuration.htm",
+         "description":"Screenshots read 'Python 3.1', which is the old version. You will be installing Python 3.2. Browse the csse120 folder which you created when installing Eclipse.",
+         "additional_links":[
+            {
+               "text":"How to Configure Eclipse for Python - Rose-Hulmanhttps://www.rose-hulman.edu › csse › resources › Eclipse",
+               "href":"https://www.rose-hulman.edu/class/csse/resources/Eclipse/eclipse-python-configuration.htm"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.rose-hulman.edu › csse › resources › Eclipse",
+            "span":" › csse › resources › Eclipse"
+         }
+      },
+      {
+         "title":"Domains - Sphinx documentation",
+         "link":"https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html",
+         "description":"Directive and role names in a domain have names like domain:name , e.g. py:function . Domains can also provide custom indices (like the Python Module Index).",
+         "additional_links":[
+            {
+               "text":"Domains - Sphinx documentationhttps://www.sphinx-doc.org › usage › restructuredtext",
+               "href":"https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.sphinx-doc.org › usage › restructuredtext",
+            "span":" › usage › restructuredtext"
+         }
+      },
+      {
+         "title":"Hire Python C API Developers & Grow Your Team | Upstack",
+         "link":"https://upstack.co/hire-developers/python-c-api",
+         "description":"Hire experienced Python C API developers with Upstack. We work with the top talent in the industry, assuring your ability to scale your remote team. Rating: 5 · ‎37 votes",
+         "additional_links":[
+            {
+               "text":"Hire Python C API Developers & Grow Your Team | Upstackhttps://upstack.co › hire-developers › python-c-api",
+               "href":"https://upstack.co/hire-developers/python-c-api"
+            }
+         ],
+         "cite":{
+            "domain":"https://upstack.co › hire-developers › python-c-api",
+            "span":" › hire-developers › python-c-api"
+         },
+         "g_review_stars":" Rating: 5 · ‎37 votes"
+      },
+      {
+         "title":"#Python C | NewsBreak",
+         "link":"https://www.newsbreak.com/channels/t-python-c",
+         "description":"#Python C. No related news yet. Terms of UsePrivacy PolicyDo Not Sell My InfoHelp CenterAbout. © 2021 Particle Media. Get the app.",
+         "additional_links":[
+            {
+               "text":"#Python C | NewsBreakhttps://www.newsbreak.com › channels › t-python-c",
+               "href":"https://www.newsbreak.com/channels/t-python-c"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.newsbreak.com › channels › t-python-c",
+            "span":" › channels › t-python-c"
+         }
+      },
+      {
+         "title":"Implementing a generator/yield in a Python C extension - Eli ...",
+         "link":"https://eli.thegreenplace.net/2012/04/05/implementing-a-generatoryield-in-a-python-c-extension/",
+         "description":"Apr 5, 2012 — The goal of this post is to demonstrate how to achieve the same effect using the Python C API; in other words, in a C extension module.",
+         "additional_links":[
+            {
+               "text":"Implementing a generator/yield in a Python C extension - Eli ...https://eli.thegreenplace.net › 2012/04/05 › implementi...",
+               "href":"https://eli.thegreenplace.net/2012/04/05/implementing-a-generatoryield-in-a-python-c-extension/"
+            }
+         ],
+         "cite":{
+            "domain":"https://eli.thegreenplace.net › 2012/04/05 › implementi...",
+            "span":" › 2012/04/05 › implementi..."
+         }
+      },
+      {
+         "title":"Debugging Python and C/C++ Mixed-Language Applications",
+         "link":"https://totalview.io/blog/debugging-python-and-c/c-mixed-language-applications",
+         "description":"Jun 15, 2017 — Debugging Python and C / C++ applications requires tools that allow developers to view unified call stacks and simultaneously inspect data ...",
+         "additional_links":[
+            {
+               "text":"Debugging Python and C/C++ Mixed-Language Applicationshttps://totalview.io › blog › c-mixed-language-applicati...",
+               "href":"https://totalview.io/blog/debugging-python-and-c/c-mixed-language-applications"
+            }
+         ],
+         "cite":{
+            "domain":"https://totalview.io › blog › c-mixed-language-applicati...",
+            "span":" › blog › c-mixed-language-applicati..."
+         }
+      },
+      {
+         "title":"[2001.06307] Awkward Arrays in Python, C++, and Numba",
+         "link":"https://arxiv.org/abs/2001.06307",
+         "description":"by J Pivarski · 2020 · Cited by 7 — Of particular importance is the separation of kernel functions from data structure management, which allows a C++ implementation and a Numba ...",
+         "additional_links":[
+            {
+               "text":"[2001.06307] Awkward Arrays in Python, C++, and Numbahttps://arxiv.org › cs",
+               "href":"https://arxiv.org/abs/2001.06307"
+            }
+         ],
+         "cite":{
+            "domain":"https://arxiv.org › cs",
+            "span":" › cs"
+         }
+      },
+      {
+         "title":"Debugging both C-extensions and Python code with gdb and ...",
+         "link":"https://www.researchgate.net/figure/Debugging-both-C-extensions-and-Python-code-with-gdb-and-pdb_fig2_220307949",
+         "description":"Download scientific diagram | Debugging both C-extensions and Python code with gdb and pdb. from publication: GPAW - massively parallel electronic structure ...",
+         "additional_links":[
+            {
+               "text":"Debugging both C-extensions and Python code with gdb and ...https://www.researchgate.net › figure › Debugging-both-...",
+               "href":"https://www.researchgate.net/figure/Debugging-both-C-extensions-and-Python-code-with-gdb-and-pdb_fig2_220307949"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.researchgate.net › figure › Debugging-both-...",
+            "span":" › figure › Debugging-both-..."
+         }
+      },
+      {
+         "title":"Python/C API - xxx-cook-book",
+         "link":"https://xxx-cook-book.gitbooks.io/python-cook-book/content/Extension/C/python-c-api.html",
+         "description":"C Codes · demo.c int add(int x, int y){ return x + y; } //int main(void){ // printf(\"%d\", add(1, 2)); // return 0; //} #include<Python.h> static PyObject* W_add( ...",
+         "additional_links":[
+            {
+               "text":"Python/C API - xxx-cook-bookhttps://xxx-cook-book.gitbooks.io › content › Extension",
+               "href":"https://xxx-cook-book.gitbooks.io/python-cook-book/content/Extension/C/python-c-api.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://xxx-cook-book.gitbooks.io › content › Extension",
+            "span":" › content › Extension"
+         }
+      },
+      {
+         "title":"python | GTFOBins",
+         "link":"https://gtfobins.github.io/gtfobins/python/",
+         "description":"It can be used to break out from restricted environments by spawning an interactive system shell. python -c 'import os; os.system(\"/bin/sh\")' ...",
+         "additional_links":[
+            {
+               "text":"python | GTFOBinshttps://gtfobins.github.io › gtfobins › python",
+               "href":"https://gtfobins.github.io/gtfobins/python/"
+            }
+         ],
+         "cite":{
+            "domain":"https://gtfobins.github.io › gtfobins › python",
+            "span":" › gtfobins › python"
+         }
+      },
+      {
+         "title":"Day 36 — Moar Python C extension talks! - Vinayak Mehta",
+         "link":"https://vinayak.io/2020/10/01/day-36-moar-python-c-extension-talks/",
+         "description":"Oct 1, 2020 — Today I spent most of my time watching some talks on writing Python C extensions. Every talk mentioned that the main reasons for writing an ...",
+         "additional_links":[
+            {
+               "text":"Day 36 — Moar Python C extension talks! - Vinayak Mehtahttps://vinayak.io › 2020/10/01 › day-36-moar-python-...",
+               "href":"https://vinayak.io/2020/10/01/day-36-moar-python-c-extension-talks/"
+            }
+         ],
+         "cite":{
+            "domain":"https://vinayak.io › 2020/10/01 › day-36-moar-python-...",
+            "span":" › 2020/10/01 › day-36-moar-python-..."
+         }
+      },
+      {
+         "title":"C Extensions — pysheeet",
+         "link":"https://www.pythonsheets.com/notes/python-c-extensions.html",
+         "description":"This cheat sheet mainly focuses on writing a Python C extension. Note that the C extension interface is specific to official CPython. It is likely that ...",
+         "additional_links":[
+            {
+               "text":"C Extensions — pysheeethttps://www.pythonsheets.com › python-c-extensions",
+               "href":"https://www.pythonsheets.com/notes/python-c-extensions.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.pythonsheets.com › python-c-extensions",
+            "span":" › python-c-extensions"
+         }
+      },
+      {
+         "title":"Python/C API Reference Manual - NTUA FTP Server",
+         "link":"ftp://ftp.ntua.gr/mirror/python/doc/1.5.2p2/api/api.html",
+         "description":"Python/C API Reference Manual. Guido van Rossum. Corporation for National Research Initiatives 1895 Preston White Drive, Reston, VA 20191, USA",
+         "additional_links":[
+            {
+               "text":"Python/C API Reference Manual - NTUA FTP Serverftp.ntua.gr › mirror › python › doc › api › api",
+               "href":"ftp://ftp.ntua.gr/mirror/python/doc/1.5.2p2/api/api.html"
+            }
+         ],
+         "cite":{
+            "domain":"ftp.ntua.gr › mirror › python › doc › api › api",
+            "span":" › mirror › python › doc › api › api"
+         }
+      },
+      {
+         "title":"Spawning a TTY Shell - NetSec",
+         "link":"https://netsec.ws/?p=337",
+         "description":"Often during pen tests you may obtain a shell without having tty, yet wish to interact further with the system. Here are some commands which will allow you ...",
+         "additional_links":[
+            {
+               "text":"Spawning a TTY Shell - NetSechttps://netsec.ws › ...",
+               "href":"https://netsec.ws/?p=337"
+            }
+         ],
+         "cite":{
+            "domain":"https://netsec.ws › ...",
+            "span":" › ..."
+         }
+      },
+      {
+         "title":"Finding Reference-Counting Errors in Python/C Programs with ...",
+         "link":"http://www.cse.psu.edu/~gxt29/papers/refcount.pdf",
+         "description":"by S Li · Cited by 15 — Abstract. Python is a popular programming language that uses refer- ence counting to manage heap objects. Python also has a Foreign Func-.",
+         "additional_links":[
+            {
+               "text":"Finding Reference-Counting Errors in Python/C Programs with ...http://www.cse.psu.edu › papers › refcount",
+               "href":"http://www.cse.psu.edu/~gxt29/papers/refcount.pdf"
+            }
+         ],
+         "cite":{
+            "domain":"http://www.cse.psu.edu › papers › refcount",
+            "span":" › papers › refcount"
+         }
+      },
+      {
+         "title":"NumPy - Wikipedia",
+         "link":"https://en.wikipedia.org/wiki/NumPy",
+         "description":"NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of ...",
+         "additional_links":[
+            {
+               "text":"NumPy - Wikipediahttps://en.wikipedia.org › wiki › NumPy",
+               "href":"https://en.wikipedia.org/wiki/NumPy"
+            }
+         ],
+         "cite":{
+            "domain":"https://en.wikipedia.org › wiki › NumPy",
+            "span":" › wiki › NumPy"
+         }
+      },
+      {
+         "title":"Installing scikit-learn",
+         "link":"http://scikit-learn.org/stable/install.html",
+         "description":"If you have not installed NumPy or SciPy yet, you can also install these using conda or pip. When using pip, please ensure that binary wheels are used, and ...",
+         "additional_links":[
+            {
+               "text":"Installing scikit-learnhttp://scikit-learn.org › stable › install",
+               "href":"http://scikit-learn.org/stable/install.html"
+            }
+         ],
+         "cite":{
+            "domain":"http://scikit-learn.org › stable › install",
+            "span":" › stable › install"
+         }
+      },
+      {
+         "title":"Expert Python Programming: Master Python by learning the ...",
+         "link":"https://books.google.com/books?id=2tAwEAAAQBAJ&pg=PA330&lpg=PA330&dq=%22Python+C%22&source=bl&ots=iKBFMnU1LY&sig=ACfU3U1mqSAr7qMny5OyZC866lUlnDvV2Q&hl=en&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ6AF6BQjbAhAD",
+         "description":"Michał Jaworski, ‎Tarek Ziadé · 2021 · ‎ComputersThe Python/C API traditionally changes with every release of Python. [ 330 ] Bridging Python with C and C++ Compiling and loading Python C extensions.",
+         "additional_links":[
+            {
+               "text":"Expert Python Programming: Master Python by learning the ...https://books.google.com › books",
+               "href":"https://books.google.com/books?id=2tAwEAAAQBAJ&pg=PA330&lpg=PA330&dq=%22Python+C%22&source=bl&ots=iKBFMnU1LY&sig=ACfU3U1mqSAr7qMny5OyZC866lUlnDvV2Q&hl=en&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ6AF6BQjbAhAD"
+            },
+            {
+               "text":"Michał Jaworski",
+               "href":"/search?num=100&tbm=bks&q=inauthor:%22Micha%C5%82+Jaworski%22&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ9Ah6BQjbAhAG"
+            },
+            {
+               "text":"Tarek Ziadé",
+               "href":"/search?num=100&tbm=bks&q=inauthor:%22Tarek+Ziad%C3%A9%22&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ9Ah6BQjbAhAH"
+            }
+         ],
+         "cite":{
+            "domain":"https://books.google.com › books",
+            "span":" › books"
+         }
+      },
+      {
+         "title":"PyPy update makes nice with Python C extensions | InfoWorld",
+         "link":"https://www.infoworld.com/article/3143126/pypy-update-makes-nice-with-python-c-extensions.html",
+         "description":"Nov 21, 2016 — The workaround is a compatibility layer with Python's C API, CPyExt, updated with changes for PyPy 5.6. CPyExt runs the widely used math-and- ...",
+         "additional_links":[
+            {
+               "text":"PyPy update makes nice with Python C extensions | InfoWorldhttps://www.infoworld.com › Software Development",
+               "href":"https://www.infoworld.com/article/3143126/pypy-update-makes-nice-with-python-c-extensions.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.infoworld.com › Software Development",
+            "span":" › Software Development"
+         }
+      },
+      {
+         "title":"Freenove Raspberry Pi 4B3B RFID starter kit, Python C Java ...",
+         "link":"https://www.ebay.com/itm/284073801374",
+         "description":"Compatible models-> Raspberry Pi 4B / 3B + / 3B / 3A + / 2B / 1B + / 1A + / Zero W / Zero. (Not included in this kit). 3 programming languages-> C, ...$99.24 · ‎In stock",
+         "additional_links":[
+            {
+               "text":"Freenove Raspberry Pi 4B3B RFID starter kit, Python C Java ...https://www.ebay.com › itm",
+               "href":"https://www.ebay.com/itm/284073801374"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.ebay.com › itm",
+            "span":" › itm"
+         }
+      },
+      {
+         "title":"How to handle a mixed Python + C / C++ project? - IDEs ...",
+         "link":"https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000477130-How-to-handle-a-mixed-Python-C-C-project-",
+         "description":"Jul 22, 2017 — Hi there! It's quite common for Python projects to have some parts written in C/++. I couldn't find a C Plugin in PyCharm. Could...",
+         "additional_links":[
+            {
+               "text":"How to handle a mixed Python + C / C++ project? - IDEs ...https://intellij-support.jetbrains.com › community › posts",
+               "href":"https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000477130-How-to-handle-a-mixed-Python-C-C-project-"
+            }
+         ],
+         "cite":{
+            "domain":"https://intellij-support.jetbrains.com › community › posts",
+            "span":" › community › posts"
+         }
+      },
+      {
+         "title":"Python or R for Data Analysis: Which Should I Learn? | Coursera",
+         "link":"https://www.coursera.org/articles/python-or-r-for-data-analysis",
+         "description":"Oct 11, 2021 — Is it better to learn R or Python for a career as a data analyst? Learn more about how to choose the best statistical programming language ...",
+         "additional_links":[
+            {
+               "text":"Python or R for Data Analysis: Which Should I Learn? | Courserahttps://www.coursera.org › articles › python-or-r-for-da...",
+               "href":"https://www.coursera.org/articles/python-or-r-for-data-analysis"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.coursera.org › articles › python-or-r-for-da...",
+            "span":" › articles › python-or-r-for-da..."
+         }
+      },
+      {
+         "title":"An Annotation Tool for Profiling Code in Python and C/C++",
+         "link":"https://developer.nvidia.com/blog/nvidia-tools-extension-api-nvtx-annotation-tool-for-profiling-code-in-python-and-c-c/",
+         "description":"Mar 10, 2021 — As PyData leverages much of the static language world for speed including CUDA, we need tools which not only profile and measure across ...",
+         "additional_links":[
+            {
+               "text":"An Annotation Tool for Profiling Code in Python and C/C++https://developer.nvidia.com › ... › Data Science",
+               "href":"https://developer.nvidia.com/blog/nvidia-tools-extension-api-nvtx-annotation-tool-for-profiling-code-in-python-and-c-c/"
+            }
+         ],
+         "cite":{
+            "domain":"https://developer.nvidia.com › ... › Data Science",
+            "span":" › ... › Data Science"
+         }
+      },
+      {
+         "title":"Try to not use the Python C API directly - Tall, Snarky Canadian",
+         "link":"https://snarky.ca/try-to-not-use-the-c-api-directly/",
+         "description":"Try to not use the Python C API directly. Aug 12, 2015 3 min read Python. If there is one persnickety thing people ask of python-dev it is for the GIL to go ...",
+         "additional_links":[
+            {
+               "text":"Try to not use the Python C API directly - Tall, Snarky Canadianhttps://snarky.ca › try-to-not-use-the-c-api-directly",
+               "href":"https://snarky.ca/try-to-not-use-the-c-api-directly/"
+            }
+         ],
+         "cite":{
+            "domain":"https://snarky.ca › try-to-not-use-the-c-api-directly",
+            "span":" › try-to-not-use-the-c-api-directly"
+         }
+      },
+      {
+         "title":"The Python/C API - Welcome to ETH Scientific and High ...",
+         "link":"https://scicomp.ethz.ch/public/manual/Python/3.6.0/c-api.pdf",
+         "description":"Mar 5, 2017 — The Application Programmer's Interface to Python gives C and C++ programmers access to the Python interpreter at a variety of levels.",
+         "additional_links":[
+            {
+               "text":"The Python/C API - Welcome to ETH Scientific and High ...https://scicomp.ethz.ch › public › manual › c-api",
+               "href":"https://scicomp.ethz.ch/public/manual/Python/3.6.0/c-api.pdf"
+            }
+         ],
+         "cite":{
+            "domain":"https://scicomp.ethz.ch › public › manual › c-api",
+            "span":" › public › manual › c-api"
+         }
+      },
+      {
+         "title":"Crail Python API: Python -> C/C++ call overhead",
+         "link":"https://crail.incubator.apache.org/blog/2019/01/python.html",
+         "description":"Jan 22, 2019 — Extension modules are shared libraries that extend the Python interpreter. For this use-case CPython offers a C API to interact with the Python ...",
+         "additional_links":[
+            {
+               "text":"Crail Python API: Python -> C/C++ call overheadhttps://crail.incubator.apache.org › blog › 2019/01 › py...",
+               "href":"https://crail.incubator.apache.org/blog/2019/01/python.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://crail.incubator.apache.org › blog › 2019/01 › py...",
+            "span":" › blog › 2019/01 › py..."
+         }
+      },
+      {
+         "title":"Ideone.com",
+         "link":"https://ideone.com/",
+         "description":"Bash Pascal C Perl C# PHP C++ Python C++14 Python3 Haskell Ruby Java SQLite Objective-C Swift VB.net · List of all supported programming languages.",
+         "additional_links":[
+            {
+               "text":"Ideone.comhttps://ideone.com",
+               "href":"https://ideone.com/"
+            }
+         ],
+         "cite":{
+
+         }
+      },
+      {
+         "title":"What is the alternative of %d in Python? [C and Python ...",
+         "link":"https://forum.freecodecamp.org/t/what-is-the-alternative-of-d-in-python-c-and-python-comparison/346019",
+         "description":"Jan 30, 2020 · 1 answerSuppose, input is a and b. and output will be like, a + b = (summation of a and b) a - b = (subtraction of a and b) a * b = (multiplication ...",
+         "additional_links":[
+            {
+               "text":"What is the alternative of %d in Python? [C and Python ...https://forum.freecodecamp.org › what-is-the-alternativ...",
+               "href":"https://forum.freecodecamp.org/t/what-is-the-alternative-of-d-in-python-c-and-python-comparison/346019"
+            }
+         ],
+         "cite":{
+            "domain":"https://forum.freecodecamp.org › what-is-the-alternativ...",
+            "span":" › what-is-the-alternativ..."
+         }
+      },
+      {
+         "title":"Python calling C++ - Blue Yonder Tech Blog",
+         "link":"https://tech.blueyonder.com/python-calling-c++/",
+         "description":"Aug 24, 2020 — Boost.Python bindings are written in pure C++, using no tools other than your editor and your C++ compiler. Relationship to the Python C API ...",
+         "additional_links":[
+            {
+               "text":"Python calling C++ - Blue Yonder Tech Bloghttps://tech.blueyonder.com › python-calling-c++",
+               "href":"https://tech.blueyonder.com/python-calling-c++/"
+            }
+         ],
+         "cite":{
+            "domain":"https://tech.blueyonder.com › python-calling-c++",
+            "span":" › python-calling-c++"
+         }
+      },
+      {
+         "title":"Code, Compile & Run - CodeChef",
+         "link":"https://www.codechef.com/ide",
+         "description":"Compile & run your code with the Codechef online IDE. Our online compiler supports multiple programming languages like Python, C++, C, Kotlin, NodeJS and ...",
+         "additional_links":[
+            {
+               "text":"Code, Compile & Run - CodeChefhttps://www.codechef.com › ide",
+               "href":"https://www.codechef.com/ide"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.codechef.com › ide",
+            "span":" › ide"
+         }
+      },
+      {
+         "title":"Which is the better programming language for game ... - Quora",
+         "link":"https://www.quora.com/Which-is-the-better-programming-language-for-game-development-Python-C-or-Java-I-would-like-to-learn-this-however-I-am-considering-3D-games",
+         "description":"4 answersMost 3D games are written in C++. Python and Java are both far too slow for writing high quality 3D games. The one place where you might not want to use C++ ...",
+         "additional_links":[
+            {
+               "text":"Which is the better programming language for game ... - Quorahttps://www.quora.com › Which-is-the-better-programmi...",
+               "href":"https://www.quora.com/Which-is-the-better-programming-language-for-game-development-Python-C-or-Java-I-would-like-to-learn-this-however-I-am-considering-3D-games"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.quora.com › Which-is-the-better-programmi...",
+            "span":" › Which-is-the-better-programmi..."
+         }
+      },
+      {
+         "title":"Python/C API and QT to use OVITO in a graphical C++ ...",
+         "link":"https://matsci.org/t/python-c-api-and-qt-to-use-ovito-in-a-graphical-c-application/36987",
+         "description":"Jun 14, 2021 — I wrote some python script to make my life easier and use ovito to perform some simple simulation data evaluation.",
+         "additional_links":[
+            {
+               "text":"Python/C API and QT to use OVITO in a graphical C++ ...https://matsci.org › python-c-api-and-qt-to-use-ovito-in...",
+               "href":"https://matsci.org/t/python-c-api-and-qt-to-use-ovito-in-a-graphical-c-application/36987"
+            }
+         ],
+         "cite":{
+            "domain":"https://matsci.org › python-c-api-and-qt-to-use-ovito-in...",
+            "span":" › python-c-api-and-qt-to-use-ovito-in..."
+         }
+      },
+      {
+         "title":"Find Python C Developer Jobs in in Florida | Randstad USA",
+         "link":"https://www.randstadusa.com/jobs/search/florida/q-python-c-developer/",
+         "description":"Jobs 1 - 10 of 130 — Find Python C Developer jobs in in Florida at Randstad. We have jobs, including temporary and permanent positions to help you reach your ...",
+         "additional_links":[
+            {
+               "text":"Find Python C Developer Jobs in in Florida | Randstad USAhttps://www.randstadusa.com › jobs › search › Florida",
+               "href":"https://www.randstadusa.com/jobs/search/florida/q-python-c-developer/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.randstadusa.com › jobs › search › Florida",
+            "span":" › jobs › search › Florida"
+         }
+      },
+      {
+         "title":"Learn Python, C++, JavaScript, and more programming ...",
+         "link":"https://www.techrepublic.com/article/learn-python-c-javascript-and-more-programming-languages-with-these-27-online-training-courses/",
+         "description":"Feb 2, 2021 — Master the world's most popular programming languages with this training bundle. You'll also learn about Raspberry Pi and artificial ...",
+         "additional_links":[
+            {
+               "text":"Learn Python, C++, JavaScript, and more programming ...https://www.techrepublic.com › Topic › Developer",
+               "href":"https://www.techrepublic.com/article/learn-python-c-javascript-and-more-programming-languages-with-these-27-online-training-courses/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.techrepublic.com › Topic › Developer",
+            "span":" › Topic › Developer"
+         }
+      },
+      {
+         "title":"AttributeError in Python C API? - CodeProject",
+         "link":"https://www.codeproject.com/Questions/605405/AttributeErrorplusinplusPythonplusCplusAPI-3f",
+         "description":"Jun 11, 2013 · 1 answerI can see something here: C#. Copy Code. std::string NewApp::Testing() { char* test[] = {\"test\", 0};//Here you have a char* array called ...",
+         "additional_links":[
+            {
+               "text":"AttributeError in Python C API? - CodeProjecthttps://www.codeproject.com › Questions",
+               "href":"https://www.codeproject.com/Questions/605405/AttributeErrorplusinplusPythonplusCplusAPI-3f"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.codeproject.com › Questions",
+            "span":" › Questions"
+         }
+      },
+      {
+         "title":"A Whirlwind Excursion through Python C Extensions - Ned ...",
+         "link":"https://nedbatchelder.com/text/whirlext.html",
+         "description":"Feb 16, 2009 — ext1.c: A sample C extension: one simple function #include \"Python.h\" // hello_world function. static PyObject *",
+         "additional_links":[
+            {
+               "text":"A Whirlwind Excursion through Python C Extensions - Ned ...https://nedbatchelder.com › text › whirlext",
+               "href":"https://nedbatchelder.com/text/whirlext.html"
+            }
+         ],
+         "cite":{
+            "domain":"https://nedbatchelder.com › text › whirlext",
+            "span":" › text › whirlext"
+         }
+      },
+      {
+         "title":"Python and C hybrid programming on a microcontroller with ...",
+         "link":"https://www.zerynth.com/blog/python-and-c-hybrid-programming-on-a-microcontroller-with-zerynth/",
+         "description":"Feb 7, 2019 — Zerynth allows mixing Python and C, in the same project. So, mix things up - code your high-level logic in Python, and for all those parts ...",
+         "additional_links":[
+            {
+               "text":"Python and C hybrid programming on a microcontroller with ...https://www.zerynth.com › blog › python-and-c-hybrid...",
+               "href":"https://www.zerynth.com/blog/python-and-c-hybrid-programming-on-a-microcontroller-with-zerynth/"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.zerynth.com › blog › python-and-c-hybrid...",
+            "span":" › blog › python-and-c-hybrid..."
+         }
+      },
+      {
+         "title":"Graduate Engineer (Software/Hardware, Python, C/C++)",
+         "link":"https://app.trinethire.com/companies/22295-movandi-corporation/jobs/31756-graduate-engineer-software-hardware-python-c-c",
+         "description":"Movandi is seeking talented engineering graduates to join our engineering team. The Graduate Program. 6-month full-time rotational Graduate Program: RF Lab ...",
+         "additional_links":[
+            {
+               "text":"Graduate Engineer (Software/Hardware, Python, C/C++)https://app.trinethire.com › companies › jobs › 31756-g...",
+               "href":"https://app.trinethire.com/companies/22295-movandi-corporation/jobs/31756-graduate-engineer-software-hardware-python-c-c"
+            }
+         ],
+         "cite":{
+            "domain":"https://app.trinethire.com › companies › jobs › 31756-g...",
+            "span":" › companies › jobs › 31756-g..."
+         }
+      },
+      {
+         "title":"Programming Python - Page 1097 - Google Books Result",
+         "link":"https://books.google.com/books?id=c8pV-TzyfBUC&pg=PA1097&lpg=PA1097&dq=%22Python+C%22&source=bl&ots=n56F9TWQVZ&sig=ACfU3U2oVbnZ1Vzdip_pfaJo2xnZLAlMtg&hl=en&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ6AF6BQjPAhAD",
+         "description":"Mark Lutz, ‎Laura Lewin, ‎Frank Willison · 2001 · ‎Computers",
+         "additional_links":[
+            {
+               "text":"Programming Python - Page 1097 - Google Books Resulthttps://books.google.com › books",
+               "href":"https://books.google.com/books?id=c8pV-TzyfBUC&pg=PA1097&lpg=PA1097&dq=%22Python+C%22&source=bl&ots=n56F9TWQVZ&sig=ACfU3U2oVbnZ1Vzdip_pfaJo2xnZLAlMtg&hl=en&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ6AF6BQjPAhAD"
+            },
+            {
+               "text":"Mark Lutz",
+               "href":"/search?num=100&tbm=bks&q=inauthor:%22Mark+Lutz%22&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ9Ah6BQjPAhAG"
+            }
+         ],
+         "cite":{
+            "domain":"https://books.google.com › books",
+            "span":" › books"
+         }
+      },
+      {
+         "title":"Finding Reference-Counting Errors in Python/C Programs with ...",
+         "link":"https://www.semanticscholar.org/paper/Finding-Reference-Counting-Errors-in-Python%2FC-with-Li-Tan/37bca8a9c5937a36644ecbb0fa46f7eb12e41bc5",
+         "description":"Pungi is proposed, a system that statically checks whether Python objects' reference counts are adjusted correctly in Python/C interface code and performs ...",
+         "additional_links":[
+            {
+               "text":"Finding Reference-Counting Errors in Python/C Programs with ...https://www.semanticscholar.org › paper › C-with-Li-Tan",
+               "href":"https://www.semanticscholar.org/paper/Finding-Reference-Counting-Errors-in-Python%2FC-with-Li-Tan/37bca8a9c5937a36644ecbb0fa46f7eb12e41bc5"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.semanticscholar.org › paper › C-with-Li-Tan",
+            "span":" › paper › C-with-Li-Tan"
+         }
+      },
+      {
+         "title":"Topographica: building and analyzing map-level simulations ...",
+         "link":"https://www.frontiersin.org/articles/10.3389/neuro.11.008.2009/full",
+         "description":"by JA Bednar · 2009 · Cited by 73 — Many neural regions are arranged into two-dimensional topographic maps, such as the retinotopic maps in mammalian visual cortex.",
+         "additional_links":[
+            {
+               "text":"Topographica: building and analyzing map-level simulations ...https://www.frontiersin.org › neuro.11.008.2009 › full",
+               "href":"https://www.frontiersin.org/articles/10.3389/neuro.11.008.2009/full"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.frontiersin.org › neuro.11.008.2009 › full",
+            "span":" › neuro.11.008.2009 › full"
+         }
+      },
+      {
+         "title":"Python/C/C++ wrapper for RTTOV v12 - NWP SAF",
+         "link":"https://nwp-saf.eumetsat.int/site/download/documentation/rtm/docs_rttov12/rttov-wrapper.pdf",
+         "description":"Feb 5, 2019 — for RTTOV v12. Doc ID. : NWPSAF-MO-UD-038. Version : 1.3. Date. : 2019 02 05. Table of contents. 1. Introduction.",
+         "additional_links":[
+            {
+               "text":"Python/C/C++ wrapper for RTTOV v12 - NWP SAFhttps://nwp-saf.eumetsat.int › documentation › rtm",
+               "href":"https://nwp-saf.eumetsat.int/site/download/documentation/rtm/docs_rttov12/rttov-wrapper.pdf"
+            }
+         ],
+         "cite":{
+            "domain":"https://nwp-saf.eumetsat.int › documentation › rtm",
+            "span":" › documentation › rtm"
+         }
+      },
+      {
+         "title":"Learn Data Structures and Algorithms - Programiz",
+         "link":"https://www.programiz.com/dsa",
+         "description":"No matter the programming language, every programmer must learn data structures and algorithms (DSA). Our DSA tutorial will guide you to learn all the major  ...",
+         "additional_links":[
+            {
+               "text":"Learn Data Structures and Algorithms - Programizhttps://www.programiz.com › dsa",
+               "href":"https://www.programiz.com/dsa"
+            }
+         ],
+         "cite":{
+            "domain":"https://www.programiz.com › dsa",
+            "span":" › dsa"
+         }
+      },
+      {
+         "title":"Java, Python, C/C++ or FORTRAN in scientific programming",
+         "link":"http://abouthydrology.blogspot.com/2016/06/java-python-cc-or-fortran-in-scientific.html",
+         "description":"Jun 6, 2016 — My reflections and notes about hydrology and being a hydrologist in academia. The daily evolution of my work. Especially for my students, but ...",
+         "additional_links":[
+            {
+               "text":"Java, Python, C/C++ or FORTRAN in scientific programminghttp://abouthydrology.blogspot.com › 2016/06 › java-p...",
+               "href":"http://abouthydrology.blogspot.com/2016/06/java-python-cc-or-fortran-in-scientific.html"
+            }
+         ],
+         "cite":{
+            "domain":"http://abouthydrology.blogspot.com › 2016/06 › java-p...",
+            "span":" › 2016/06 › java-p..."
+         }
+      },
+      {
+         "title":"Programming in Python: Learn the Powerful Object-Oriented ...",
+         "link":"https://books.google.com/books?id=zf_bDwAAQBAJ&pg=PT31&lpg=PT31&dq=%22Python+C%22&source=bl&ots=XR13b0VIUx&sig=ACfU3U2qZbLIlEoaalMRDkQ6Pqh1Ge_W6A&hl=en&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ6AF6BQjQAhAD",
+         "description":"Pooja Sharma · 2020 · ‎Computers",
+         "additional_links":[
+            {
+               "text":"Programming in Python: Learn the Powerful Object-Oriented ...https://books.google.com › books",
+               "href":"https://books.google.com/books?id=zf_bDwAAQBAJ&pg=PT31&lpg=PT31&dq=%22Python+C%22&source=bl&ots=XR13b0VIUx&sig=ACfU3U2qZbLIlEoaalMRDkQ6Pqh1Ge_W6A&hl=en&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ6AF6BQjQAhAD"
+            },
+            {
+               "text":"Pooja Sharma",
+               "href":"/search?num=100&tbm=bks&q=inauthor:%22Pooja+Sharma%22&sa=X&ved=2ahUKEwiFv4uF-4v0AhX3AZ0JHSYtDxEQ9Ah6BQjQAhAG"
+            }
+         ],
+         "cite":{
+            "domain":"https://books.google.com › books",
+            "span":" › books"
+         }
+      },
+      {
+         "title":"Python, C Top Employers' Most In-Demand Programming ...",
+         "link":"https://insights.dice.com/2018/08/14/python-c-employers-demand-programming-languages/",
+         "description":"Aug 14, 2018 — Which programming languages are most in-demand among employers? According to an updated ranking by IEEE Spectrum, the usual suspects top the ...",
+         "additional_links":[
+            {
+               "text":"Python, C Top Employers' Most In-Demand Programming ...https://insights.dice.com › 2018/08/14 › python-c-empl...",
+               "href":"https://insights.dice.com/2018/08/14/python-c-employers-demand-programming-languages/"
+            }
+         ],
+         "cite":{
+            "domain":"https://insights.dice.com › 2018/08/14 › python-c-empl...",
+            "span":" › 2018/08/14 › python-c-empl..."
+         }
+      }
+   ],
+   "image_results":[
+
+   ],
+   "total":5060000,
+   "answers":[
+
+   ],
+   "ts":2.599752426147461,
+   "device_region":"US",
+   "device_type":"desktop"
+}
