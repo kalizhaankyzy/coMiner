@@ -4,7 +4,7 @@ from utils.helpers import get_text_from_link
 
 
 def extract_links_from_file(file_name):
-    f = open("./db/Python/domain_mining/search_results/"+file_name+'.json', encoding='utf-8')
+    f = open("./db/Python/domain_mining/competitor_list/"+file_name+'.json', encoding='utf-8')
     results = json.load(f)['results']
     links = []
     for res in results:

@@ -27,10 +27,11 @@ def get_second_element(arr):
 def extract_c1(words, entity_name):
     wordsFormat = " ".join(words)
     results = re.findall(r'([A-Z][a-zA-Z]*\b) (vs|VS|Vs|versus) {}'.format(entity_name), wordsFormat)
-    # print(results)
-
+    results2 = re.findall(r'([A-Z][a-zA-Z]* [A-Z][a-zA-Z]*) (vs|VS|Vs|versus) {}'.format(entity_name), wordsFormat)
     ans = list(map(get_first_element, results))
-    return filter_stop_words(ans)
+    ans2 = list(map(get_first_element, results2))
+
+    return filter_stop_words(ans+ans2)
 
 
 # Function that extract words that matches by pattern C2: C1: entity_name versus competitor_name
@@ -38,11 +39,10 @@ def extract_c2(words, entity_name):
     wordsFormat = " ".join(words)
     results = re.findall(r'{} (vs|VS|Vs|versus).? (\b[A-Z][a-zA-Z]*\b)'.format(entity_name),
                          wordsFormat)
+    results2 = re.findall(r'{} (vs|VS|Vs|versus).? (\b[A-Z][a-zA-Z]* [A-Z][a-zA-Z]* )'.format(entity_name),
+                         wordsFormat)
 
     ans = list(map(get_second_element, results))
-    print( ans)
-
-    # print(ans)
     return filter_stop_words(ans)
 
 
@@ -65,25 +65,32 @@ def extract_c4(words, entity_name):
 def extract_h1(words, entity_name):
     wordsFormat = " ".join(words)
 
-    arr = re.findall(r'such as {},? (\b[A-Z][a-zA-Z]+\b)'.format(entity_name), wordsFormat)
+    arr = re.findall(r'such as {},? ?([A-Z][a-zA-Z]+)'.format(entity_name), wordsFormat)
+    arr2 = re.findall(r'such as {} [A-Z][a-zA-Z]+ ?(and|or|,)? ([A-Z][a-zA-Z]+)'.format(entity_name), wordsFormat)
 
-    return filter_stop_words(arr)
+
+    return filter_stop_words(arr+list(map(get_second_element,arr2)))
 
 
 # Function that extract words that matches by pattern H2
 def extract_h2(words, entity_name):
     wordsFormat = " ".join(words)
     arr = re.findall(r'especially {},? (\b[A-Z][a-zA-Z]+\b)'.format(entity_name), wordsFormat)
+    arr2 = re.findall(r'especially {}, [A-Z][a-zA-Z]+ ?(and|or|,)? ([A-Z][a-zA-Z]+)'.format(entity_name), wordsFormat)
 
-    return filter_stop_words(arr)
+
+    return filter_stop_words(arr+list(map(get_second_element,arr2)))
+
 
 
 # Function that extract words that matches by pattern H3
 def extract_h3(words, entity_name):
     wordsFormat = " ".join(words)
-    arr = re.findall(r'including {},? (\b[A-Z][a-zA-Z]+\b)'.format(entity_name), wordsFormat)
+    arr = re.findall(r'including {},? (\b[A-Z][a-zA-Z]+\b), '.format(entity_name), wordsFormat)
 
-    return filter_stop_words(arr)
+    arr2 = re.findall(r'including {}, [A-Z][a-zA-Z]+ ?(and|or|,)? ([A-Z][a-zA-Z]+)'.format(entity_name), wordsFormat)
+
+    return filter_stop_words(arr + list(map(get_second_element, arr2)))
 
 
 # Function that reads file of search results and extracts fields "title" and "snippet"
@@ -94,8 +101,11 @@ def extract_titles_and_snippets(file_name):
     for item in data:
         if 'items' in data[item]:
             for item in data[item]['items']:
-                titleAndSnippets.append(item['title'])
-                titleAndSnippets.append(item['snippet'])
+                t = item['title']
+                s = item['snippet']
+
+                # titleAndSnippets.append(item['title'])
+                titleAndSnippets.append(s+t)
 
     f.close()
     return titleAndSnippets
@@ -111,13 +121,20 @@ def get_competitor_list_dict_from_extracted_texts_dict(extracted_texts, entity_n
         'H1': extract_h1(extracted_texts['H1'], entity_name),
         'H2': extract_h2(extracted_texts['H2'], entity_name),
         'H3': extract_h3(extracted_texts['H3'], entity_name)}
+    # for i in competitors_list_dict:
+        # print(i, competitors_list_dict[i])
+        # print('-'*20)
     return competitors_list_dict
 
 
 # calculate math count of one competitor in a competitors_list(pattern) multiplied by weight(pattern)
 def calculate_math_count_util(competitors_extracted_by_some_pattern, pattern_weight, current_competitor):
+    # words = [ ]
+    # competitors_extracted_by_some_pattern = list(map(lambda x: x.lower(), competitors_extracted_by_some_pattern))
+    # competitors_extracted_by_some_pattern = words
+    # print(competitors_extracted_by_some_pattern)
     return pattern_weight * competitors_extracted_by_some_pattern.count(current_competitor)
-
+1
 
 # as we will work with each extracted competitor to check it, we need to have a unique set of them.
 def get_unique_competitors(competitors_list_dict):
@@ -125,22 +142,24 @@ def get_unique_competitors(competitors_list_dict):
 
 
 # returns dictionary of math count (with weights) for each candidate competitor { CN[i]:mc(CN[i]),.... }
-def calculate_math_count(competitors_list_dict):
-    unique_competitors = get_unique_competitors(competitors_list_dict)
-    res = dict()
+def calculate_math_count(competitors_list_dict, competitor):
+    # unique_competitors = get_unique_competitors(competitors_list_dict)
+    # unique_competitors = list(set(list(map(lambda x: x.lower(),unique_competitors))))
 
-    for competitor in unique_competitors:
-        res[competitor] = calculate_math_count_util(competitors_list_dict['C1'], 5, competitor)
-        res[competitor] += calculate_math_count_util(competitors_list_dict['C2'], 5, competitor)
-        res[competitor] += calculate_math_count_util(competitors_list_dict['C3'], 1, competitor)
-        res[competitor] += calculate_math_count_util(competitors_list_dict['C4'], 1, competitor)
-        res[competitor] += calculate_math_count_util(competitors_list_dict['H1'], 1, competitor)
-        res[competitor] += calculate_math_count_util(competitors_list_dict['H2'], 1, competitor)
-        res[competitor] += calculate_math_count_util(competitors_list_dict['H3'], 1, competitor)
-    return res
+    # for competitor in unique_competitors:
+    cnt = calculate_math_count_util(competitors_list_dict['C1'], 5, competitor)
+    cnt += calculate_math_count_util(competitors_list_dict['C2'], 5, competitor)
+    cnt += calculate_math_count_util(competitors_list_dict['C3'], 1, competitor)
+    cnt += calculate_math_count_util(competitors_list_dict['C4'], 1, competitor)
+    cnt += calculate_math_count_util(competitors_list_dict['H1'], 1, competitor)
+    cnt += calculate_math_count_util(competitors_list_dict['H2'], 1, competitor)
+    cnt += calculate_math_count_util(competitors_list_dict['H3'], 1, competitor)
 
 
-# here search_results is array of snippets and titles
+    return cnt
+
+
+# here competitor_list is array of snippets and titles
 def pointwise_mutual_information(search_results, entity_name, competitor_name):
     wordsFormat = " ".join(search_results)
     cnt = 0
@@ -164,18 +183,21 @@ def pointwise_mutual_information(search_results, entity_name, competitor_name):
 
 def candidate_confidence(search_results, competitor_name, competitors_list_dict):
     wordsFormat = " ".join(search_results)
-    return calculate_math_count(competitors_list_dict)[competitor_name] / len(
+
+    return calculate_math_count(competitors_list_dict,competitor_name) / len(
         re.findall(r'\b{}\b'.format(competitor_name), wordsFormat))
 
 
 def confidence_score(competitor_name, entity_name, competitors_list_dict, extracted_texts):
     search_results = numpy.concatenate(list(extracted_texts.values()))
-    r = calculate_math_count(competitors_list_dict)
-    k1 = 0.2 * r.get(competitor_name)
+    r = calculate_math_count(competitors_list_dict, competitor=competitor_name)
+    k1 = 0.2 * r
     # k1 = 0
     k2 = 0.6 * pointwise_mutual_information(search_results, entity_name, competitor_name)
-    # print(competitor_name,pointwise_mutual_information(search_results, entity_name, competitor_name))
+    k2=0
+    # print(competitor_name,pointwise_mutual_information(competitor_list, entity_name, competitor_name))
     k3 = 0.2 * candidate_confidence(search_results, competitor_name, competitors_list_dict)
+    k3=0
     return k1 + k2 + k3
 
 
@@ -185,7 +207,16 @@ def get_ranked_list_of_competitor_names(entity_name, competitors_list_dict, extr
     for competitor in competitors:
         CS = confidence_score(competitor, entity_name, competitors_list_dict, extracted_texts)
         CL[competitor] = CS
-    return dict(sorted(CL.items(), key=lambda item: item[1], reverse=True))
+    competitors = list(map(lambda x: x.lower(), competitors))
+    CL_New = {}
+    for item in CL:
+        if(item.lower() in competitors):
+            if(item.lower() not in CL_New):
+                CL_New[item.lower()] = CL[item]
+            else:
+                CL_New[item.lower()] += CL[item]
+
+    return dict(sorted(CL_New.items(), key=lambda item: item[1], reverse=True))
 
 
 def work(entity_name):
@@ -201,15 +232,37 @@ def work(entity_name):
     }
     competitors_list_for_each_pattern = get_competitor_list_dict_from_extracted_texts_dict(extracted_texts, entity_name)
     ranked_CL = get_ranked_list_of_competitor_names(entity_name, competitors_list_for_each_pattern, extracted_texts)
+    maldar = list(ranked_CL.keys())
+    # print(maldar)
+    # print(maldar)
+    all_text = " ".join(list(numpy.concatenate(list(extracted_texts.values()))))
+    for i in range(len(maldar)):
+        soz = maldar[i]
+        if ' ' in soz:
+            words = soz.split(' ')
+            bir,eki = words
+            birge_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(soz), all_text))
+            bir_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(bir), all_text))
+            eki_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(eki), all_text))
+            # print(soz, [birge_sanau,bir_sanau, eki_sanau,])
+            # if(bir in maldar):
 
-    print(ranked_CL)
-    # print(list(ranked_CL)[0:9])
+
+
+
+
+
+    # a= list(ranked_CL.keys())[0:9]
+    # for i in a:
+    #     print(i)
+    print(list(map(lambda x: x.capitalize(),list(ranked_CL)[0:20])))
 
 
 names = [
-    # 'Python',
-    # 'Prada'
-    # 'Toyota'
+    'Python',
+    'Prada',
+    'Toyota',
+    'Adidas'
 ]
 for entity_name in names:
     work(entity_name)

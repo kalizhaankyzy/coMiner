@@ -30,7 +30,7 @@ const getResults = (queryString) => {
 
 const handleGetCompetitorList = () => {
     const patterns = patternMaker('Adidas')
-    const promises = getResults(patterns[5])
+    const promises = getResults(patterns[6])
     Promise.all(promises)
         .then(results => Promise.all(results.map(r => r.json())))
         .then((a) => {
