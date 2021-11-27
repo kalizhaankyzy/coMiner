@@ -26,7 +26,7 @@ def get_second_element(arr):
 # Function that extract words that matches by pattern C1: competitor_name versus entity_name
 def extract_c1(words, entity_name):
     wordsFormat = " ".join(words)
-    results = re.findall(r'([A-Z][a-z]*\b) (vs|VS|Vs|versus)\.? {}'.format(entity_name), wordsFormat)
+    results = re.findall(r'([A-Z][a-zA-Z]*\b) (vs|VS|Vs|versus)\.? {}'.format(entity_name), wordsFormat)
     # print(results)
 
     ans = list(map(get_first_element, results))
@@ -37,18 +37,19 @@ def extract_c1(words, entity_name):
 # Function that extract words that matches by pattern C2: C1: entity_name versus competitor_name
 def extract_c2(words, entity_name):
     wordsFormat = " ".join(words)
-    results = re.findall(r'{} (vs|VS|Vs|versus).? (\b[A-Z][a-zA-Z]*\b)'.format(entity_name),
+    results = re.findall(r'{} (vs|VS|Vs|versus)\.? (\b[A-Z][a-zA-Z]*\b)'.format(entity_name),
                          wordsFormat)
 
     ans = list(map(get_second_element, results))
-    print(ans)
+    # print(ans)
     return filter_stop_words(ans)
 
 
 # Function that extract words that matches by pattern C3
 def extract_c3(words, entity_name):
     wordsFormat = " ".join(words)
-    results = re.findall(r'{} or (\b[A-Z][a-zA-Z]+\b)'.format(entity_name), wordsFormat)
+    results = re.findall(r'{} or (\b[A-Z][a-zA-Z]*\b)'.format(entity_name), wordsFormat)
+    print(results)
     return filter_stop_words(results)
 
 
@@ -56,7 +57,7 @@ def extract_c3(words, entity_name):
 def extract_c4(words, entity_name):
     wordsFormat = " ".join(words)
     results = re.findall(r'(\b[A-Z][a-zA-Z]+\b) or {}'.format(entity_name), wordsFormat)
-
+    # print(results)
     return filter_stop_words(results)
 
 
@@ -65,7 +66,7 @@ def extract_h1(words, entity_name):
     wordsFormat = " ".join(words)
 
     arr = re.findall(r'such as {},? (\b[A-Z][a-zA-Z]+\b)'.format(entity_name), wordsFormat)
-
+    # print(arr)
     return filter_stop_words(arr)
 
 
@@ -73,7 +74,7 @@ def extract_h1(words, entity_name):
 def extract_h2(words, entity_name):
     wordsFormat = " ".join(words)
     arr = re.findall(r'especially {},? (\b[A-Z][a-zA-Z]+\b)'.format(entity_name), wordsFormat)
-
+    # print(arr)
     return filter_stop_words(arr)
 
 
@@ -154,7 +155,8 @@ def pointwise_mutual_information(search_results, entity_name, competitor_name):
             cnt += 1
 
     hits_ce = cnt
-    hits_c = len(re.findall(r'\b{}\b'.format(competitor_name), wordsFormat))
+    hits_c = len(re.findall(r'\b{}(\b)'.format(competitor_name), wordsFormat))
+    print(competitor_name,hits_c)
     hits_e = len(re.findall(r'\b{}\b'.format(entity_name), wordsFormat))
     return hits_ce / (hits_e * hits_c)
 

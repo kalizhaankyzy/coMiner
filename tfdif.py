@@ -1,12 +1,11 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
-import pandas as pd
+import nltk
+import ssl
 
-documentA = 'a qqq fox jumps fox'
-documentB = 'fox adad fox re fox'
-vectorizer = TfidfVectorizer()
-vectors = vectorizer.fit_transform([documentA,documentB])
-feature_names = vectorizer.get_feature_names_out()
-dense = vectors.todense()
-denselist = dense.tolist()
-df = pd.DataFrame(denselist, columns=feature_names)
-print(df)
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+nltk.download('stopwords')
