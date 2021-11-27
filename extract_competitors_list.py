@@ -26,11 +26,10 @@ def get_second_element(arr):
 # Function that extract words that matches by pattern C1: competitor_name versus entity_name
 def extract_c1(words, entity_name):
     wordsFormat = " ".join(words)
-    results = re.findall(r'([A-Z][a-z]*\b) (vs|VS|Vs|versus)\.? {}'.format(entity_name), wordsFormat)
+    results = re.findall(r'([A-Z][a-zA-Z]*\b) (vs|VS|Vs|versus) {}'.format(entity_name), wordsFormat)
     # print(results)
 
     ans = list(map(get_first_element, results))
-    # print( ans)
     return filter_stop_words(ans)
 
 
@@ -41,7 +40,9 @@ def extract_c2(words, entity_name):
                          wordsFormat)
 
     ans = list(map(get_second_element, results))
-    print(ans)
+    print( ans)
+
+    # print(ans)
     return filter_stop_words(ans)
 
 
@@ -154,8 +155,10 @@ def pointwise_mutual_information(search_results, entity_name, competitor_name):
             cnt += 1
 
     hits_ce = cnt
-    hits_c = len(re.findall(r'\b{}\b'.format(competitor_name), wordsFormat))
-    hits_e = len(re.findall(r'\b{}\b'.format(entity_name), wordsFormat))
+    # print(wordsFormat,competitor_name, cnt)
+    hits_c = len(re.findall(r'\b{}\b'.format(competitor_name), wordsFormat)) + len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(competitor_name), wordsFormat))
+    hits_e = len(re.findall(r'\b{}\b'.format(entity_name), wordsFormat))  + len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(entity_name), wordsFormat))
+    # print(competitor_name, hits_c)
     return hits_ce / (hits_e * hits_c)
 
 
@@ -200,12 +203,13 @@ def work(entity_name):
     ranked_CL = get_ranked_list_of_competitor_names(entity_name, competitors_list_for_each_pattern, extracted_texts)
 
     print(ranked_CL)
-    print(list(ranked_CL)[0:9])
+    # print(list(ranked_CL)[0:9])
 
 
 names = [
-    'Python',
+    # 'Python',
     # 'Prada'
+    # 'Toyota'
 ]
 for entity_name in names:
     work(entity_name)
