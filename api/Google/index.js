@@ -23,14 +23,14 @@ const getResults = (queryString) => {
     const promises = [];
 
     for(let i = 1; i <=91 ; i+=10){
-        promises.push(fetch(`https://www.googleapis.com/customsearch/v1?key=${API_KEY}q="${queryString}"&start=${i}&safe=active`))
+        promises.push(fetch(`https://www.googleapis.com/customsearch/v1?key=${API_KEY_2}q="${queryString}"&start=${i}&safe=active`))
     }
     return promises
 }
 
 const handleGetCompetitorList = () => {
-    const patterns = patternMaker('Prada')
-    const promises = getResults(patterns[6])
+    const patterns = patternMaker('Adidas')
+    const promises = getResults(patterns[5])
     Promise.all(promises)
         .then(results => Promise.all(results.map(r => r.json())))
         .then((a) => {

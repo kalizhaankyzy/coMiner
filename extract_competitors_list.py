@@ -14,7 +14,6 @@ def filter_stop_words(arr):
             ans.append(word)
     return ans
 
-
 def get_first_element(arr):
     return arr[0]
 
@@ -26,22 +25,21 @@ def get_second_element(arr):
 # Function that extract words that matches by pattern C1: competitor_name versus entity_name
 def extract_c1(words, entity_name):
     wordsFormat = " ".join(words)
-    results = re.findall(r'([A-Z][a-zA-Z]*\b) (vs|VS|Vs|versus)\.? {}'.format(entity_name), wordsFormat)
+    results = re.findall(r'(\b[A-Z][a-zA-Z]*\b) (vs|VS|Vs|versus)\.? {}'.format(entity_name), wordsFormat)
     # print(results)
 
     ans = list(map(get_first_element, results))
-    # print( ans)
     return filter_stop_words(ans)
 
 
-# Function that extract words that matches by pattern C2: C1: entity_name versus competitor_name
+# Function that extract words that matches by pattern C2: entity_name versus competitor_name
 def extract_c2(words, entity_name):
     wordsFormat = " ".join(words)
     results = re.findall(r'{} (vs|VS|Vs|versus)\.? (\b[A-Z][a-zA-Z]*\b)'.format(entity_name),
                          wordsFormat)
 
     ans = list(map(get_second_element, results))
-    # print(ans)
+    # print( ans)
     return filter_stop_words(ans)
 
 
@@ -49,14 +47,14 @@ def extract_c2(words, entity_name):
 def extract_c3(words, entity_name):
     wordsFormat = " ".join(words)
     results = re.findall(r'{} or (\b[A-Z][a-zA-Z]*\b)'.format(entity_name), wordsFormat)
-    print(results)
+    # print(results)
     return filter_stop_words(results)
 
 
 # Function that extract words that matches by pattern C4
 def extract_c4(words, entity_name):
     wordsFormat = " ".join(words)
-    results = re.findall(r'(\b[A-Z][a-zA-Z]+\b) or {}'.format(entity_name), wordsFormat)
+    results = re.findall(r'(\b[A-Z][a-zA-Z]*\b) or {}'.format(entity_name), wordsFormat)
     # print(results)
     return filter_stop_words(results)
 
@@ -65,8 +63,10 @@ def extract_c4(words, entity_name):
 def extract_h1(words, entity_name):
     wordsFormat = " ".join(words)
 
-    arr = re.findall(r'such as {},? (\b[A-Z][a-zA-Z]+\b)'.format(entity_name), wordsFormat)
-    # print(arr)
+    arr = re.findall(r'such as {},? (\b[A-Z][a-zA-Z]*\b \b[A-Z][a-zA-Z]*\b|\b[A-Z][a-zA-Z]*\b)'.format(entity_name), wordsFormat)
+    #
+    # such as {},? (\b[A-Z][a-zA-Z]*\b \b[A-Z][a-zA-Z]*\b|\b[A-Z][a-zA-Z]*\b)( or (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Za-z]*\b) (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Z][a-zA-Z]*\b)|\b)
+    print(arr)
     return filter_stop_words(arr)
 
 
@@ -146,17 +146,24 @@ def pointwise_mutual_information(search_results, entity_name, competitor_name):
     cnt = 0
     for sentence in search_results:
         # print(sentence)
-        if (
-                len(re.findall(r' {entity_name} [a-z][a-z] {competitor_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
-                or len(re.findall(r' {competitor_name} [a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
-                or len(re.findall(r' {competitor_name} [a-z][a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name),sentence)) > 0
-                or len(re.findall(r' {competitor_name} [a-z][a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
-        ):
-            cnt += 1
+        # if (
+        #     len(re.findall(r' {entity_name} [a-z][a-z] {competitor_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
+                # len(re.findall(r' {entity_name} [a-z][a-z] {competitor_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
+                # or len(re.findall(r' {competitor_name} [a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
+                # or len(re.findall(r' {competitor_name} [a-z][a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name),sentence)) > 0
+                # or len(re.findall(r' {competitor_name} [a-z][a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
+        # ):
+            # print(len(re.findall(r' {entity_name} [a-z][a-z] {competitor_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)))
+
+        cnt += len(re.findall(r' {entity_name} [a-z][a-z] {competitor_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence))
+        cnt += len(re.findall(r' {competitor_name} [a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence))
+        cnt += len(re.findall(r' {competitor_name} [a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence))
+        cnt += len(re.findall(r' {competitor_name} [a-z][a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence))
+
 
     hits_ce = cnt
+    # print(cnt)
     hits_c = len(re.findall(r'\b{}(\b)'.format(competitor_name), wordsFormat))
-    print(competitor_name,hits_c)
     hits_e = len(re.findall(r'\b{}\b'.format(entity_name), wordsFormat))
     return hits_ce / (hits_e * hits_c)
 
@@ -202,12 +209,14 @@ def work(entity_name):
     ranked_CL = get_ranked_list_of_competitor_names(entity_name, competitors_list_for_each_pattern, extracted_texts)
 
     print(ranked_CL)
-    print(list(ranked_CL)[0:9])
+    # print(list(ranked_CL)[0:9])
 
 
 names = [
     'Python',
-    # 'Prada'
+    # 'Prada',
+    # 'Toyota',
+    # 'Adidas'
 ]
 for entity_name in names:
     work(entity_name)
