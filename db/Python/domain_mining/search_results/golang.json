@@ -1,0 +1,1545 @@
+{
+  "results": [
+    {
+      "title": "Golang for Python Devs - CodeRed",
+      "link": "https://www.coderedcorp.com/blog/golang-for-python-devs/",
+      "description": "Feb 25, 2021 — Culture; Naming Conventions; Comments & Docstrings; Variables; String Formatting; For Loops; Lists; Dictionaries; Classes; Next Steps. Culture.",
+      "additional_links": [
+        {
+          "text": "Golang for Python Devs - CodeRedhttps://www.coderedcorp.com › blog › golang-for-pyth...",
+          "href": "https://www.coderedcorp.com/blog/golang-for-python-devs/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.coderedcorp.com › blog › golang-for-pyth...",
+        "span": " › blog › golang-for-pyth..."
+      }
+    },
+    {
+      "title": "Is Golang going to replace Python Soon ?? | by Prakhar Jain",
+      "link": "https://medium.com/@praks.jain7/is-golang-going-to-replace-python-soon-f93b0f700322",
+      "description": "Aug 30, 2020 — Golang is now considered to be an alternative to Python, and there is an incessant discussion about Golang web development vs Python. Created by ...",
+      "additional_links": [
+        {
+          "text": "Is Golang going to replace Python Soon ?? | by Prakhar Jainhttps://medium.com › ...",
+          "href": "https://medium.com/@praks.jain7/is-golang-going-to-replace-python-soon-f93b0f700322"
+        }
+      ],
+      "cite": {
+        "domain": "https://medium.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Golang vs Python: Which Programming Language Is Best?",
+      "link": "https://www.kofi-group.com/golang-vs-python-which-programming-language-is-best/",
+      "description": "Both Python and Go are very similar in the sense that they are both very beginner friendly, and somewhat forgiving when it comes to errors.Apr 13, 2021 · Uploaded by Kofi Group",
+      "additional_links": [
+        {
+          "text": "Golang vs Python: Which Programming Language Is Best?https://www.kofi-group.com › golang-vs-python-which-p...",
+          "href": "https://www.kofi-group.com/golang-vs-python-which-programming-language-is-best/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.kofi-group.com › golang-vs-python-which-p...",
+        "span": " › golang-vs-python-which-p..."
+      }
+    },
+    {
+      "title": "Golang vs. Python: Which One to Choose for Your Business?",
+      "link": "https://www.mindinventory.com/blog/golang-vs-python/",
+      "description": "Jun 21, 2019 — Golang Vs Python: The Comparison Between Two Programming Languages. comparison python golang. The following parameters have been used in the ...",
+      "additional_links": [
+        {
+          "text": "Golang vs. Python: Which One to Choose for Your Business?https://www.mindinventory.com › blog › golang-vs-pyt...",
+          "href": "https://www.mindinventory.com/blog/golang-vs-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.mindinventory.com › blog › golang-vs-pyt...",
+        "span": " › blog › golang-vs-pyt..."
+      }
+    },
+    {
+      "title": "GOLANG VS PYTHON - Which is better for web development?",
+      "link": "https://www.gkmit.co/blog/web-app-development/golang-vs-python-which-is-better-for-web-development",
+      "description": "Feb 9, 2021 — Every team chooses the best language for its software development. In this article, we will compare Golang vs Python.Compared to Python it is more verbose: It is less ...It is ideal for system programming: Python solv...No exceptions supported in Go: Python supports ...Typed language- Static: Typed language- Dyn...",
+      "additional_links": [
+        {
+          "text": "GOLANG VS PYTHON - Which is better for web development?https://www.gkmit.co › blog › golang-vs-python-which...",
+          "href": "https://www.gkmit.co/blog/web-app-development/golang-vs-python-which-is-better-for-web-development"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.gkmit.co › blog › golang-vs-python-which...",
+        "span": " › blog › golang-vs-python-which..."
+      }
+    },
+    {
+      "title": "Go vs Python: Is Golang an alternative to Python? - AgiraTech",
+      "link": "https://www.agiratech.com/go-vs-python",
+      "description": "Oct 21, 2019 — Go vs python Golang a.k.a Go is a computer programming language developed by Rob Pike, Ken Thompson, and Robert Griesemer at Google.",
+      "additional_links": [
+        {
+          "text": "Go vs Python: Is Golang an alternative to Python? - AgiraTechhttps://www.agiratech.com › go-vs-python",
+          "href": "https://www.agiratech.com/go-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.agiratech.com › go-vs-python",
+        "span": " › go-vs-python"
+      }
+    },
+    {
+      "title": "Golang Web Development: Better Than Python? - QArea",
+      "link": "https://qarea.com/blog/golang-web-development-better-than-python",
+      "description": "Oct 4, 2018 — Golang vs Python: Which One Is Better? Golang is now considered to be an alternative to Python, and there is an incessant discussion about ...",
+      "additional_links": [
+        {
+          "text": "Golang Web Development: Better Than Python? - QAreahttps://qarea.com › blog › golang-web-development-bette...",
+          "href": "https://qarea.com/blog/golang-web-development-better-than-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://qarea.com › blog › golang-web-development-bette...",
+        "span": " › blog › golang-web-development-bette..."
+      }
+    },
+    {
+      "title": "Golang vs Python",
+      "link": "https://golangdocs.com/golang-vs-python",
+      "description": "It's an easy-to-setup language with many developers creating newer projects and use cases every day. A quick look at PyPI, the official Python package index for ...",
+      "additional_links": [
+        {
+          "text": "Golang vs Pythonhttps://golangdocs.com › GoLang",
+          "href": "https://golangdocs.com/golang-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://golangdocs.com › GoLang",
+        "span": " › GoLang"
+      }
+    },
+    {
+      "title": "Stream Switched From Python To Golang - LinkedIn",
+      "link": "https://www.linkedin.com/pulse/stream-switched-from-python-golang-reemi-shirsath",
+      "description": "Aug 4, 2020 — Stream is a platform that helps you in creating API for Scalable chat and feeds. This platform is used by millions of users. Using this platform ...",
+      "additional_links": [
+        {
+          "text": "Stream Switched From Python To Golang - LinkedInhttps://www.linkedin.com › pulse › stream-switched-from...",
+          "href": "https://www.linkedin.com/pulse/stream-switched-from-python-golang-reemi-shirsath"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.linkedin.com › pulse › stream-switched-from...",
+        "span": " › pulse › stream-switched-from..."
+      }
+    },
+    {
+      "title": "Between Python, Golang & C++ or Python, Golang & Java ...",
+      "link": "https://www.quora.com/Between-Python-Golang-C++-or-Python-Golang-Java-which-is-the-better-choice-and-why",
+      "description": "This sounds like a complex way to ask if you should learn Java or C++, as Python and Go are in both cases. Let's start with Python and Go.8 answers  ·  2 votes: I would prefer Golang, Java and Python because all of these are the hottest languages in the ...",
+      "additional_links": [
+        {
+          "text": "Between Python, Golang & C++ or Python, Golang & Java ...https://www.quora.com › Between-Python-Golang-C++-or...",
+          "href": "https://www.quora.com/Between-Python-Golang-C++-or-Python-Golang-Java-which-is-the-better-choice-and-why"
+        },
+        {
+          "text": "8 answers",
+          "href": "https://www.quora.com/Between-Python-Golang-C++-or-Python-Golang-Java-which-is-the-better-choice-and-why?top_ans=67701891"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.quora.com › Between-Python-Golang-C++-or...",
+        "span": " › Between-Python-Golang-C++-or..."
+      }
+    },
+    {
+      "title": "Golang: Why you should learn GO in 2021 | Meritocracy Blog",
+      "link": "https://meritocracy.is/blog/2021/04/06/golang-why-you-should-learn-go-in-2021/",
+      "description": "Apr 6, 2021 — Golang is a relatively young but popular programming language. According to a Stack Overflow survey, Golang took third place in the ranking ...",
+      "additional_links": [
+        {
+          "text": "Golang: Why you should learn GO in 2021 | Meritocracy Bloghttps://meritocracy.is › blog › 2021/04/06 › golang-wh...",
+          "href": "https://meritocracy.is/blog/2021/04/06/golang-why-you-should-learn-go-in-2021/"
+        }
+      ],
+      "cite": {
+        "domain": "https://meritocracy.is › blog › 2021/04/06 › golang-wh...",
+        "span": " › blog › 2021/04/06 › golang-wh..."
+      }
+    },
+    {
+      "title": "Why Choose Golang over Python, Rust and Node.js?",
+      "link": "https://www.bacancytechnology.com/blog/why-choose-golang-over-python-rust-and-nodejs",
+      "description": " › blog › why-cho...  › blog › why-cho... Apr 22, 2020 — ",
+      "additional_links": [
+        {
+          "text": "Why Choose Golang over Python, Rust and Node.js?https://www.bacancytechnology.com › blog › why-cho...",
+          "href": "https://www.bacancytechnology.com/blog/why-choose-golang-over-python-rust-and-nodejs"
+        },
+        {
+          "text": "Golang vs Python: Which One is Best For Web Development?https://www.bacancytechnology.com › blog › golang-v...",
+          "href": "https://www.bacancytechnology.com/blog/golang-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.bacancytechnology.com › blog › why-cho...",
+        "span": " › blog › why-cho..."
+      }
+    },
+    {
+      "title": "Why Choose Golang over Python, Rust and Node.js?",
+      "link": "https://www.bacancytechnology.com/blog/why-choose-golang-over-python-rust-and-nodejs",
+      "description": "Apr 22, 2020 — Golang is a sure shot choice for the quick server response and predictable business growth let's see how golang over python, rust and ...",
+      "additional_links": [
+        {
+          "text": "Why Choose Golang over Python, Rust and Node.js?https://www.bacancytechnology.com › blog › why-cho...",
+          "href": "https://www.bacancytechnology.com/blog/why-choose-golang-over-python-rust-and-nodejs"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.bacancytechnology.com › blog › why-cho...",
+        "span": " › blog › why-cho..."
+      }
+    },
+    {
+      "title": "Golang vs Python: Which One is Best For Web Development?",
+      "link": "https://www.bacancytechnology.com/blog/golang-vs-python",
+      "description": "Jul 10, 2019 — In this blog, we will be discussing these two programming languages in-detail and will compare the parameters which can help in finding out ...",
+      "additional_links": [
+        {
+          "text": "Golang vs Python: Which One is Best For Web Development?https://www.bacancytechnology.com › blog › golang-v...",
+          "href": "https://www.bacancytechnology.com/blog/golang-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.bacancytechnology.com › blog › golang-v...",
+        "span": " › blog › golang-v..."
+      }
+    },
+    {
+      "title": "Golang vs Python: What is the difference? - DEV Community",
+      "link": "https://dev.to/pankajkumar/golang-vs-python-what-is-the-difference-1ipl",
+      "description": "Mar 29, 2020 — If we talk specifically about the backend web development, Then we have Java, Python, Node.js, Go and a few other top used programming language/ ...",
+      "additional_links": [
+        {
+          "text": "Golang vs Python: What is the difference? - DEV Communityhttps://dev.to › pankajkumar",
+          "href": "https://dev.to/pankajkumar/golang-vs-python-what-is-the-difference-1ipl"
+        }
+      ],
+      "cite": {
+        "domain": "https://dev.to › pankajkumar",
+        "span": " › pankajkumar"
+      }
+    },
+    {
+      "title": "The Top 822 Python Golang Open Source Projects on Github",
+      "link": "https://awesomeopensource.com/projects/golang/python",
+      "description": "The Top 822 Python Golang Open Source Projects on Github. Categories > Programming Languages > Golang. Categories > Programming Languages > Python.",
+      "additional_links": [
+        {
+          "text": "The Top 822 Python Golang Open Source Projects on Githubhttps://awesomeopensource.com › projects › python",
+          "href": "https://awesomeopensource.com/projects/golang/python"
+        }
+      ],
+      "cite": {
+        "domain": "https://awesomeopensource.com › projects › python",
+        "span": " › projects › python"
+      }
+    },
+    {
+      "title": "gpython is a python interpreter written in go \"batteries ... - GitHub",
+      "link": "https://github.com/go-python/gpython",
+      "description": "About. gpython is a python interpreter written in go \"batteries not included\". Topics. python golang interpreter python3. Resources. Readme. License.",
+      "additional_links": [
+        {
+          "text": "gpython is a python interpreter written in go \"batteries ... - GitHubhttps://github.com › go-python › gpython",
+          "href": "https://github.com/go-python/gpython"
+        }
+      ],
+      "cite": {
+        "domain": "https://github.com › go-python › gpython",
+        "span": " › go-python › gpython"
+      }
+    },
+    {
+      "title": "Golang vs Python: What is the difference? | JSON World",
+      "link": "https://jsonworld.com/blog/golang-vs-python-what-is-the-difference",
+      "description": "Mar 27, 2020 — If we talk specifically about the backend web development, Then we have Java, Python, Node.js, Go and a few other top used programming language/ ...",
+      "additional_links": [
+        {
+          "text": "Golang vs Python: What is the difference? | JSON Worldhttps://jsonworld.com › blog › golang-vs-python-what-...",
+          "href": "https://jsonworld.com/blog/golang-vs-python-what-is-the-difference"
+        }
+      ],
+      "cite": {
+        "domain": "https://jsonworld.com › blog › golang-vs-python-what-...",
+        "span": " › blog › golang-vs-python-what-..."
+      }
+    },
+    {
+      "title": "Jobs at NFON: Senior Python/Golang Back-end Developer in Lisbon",
+      "link": "https://landing.jobs/at/nfon/senior-python-golang-back-end-developer",
+      "description": "You will be building web services and APIs of our Voice Platform, which is used by front-end and mobile engineers. This includes:Development of ...",
+      "additional_links": [
+        {
+          "text": "Jobs at NFON: Senior Python/Golang Back-end Developer in Lisbonhttps://landing.jobs › nfon › senior-python-golang-bac...",
+          "href": "https://landing.jobs/at/nfon/senior-python-golang-back-end-developer"
+        }
+      ],
+      "cite": {
+        "domain": "https://landing.jobs › nfon › senior-python-golang-bac...",
+        "span": " › nfon › senior-python-golang-bac..."
+      }
+    },
+    {
+      "title": "Python Golang Jobs (with Salaries) 2021 | Indeed.com Canada",
+      "link": "https://ca.indeed.com/Python-Golang-jobs",
+      "description": "Search 337 Python Golang jobs now available on Indeed.com, the world's largest job site.",
+      "additional_links": [
+        {
+          "text": "Python Golang Jobs (with Salaries) 2021 | Indeed.com Canadahttps://ca.indeed.com › Python-Golang-jobs",
+          "href": "https://ca.indeed.com/Python-Golang-jobs"
+        }
+      ],
+      "cite": {
+        "domain": "https://ca.indeed.com › Python-Golang-jobs",
+        "span": " › Python-Golang-jobs"
+      }
+    },
+    {
+      "title": "Automated QA developer Python/Golang (Platform team)",
+      "link": "https://boards.greenhouse.io/acronis/jobs/5517289002",
+      "description": "As Acronis is dedicated not just to Cyber Protection but to the general protection of its potential and current employees, recruitment and onboarding ...",
+      "additional_links": [
+        {
+          "text": "Automated QA developer Python/Golang (Platform team)https://boards.greenhouse.io › acronis › jobs",
+          "href": "https://boards.greenhouse.io/acronis/jobs/5517289002"
+        }
+      ],
+      "cite": {
+        "domain": "https://boards.greenhouse.io › acronis › jobs",
+        "span": " › acronis › jobs"
+      }
+    },
+    {
+      "title": "Python golang Jobs in Seattle, WA | Glassdoor",
+      "link": "https://www.glassdoor.com/Job/seattle-python-golang-jobs-SRCH_IL.0,7_IC1150505_KO8,21.htm",
+      "description": "Search Python golang jobs in Seattle, WA with company ratings & salaries. 156 open jobs for Python golang in Seattle.",
+      "additional_links": [
+        {
+          "text": "Python golang Jobs in Seattle, WA | Glassdoorhttps://www.glassdoor.com › Job › seattle-python-golang-...",
+          "href": "https://www.glassdoor.com/Job/seattle-python-golang-jobs-SRCH_IL.0,7_IC1150505_KO8,21.htm"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.glassdoor.com › Job › seattle-python-golang-...",
+        "span": " › Job › seattle-python-golang-..."
+      }
+    },
+    {
+      "title": "Full Web Application on python and golang programming",
+      "link": "https://www.upwork.com/services/product/full-web-application-on-python-and-golang-programming-1352594321044791296",
+      "description": "I am a Python/golang/C developer, Linux server telemetry specialist, highly effective communicator. Extensive experience with technology for the financial ...",
+      "additional_links": [
+        {
+          "text": "Full Web Application on python and golang programminghttps://www.upwork.com › services › product › full-we...",
+          "href": "https://www.upwork.com/services/product/full-web-application-on-python-and-golang-programming-1352594321044791296"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.upwork.com › services › product › full-we...",
+        "span": " › services › product › full-we..."
+      }
+    },
+    {
+      "title": "Full Stack Developer Python Golang - Client Server",
+      "link": "https://www.client-server.com/job/Full-Stack-Developer-Python-Golang/",
+      "description": "Job Description. Full Stack Developer (Python Golang Node) Are you a committed tech advocate with a full stack skillset? Would you like to get involved in ...Contract Type: PermanentSalary: £30000 - £40000 per annum + benefits",
+      "additional_links": [
+        {
+          "text": "Full Stack Developer Python Golang - Client Serverhttps://www.client-server.com › job › Full-Stack-Devel...",
+          "href": "https://www.client-server.com/job/Full-Stack-Developer-Python-Golang/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.client-server.com › job › Full-Stack-Devel...",
+        "span": " › job › Full-Stack-Devel..."
+      }
+    },
+    {
+      "title": "Extending Python 3 in Go | Hacker Noon",
+      "link": "https://hackernoon.com/extending-python-3-in-go-78f3a69552ac",
+      "description": "Dec 29, 2017 — PyBindGen, a tool which has been around for ages, can create Python module bindings for 2 or 3, based on a C or C++ header file. You can include ...",
+      "additional_links": [
+        {
+          "text": "Extending Python 3 in Go | Hacker Noonhttps://hackernoon.com › ...",
+          "href": "https://hackernoon.com/extending-python-3-in-go-78f3a69552ac"
+        }
+      ],
+      "cite": {
+        "domain": "https://hackernoon.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Developer (Python, GoLang, Kubernetes), AI Foundation",
+      "link": "https://jobs.sap.com/job/Singapore-Developer-%28Python%2C-GoLang%2C-Kubernetes%29%2C-AI-Foundation-117440/746796001/",
+      "description": "8 days ago — Our company culture is focused on helping our employees enable innovation by building breakthroughs together. How? We focus every day on ...",
+      "additional_links": [
+        {
+          "text": "Developer (Python, GoLang, Kubernetes), AI Foundationhttps://jobs.sap.com › job › Singapore-Developer-(Pyth...",
+          "href": "https://jobs.sap.com/job/Singapore-Developer-%28Python%2C-GoLang%2C-Kubernetes%29%2C-AI-Foundation-117440/746796001/"
+        }
+      ],
+      "cite": {
+        "domain": "https://jobs.sap.com › job › Singapore-Developer-(Pyth...",
+        "span": " › job › Singapore-Developer-(Pyth..."
+      }
+    },
+    {
+      "title": "Open Source Developer (Python / Golang) #978 - Facebook",
+      "link": "https://www.facebook.com/jobs/job-opening/1914982252112403/",
+      "description": "NextStep Recruiting is actively seeking an Open Source Developer with experience in Python or Golang for their preferred application development client...",
+      "additional_links": [
+        {
+          "text": "Open Source Developer (Python / Golang) #978 - Facebookhttps://www.facebook.com › jobs › job-opening",
+          "href": "https://www.facebook.com/jobs/job-opening/1914982252112403/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.facebook.com › jobs › job-opening",
+        "span": " › jobs › job-opening"
+      }
+    },
+    {
+      "title": "Backend Engineer - Python/Golang (3-8 yrs),Mumbai,Data ...",
+      "link": "https://www.hirist.com/j/backend-engineer-pythongolang-3-8-yrs-783221.html",
+      "description": "Backend Engineer - Python/Golang (3-8 yrs),Mumbai,Data Quality,Golang,Scala,Java,Python, Tech IT Jobs - hirist.com.",
+      "additional_links": [
+        {
+          "text": "Backend Engineer - Python/Golang (3-8 yrs),Mumbai,Data ...https://www.hirist.com › backend-engineer-pythongola...",
+          "href": "https://www.hirist.com/j/backend-engineer-pythongolang-3-8-yrs-783221.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.hirist.com › backend-engineer-pythongola...",
+        "span": " › backend-engineer-pythongola..."
+      }
+    },
+    {
+      "title": "A Battle of Trios: Python vs Ruby vs Golang - Cuelogic",
+      "link": "https://www.cuelogic.com/blog/a-battle-of-trios-python-vs-ruby-vs-golang",
+      "description": "Mar 25, 2015 — Tag. Ruby python Golang language wars. Share This Blog. facebook · twitter · linkidin. x. Have a tech or business challenge? We can help!",
+      "additional_links": [
+        {
+          "text": "A Battle of Trios: Python vs Ruby vs Golang - Cuelogichttps://www.cuelogic.com › blog › a-battle-of-trios-pyt...",
+          "href": "https://www.cuelogic.com/blog/a-battle-of-trios-python-vs-ruby-vs-golang"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.cuelogic.com › blog › a-battle-of-trios-pyt...",
+        "span": " › blog › a-battle-of-trios-pyt..."
+      }
+    },
+    {
+      "title": "Image Layer Details - instoll/sam-local-python-golang:0.3.0",
+      "link": "https://hub.docker.com/layers/instoll/sam-local-python-golang/0.3.0/images/sha256-e10463c96cfe774a7c861c6a856515b370f2e23ad01103e0387f435b76c5de9a?context=explore",
+      "description": " › layers › instoll › images  › layers › instoll › images",
+      "additional_links": [
+        {
+          "text": "Image Layer Details - instoll/sam-local-python-golang:0.3.0https://hub.docker.com › layers › instoll › images",
+          "href": "https://hub.docker.com/layers/instoll/sam-local-python-golang/0.3.0/images/sha256-e10463c96cfe774a7c861c6a856515b370f2e23ad01103e0387f435b76c5de9a?context=explore"
+        },
+        {
+          "text": "Image Layer Details - instoll/sam-local-python-golang:0.2.1https://hub.docker.com › sam-local-python-golang › images",
+          "href": "https://hub.docker.com/layers/instoll/sam-local-python-golang/0.2.1/images/sha256-bb996e741d0d66d413cb0b20c4cb586608c1c60c1c25dffd2688630a1813a9e5?context=explore"
+        }
+      ],
+      "cite": {
+        "domain": "https://hub.docker.com › layers › instoll › images",
+        "span": " › layers › instoll › images"
+      }
+    },
+    {
+      "title": "Image Layer Details - instoll/sam-local-python-golang:0.3.0",
+      "link": "https://hub.docker.com/layers/instoll/sam-local-python-golang/0.3.0/images/sha256-e10463c96cfe774a7c861c6a856515b370f2e23ad01103e0387f435b76c5de9a?context=explore",
+      "description": "ENV PATH=/go/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin. 0 B. 9. /bin/sh -c mkdir -p \"$GOPATH/src\".",
+      "additional_links": [
+        {
+          "text": "Image Layer Details - instoll/sam-local-python-golang:0.3.0https://hub.docker.com › layers › instoll › images",
+          "href": "https://hub.docker.com/layers/instoll/sam-local-python-golang/0.3.0/images/sha256-e10463c96cfe774a7c861c6a856515b370f2e23ad01103e0387f435b76c5de9a?context=explore"
+        }
+      ],
+      "cite": {
+        "domain": "https://hub.docker.com › layers › instoll › images",
+        "span": " › layers › instoll › images"
+      }
+    },
+    {
+      "title": "Image Layer Details - instoll/sam-local-python-golang:0.2.1",
+      "link": "https://hub.docker.com/layers/instoll/sam-local-python-golang/0.2.1/images/sha256-bb996e741d0d66d413cb0b20c4cb586608c1c60c1c25dffd2688630a1813a9e5?context=explore",
+      "description": "ENV PATH=/go/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin. 0 B. 9. /bin/sh -c mkdir -p \"$GOPATH/src\".",
+      "additional_links": [
+        {
+          "text": "Image Layer Details - instoll/sam-local-python-golang:0.2.1https://hub.docker.com › sam-local-python-golang › images",
+          "href": "https://hub.docker.com/layers/instoll/sam-local-python-golang/0.2.1/images/sha256-bb996e741d0d66d413cb0b20c4cb586608c1c60c1c25dffd2688630a1813a9e5?context=explore"
+        }
+      ],
+      "cite": {
+        "domain": "https://hub.docker.com › sam-local-python-golang › images",
+        "span": " › sam-local-python-golang › images"
+      }
+    },
+    {
+      "title": "js/php/python/golang/flutter - Instagram",
+      "link": "https://www.instagram.com/i_luv_code/",
+      "description": "JS/PHP/PYTHON/GOLANG/FLUTTER. Full stack developer & Freelancer(MERN/MVEN/Graphql/flutter/React native) Looking for help with your Website?",
+      "additional_links": [
+        {
+          "text": "js/php/python/golang/flutter - Instagramhttps://www.instagram.com › i_luv_code",
+          "href": "https://www.instagram.com/i_luv_code/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.instagram.com › i_luv_code",
+        "span": " › i_luv_code"
+      }
+    },
+    {
+      "title": "Backend Architect - prior Python/Golang experience highly ...",
+      "link": "https://deepfence.io/jobs/backend-architect-prior-python-golang-experience-highly-desired/",
+      "description": "Introduction: Deepfence is building next generation of application security solutions where containers and microservices are first class citizens.",
+      "additional_links": [
+        {
+          "text": "Backend Architect - prior Python/Golang experience highly ...https://deepfence.io › Jobs",
+          "href": "https://deepfence.io/jobs/backend-architect-prior-python-golang-experience-highly-desired/"
+        }
+      ],
+      "cite": {
+        "domain": "https://deepfence.io › Jobs",
+        "span": " › Jobs"
+      }
+    },
+    {
+      "title": "Server Engineer - Python / Golang / Redis / DynamoDB",
+      "link": "https://www.smartrecruiters.com/FibonacciSequence/79771859-server-engineer-python-golang-redis-dynamodb",
+      "description": "They're looking for a strong server engineer to join a small team of 10 in their San Francisco office in Mission Bay. The backend will be Python, DynamoDB, ...",
+      "additional_links": [
+        {
+          "text": "Server Engineer - Python / Golang / Redis / DynamoDBhttps://www.smartrecruiters.com › FibonacciSequence",
+          "href": "https://www.smartrecruiters.com/FibonacciSequence/79771859-server-engineer-python-golang-redis-dynamodb"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.smartrecruiters.com › FibonacciSequence",
+        "span": " › FibonacciSequence"
+      }
+    },
+    {
+      "title": "Ruby / Python / Golang / Java / C/C++ jobs | CyberCoders",
+      "link": "https://www.cybercoders.com/jobs/ruby-python-golang-java-c-c-plus-plus-skills/?filtertype=permanent",
+      "description": "46 Jobs — ruby python golang java c C++ Jobs. Relevance. Relevance · Date · Salary · All Jobs · Full-Time · Contract · Telecommuting Available.",
+      "additional_links": [
+        {
+          "text": "Ruby / Python / Golang / Java / C/C++ jobs | CyberCodershttps://www.cybercoders.com › jobs › ruby-python-gol...",
+          "href": "https://www.cybercoders.com/jobs/ruby-python-golang-java-c-c-plus-plus-skills/?filtertype=permanent"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.cybercoders.com › jobs › ruby-python-gol...",
+        "span": " › jobs › ruby-python-gol..."
+      }
+    },
+    {
+      "title": "Golang vs. Python — Which One to Choose? incl ... - Reddit",
+      "link": "https://www.reddit.com/r/Python/comments/goivab/golang_vs_python_which_one_to_choose_incl_golang/",
+      "description": "856k members in the Python community. News about the programming language Python. If you have something to teach others post here. If you have …",
+      "additional_links": [
+        {
+          "text": "Golang vs. Python — Which One to Choose? incl ... - Reddithttps://www.reddit.com › Python › comments › goivab",
+          "href": "https://www.reddit.com/r/Python/comments/goivab/golang_vs_python_which_one_to_choose_incl_golang/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.reddit.com › Python › comments › goivab",
+        "span": " › Python › comments › goivab"
+      }
+    },
+    {
+      "title": "Software Engineer – Python, Golang - PCRecruiter",
+      "link": "https://www2.pcrecruiter.net/pcrbin/reg5/job/Software-Engineer-%E2%80%93-Python-Golang-/b/BD5Q5BBPYW6ULN75OCVOKOG5Z5FEQMEGTYPTKEGNVVGYSA67DMZ56KUWRGW2WHSLRAJUYAUEGRDQ",
+      "description": "Job Title. Software Engineer – Python, Golang. Location. Mountain View, CA. Status. A. Job Type. Contract Full-Time. Position Id. MS2371. Job Description.",
+      "additional_links": [
+        {
+          "text": "Software Engineer – Python, Golang - PCRecruiterhttps://www2.pcrecruiter.net › pcrbin › reg5 › job › So...",
+          "href": "https://www2.pcrecruiter.net/pcrbin/reg5/job/Software-Engineer-%E2%80%93-Python-Golang-/b/BD5Q5BBPYW6ULN75OCVOKOG5Z5FEQMEGTYPTKEGNVVGYSA67DMZ56KUWRGW2WHSLRAJUYAUEGRDQ"
+        }
+      ],
+      "cite": {
+        "domain": "https://www2.pcrecruiter.net › pcrbin › reg5 › job › So...",
+        "span": " › pcrbin › reg5 › job › So..."
+      }
+    },
+    {
+      "title": "Golang Web Development: Better Than Python? - Pinterest",
+      "link": "https://www.pinterest.com/pin/790311434583237607/",
+      "description": "Feb 9, 2018 - Golang vs Python: Which One Is Better? Golang is now considered to be an alternative to Python, and there is an incessant discussion about ...",
+      "additional_links": [
+        {
+          "text": "Golang Web Development: Better Than Python? - Pinteresthttps://www.pinterest.com › Design › Web And App Design",
+          "href": "https://www.pinterest.com/pin/790311434583237607/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.pinterest.com › Design › Web And App Design",
+        "span": " › Design › Web And App Design"
+      }
+    },
+    {
+      "title": "How to scan Source code folder which includes CPP, Java ...",
+      "link": "https://community.sonarsource.com/t/how-to-scan-source-code-folder-which-includes-cpp-java-python-golang-and-ps-script-in-single-project/34846",
+      "description": "Nov 23, 2020 — Must-share information (formatted with Markdown): Sonar Qube Enterprise Trial 8.5 ( Fresh Install) Need to scan source code folder which ...",
+      "additional_links": [
+        {
+          "text": "How to scan Source code folder which includes CPP, Java ...https://community.sonarsource.com › ... › SonarQube",
+          "href": "https://community.sonarsource.com/t/how-to-scan-source-code-folder-which-includes-cpp-java-python-golang-and-ps-script-in-single-project/34846"
+        }
+      ],
+      "cite": {
+        "domain": "https://community.sonarsource.com › ... › SonarQube",
+        "span": " › ... › SonarQube"
+      }
+    },
+    {
+      "title": "Python-GoLang-gRPC-Implementation - PythonRepo",
+      "link": "https://pythonrepo.com/repo/kalycoding-Python-GoLang-gRPC-Implementation-python-networking-programming",
+      "description": "3 days ago — kalycoding/Python-GoLang-gRPC-Implementation, This repository contain sample code of gRPC Communication between Python and GoLang, ...",
+      "additional_links": [
+        {
+          "text": "Python-GoLang-gRPC-Implementation - PythonRepohttps://pythonrepo.com › repo › kalycoding-Python-Go...",
+          "href": "https://pythonrepo.com/repo/kalycoding-Python-GoLang-gRPC-Implementation-python-networking-programming"
+        }
+      ],
+      "cite": {
+        "domain": "https://pythonrepo.com › repo › kalycoding-Python-Go...",
+        "span": " › repo › kalycoding-Python-Go..."
+      }
+    },
+    {
+      "title": "Python golang Jobs in All Australia - SEEK",
+      "link": "https://www.seek.com.au/python-golang-jobs",
+      "description": "46 jobs — Find your ideal job at SEEK with 46 python golang jobs found in All Australia. View all our python golang vacancies now with new jobs added daily!",
+      "additional_links": [
+        {
+          "text": "Python golang Jobs in All Australia - SEEKhttps://www.seek.com.au › python-golang-jobs",
+          "href": "https://www.seek.com.au/python-golang-jobs"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.seek.com.au › python-golang-jobs",
+        "span": " › python-golang-jobs"
+      }
+    },
+    {
+      "title": "Backend Lead ( Python/Golang/NodeJS) at Houze Group",
+      "link": "https://itviec.com/it-jobs/backend-lead-python-golang-nodejs-houze-group-5314",
+      "description": "Nov 17, 2021 — Top 3 Reasons To Join Us · Attractive salary and benefits package · Career growth opportunities · Dynamic and challenging working environment ...",
+      "additional_links": [
+        {
+          "text": "Backend Lead ( Python/Golang/NodeJS) at Houze Grouphttps://itviec.com › it-jobs › backend-lead-python-gola...",
+          "href": "https://itviec.com/it-jobs/backend-lead-python-golang-nodejs-houze-group-5314"
+        }
+      ],
+      "cite": {
+        "domain": "https://itviec.com › it-jobs › backend-lead-python-gola...",
+        "span": " › it-jobs › backend-lead-python-gola..."
+      }
+    },
+    {
+      "title": "golang-python - Github Help",
+      "link": "https://githubhelp.com/topic/golang-python",
+      "description": "golang-python,native golang call native python. User: viney · go-python golang-python golang python. Recommend Projects. React photo React.",
+      "additional_links": [
+        {
+          "text": "golang-python - Github Helphttps://githubhelp.com › topic › golang-python",
+          "href": "https://githubhelp.com/topic/golang-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://githubhelp.com › topic › golang-python",
+        "span": " › topic › golang-python"
+      }
+    },
+    {
+      "title": "Middle/Senior Python (+Golang) Developer at Wargaming",
+      "link": "https://gamejobs.co/Middle-Senior-Python-Golang-Developer-at-Wargaming",
+      "description": "Wargaming is looking to hire a Middle/Senior Python (+Golang) Developer into the team working on infrastructure projects—large-scale cluster solutions ...",
+      "additional_links": [
+        {
+          "text": "Middle/Senior Python (+Golang) Developer at Wargaminghttps://gamejobs.co › Middle-Senior-Python-Golang-De...",
+          "href": "https://gamejobs.co/Middle-Senior-Python-Golang-Developer-at-Wargaming"
+        }
+      ],
+      "cite": {
+        "domain": "https://gamejobs.co › Middle-Senior-Python-Golang-De...",
+        "span": " › Middle-Senior-Python-Golang-De..."
+      }
+    },
+    {
+      "title": "Backend Engineer (Python / Golang) - oxygendigital.ai",
+      "link": "https://oxygendigital.ai/jobs/backend-engineer-python-golang/",
+      "description": "Jul 21, 2021 — Backend Engineer (Python/Go). We've partnered with an exciting early-stage, venture-backed start-up with already existing finance, ...",
+      "additional_links": [
+        {
+          "text": "Backend Engineer (Python / Golang) - oxygendigital.aihttps://oxygendigital.ai › jobs › backend-engineer-pyth...",
+          "href": "https://oxygendigital.ai/jobs/backend-engineer-python-golang/"
+        }
+      ],
+      "cite": {
+        "domain": "https://oxygendigital.ai › jobs › backend-engineer-pyth...",
+        "span": " › jobs › backend-engineer-pyth..."
+      }
+    },
+    {
+      "title": "Cartmanishere/grpc-python-golang - Giters",
+      "link": "https://giters.com/Cartmanishere/grpc-python-golang?amp=1",
+      "description": "Pranav Gajjewar grpc-python-golang: Understanding gRPC: A practical application in Go and Python.",
+      "additional_links": [
+        {
+          "text": "Cartmanishere/grpc-python-golang - Gitershttps://giters.com › Cartmanishere › grpc-python-golang",
+          "href": "https://giters.com/Cartmanishere/grpc-python-golang?amp=1"
+        }
+      ],
+      "cite": {
+        "domain": "https://giters.com › Cartmanishere › grpc-python-golang",
+        "span": " › Cartmanishere › grpc-python-golang"
+      }
+    },
+    {
+      "title": "Golang Vs Python- Which One Is Better In 2021? - Solace ...",
+      "link": "https://solaceinfotech.com/blog/golang-vs-python-which-one-is-better-in-2021/",
+      "description": "There are lots of programming languages available for software development. Golang and Python are two advanced web languages and most developers are still ...",
+      "additional_links": [
+        {
+          "text": "Golang Vs Python- Which One Is Better In 2021? - Solace ...https://solaceinfotech.com › blog › golang-vs-python-w...",
+          "href": "https://solaceinfotech.com/blog/golang-vs-python-which-one-is-better-in-2021/"
+        }
+      ],
+      "cite": {
+        "domain": "https://solaceinfotech.com › blog › golang-vs-python-w...",
+        "span": " › blog › golang-vs-python-w..."
+      }
+    },
+    {
+      "title": "Python Golang Developer Vacancies, Jobs in London",
+      "link": "https://jobtensor.com/uk/Golang-Developer-Python-Jobs-in-London",
+      "description": "Fresh Vacancies and Jobs if you want to work as Golang Developer in London and have Python skills. Find your dream career at jobtensor.com/uk.",
+      "additional_links": [
+        {
+          "text": "Python Golang Developer Vacancies, Jobs in Londonhttps://jobtensor.com › Golang-Developer-Python-Jobs-...",
+          "href": "https://jobtensor.com/uk/Golang-Developer-Python-Jobs-in-London"
+        }
+      ],
+      "cite": {
+        "domain": "https://jobtensor.com › Golang-Developer-Python-Jobs-...",
+        "span": " › Golang-Developer-Python-Jobs-..."
+      }
+    },
+    {
+      "title": "Golang calls Python - Programmer Sought",
+      "link": "https://www.programmersought.com/article/7766253606/",
+      "description": "... Spring MVC - RequestMappingInfo · HTML learning 3. Related Tags; goPythonGolangpythonGoLanglinuxsqlite3python+GoLangfoundationdbgolang ...",
+      "additional_links": [
+        {
+          "text": "Golang calls Python - Programmer Soughthttps://www.programmersought.com › article",
+          "href": "https://www.programmersought.com/article/7766253606/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.programmersought.com › article",
+        "span": " › article"
+      }
+    },
+    {
+      "title": "1 best open source python golang translation projects.",
+      "link": "https://www.findbestopensource.com/tagged/python-golang-translation",
+      "description": "pyfmt implements Python's advanced string formatting in Golang. This is an alternative to the fmt package's Sprintf-style string formatting and mimics the .",
+      "additional_links": [
+        {
+          "text": "1 best open source python golang translation projects.https://www.findbestopensource.com › tagged › python...",
+          "href": "https://www.findbestopensource.com/tagged/python-golang-translation"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.findbestopensource.com › tagged › python...",
+        "span": " › tagged › python..."
+      }
+    },
+    {
+      "title": "SR. PYTHON/GOLANG DEVELOPERS FOR DHAKA - W3 ...",
+      "link": "https://w3engineers.com/sr-python-golang-developers-for-dhaka/",
+      "description": "W3 Engineers Ltd. is looking for Sr. Software Engineer who have professional experience in web development with Vue/React, NodeJS/Django/Flask/Go, RDBMS, ...",
+      "additional_links": [
+        {
+          "text": "SR. PYTHON/GOLANG DEVELOPERS FOR DHAKA - W3 ...https://w3engineers.com › sr-python-golang-developers...",
+          "href": "https://w3engineers.com/sr-python-golang-developers-for-dhaka/"
+        }
+      ],
+      "cite": {
+        "domain": "https://w3engineers.com › sr-python-golang-developers...",
+        "span": " › sr-python-golang-developers..."
+      }
+    },
+    {
+      "title": "Pull data from Active Directory with Python, Golang or Ruby on ...",
+      "link": "https://stackoverflow.com/questions/54100715/pull-data-from-active-directory-with-python-golang-or-ruby-on-rails",
+      "description": "Jan 8, 2019 — I would like to make a web application which can pull data from Active Directory. At my work many developers recommend me to learn C# or ...",
+      "additional_links": [
+        {
+          "text": "Pull data from Active Directory with Python, Golang or Ruby on ...https://stackoverflow.com › questions › pull-data-from-...",
+          "href": "https://stackoverflow.com/questions/54100715/pull-data-from-active-directory-with-python-golang-or-ruby-on-rails"
+        }
+      ],
+      "cite": {
+        "domain": "https://stackoverflow.com › questions › pull-data-from-...",
+        "span": " › questions › pull-data-from-..."
+      }
+    },
+    {
+      "title": "Web Development Services - python, golang, react js - Fingers ...",
+      "link": "https://fingers-media.com/services/web-development",
+      "description": "Web Development Services. We offer qualitive, reliable and effective web solutions synthesizing client requirements and the latest IT trends.",
+      "additional_links": [
+        {
+          "text": "Web Development Services - python, golang, react js - Fingers ...https://fingers-media.com › services › web-development",
+          "href": "https://fingers-media.com/services/web-development"
+        }
+      ],
+      "cite": {
+        "domain": "https://fingers-media.com › services › web-development",
+        "span": " › services › web-development"
+      }
+    },
+    {
+      "title": "Golang Python Jobs in Germany in November 2021",
+      "link": "https://golang.cafe/Golang-Python-Jobs-In-Germany",
+      "description": "Dec 11, 2020 — Browse 36 Golang Python Jobs (7 new this week) in Germany in November 2021 at companies like Lightmeter, Caseable and NewStore with salaries ...",
+      "additional_links": [
+        {
+          "text": "Golang Python Jobs in Germany in November 2021https://golang.cafe › Golang-Python-Jobs-In-Germany",
+          "href": "https://golang.cafe/Golang-Python-Jobs-In-Germany"
+        }
+      ],
+      "cite": {
+        "domain": "https://golang.cafe › Golang-Python-Jobs-In-Germany",
+        "span": " › Golang-Python-Jobs-In-Germany"
+      }
+    },
+    {
+      "title": "How do java, groovy, python, and golang treat methods as ...",
+      "link": "https://pythonmana.com/2021/11/20211103232152620o.html",
+      "description": "Nov 3, 2021 — Although I usually avoid using closures when writing code , I think the grammar is too fancy , Poor readability , Another reason is that I don't ...",
+      "additional_links": [
+        {
+          "text": "How do java, groovy, python, and golang treat methods as ...https://pythonmana.com › 2021/11",
+          "href": "https://pythonmana.com/2021/11/20211103232152620o.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://pythonmana.com › 2021/11",
+        "span": " › 2021/11"
+      }
+    },
+    {
+      "title": "Software Engineer - Python/GoLang - Experis - | Dice.com",
+      "link": "https://www.dice.com/jobs/detail/Software-Engineer-%26%2345-Python%26%2347GoLang-Experis---/COMSYSD/BBBH65454%26%2345529",
+      "description": "Job Description · 5+ years designing, developing and deploying SaaS software; 3+ years of shipping cloud native software in AWS · Strong ability to collaborate, ...",
+      "additional_links": [
+        {
+          "text": "Software Engineer - Python/GoLang - Experis - | Dice.comhttps://www.dice.com › Job Search",
+          "href": "https://www.dice.com/jobs/detail/Software-Engineer-%26%2345-Python%26%2347GoLang-Experis---/COMSYSD/BBBH65454%26%2345529"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.dice.com › Job Search",
+        "span": " › Job Search"
+      }
+    },
+    {
+      "title": "Software Engineer (Python/Golang/Java) - Teko Vietnam",
+      "link": "https://teko.vn/jobs/5",
+      "description": "At Teko, with nearly 200 talented engineers in many fields, we work and share knowledge in the application of advanced technology platforms such as Cloud, ...",
+      "additional_links": [
+        {
+          "text": "Software Engineer (Python/Golang/Java) - Teko Vietnamhttps://teko.vn › jobs",
+          "href": "https://teko.vn/jobs/5"
+        }
+      ],
+      "cite": {
+        "domain": "https://teko.vn › jobs",
+        "span": " › jobs"
+      }
+    },
+    {
+      "title": "Fastest growing Python: golang (applications ... - libs.garden",
+      "link": "https://libs.garden/python/search?q=golang&sort=growing",
+      "description": "A curated list of awesome Machine Learning frameworks, libraries and software. → 0 comments Features Implementation Systems. ↑. 0. ↓.",
+      "additional_links": [
+        {
+          "text": "Fastest growing Python: golang (applications ... - libs.gardenhttps://libs.garden › python › search",
+          "href": "https://libs.garden/python/search?q=golang&sort=growing"
+        }
+      ],
+      "cite": {
+        "domain": "https://libs.garden › python › search",
+        "span": " › python › search"
+      }
+    },
+    {
+      "title": "Golang Archives - Page 2 of 7 - Qvault",
+      "link": "https://qvault.io/category/golang/page/2/",
+      "description": "Python Golang vs Python: Which coding language is best for experienced coders? Go Golang vs Python: Which language is best for a …",
+      "additional_links": [
+        {
+          "text": "Golang Archives - Page 2 of 7 - Qvaulthttps://qvault.io › Golang",
+          "href": "https://qvault.io/category/golang/page/2/"
+        }
+      ],
+      "cite": {
+        "domain": "https://qvault.io › Golang",
+        "span": " › Golang"
+      }
+    },
+    {
+      "title": "[Python/Golang] Intuitive solution with Proof - LeetCode Discuss",
+      "link": "https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/discuss/794088/intuitive-solution-with-proof",
+      "description": "Let's prove by contradiction. Suppose there exists some n, where we need to take 3 consecutive -1 operations for the optimal schedule. Formally, all of the ...",
+      "additional_links": [
+        {
+          "text": "[Python/Golang] Intuitive solution with Proof - LeetCode Discusshttps://leetcode.com › problems › intuitive-solution-wit...",
+          "href": "https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/discuss/794088/intuitive-solution-with-proof"
+        }
+      ],
+      "cite": {
+        "domain": "https://leetcode.com › problems › intuitive-solution-wit...",
+        "span": " › problems › intuitive-solution-wit..."
+      }
+    },
+    {
+      "title": "Python/Golang Web 入坑指南— python-golang-web-guide 0.1 ...",
+      "link": "https://python-web-guide.readthedocs.io/zh/latest/",
+      "description": "Python 结合Go 基本可以解决大部分业务场景，Python 用来快速实现业务和想法，Go 来解决性能瓶颈，这俩也是笔者目前使用最多的语言。 如果因为某些网络原因打不开 ...",
+      "additional_links": [
+        {
+          "text": "Python/Golang Web 入坑指南— python-golang-web-guide 0.1 ...https://python-web-guide.readthedocs.io › ...",
+          "href": "https://python-web-guide.readthedocs.io/zh/latest/"
+        },
+        {
+          "text": "Translate this page",
+          "href": "https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://python-web-guide.readthedocs.io/zh/latest/&prev=search&pto=aue"
+        }
+      ],
+      "cite": {
+        "domain": "https://python-web-guide.readthedocs.io › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "March Secure Coding Challenge in Python, Ruby+Rails, Golang",
+      "link": "https://community.veracode.com/s/question/0D53n00007jQpgXCAS/contest-march-secure-coding-challenge-in-python-rubyrails-golang",
+      "description": "Mar 5, 2021 — The security risk you will solve is XML External Entities (XXE). If you're new to the Secure Coding Challenge, it's a coding competition hosted ...",
+      "additional_links": [
+        {
+          "text": "March Secure Coding Challenge in Python, Ruby+Rails, Golanghttps://community.veracode.com › question › contest-m...",
+          "href": "https://community.veracode.com/s/question/0D53n00007jQpgXCAS/contest-march-secure-coding-challenge-in-python-rubyrails-golang"
+        }
+      ],
+      "cite": {
+        "domain": "https://community.veracode.com › question › contest-m...",
+        "span": " › question › contest-m..."
+      }
+    },
+    {
+      "title": "Golang, Python or C/C++, Who Wins? | PDF - Scribd",
+      "link": "https://pt.scribd.com/document/392974161/Golang-Python-or-C-C-who-wins",
+      "description": "EDIT IN GOOGLE SLIDES EDIT IN POWERPOINT® · More info on how to use this template at www.slidescarnival.com/help-use-presentation-template · ◇ First things first.",
+      "additional_links": [
+        {
+          "text": "Golang, Python or C/C++, Who Wins? | PDF - Scribdhttps://pt.scribd.com › document › Golang-Python-or-C-C...",
+          "href": "https://pt.scribd.com/document/392974161/Golang-Python-or-C-C-who-wins"
+        }
+      ],
+      "cite": {
+        "domain": "https://pt.scribd.com › document › Golang-Python-or-C-C...",
+        "span": " › document › Golang-Python-or-C-C..."
+      }
+    },
+    {
+      "title": "Perl, Python & Golang Development Teams - Headforwards",
+      "link": "https://www.headforwards.com/careers/teams-and-tech/perl-python-golang/",
+      "description": "We believe that great developers can pick up new skills and languages easily. Even if you don't have experience in our languages, we'd love to hear from ...",
+      "additional_links": [
+        {
+          "text": "Perl, Python & Golang Development Teams - Headforwardshttps://www.headforwards.com › ... › Teams and tech",
+          "href": "https://www.headforwards.com/careers/teams-and-tech/perl-python-golang/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.headforwards.com › ... › Teams and tech",
+        "span": " › ... › Teams and tech"
+      }
+    },
+    {
+      "title": "Remote Java Python Golang Backend Engineer Big Data ...",
+      "link": "https://remoteok.io/remote-jobs/102561-remote-java-python-golang-backend-engineer-big-data-data-greenfield-partners-very-large",
+      "description": "Mar 2, 2021 — very large is hiring a Remote Java Python Golang Backend Engineer Big Data Data Greenfield Partners. NEEDED FOR THIS ROLEJAVA, PYTHON, ...",
+      "additional_links": [
+        {
+          "text": "Remote Java Python Golang Backend Engineer Big Data ...https://remoteok.io › remote-jobs › 102561-remote-jav...",
+          "href": "https://remoteok.io/remote-jobs/102561-remote-java-python-golang-backend-engineer-big-data-data-greenfield-partners-very-large"
+        }
+      ],
+      "cite": {
+        "domain": "https://remoteok.io › remote-jobs › 102561-remote-jav...",
+        "span": " › remote-jobs › 102561-remote-jav..."
+      }
+    },
+    {
+      "title": "libadclient | Active Directory client for c++, Python and Golang",
+      "link": "https://paleg.github.io/libadclient/",
+      "description": "KRB5. Install. c++ and Python. Note: you must have scons installed. git clone https://github.com/paleg/libadclient.git cd libadclient scons ...",
+      "additional_links": [
+        {
+          "text": "libadclient | Active Directory client for c++, Python and Golanghttps://paleg.github.io › libadclient",
+          "href": "https://paleg.github.io/libadclient/"
+        }
+      ],
+      "cite": {
+        "domain": "https://paleg.github.io › libadclient",
+        "span": " › libadclient"
+      }
+    },
+    {
+      "title": "Backend Developer,python, Golang - Bengaluru - Mendeley",
+      "link": "https://www.mendeley.com/careers/job/backend-developerpython-golang-3030791",
+      "description": "Aug 5, 2021 — About Job CTC Undisclosed Job Location Bengaluru/ Bangalore Experience 3 - 10 yrs. Description Job Description Working with the teams across ...",
+      "additional_links": [
+        {
+          "text": "Backend Developer,python, Golang - Bengaluru - Mendeleyhttps://www.mendeley.com › careers › job › backend-d...",
+          "href": "https://www.mendeley.com/careers/job/backend-developerpython-golang-3030791"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.mendeley.com › careers › job › backend-d...",
+        "span": " › careers › job › backend-d..."
+      }
+    },
+    {
+      "title": "Yes Willing to relocate: No Technologies: Python, Golang...",
+      "link": "https://news.ycombinator.com/item?id=29068587",
+      "description": "Location: India Remote: Yes Willing to relocate: No Technologies: Python, Golang, Typescript, Rust, React, Redis, Docker, Kubernetes, CI/CD, Postgres, ...",
+      "additional_links": [
+        {
+          "text": "Yes Willing to relocate: No Technologies: Python, Golang...https://news.ycombinator.com › item",
+          "href": "https://news.ycombinator.com/item?id=29068587"
+        }
+      ],
+      "cite": {
+        "domain": "https://news.ycombinator.com › item",
+        "span": " › item"
+      }
+    },
+    {
+      "title": "Sr Software Engineer - Java, Python, Golang, or Node - 0233 ...",
+      "link": "https://www.profocustechnology.com/jobs/sr-software-engineer-java-python-golang-or-node-0233-beaverton-oregon/",
+      "description": "TITLE: Sr Software Engineer - Java, Python, Golang, or Node LOCATION: Hillsboro, Oregon (Remote for now and working PST hrs) PAY: Target pay for this role.",
+      "additional_links": [
+        {
+          "text": "Sr Software Engineer - Java, Python, Golang, or Node - 0233 ...https://www.profocustechnology.com › jobs › sr-softwa...",
+          "href": "https://www.profocustechnology.com/jobs/sr-software-engineer-java-python-golang-or-node-0233-beaverton-oregon/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.profocustechnology.com › jobs › sr-softwa...",
+        "span": " › jobs › sr-softwa..."
+      }
+    },
+    {
+      "title": "Spacy golang - 302 Interactive",
+      "link": "http://302interactive.com/brjlnc/spacy-golang.html",
+      "description": "Advertising Python Golang Projects (782) Python Transformer Projects (778) Python Face Detection Projects (774) Python Monitoring Projects (751) ...",
+      "additional_links": [
+        {
+          "text": "Spacy golang - 302 Interactivehttp://302interactive.com › brjlnc › spacy-golang",
+          "href": "http://302interactive.com/brjlnc/spacy-golang.html"
+        }
+      ],
+      "cite": {
+        "domain": "http://302interactive.com › brjlnc › spacy-golang",
+        "span": " › brjlnc › spacy-golang"
+      }
+    },
+    {
+      "title": "android,编程语言,互联网,python,golang,Bye, Python! Hello, Go ...",
+      "link": "https://codestudyblog.com/sfb2002b1/0225221040.html",
+      "description": "Go language was born in google, by three masters of the computer field Rob Pike、Ken Thompson and Robert Griesemer written. because of family background ，Go it ...",
+      "additional_links": [
+        {
+          "text": "android,编程语言,互联网,python,golang,Bye, Python! Hello, Go ...https://codestudyblog.com › ...",
+          "href": "https://codestudyblog.com/sfb2002b1/0225221040.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://codestudyblog.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Job Tag: python/golang - CAREERS IN SPACE",
+      "link": "https://www.careersin.space/job-tag/python-golang/?wmc-currency=EUR",
+      "description": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in ...",
+      "additional_links": [
+        {
+          "text": "Job Tag: python/golang - CAREERS IN SPACEhttps://www.careersin.space › job-tag › python-golang",
+          "href": "https://www.careersin.space/job-tag/python-golang/?wmc-currency=EUR"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.careersin.space › job-tag › python-golang",
+        "span": " › job-tag › python-golang"
+      }
+    },
+    {
+      "title": "Top 11 Python Golang Projects (Nov 2021) - LibHunt",
+      "link": "https://www.libhunt.com/l/python/topic/golang",
+      "description": "Nov 1, 2021 — Top 11 Python Golang Projects · GitHub repo microservices-demo. 4 2,910 7.9 Python · GitHub repo flyte. 5 1,786 9.4 Python · Scout APM · scoutapm.",
+      "additional_links": [
+        {
+          "text": "Top 11 Python Golang Projects (Nov 2021) - LibHunthttps://www.libhunt.com › python › topic › golang",
+          "href": "https://www.libhunt.com/l/python/topic/golang"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.libhunt.com › python › topic › golang",
+        "span": " › python › topic › golang"
+      }
+    },
+    {
+      "title": "Mongo GoLang Go Python PHP Node React Management ...",
+      "link": "https://www.udemy.com/course/mongo-golang-go-python-php-node-react-management-interface/",
+      "description": "Hi Guys we are going to be building 4 interfaces to manage a mongo database. We will be using NodeJs, Python, Golang, and PHP. In the course we create a ...",
+      "additional_links": [
+        {
+          "text": "Mongo GoLang Go Python PHP Node React Management ...https://www.udemy.com › ... › MongoDB",
+          "href": "https://www.udemy.com/course/mongo-golang-go-python-php-node-react-management-interface/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.udemy.com › ... › MongoDB",
+        "span": " › ... › MongoDB"
+      }
+    },
+    {
+      "title": "Senior Software Engineer II - Python/Golang - Akamai Careers",
+      "link": "https://akamaijobs.referrals.selectminds.com/jobs/senior-software-engineer-ii-python-golang-11982",
+      "description": "Sep 6, 2019 — Akamai Access Team is seeking an experienced full stack senior software engineer to build new products and enhance existing products.",
+      "additional_links": [
+        {
+          "text": "Senior Software Engineer II - Python/Golang - Akamai Careershttps://akamaijobs.referrals.selectminds.com › jobs › se...",
+          "href": "https://akamaijobs.referrals.selectminds.com/jobs/senior-software-engineer-ii-python-golang-11982"
+        }
+      ],
+      "cite": {
+        "domain": "https://akamaijobs.referrals.selectminds.com › jobs › se...",
+        "span": " › jobs › se..."
+      }
+    },
+    {
+      "title": "How Golang calls Python code in detail | Develop Paper",
+      "link": "https://developpaper.com/how-golang-calls-python-code-in-detail/",
+      "description": "Apr 4, 2019 — Provide a platform for developers to answer questions, learn and exchange programming knowledge, and create an era that belongs to ...",
+      "additional_links": [
+        {
+          "text": "How Golang calls Python code in detail | Develop Paperhttps://developpaper.com › how-golang-calls-python-c...",
+          "href": "https://developpaper.com/how-golang-calls-python-code-in-detail/"
+        }
+      ],
+      "cite": {
+        "domain": "https://developpaper.com › how-golang-calls-python-c...",
+        "span": " › how-golang-calls-python-c..."
+      }
+    },
+    {
+      "title": "Python/Golang Archives - LKWD",
+      "link": "https://lockwoodpublishing.com/skill/python-golang/",
+      "description": "A note from the Lockwood team · Studio News. Through these troubling times, we're here to make sure you've always got the Avakin Life community by your side ...",
+      "additional_links": [
+        {
+          "text": "Python/Golang Archives - LKWDhttps://lockwoodpublishing.com › skill › python-golang",
+          "href": "https://lockwoodpublishing.com/skill/python-golang/"
+        }
+      ],
+      "cite": {
+        "domain": "https://lockwoodpublishing.com › skill › python-golang",
+        "span": " › skill › python-golang"
+      }
+    },
+    {
+      "title": "pygoridge - PyPI",
+      "link": "https://pypi.org/project/pygoridge/",
+      "description": "Sep 18, 2020 — Pygoridge: Python-to-Golang IPC bridge, python client for Goridge. GoDoc. Pygoridge is a Python-to-Golang codec library which works over ...",
+      "additional_links": [
+        {
+          "text": "pygoridge - PyPIhttps://pypi.org › project › pygoridge",
+          "href": "https://pypi.org/project/pygoridge/"
+        }
+      ],
+      "cite": {
+        "domain": "https://pypi.org › project › pygoridge",
+        "span": " › project › pygoridge"
+      }
+    },
+    {
+      "title": "Senior Golang Developer Resume Columbus, OH - HireitPeople",
+      "link": "https://www.hireitpeople.com/resume-database/72-web-developer-resumes/185463-senior-golang-developer-resume-columbus-oh",
+      "description": "I have excellent 8+ years of extensive experience in Web Application Development and Designing.Experience of the design patterns and best practices with ...",
+      "additional_links": [
+        {
+          "text": "Senior Golang Developer Resume Columbus, OH - HireitPeoplehttps://www.hireitpeople.com › resume-database › 1854...",
+          "href": "https://www.hireitpeople.com/resume-database/72-web-developer-resumes/185463-senior-golang-developer-resume-columbus-oh"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.hireitpeople.com › resume-database › 1854...",
+        "span": " › resume-database › 1854..."
+      }
+    },
+    {
+      "title": "Tech-Lead-Python-Golang-Linux-AWS - TechGig.com",
+      "link": "https://www.techgig.com/jobs/Tech-Lead-Python-Golang-Linux-AWS/66300019",
+      "description": "Tech Lead Python Golang (Linux AWS): jquery,docker,git,devops,linux,software engineer,api,mongodb,python,tornado,javascript,django,couchdb.",
+      "additional_links": [
+        {
+          "text": "Tech-Lead-Python-Golang-Linux-AWS - TechGig.comhttps://www.techgig.com › Jobs",
+          "href": "https://www.techgig.com/jobs/Tech-Lead-Python-Golang-Linux-AWS/66300019"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.techgig.com › Jobs",
+        "span": " › Jobs"
+      }
+    },
+    {
+      "title": "Python / Golang / Javascript Archives - Mana Search",
+      "link": "https://manasearch.co.uk/must-have/python-golang-javascript/",
+      "description": "Build next-generation voice assistants with AI Experts! Series-A funded startup tackling the challenges of automating customer service through voice, ...",
+      "additional_links": [
+        {
+          "text": "Python / Golang / Javascript Archives - Mana Searchhttps://manasearch.co.uk › must-have › python-golang-...",
+          "href": "https://manasearch.co.uk/must-have/python-golang-javascript/"
+        }
+      ],
+      "cite": {
+        "domain": "https://manasearch.co.uk › must-have › python-golang-...",
+        "span": " › must-have › python-golang-..."
+      }
+    },
+    {
+      "title": "Software / Data Engineer Python Golang - reed.co.uk",
+      "link": "https://www.reed.co.uk/jobs/software-data-engineer-python-golang/43817533?source=details.similarjobs",
+      "description": "View details & apply online for this Software / Data Engineer Python Golang vacancy on reed.co.uk, the UK's #1 job site.",
+      "additional_links": [
+        {
+          "text": "Software / Data Engineer Python Golang - reed.co.ukhttps://www.reed.co.uk › ... › Software Engineer",
+          "href": "https://www.reed.co.uk/jobs/software-data-engineer-python-golang/43817533?source=details.similarjobs"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.reed.co.uk › ... › Software Engineer",
+        "span": " › ... › Software Engineer"
+      }
+    },
+    {
+      "title": "Backend Engineer ( Java, Python, Golang) - Europe ... - Loginro",
+      "link": "https://loginro.com/jobs/employer/crowdstrike/software-engineer-cloud-solutions-romania-remote/lGebnUOddXEhJg6KgKTlZ24z",
+      "description": "About the Role:The Software Engineer (Cloud) role is part of the Cloud Engineering team from CrowdStrike Romania who will build globally distributed, ...",
+      "additional_links": [
+        {
+          "text": "Backend Engineer ( Java, Python, Golang) - Europe ... - Loginrohttps://loginro.com › jobs › employer › crowdstrike › s...",
+          "href": "https://loginro.com/jobs/employer/crowdstrike/software-engineer-cloud-solutions-romania-remote/lGebnUOddXEhJg6KgKTlZ24z"
+        }
+      ],
+      "cite": {
+        "domain": "https://loginro.com › jobs › employer › crowdstrike › s...",
+        "span": " › jobs › employer › crowdstrike › s..."
+      }
+    },
+    {
+      "title": "Python vs Go 2021: Performance speed for Machine Learning ...",
+      "link": "https://www.geekword.net/python-vs-go-speed-performance-for-web-machine-learning-devops",
+      "description": "Python vs Go 2021 Comparison Performance fast speed for Machine Learning, DevOps, and Microservices. Programming Language Golang Go vs Python 2021 for Web ...",
+      "additional_links": [
+        {
+          "text": "Python vs Go 2021: Performance speed for Machine Learning ...https://www.geekword.net › python-vs-go-speed-perfor...",
+          "href": "https://www.geekword.net/python-vs-go-speed-performance-for-web-machine-learning-devops"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.geekword.net › python-vs-go-speed-perfor...",
+        "span": " › python-vs-go-speed-perfor..."
+      }
+    },
+    {
+      "title": "Apply now - Senior Backend Developer (Python/Golang)",
+      "link": "https://urbanlinker.com/en/form-job/senior-backend-developer-pythongolang-1633945782",
+      "description": "En tant que Senior Backend Developer, tes missions seront : Développer de nouvelles fonctionnalités backend Être force de proposition sur les choix ...",
+      "additional_links": [
+        {
+          "text": "Apply now - Senior Backend Developer (Python/Golang)https://urbanlinker.com › form-job › senior-backend-de...",
+          "href": "https://urbanlinker.com/en/form-job/senior-backend-developer-pythongolang-1633945782"
+        }
+      ],
+      "cite": {
+        "domain": "https://urbanlinker.com › form-job › senior-backend-de...",
+        "span": " › form-job › senior-backend-de..."
+      }
+    },
+    {
+      "title": "Backend Developer (NodeJS/Python/Golang) - JobStack Vietnam",
+      "link": "https://jobstack.vn/job-list/60e807a12f608a8608db6736",
+      "description": "Chance to raise salary ahead of time, enjoy the 13th month salary and bonus according to the project's progress. Job description. Design and build systems using ...",
+      "additional_links": [
+        {
+          "text": "Backend Developer (NodeJS/Python/Golang) - JobStack Vietnamhttps://jobstack.vn › job-list",
+          "href": "https://jobstack.vn/job-list/60e807a12f608a8608db6736"
+        }
+      ],
+      "cite": {
+        "domain": "https://jobstack.vn › job-list",
+        "span": " › job-list"
+      }
+    },
+    {
+      "title": "Python/Golang Developer в PROBEGIN B.V., Львов, удаленно | DOU",
+      "link": "https://jobs.dou.ua/companies/probegin/vacancies/156959/",
+      "description": "At least 3-4 years Experience with software development - Bachelor/Master in IT, Math or Computer Science - You have a strong passion about software ...",
+      "additional_links": [
+        {
+          "text": "Python/Golang Developer в PROBEGIN B.V., Львов, удаленно | DOUhttps://jobs.dou.ua › companies › probegin › vacancies",
+          "href": "https://jobs.dou.ua/companies/probegin/vacancies/156959/"
+        }
+      ],
+      "cite": {
+        "domain": "https://jobs.dou.ua › companies › probegin › vacancies",
+        "span": " › companies › probegin › vacancies"
+      }
+    },
+    {
+      "title": "Why We Migrated from Python to GoLang - Codism",
+      "link": "https://codism.io/why-we-migrated-from-python-to-golang",
+      "description": "Nov 14, 2019 — Coding in Python is relatively easy with simple lines of code doing the operations compared to other languages. Few disadvantages like no ...",
+      "additional_links": [
+        {
+          "text": "Why We Migrated from Python to GoLang - Codismhttps://codism.io › why-we-migrated-from-python-to-gola...",
+          "href": "https://codism.io/why-we-migrated-from-python-to-golang"
+        }
+      ],
+      "cite": {
+        "domain": "https://codism.io › why-we-migrated-from-python-to-gola...",
+        "span": " › why-we-migrated-from-python-to-gola..."
+      }
+    },
+    {
+      "title": "Python/Golang Developer with ref. HQ00073235_1528722154",
+      "link": "https://www.lawrenceharvey.com/en-US/job/python-slash-golang-developer/",
+      "description": "Jun 11, 2018 — Lawrence Harvey work with a wide range of employers/recruiters and is a leading provider of Contract jobs in City of London, London with Job ...",
+      "additional_links": [
+        {
+          "text": "Python/Golang Developer with ref. HQ00073235_1528722154https://www.lawrenceharvey.com › en-US › job › pyth...",
+          "href": "https://www.lawrenceharvey.com/en-US/job/python-slash-golang-developer/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.lawrenceharvey.com › en-US › job › pyth...",
+        "span": " › en-US › job › pyth..."
+      }
+    },
+    {
+      "title": "Java Python Golang Node Js Apigee Jobs in Bengaluru Bangalore ...",
+      "link": "https://www.monsterindia.com/search/java-python-golang-node-js-apigee-jobs-in-bengaluru-bangalore",
+      "description": "... with ✔️ eligibility, ✔️ salary, ✔️ companies etc. Apply free to various Java Python Golang Node Js Apigee job openings @ ⭐ monsterindia.com.",
+      "additional_links": [
+        {
+          "text": "Java Python Golang Node Js Apigee Jobs in Bengaluru Bangalore ...https://www.monsterindia.com › search › java-python-g...",
+          "href": "https://www.monsterindia.com/search/java-python-golang-node-js-apigee-jobs-in-bengaluru-bangalore"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.monsterindia.com › search › java-python-g...",
+        "span": " › search › java-python-g..."
+      }
+    },
+    {
+      "title": "Python Ssh",
+      "link": "http://dasgeschenk-murano.de/python-ssh.html",
+      "description": "... Learning Keras Projects (865) Python Testing Projects (839) Python Bash Projects (834) Typescript Aws Projects (818) Python Golang Projects (782).",
+      "additional_links": [
+        {
+          "text": "Python Sshhttp://dasgeschenk-murano.de › python-ssh",
+          "href": "http://dasgeschenk-murano.de/python-ssh.html"
+        }
+      ],
+      "cite": {
+        "domain": "http://dasgeschenk-murano.de › python-ssh",
+        "span": " › python-ssh"
+      }
+    },
+    {
+      "title": "Go Fasthttp Example",
+      "link": "http://duske-meisterbetrieb.de/go-fasthttp-example.html",
+      "description": "Pattern, we showed you above is a common practice in writing concurrent code in Golang. Code for populating, serializing, and retrieving HelloRequest and ...",
+      "additional_links": [
+        {
+          "text": "Go Fasthttp Examplehttp://duske-meisterbetrieb.de › go-fasthttp-example",
+          "href": "http://duske-meisterbetrieb.de/go-fasthttp-example.html"
+        }
+      ],
+      "cite": {
+        "domain": "http://duske-meisterbetrieb.de › go-fasthttp-example",
+        "span": " › go-fasthttp-example"
+      }
+    },
+    {
+      "title": "BLACK FRIDAY: pCloud has 2TB LIFETIME for $245 One ...",
+      "link": "https://lowendbox.com/blog/black-friday-pcloud-has-2tb-lifetime-for-245-one-time-payment/",
+      "description": "4 days ago — Find the best cheap server hosting and the best cheap vps hosting, where you only pay a few dollars a month, exclusively on LowEndBox.",
+      "additional_links": [
+        {
+          "text": "BLACK FRIDAY: pCloud has 2TB LIFETIME for $245 One ...https://lowendbox.com › blog",
+          "href": "https://lowendbox.com/blog/black-friday-pcloud-has-2tb-lifetime-for-245-one-time-payment/"
+        }
+      ],
+      "cite": {
+        "domain": "https://lowendbox.com › blog",
+        "span": " › blog"
+      }
+    },
+    {
+      "title": "I need a coder/developer that can create a prototype",
+      "link": "https://www.freelancer.com/projects/mastermind110_32249269.html",
+      "description": "JavaScript & Python Projects for ₹1500 - ₹12500. We want to build a prototype that can do static analysis to find security vulnerabilities.",
+      "additional_links": [
+        {
+          "text": "I need a coder/developer that can create a prototypehttps://www.freelancer.com › Jobs › Web Development",
+          "href": "https://www.freelancer.com/projects/mastermind110_32249269.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.freelancer.com › Jobs › Web Development",
+        "span": " › Jobs › Web Development"
+      }
+    },
+    {
+      "title": "Influxdb value - WM Rebels",
+      "link": "http://www.wmrebels.net/h4ka1f/influxdb-value.html",
+      "description": "influxdb value Development of this library is maintained by: I'm trying to get the last value from some IoT sensors and I actually achieved an intermediary ...",
+      "additional_links": [
+        {
+          "text": "Influxdb value - WM Rebelshttp://www.wmrebels.net › influxdb-value",
+          "href": "http://www.wmrebels.net/h4ka1f/influxdb-value.html"
+        }
+      ],
+      "cite": {
+        "domain": "http://www.wmrebels.net › influxdb-value",
+        "span": " › influxdb-value"
+      }
+    },
+    {
+      "title": "Senior Software Engineer - Remote - $150k/yr + Bonus",
+      "link": "http://computerwork.com/us/en/search-jobs-in-Boston,-Massachusetts,-USA/SENIOR-SOFTWARE-ENGINEER-REMOTE-150K-YR-PLUS-BONUS-FINTECH-7C383D6306C22B3567/",
+      "description": " › search-jobs-in-Boston,-Mas...  › search-jobs-in-Boston,-Mas... 8 days ago — ",
+      "additional_links": [
+        {
+          "text": "Senior Software Engineer - Remote - $150k/yr + Bonushttp://computerwork.com › search-jobs-in-Boston,-Mas...",
+          "href": "http://computerwork.com/us/en/search-jobs-in-Boston,-Massachusetts,-USA/SENIOR-SOFTWARE-ENGINEER-REMOTE-150K-YR-PLUS-BONUS-FINTECH-7C383D6306C22B3567/"
+        },
+        {
+          "text": "Software Engineering Manager - $200k/yr - Fintech - Bostonhttp://computerwork.com › search-jobs-in-Boston,-Mas...",
+          "href": "http://computerwork.com/us/en/search-jobs-in-Boston,-Massachusetts,-USA/SOFTWARE-ENGINEERING-MANAGER-200K-YR-FINTECH-BOSTON-4F5C41460D749F32FC/"
+        }
+      ],
+      "cite": {
+        "domain": "http://computerwork.com › search-jobs-in-Boston,-Mas...",
+        "span": " › search-jobs-in-Boston,-Mas..."
+      }
+    },
+    {
+      "title": "Senior Software Engineer - Remote - $150k/yr + Bonus",
+      "link": "http://computerwork.com/us/en/search-jobs-in-Boston,-Massachusetts,-USA/SENIOR-SOFTWARE-ENGINEER-REMOTE-150K-YR-PLUS-BONUS-FINTECH-7C383D6306C22B3567/",
+      "description": "8 days ago — MPI does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, ...",
+      "additional_links": [
+        {
+          "text": "Senior Software Engineer - Remote - $150k/yr + Bonushttp://computerwork.com › search-jobs-in-Boston,-Mas...",
+          "href": "http://computerwork.com/us/en/search-jobs-in-Boston,-Massachusetts,-USA/SENIOR-SOFTWARE-ENGINEER-REMOTE-150K-YR-PLUS-BONUS-FINTECH-7C383D6306C22B3567/"
+        }
+      ],
+      "cite": {
+        "domain": "http://computerwork.com › search-jobs-in-Boston,-Mas...",
+        "span": " › search-jobs-in-Boston,-Mas..."
+      }
+    },
+    {
+      "title": "Software Engineering Manager - $200k/yr - Fintech - Boston",
+      "link": "http://computerwork.com/us/en/search-jobs-in-Boston,-Massachusetts,-USA/SOFTWARE-ENGINEERING-MANAGER-200K-YR-FINTECH-BOSTON-4F5C41460D749F32FC/",
+      "description": "8 days ago — MPI does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, ...",
+      "additional_links": [
+        {
+          "text": "Software Engineering Manager - $200k/yr - Fintech - Bostonhttp://computerwork.com › search-jobs-in-Boston,-Mas...",
+          "href": "http://computerwork.com/us/en/search-jobs-in-Boston,-Massachusetts,-USA/SOFTWARE-ENGINEERING-MANAGER-200K-YR-FINTECH-BOSTON-4F5C41460D749F32FC/"
+        }
+      ],
+      "cite": {
+        "domain": "http://computerwork.com › search-jobs-in-Boston,-Mas...",
+        "span": " › search-jobs-in-Boston,-Mas..."
+      }
+    },
+    {
+      "title": "DevOps Engineer - Hp - USA - WIZBII",
+      "link": "https://en.wizbii.com/company/hp/job/devops-engineer-230491",
+      "description": "You'll use Jenkins and Spinnaker to deploy Docker Containers and Kubernetes Pods running a fleet of microservices in AWS (both private and public hybrid clouds) ...",
+      "additional_links": [
+        {
+          "text": "DevOps Engineer - Hp - USA - WIZBIIhttps://en.wizbii.com › company › job › devops-engine...",
+          "href": "https://en.wizbii.com/company/hp/job/devops-engineer-230491"
+        }
+      ],
+      "cite": {
+        "domain": "https://en.wizbii.com › company › job › devops-engine...",
+        "span": " › company › job › devops-engine..."
+      }
+    },
+    {
+      "title": "Nutanix Off Campus Drive 2021 for Member of Technical Staff",
+      "link": "https://www.jobsorigin.com/2021/11/nutanix-off-campus-drive.html",
+      "description": "1 day ago — Nutanix is a global leader in cloud software and a pioneer in hyper-converged infrastructure solutions, making computing invisible anywhere.",
+      "additional_links": [
+        {
+          "text": "Nutanix Off Campus Drive 2021 for Member of Technical Staffhttps://www.jobsorigin.com › ... › Experienced › Freshers",
+          "href": "https://www.jobsorigin.com/2021/11/nutanix-off-campus-drive.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.jobsorigin.com › ... › Experienced › Freshers",
+        "span": " › ... › Experienced › Freshers"
+      }
+    }
+  ],
+  "image_results": [],
+  "total": 812000,
+  "answers": [],
+  "ts": 2.079256057739258,
+  "device_region": "US",
+  "device_type": "desktop"
+}

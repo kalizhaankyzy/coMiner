@@ -247,11 +247,11 @@ def work(entity_name):
 
 
 names = [
-    # 'Prada',
-    # 'Python',
-    # 'Toyota',
-    # 'Adidas',
-    # 'Twix',
+    'Prada',
+    'Python',
+    'Toyota',
+    'Adidas',
+    'Twix',
     'Amazon',
     'Facebook'
 ]

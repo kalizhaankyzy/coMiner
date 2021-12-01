@@ -1,1634 +1,1632 @@
 {
-   "results":[
-      {
-         "title":"Python vs PHP in 2021 - Comparison, Features & Applications",
-         "link":"https://hackr.io/blog/python-vs-php",
-         "description":"Aug 27, 2021 — PHP has been considered the easiest language to exist since its birth. It was created to provide a simple language for new starters to learn.‎What is Python? · ‎What is PHP? · ‎PHP vs Python Performance... · ‎Ease of Learning",
-         "additional_links":[
-            {
-               "text":"Python vs PHP in 2021 - Comparison, Features & Applicationshttps://hackr.io › blog › python-vs-php",
-               "href":"https://hackr.io/blog/python-vs-php"
-            },
-            {
-               "text":"What is Python?",
-               "href":"https://hackr.io/blog/python-vs-php#what-is-python"
-            },
-            {
-               "text":"What is PHP?",
-               "href":"https://hackr.io/blog/python-vs-php#what-is-php"
-            },
-            {
-               "text":"PHP vs Python Performance...",
-               "href":"https://hackr.io/blog/python-vs-php#php-vs-python-performance-comparison"
-            },
-            {
-               "text":"Ease of Learning",
-               "href":"https://hackr.io/blog/python-vs-php#ease-of-learning"
-            }
-         ],
-         "cite":{
-            "domain":"https://hackr.io › blog › python-vs-php",
-            "span":" › blog › python-vs-php"
-         }
-      },
-      {
-         "title":"PHP Vs Python: Which Is Best For Web Applications In 2021?",
-         "link":"https://medium.com/quick-code/php-vs-python-which-is-best-for-web-applications-in-2021-b7ad3fe0743a",
-         "description":"Jun 3, 2021 — A few years ago, Python was considered the fastest programming language, but PHP version 7 has completely changed the picture. Today PHP is 3 ...",
-         "additional_links":[
-            {
-               "text":"PHP Vs Python: Which Is Best For Web Applications In 2021?https://medium.com › quick-code",
-               "href":"https://medium.com/quick-code/php-vs-python-which-is-best-for-web-applications-in-2021-b7ad3fe0743a"
-            }
-         ],
-         "cite":{
-            "domain":"https://medium.com › quick-code",
-            "span":" › quick-code"
-         }
-      },
-      {
-         "title":"PHP vs Python: Features & Comparison in 2021 | Net Solutions",
-         "link":"https://www.netsolutions.com/insights/10-reasons-why-python-scores-over-php-for-web-development/",
-         "description":"Python and Php both are great langages. Php is much more in web development but Python has much wide sectors like web development, ai, machine learning etc.",
-         "additional_links":[
-            {
-               "text":"PHP vs Python: Features & Comparison in 2021 | Net Solutionshttps://www.netsolutions.com › insights › 10-reasons-w...",
-               "href":"https://www.netsolutions.com/insights/10-reasons-why-python-scores-over-php-for-web-development/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.netsolutions.com › insights › 10-reasons-w...",
-            "span":" › insights › 10-reasons-w..."
-         }
-      },
-      {
-         "title":"Python Vs PHP: Which should you go for in 2021 - H2k Infosys",
-         "link":"https://www.h2kinfosys.com/blog/python-vs-php-which-should-you-go-for-in-2021/",
-         "description":"Jan 28, 2021 — Python is a general-purpose language as it can be used in many applications such as machine learning, hacking, software testing, etc. Whereas ...Speed: Running codes in Python is fasterFramework: Python has a relatively small num...Learning curve: Python has a gentle learning c...",
-         "additional_links":[
-            {
-               "text":"Python Vs PHP: Which should you go for in 2021 - H2k Infosyshttps://www.h2kinfosys.com › blog › python-vs-php-w...",
-               "href":"https://www.h2kinfosys.com/blog/python-vs-php-which-should-you-go-for-in-2021/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.h2kinfosys.com › blog › python-vs-php-w...",
-            "span":" › blog › python-vs-php-w..."
-         }
-      },
-      {
-         "title":"PHP vs Python: Which One To Opt For Web Development?",
-         "link":"https://www.esparkinfo.com/php-vs-python.html",
-         "description":"PHP and Python are two of the finest programming languages for developing web applications. This blog provides a feature-based comparison of PHP vs Python.Type of language: Regular purpose programm...Database Connectivity: Not as broad a databa...Learning curve: Python is meant for long-term ...Frameworks: Python has lesser frameworksWhich Is Faster: Python or PHP?Why Prefer Python Over PHP?",
-         "additional_links":[
-            {
-               "text":"PHP vs Python: Which One To Opt For Web Development?https://www.esparkinfo.com › php-vs-python",
-               "href":"https://www.esparkinfo.com/php-vs-python.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.esparkinfo.com › php-vs-python",
-            "span":" › php-vs-python"
-         }
-      },
-      {
-         "title":"Python vs. PHP: The Battle Is ON - Clarion Technologies",
-         "link":"https://www.clariontech.com/blog/python-vs.-php-the-battle-is-on",
-         "description":"PHP, with impeccable code readability. When PHP is widely used for web development, Python is empowered with the magical power to define data science and ...",
-         "additional_links":[
-            {
-               "text":"Python vs. PHP: The Battle Is ON - Clarion Technologieshttps://www.clariontech.com › blog › python-vs.-php-t...",
-               "href":"https://www.clariontech.com/blog/python-vs.-php-the-battle-is-on"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.clariontech.com › blog › python-vs.-php-t...",
-            "span":" › blog › python-vs.-php-t..."
-         }
-      },
-      {
-         "title":"PHP vs Python vs Ruby: Detailed Comparison - PixelCrayons",
-         "link":"https://www.pixelcrayons.com/blog/php-vs-python-vs-ruby-comparison/",
-         "description":"Tags:php vs pythonphp vs python careerphp vs python efficiencyphp vs python fasterphp vs python speed comparisonPHP vs Python vs Ruby ...Oct 26, 2021 · Uploaded by PixelCrayons",
-         "additional_links":[
-            {
-               "text":"PHP vs Python vs Ruby: Detailed Comparison - PixelCrayonshttps://www.pixelcrayons.com › blog › php-vs-python-vs...",
-               "href":"https://www.pixelcrayons.com/blog/php-vs-python-vs-ruby-comparison/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.pixelcrayons.com › blog › php-vs-python-vs...",
-            "span":" › blog › php-vs-python-vs..."
-         }
-      },
-      {
-         "title":"Python vs PHP: Which Technology Will Dominate In The Future?",
-         "link":"https://www.ideamotive.co/blog/python-vs-php-which-technology-will-dominate-the-future-of-web-development",
-         "description":"Nov 16, 2020 — Python vs PHP: find out which programming language is better, faster, and easier to learn!",
-         "additional_links":[
-            {
-               "text":"Python vs PHP: Which Technology Will Dominate In The Future?https://www.ideamotive.co › blog › python-vs-php-whi...",
-               "href":"https://www.ideamotive.co/blog/python-vs-php-which-technology-will-dominate-the-future-of-web-development"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.ideamotive.co › blog › python-vs-php-whi...",
-            "span":" › blog › python-vs-php-whi..."
-         }
-      },
-      {
-         "title":"PHP vs. Python Backend Languages: What's the Difference?",
-         "link":"https://gbksoft.com/blog/php-vs-python-backend-languages/",
-         "description":"Sep 21, 2021 — Python; PHP; JavaScript; Ruby; C#. So when it comes to backend developers, there is one reasonable question – what framework should ... Rating: 4.8 · ‎42 reviews",
-         "additional_links":[
-            {
-               "text":"PHP vs. Python Backend Languages: What's the Difference?https://gbksoft.com › Blog › Tech › PHP",
-               "href":"https://gbksoft.com/blog/php-vs-python-backend-languages/"
-            }
-         ],
-         "cite":{
-            "domain":"https://gbksoft.com › Blog › Tech › PHP",
-            "span":" › Blog › Tech › PHP"
-         },
-         "g_review_stars":" Rating: 4.8 · ‎42 reviews"
-      },
-      {
-         "title":"PHP vs. Python: Is One Better Than The Other? - Scout APM",
-         "link":"https://scoutapm.com/blog/php-vs-python",
-         "description":"Mar 30, 2021 — Based on Stack Overflow trends in the last 10 years, two of the most popular server-side languages are Python and PHP.",
-         "additional_links":[
-            {
-               "text":"PHP vs. Python: Is One Better Than The Other? - Scout APMhttps://scoutapm.com › blog › php-vs-python",
-               "href":"https://scoutapm.com/blog/php-vs-python"
-            }
-         ],
-         "cite":{
-            "domain":"https://scoutapm.com › blog › php-vs-python",
-            "span":" › blog › php-vs-python"
-         }
-      },
-      {
-         "title":"Python vs PHP - STechies",
-         "link":"https://www.stechies.com/difference-between-python-php/",
-         "description":"What is the difference between Python vs PHP? PHP stands for Hypertext Preprocessor is a programming language used for back end web development that earlier ...",
-         "additional_links":[
-            {
-               "text":"Python vs PHP - STechieshttps://www.stechies.com › Python › Python Tutorial",
-               "href":"https://www.stechies.com/difference-between-python-php/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.stechies.com › Python › Python Tutorial",
-            "span":" › Python › Python Tutorial"
-         }
-      },
-      {
-         "title":"Python vs PHP vs JavaScript: Which is Best For Your Next ...",
-         "link":"https://hackernoon.com/python-vs-php-vs-javascript-which-is-best-for-your-next-project-i33v31y1",
-         "description":" › ...  › ... Jan 21, 2021 — ",
-         "additional_links":[
-            {
-               "text":"Python vs PHP vs JavaScript: Which is Best For Your Next ...https://hackernoon.com › ...",
-               "href":"https://hackernoon.com/python-vs-php-vs-javascript-which-is-best-for-your-next-project-i33v31y1"
-            },
-            {
-               "text":"Python vs PHP: Who Will Win the Ultimate Battle? | Hacker Noonhttps://hackernoon.com › ...",
-               "href":"https://hackernoon.com/python-vs-php-who-wins-the-ultimate-battle-dd75m32ly"
-            }
-         ],
-         "cite":{
-            "domain":"https://hackernoon.com › ...",
-            "span":" › ..."
-         }
-      },
-      {
-         "title":"Python vs PHP vs JavaScript: Which is Best For Your Next ...",
-         "link":"https://hackernoon.com/python-vs-php-vs-javascript-which-is-best-for-your-next-project-i33v31y1",
-         "description":"Jan 21, 2021 — Python, JavaScript, and PHP are all the leading programming or scripting languages in the world. Python is a scripting language for Linux, PHP ...",
-         "additional_links":[
-            {
-               "text":"Python vs PHP vs JavaScript: Which is Best For Your Next ...https://hackernoon.com › ...",
-               "href":"https://hackernoon.com/python-vs-php-vs-javascript-which-is-best-for-your-next-project-i33v31y1"
-            }
-         ],
-         "cite":{
-            "domain":"https://hackernoon.com › ...",
-            "span":" › ..."
-         }
-      },
-      {
-         "title":"Python vs PHP: Who Will Win the Ultimate Battle? | Hacker Noon",
-         "link":"https://hackernoon.com/python-vs-php-who-wins-the-ultimate-battle-dd75m32ly",
-         "description":"Oct 13, 2019 — When it's about Python vs PHP, I certainly feel that Python is used for general purposes as similar to Java. With great choice of libraries ...",
-         "additional_links":[
-            {
-               "text":"Python vs PHP: Who Will Win the Ultimate Battle? | Hacker Noonhttps://hackernoon.com › ...",
-               "href":"https://hackernoon.com/python-vs-php-who-wins-the-ultimate-battle-dd75m32ly"
-            }
-         ],
-         "cite":{
-            "domain":"https://hackernoon.com › ...",
-            "span":" › ..."
-         }
-      },
-      {
-         "title":"Which is better, PHP or Python? Why? - Quora",
-         "link":"https://www.quora.com/Which-is-better-PHP-or-Python-Why",
-         "description":"Python is used for a lot more than web development. PHP is not. Judging by your \"HTML & CSS\", I'd guess web development is your main focus right now. But should ...408 answers  ·  3 votes: Both of them have the characteristic features that make them unique. Pyhton has gained ...",
-         "additional_links":[
-            {
-               "text":"Which is better, PHP or Python? Why? - Quorahttps://www.quora.com › Which-is-better-PHP-or-Pyth...",
-               "href":"https://www.quora.com/Which-is-better-PHP-or-Python-Why"
-            },
-            {
-               "text":"408 answers",
-               "href":"https://www.quora.com/Which-is-better-PHP-or-Python-Why?top_ans=312487732"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.quora.com › Which-is-better-PHP-or-Pyth...",
-            "span":" › Which-is-better-PHP-or-Pyth..."
-         }
-      },
-      {
-         "title":"PHP vs Python: Which Language Is Dominating The Market?",
-         "link":"https://appinventiv.com/blog/php-vs-python/",
-         "description":"Nov 21, 2019 — One of the PHP vs Python key differences is that PHP is object-oriented programming language whereas Python is both object and ...",
-         "additional_links":[
-            {
-               "text":"PHP vs Python: Which Language Is Dominating The Market?https://appinventiv.com › blog › php-vs-python",
-               "href":"https://appinventiv.com/blog/php-vs-python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://appinventiv.com › blog › php-vs-python",
-            "span":" › blog › php-vs-python"
-         }
-      },
-      {
-         "title":"Call Python (Web API) from PHP - No Frameworks Involved",
-         "link":"https://www.youtube.com/watch?v=Bx_BEA8VPq0",
-         "description":"15:57Build a Web API in Pythonhttps://youtu.be/Bdeclymkt-AA web API, developed in any programming language ...Oct 1, 2020 · Uploaded by Kovolff",
-         "additional_links":[
-            {
-               "text":"Call Python (Web API) from PHP - No Frameworks Involvedhttps://www.youtube.com › watch",
-               "href":"https://www.youtube.com/watch?v=Bx_BEA8VPq0"
-            },
-            {
-               "text":"15:57",
-               "href":"https://www.youtube.com/watch?v=Bx_BEA8VPq0"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.youtube.com › watch",
-            "span":" › watch"
-         }
-      },
-      {
-         "title":"Python vs PHP for Web Development: Which Is Better? - DZone",
-         "link":"https://dzone.com/articles/why-python-is-better-for-web-development-than-php",
-         "description":"Dec 29, 2020 — Python and PHP are two extremely popular and high-ranked programming languages. If you may be wondering which language has a greater demand ...",
-         "additional_links":[
-            {
-               "text":"Python vs PHP for Web Development: Which Is Better? - DZonehttps://dzone.com › Web Dev Zone",
-               "href":"https://dzone.com/articles/why-python-is-better-for-web-development-than-php"
-            }
-         ],
-         "cite":{
-            "domain":"https://dzone.com › Web Dev Zone",
-            "span":" › Web Dev Zone"
-         }
-      },
-      {
-         "title":"Python vs PHP: Main Differences and Comparison - SCAND",
-         "link":"https://scand.com/company/blog/python-vs-php-for-web-development/",
-         "description":"Jun 28, 2019 — Well, Python used to be faster before PHP7 appeared. The performance benchmarks show that now PHP7 beats other programming languages in terms of ...",
-         "additional_links":[
-            {
-               "text":"Python vs PHP: Main Differences and Comparison - SCANDhttps://scand.com › Corporate Blog",
-               "href":"https://scand.com/company/blog/python-vs-php-for-web-development/"
-            }
-         ],
-         "cite":{
-            "domain":"https://scand.com › Corporate Blog",
-            "span":" › Corporate Blog"
-         }
-      },
-      {
-         "title":"Learn Python, PHP, Ruby and Javascript in one Blog Post",
-         "link":"https://dev.to/alexmercedcoder/learn-python-php-ruby-and-javascript-in-one-blog-post-2n0p",
-         "description":"Jan 30, 2021 — Getting Started Below we will have the patterns for all the main programming concepts in f... Tagged with python, php, javascript, ruby.",
-         "additional_links":[
-            {
-               "text":"Learn Python, PHP, Ruby and Javascript in one Blog Posthttps://dev.to › alexmercedcoder › learn-python-php-ru...",
-               "href":"https://dev.to/alexmercedcoder/learn-python-php-ruby-and-javascript-in-one-blog-post-2n0p"
-            }
-         ],
-         "cite":{
-            "domain":"https://dev.to › alexmercedcoder › learn-python-php-ru...",
-            "span":" › alexmercedcoder › learn-python-php-ru..."
-         }
-      },
-      {
-         "title":"PHP vs Python vs Ruby : A Detailed Comparison - SemiDot ...",
-         "link":"https://semidotinfotech.com/blog/php-vs-python-vs-ruby-comparison/",
-         "description":"Apr 22, 2020 — Everyone wants to have a solution that is based on the best available technology. There are many programming languages available in the market, ...",
-         "additional_links":[
-            {
-               "text":"PHP vs Python vs Ruby : A Detailed Comparison - SemiDot ...https://semidotinfotech.com › blog › php-vs-python-vs-...",
-               "href":"https://semidotinfotech.com/blog/php-vs-python-vs-ruby-comparison/"
-            }
-         ],
-         "cite":{
-            "domain":"https://semidotinfotech.com › blog › php-vs-python-vs-...",
-            "span":" › blog › php-vs-python-vs-..."
-         }
-      },
-      {
-         "title":"INFO.3050 Survey of Perl/Python/PHP (Formerly 90.305)",
-         "link":"https://www.uml.edu/catalog/courses/info/3050",
-         "description":"Id: 007987 Credits Min: 3 Credits Max: 3. Description. The goal of this course is to provide an in-depth introduction to the Python programming language ...",
-         "additional_links":[
-            {
-               "text":"INFO.3050 Survey of Perl/Python/PHP (Formerly 90.305)https://www.uml.edu › catalog › courses › info",
-               "href":"https://www.uml.edu/catalog/courses/info/3050"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.uml.edu › catalog › courses › info",
-            "span":" › catalog › courses › info"
-         }
-      },
-      {
-         "title":"Difference Between PHP and Python (with Comparison Chart)",
-         "link":"https://techdifferences.com/difference-between-php-and-python.html",
-         "description":"PHP vs Python PHP and Python are the popular high-level programming languages which have a strong open source background and also provide comprehensive ...",
-         "additional_links":[
-            {
-               "text":"Difference Between PHP and Python (with Comparison Chart)https://techdifferences.com › difference-between-php-a...",
-               "href":"https://techdifferences.com/difference-between-php-and-python.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://techdifferences.com › difference-between-php-a...",
-            "span":" › difference-between-php-a..."
-         }
-      },
-      {
-         "title":"CCXT – CryptoCurrency eXchange Trading Library - GitHub",
-         "link":"https://github.com/ccxt/ccxt",
-         "description":"... Exchange Markets Install JavaScript (NPM) JavaScript (for use with the <script> tag): Python PHP Docker Documentation Usage Intro JavaScript Python PHP ...",
-         "additional_links":[
-            {
-               "text":"CCXT – CryptoCurrency eXchange Trading Library - GitHubhttps://github.com › ccxt › ccxt",
-               "href":"https://github.com/ccxt/ccxt"
-            }
-         ],
-         "cite":{
-            "domain":"https://github.com › ccxt › ccxt",
-            "span":" › ccxt › ccxt"
-         }
-      },
-      {
-         "title":"JavaScript vs PHP vs Python 2021 Comparison of Languages",
-         "link":"https://stackshare.io/stackups/javascript-vs-php-vs-python",
-         "description":" › stackups › javascript-vs-php-vs-p...  › stackups › javascript-vs-php-vs-p... Oct 30, 2021 —  Related Comparisons. Python vs SwiftGroovy vs PythonPHP vs Python vs RubyJavaScript vs SwiftJava vs PHP vs Python ...",
-         "additional_links":[
-            {
-               "text":"JavaScript vs PHP vs Python 2021 Comparison of Languageshttps://stackshare.io › stackups › javascript-vs-php-vs-p...",
-               "href":"https://stackshare.io/stackups/javascript-vs-php-vs-python"
-            },
-            {
-               "text":"Java vs PHP vs Python | What are the differences? - StackSharehttps://stackshare.io › stackups › java-vs-php-vs-python",
-               "href":"https://stackshare.io/stackups/java-vs-php-vs-python"
-            }
-         ],
-         "cite":{
-            "domain":"https://stackshare.io › stackups › javascript-vs-php-vs-p...",
-            "span":" › stackups › javascript-vs-php-vs-p..."
-         }
-      },
-      {
-         "title":"JavaScript vs PHP vs Python 2021 Comparison of Languages",
-         "link":"https://stackshare.io/stackups/javascript-vs-php-vs-python",
-         "description":"Oct 30, 2021 — Related Comparisons. Python vs SwiftGroovy vs PythonPHP vs Python vs RubyJavaScript vs SwiftJava vs PHP vs Python ...",
-         "additional_links":[
-            {
-               "text":"JavaScript vs PHP vs Python 2021 Comparison of Languageshttps://stackshare.io › stackups › javascript-vs-php-vs-p...",
-               "href":"https://stackshare.io/stackups/javascript-vs-php-vs-python"
-            }
-         ],
-         "cite":{
-            "domain":"https://stackshare.io › stackups › javascript-vs-php-vs-p...",
-            "span":" › stackups › javascript-vs-php-vs-p..."
-         }
-      },
-      {
-         "title":"Java vs PHP vs Python | What are the differences? - StackShare",
-         "link":"https://stackshare.io/stackups/java-vs-php-vs-python",
-         "description":"4 days ago — Related Comparisons. JavaScript vs PHP vs PythonPython vs SwiftGroovy vs PythonPHP vs Python vs RubyPython vs R Language vs Scala ...",
-         "additional_links":[
-            {
-               "text":"Java vs PHP vs Python | What are the differences? - StackSharehttps://stackshare.io › stackups › java-vs-php-vs-python",
-               "href":"https://stackshare.io/stackups/java-vs-php-vs-python"
-            }
-         ],
-         "cite":{
-            "domain":"https://stackshare.io › stackups › java-vs-php-vs-python",
-            "span":" › stackups › java-vs-php-vs-python"
-         }
-      },
-      {
-         "title":"Python Tutorial - W3Schools",
-         "link":"https://www.w3schools.com/python/",
-         "description":"HTML CSS JAVASCRIPT SQL PYTHON PHP BOOTSTRAP HOW TO W3.CSS JAVA JQUERY C++ C# R React Kotlin. ×. Tutorials. HTML and CSS.",
-         "additional_links":[
-            {
-               "text":"Python Tutorial - W3Schoolshttps://www.w3schools.com › python",
-               "href":"https://www.w3schools.com/python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.w3schools.com › python",
-            "span":" › python"
-         }
-      },
-      {
-         "title":"Python vs PHP - which language to choose for your app?",
-         "link":"https://www.merixstudio.com/blog/python-php-choose-for-app/",
-         "description":"Python and PHP are two mature server-side programming languages. Which will suit your project best? Read to find out!Mar 12, 2020 · Uploaded by Marcos Nobre",
-         "additional_links":[
-            {
-               "text":"Python vs PHP - which language to choose for your app?https://www.merixstudio.com › ... › business & agile",
-               "href":"https://www.merixstudio.com/blog/python-php-choose-for-app/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.merixstudio.com › ... › business & agile",
-            "span":" › ... › business & agile"
-         }
-      },
-      {
-         "title":"lamp python php Jobs near Placentia, CA - CyberCoders",
-         "link":"https://www.cybercoders.com/search/lamp-python-php-skills/placentia-ca-area-jobs/?telecommute=true",
-         "description":"lamp python php Jobs near Placentia, CA ... Make your profile visible to over 350 recruiters looking to place candidates like you. ... CyberCoders is an Equal ...",
-         "additional_links":[
-            {
-               "text":"lamp python php Jobs near Placentia, CA - CyberCodershttps://www.cybercoders.com › search › placentia-ca-ar...",
-               "href":"https://www.cybercoders.com/search/lamp-python-php-skills/placentia-ca-area-jobs/?telecommute=true"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.cybercoders.com › search › placentia-ca-ar...",
-            "span":" › search › placentia-ca-ar..."
-         }
-      },
-      {
-         "title":"Junior to Mid level Python/PHP web developer - Dept Agency",
-         "link":"https://www.deptagency.com/en-ie/vacancy/junior-to-mid-level-python-php-web-developer/",
-         "description":"For our Dublin office, we are looking for a Junior to Mid Python/PHP Developer who has been involved in a lot of amazing projects and knows how to help a ...",
-         "additional_links":[
-            {
-               "text":"Junior to Mid level Python/PHP web developer - Dept Agencyhttps://www.deptagency.com › en-ie › vacancy › junior...",
-               "href":"https://www.deptagency.com/en-ie/vacancy/junior-to-mid-level-python-php-web-developer/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.deptagency.com › en-ie › vacancy › junior...",
-            "span":" › en-ie › vacancy › junior..."
-         }
-      },
-      {
-         "title":"HMAC SHA256 - Php To Python - Stack Overflow",
-         "link":"https://stackoverflow.com/questions/66941603/hmac-sha256-php-to-python",
-         "description":"Apr 4, 2021 · 1 answerpython php. PHP CODE SNIPPET $timestamp = time(); $appID = 1; $key = '5nF6Ai4ykPY='; $secret = '0a75...'; $sign = \"key:\".$key.\"id:\".$appID.hostname -I in python/php - Stack OverflowMay 12, 2021Calling Python in PHP - Stack OverflowSep 20, 2013Python, PHP or what scripting language is the best for ...Mar 2, 2010Why brew needs python while installing php7 - Stack OverflowJan 5, 2021More results from stackoverflow.com",
-         "additional_links":[
-            {
-               "text":"HMAC SHA256 - Php To Python - Stack Overflowhttps://stackoverflow.com › questions › hmac-sha256-p...",
-               "href":"https://stackoverflow.com/questions/66941603/hmac-sha256-php-to-python"
-            },
-            {
-               "text":"hostname -I in python/php - Stack Overflow",
-               "href":"https://stackoverflow.com/questions/67498848/hostname-i-in-python-php"
-            },
-            {
-               "text":"Calling Python in PHP - Stack Overflow",
-               "href":"https://stackoverflow.com/questions/166944/calling-python-in-php"
-            },
-            {
-               "text":"Python, PHP or what scripting language is the best for ...",
-               "href":"https://stackoverflow.com/questions/2364890/python-php-or-what-scripting-language-is-the-best-for-automating-web-interactio"
-            },
-            {
-               "text":"Why brew needs python while installing php7 - Stack Overflow",
-               "href":"https://stackoverflow.com/questions/65583607/why-brew-needs-python-while-installing-php7"
-            }
-         ],
-         "cite":{
-            "domain":"https://stackoverflow.com › questions › hmac-sha256-p...",
-            "span":" › questions › hmac-sha256-p..."
-         }
-      },
-      {
-         "title":"Licensing for cross-platform applications made with Python ...",
-         "link":"https://www.wibu.com/us/wibu-systems-webinars/licensing-for-cross-platform-applications-made-with-python-php-and-javascript.html",
-         "description":"Leading market surveys consistently put JavaScript, PHP, and Python at the top of the list of the most favored programming languages.",
-         "additional_links":[
-            {
-               "text":"Licensing for cross-platform applications made with Python ...https://www.wibu.com › ... › Resources › Webinars",
-               "href":"https://www.wibu.com/us/wibu-systems-webinars/licensing-for-cross-platform-applications-made-with-python-php-and-javascript.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.wibu.com › ... › Resources › Webinars",
-            "span":" › ... › Resources › Webinars"
-         }
-      },
-      {
-         "title":"Fullstack Go Golang Node.Js Python PHP Sci Fi Dev Framework",
-         "link":"https://www.udemy.com/course/fullstack-go-golang-nodejs-python-php-sci-fi-dev-framework/",
-         "description":"Fullstack Go Golang Node.Js Python PHP Sci Fi Dev Framework. Unleash your creativity ( Websockets Enabled ). Highest Rated.",
-         "additional_links":[
-            {
-               "text":"Fullstack Go Golang Node.Js Python PHP Sci Fi Dev Frameworkhttps://www.udemy.com › ... › Web Frameworks",
-               "href":"https://www.udemy.com/course/fullstack-go-golang-nodejs-python-php-sci-fi-dev-framework/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.udemy.com › ... › Web Frameworks",
-            "span":" › ... › Web Frameworks"
-         }
-      },
-      {
-         "title":"Python php Jobs | Glassdoor",
-         "link":"https://www.glassdoor.com/Job/python-php-jobs-SRCH_KO0,10.htm",
-         "description":"Search Python php jobs. Get the right Python php job with company ratings & salaries. 4043 open jobs for Python php.",
-         "additional_links":[
-            {
-               "text":"Python php Jobs | Glassdoorhttps://www.glassdoor.com › Job › python-php-jobs-SRC...",
-               "href":"https://www.glassdoor.com/Job/python-php-jobs-SRCH_KO0,10.htm"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.glassdoor.com › Job › python-php-jobs-SRC...",
-            "span":" › Job › python-php-jobs-SRC..."
-         }
-      },
-      {
-         "title":"Python/PHP Developer Resume NYC - Hire IT People",
-         "link":"https://www.hireitpeople.com/resume-database/72-web-developer-resumes/145039-python-php-developer-resume-nyc",
-         "description":"Over 8+ years of extensive experience in web based applications using LAMP, WAMP, PHP, Python, Drupal, & SEO technologies. Good working experience in ...",
-         "additional_links":[
-            {
-               "text":"Python/PHP Developer Resume NYC - Hire IT Peoplehttps://www.hireitpeople.com › resume-database › 1450...",
-               "href":"https://www.hireitpeople.com/resume-database/72-web-developer-resumes/145039-python-php-developer-resume-nyc"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.hireitpeople.com › resume-database › 1450...",
-            "span":" › resume-database › 1450..."
-         }
-      },
-      {
-         "title":"Portin PHP to Python - Reddit",
-         "link":"https://www.reddit.com/r/PHP/comments/1t5g58/portin_php_to_python/",
-         "description":"Hello, I'm a Python programmer trying to convert FPDI to Python. I noticed that most of PHP can be directly translated to Python, but I'm having a …",
-         "additional_links":[
-            {
-               "text":"Portin PHP to Python - Reddithttps://www.reddit.com › PHP › comments › portin_ph...",
-               "href":"https://www.reddit.com/r/PHP/comments/1t5g58/portin_php_to_python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.reddit.com › PHP › comments › portin_ph...",
-            "span":" › PHP › comments › portin_ph..."
-         }
-      },
-      {
-         "title":"PHP vs Python: Which Coding Language is Better to Use in ...",
-         "link":"https://cydomedia.com/php-vs-python/",
-         "description":"Nov 14, 2020 — PHP is mostly preferred for web development services, while Python is a “one language for all” kind of a deal. Developers prefer Python because ...",
-         "additional_links":[
-            {
-               "text":"PHP vs Python: Which Coding Language is Better to Use in ...https://cydomedia.com › php-vs-python",
-               "href":"https://cydomedia.com/php-vs-python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://cydomedia.com › php-vs-python",
-            "span":" › php-vs-python"
-         }
-      },
-      {
-         "title":"Best Programming Languages To Built E-Commerce Websites",
-         "link":"https://blog.sagipl.com/python-php-for-web-development/",
-         "description":"Jan 28, 2021 — In this article, we will tell you the advantages of one such programming language, PHP for Web Development, and why developers choose such ...",
-         "additional_links":[
-            {
-               "text":"Best Programming Languages To Built E-Commerce Websiteshttps://blog.sagipl.com › python-php-for-web-develop...",
-               "href":"https://blog.sagipl.com/python-php-for-web-development/"
-            }
-         ],
-         "cite":{
-            "domain":"https://blog.sagipl.com › python-php-for-web-develop...",
-            "span":" › python-php-for-web-develop..."
-         }
-      },
-      {
-         "title":"Programming languages used in most popular websites",
-         "link":"https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites",
-         "description":"One thing the most visited websites have in common that they are dynamic websites. Their development typically involves server-side coding, client-side ...",
-         "additional_links":[
-            {
-               "text":"Programming languages used in most popular websiteshttps://en.wikipedia.org › wiki › Programming_languag...",
-               "href":"https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites"
-            }
-         ],
-         "cite":{
-            "domain":"https://en.wikipedia.org › wiki › Programming_languag...",
-            "span":" › wiki › Programming_languag..."
-         }
-      },
-      {
-         "title":"Python, PHP, JavaScript and other creators of web technology ...",
-         "link":"https://asperbrothers.com/blog/programming-languages-frameworks-founders/",
-         "description":"May 13, 2021 — PHP, JavaScript, or Python are technologies used by millions. Who created them? Who invented these and other languages and frameworks.",
-         "additional_links":[
-            {
-               "text":"Python, PHP, JavaScript and other creators of web technology ...https://asperbrothers.com › blog › programming-langua...",
-               "href":"https://asperbrothers.com/blog/programming-languages-frameworks-founders/"
-            }
-         ],
-         "cite":{
-            "domain":"https://asperbrothers.com › blog › programming-langua...",
-            "span":" › blog › programming-langua..."
-         }
-      },
-      {
-         "title":"Scripting Languages I: Node.js, Python, PHP, Ruby",
-         "link":"https://hyperpolyglot.org/scripting",
-         "description":"version. node.js, python, php, ruby. version used, 6.11, 3.6, 7.0, 2.3. show version, $ node --version, $ python -V $ python --version, $ php --version ...",
-         "additional_links":[
-            {
-               "text":"Scripting Languages I: Node.js, Python, PHP, Rubyhttps://hyperpolyglot.org › scripting",
-               "href":"https://hyperpolyglot.org/scripting"
-            }
-         ],
-         "cite":{
-            "domain":"https://hyperpolyglot.org › scripting",
-            "span":" › scripting"
-         }
-      },
-      {
-         "title":"Calling Python in PHP",
-         "link":"https://www.py4u.net/discuss/12136",
-         "description":"I don't want to go through the minor trouble of installing mod_python or mod_wsgi on my Mac, so I was just going to do a system() or popen() from PHP to call ...",
-         "additional_links":[
-            {
-               "text":"Calling Python in PHPhttps://www.py4u.net › discuss",
-               "href":"https://www.py4u.net/discuss/12136"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.py4u.net › discuss",
-            "span":" › discuss"
-         }
-      },
-      {
-         "title":"NumPy: String - Exercises, Practice, Solution - w3resource",
-         "link":"https://www.w3resource.com/python-exercises/numpy/python-numpy-string.php",
-         "description":"Sep 13, 2021 — ['Python PHP Java C++'] Split the element of the said array with spaces: [list(['Python', 'PHP', 'Java', 'C++'])]",
-         "additional_links":[
-            {
-               "text":"NumPy: String - Exercises, Practice, Solution - w3resourcehttps://www.w3resource.com › python-numpy-string",
-               "href":"https://www.w3resource.com/python-exercises/numpy/python-numpy-string.php"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.w3resource.com › python-numpy-string",
-            "span":" › python-numpy-string"
-         }
-      },
-      {
-         "title":"Code (JavaScript, Python, PHP) | Voters | Integromat s.r.o.",
-         "link":"https://integromat.canny.io/new-app-requests/p/code-javascript-python-php",
-         "description":"Thanks, that's nice and all but I don't see an upside to using GCF, my old zapier integrations or a small server myself at the moment.",
-         "additional_links":[
-            {
-               "text":"Code (JavaScript, Python, PHP) | Voters | Integromat s.r.o.https://integromat.canny.io › new-app-requests › code-j...",
-               "href":"https://integromat.canny.io/new-app-requests/p/code-javascript-python-php"
-            }
-         ],
-         "cite":{
-            "domain":"https://integromat.canny.io › new-app-requests › code-j...",
-            "span":" › new-app-requests › code-j..."
-         }
-      },
-      {
-         "title":"python PHP Code Examples - HotExamples",
-         "link":"https://hotexamples.com/examples/-/-/python/php-python-function-examples.html",
-         "description":"PHP python - 2 examples found. These are the top rated real world PHP examples of python extracted from open source projects. You can rate examples to help ...",
-         "additional_links":[
-            {
-               "text":"python PHP Code Examples - HotExampleshttps://hotexamples.com › examples › php-python-functio...",
-               "href":"https://hotexamples.com/examples/-/-/python/php-python-function-examples.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://hotexamples.com › examples › php-python-functio...",
-            "span":" › examples › php-python-functio..."
-         }
-      },
-      {
-         "title":"PHP vs Python - which is best? Cross-comparison in 2021",
-         "link":"https://ebs-integrator.com/blog/php-vs-python-cross-comparison-2021/",
-         "description":"Jul 26, 2021 — Lets look how these two giants of programming languages compare to each other, in our look at PHP vs Python as of 2021.",
-         "additional_links":[
-            {
-               "text":"PHP vs Python - which is best? Cross-comparison in 2021https://ebs-integrator.com › Blog",
-               "href":"https://ebs-integrator.com/blog/php-vs-python-cross-comparison-2021/"
-            }
-         ],
-         "cite":{
-            "domain":"https://ebs-integrator.com › Blog",
-            "span":" › Blog"
-         }
-      },
-      {
-         "title":"php cannot call python - Raspberry Pi Stack Exchange",
-         "link":"https://raspberrypi.stackexchange.com/questions/58339/php-cannot-call-python",
-         "description":"python php. When I call a simple python-script that blinks LED once, from a PHP-script via browser, nothing happens. and I add these lines in the sudoers ...3 answers  ·  1 vote: This is a problem a lot of people face, and it's not always just due to a lack ...",
-         "additional_links":[
-            {
-               "text":"php cannot call python - Raspberry Pi Stack Exchangehttps://raspberrypi.stackexchange.com › questions › ph...",
-               "href":"https://raspberrypi.stackexchange.com/questions/58339/php-cannot-call-python"
-            },
-            {
-               "text":"3 answers",
-               "href":"https://raspberrypi.stackexchange.com/a/58370"
-            }
-         ],
-         "cite":{
-            "domain":"https://raspberrypi.stackexchange.com › questions › ph...",
-            "span":" › questions › ph..."
-         }
-      },
-      {
-         "title":"Python/PHP Senior Developer - paycomonline.net",
-         "link":"https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=14265&clientkey=C79BD1051367B6CA57C1F4096570F5C6",
-         "description":"ScaleFunder helps institutions boost giving through an innovative platform that has fueled more than 10,000 successful fundraising projects. A subscription- ...",
-         "additional_links":[
-            {
-               "text":"Python/PHP Senior Developer - paycomonline.nethttps://www.paycomonline.net › jobs › ViewJobDetails",
-               "href":"https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=14265&clientkey=C79BD1051367B6CA57C1F4096570F5C6"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.paycomonline.net › jobs › ViewJobDetails",
-            "span":" › jobs › ViewJobDetails"
-         }
-      },
-      {
-         "title":"How to Use the Breaking News API with Python, PHP, Ruby ...",
-         "link":"https://rapidapi.com/blog/breaking-news-api-with-python-php-ruby-javascript-examples/amp/",
-         "description":" › Blog › Guest Post  › Blog › Guest Post",
-         "additional_links":[
-            {
-               "text":"How to Use the Breaking News API with Python, PHP, Ruby ...https://rapidapi.com › Blog › Guest Post",
-               "href":"https://rapidapi.com/blog/breaking-news-api-with-python-php-ruby-javascript-examples/amp/"
-            },
-            {
-               "text":"How to Use the AeroDataBox API with Python, PHP, Ruby ...https://rapidapi.com › Blog › API Tutorials",
-               "href":"https://rapidapi.com/blog/aerodatabox-api-with-python-php-ruby-javascript-examples/"
-            }
-         ],
-         "cite":{
-            "domain":"https://rapidapi.com › Blog › Guest Post",
-            "span":" › Blog › Guest Post"
-         },
-         "g_review_stars":" Rating: 5 · ‎1 vote"
-      },
-      {
-         "title":"How to Use the Breaking News API with Python, PHP, Ruby ...",
-         "link":"https://rapidapi.com/blog/breaking-news-api-with-python-php-ruby-javascript-examples/amp/",
-         "description":"In addition, this API gives the developer access to any company news that can help in stock price prediction and financial data analysis. Last but not least, ...",
-         "additional_links":[
-            {
-               "text":"How to Use the Breaking News API with Python, PHP, Ruby ...https://rapidapi.com › Blog › Guest Post",
-               "href":"https://rapidapi.com/blog/breaking-news-api-with-python-php-ruby-javascript-examples/amp/"
-            }
-         ],
-         "cite":{
-            "domain":"https://rapidapi.com › Blog › Guest Post",
-            "span":" › Blog › Guest Post"
-         }
-      },
-      {
-         "title":"How to Use the AeroDataBox API with Python, PHP, Ruby ...",
-         "link":"https://rapidapi.com/blog/aerodatabox-api-with-python-php-ruby-javascript-examples/",
-         "description":"Sep 14, 2021 — It provides some unique features that are rarely offered anywhere else, like aircraft image recognition by registration, airport and flight ... Rating: 5 · ‎1 vote",
-         "additional_links":[
-            {
-               "text":"How to Use the AeroDataBox API with Python, PHP, Ruby ...https://rapidapi.com › Blog › API Tutorials",
-               "href":"https://rapidapi.com/blog/aerodatabox-api-with-python-php-ruby-javascript-examples/"
-            }
-         ],
-         "cite":{
-            "domain":"https://rapidapi.com › Blog › API Tutorials",
-            "span":" › Blog › API Tutorials"
-         },
-         "g_review_stars":" Rating: 5 · ‎1 vote"
-      },
-      {
-         "title":"Evernote Cloud API — Python Quick-start Guide",
-         "link":"https://dev.evernote.com/doc/start/python.php",
-         "description":"The purpose of this guide is describing how to download, install, and configure the Evernote SDK for Python, as well as demonstrate how it's used. If everything ...",
-         "additional_links":[
-            {
-               "text":"Evernote Cloud API — Python Quick-start Guidehttps://dev.evernote.com › doc › start › python",
-               "href":"https://dev.evernote.com/doc/start/python.php"
-            }
-         ],
-         "cite":{
-            "domain":"https://dev.evernote.com › doc › start › python",
-            "span":" › doc › start › python"
-         }
-      },
-      {
-         "title":"Python and PHP Programming Bundle - Pinterest",
-         "link":"https://www.pinterest.com/pin/621919029767036403/",
-         "description":"May 29, 2018 - Learn Python and PHP in This Awesome Bundle Course! Take this course.",
-         "additional_links":[
-            {
-               "text":"Python and PHP Programming Bundle - Pinteresthttps://www.pinterest.com › ... › Science › Coding",
-               "href":"https://www.pinterest.com/pin/621919029767036403/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.pinterest.com › ... › Science › Coding",
-            "span":" › ... › Science › Coding"
-         }
-      },
-      {
-         "title":"Is it hard to learn Html,Css,JS and Python,Php? | Sololearn",
-         "link":"https://www.sololearn.com/Discuss/171614/is-it-hard-to-learn-html-css-js-and-python-php",
-         "description":"I think,it might be hard for me to keep in mind all these attributes and etc. html css javascript python php. 15th January 2017, 5:34 AM.",
-         "additional_links":[
-            {
-               "text":"Is it hard to learn Html,Css,JS and Python,Php? | Sololearnhttps://www.sololearn.com › Discuss › is-it-hard-to-lear...",
-               "href":"https://www.sololearn.com/Discuss/171614/is-it-hard-to-learn-html-css-js-and-python-php"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.sololearn.com › Discuss › is-it-hard-to-lear...",
-            "span":" › Discuss › is-it-hard-to-lear..."
-         }
-      },
-      {
-         "title":"Python vs PHP, which is best for your website backend?",
-         "link":"https://www.geekboots.com/story/python-vs-php-which-is-best-for-your-website-backend",
-         "description":"Feb 14, 2019 — Both are programming languages, and that their creators had a totally different goal in mind when they were designing them. PHP was initially ...",
-         "additional_links":[
-            {
-               "text":"Python vs PHP, which is best for your website backend?https://www.geekboots.com › story › python-vs-php-w...",
-               "href":"https://www.geekboots.com/story/python-vs-php-which-is-best-for-your-website-backend"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.geekboots.com › story › python-vs-php-w...",
-            "span":" › story › python-vs-php-w..."
-         }
-      },
-      {
-         "title":"The Best 378 Python php Libraries | PythonRepo",
-         "link":"https://pythonrepo.com/tag/php",
-         "description":"Browse The Top 378 Python php Libraries A collective list of free APIs for use in software and web development., Magnificent app which corrects your ...",
-         "additional_links":[
-            {
-               "text":"The Best 378 Python php Libraries | PythonRepohttps://pythonrepo.com › tag › php",
-               "href":"https://pythonrepo.com/tag/php"
-            }
-         ],
-         "cite":{
-            "domain":"https://pythonrepo.com › tag › php",
-            "span":" › tag › php"
-         }
-      },
-      {
-         "title":"Accesing GPIO using JAVA and Python/PHP - Oracle ...",
-         "link":"https://community.oracle.com/tech/developers/discussion/3563675/accesing-gpio-using-java-and-python-php",
-         "description":"May 22, 2014 — Hello All, I apologize for posting this in the JAVA ME Embedded section. I had previously posted this under the JAVA Embedded MOOC section.",
-         "additional_links":[
-            {
-               "text":"Accesing GPIO using JAVA and Python/PHP - Oracle ...https://community.oracle.com › ... › Java ME Embedded",
-               "href":"https://community.oracle.com/tech/developers/discussion/3563675/accesing-gpio-using-java-and-python-php"
-            }
-         ],
-         "cite":{
-            "domain":"https://community.oracle.com › ... › Java ME Embedded",
-            "span":" › ... › Java ME Embedded"
-         }
-      },
-      {
-         "title":"Difference between Django and PHP - GeeksforGeeks",
-         "link":"https://www.geeksforgeeks.org/difference-between-django-and-php/",
-         "description":"Dec 10, 2020 — In the present world, many new frameworks have emerged in web technology. One such framework is Django which is based on Python.",
-         "additional_links":[
-            {
-               "text":"Difference between Django and PHP - GeeksforGeekshttps://www.geeksforgeeks.org › difference-between-dj...",
-               "href":"https://www.geeksforgeeks.org/difference-between-django-and-php/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.geeksforgeeks.org › difference-between-dj...",
-            "span":" › difference-between-dj..."
-         }
-      },
-      {
-         "title":"C, C++, Java, Python, PHP, JavaScript and Linux For Beginners",
-         "link":"https://www.semanticscholar.org/paper/C%2C-C%2B%2B%2C-Java%2C-Python%2C-PHP%2C-JavaScript-and-Linux-For-Manjunath/c6065b2a630fa602f64da9c06ddbcaa7ce040d66",
-         "description":"This BOOK highlights some basic knowledge of artificial intelligence formal constructed programming languages (like C, C++, Java, PHP, Python, ...",
-         "additional_links":[
-            {
-               "text":"C, C++, Java, Python, PHP, JavaScript and Linux For Beginnershttps://www.semanticscholar.org › paper › C,-C++,-Java,-...",
-               "href":"https://www.semanticscholar.org/paper/C%2C-C%2B%2B%2C-Java%2C-Python%2C-PHP%2C-JavaScript-and-Linux-For-Manjunath/c6065b2a630fa602f64da9c06ddbcaa7ce040d66"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.semanticscholar.org › paper › C,-C++,-Java,-...",
-            "span":" › paper › C,-C++,-Java,-..."
-         }
-      },
-      {
-         "title":"JAVA Python PHP - Home | Facebook",
-         "link":"https://www.facebook.com/pages/JAVA-Python-PHP/1640440566066570",
-         "description":"JAVA Python PHP. Education ... Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and ...",
-         "additional_links":[
-            {
-               "text":"JAVA Python PHP - Home | Facebookhttps://www.facebook.com › ... › JAVA  Python PHP",
-               "href":"https://www.facebook.com/pages/JAVA-Python-PHP/1640440566066570"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.facebook.com › ... › JAVA  Python PHP",
-            "span":" › ... › JAVA  Python PHP"
-         }
-      },
-      {
-         "title":"Stefan Mischook on Instagram",
-         "link":"https://www.instagram.com/tv/CFAes4DAElf/?hl=en",
-         "description":"Sep 11, 2020 — 30 Likes, 10 Comments - Stefan Mischook (@stefanmischook) on Instagram: “coding talk ... JavaScript, Python, PHP, Java, design patterns.",
-         "additional_links":[
-            {
-               "text":"Stefan Mischook on Instagramhttps://www.instagram.com › ...",
-               "href":"https://www.instagram.com/tv/CFAes4DAElf/?hl=en"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.instagram.com › ...",
-            "span":" › ..."
-         }
-      },
-      {
-         "title":"Senior Software Engineer - Python, PHP, Linux, Data Structures",
-         "link":"https://www.hamlynwilliams.com/job/senior-software-engineer-python-php-linux-data-structures-1/",
-         "description":"{ site_name }} work with a wide range of employers/recruiters and is a leading provider of Permanent jobs in Rochester with Job Reference Soft Eng 3.",
-         "additional_links":[
-            {
-               "text":"Senior Software Engineer - Python, PHP, Linux, Data Structureshttps://www.hamlynwilliams.com › job › senior-softwar...",
-               "href":"https://www.hamlynwilliams.com/job/senior-software-engineer-python-php-linux-data-structures-1/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.hamlynwilliams.com › job › senior-softwar...",
-            "span":" › job › senior-softwar..."
-         }
-      },
-      {
-         "title":"Selecting The Correct Backend Technology: PHP vs Python",
-         "link":"https://appsmaventech.com/blog/Selecting-The-Correct-Back-end-Technology-PHP-vs-Python",
-         "description":"Feb 27, 2020 — An application is only as good as the backend that supports it. Backend development is here to stay.",
-         "additional_links":[
-            {
-               "text":"Selecting The Correct Backend Technology: PHP vs Pythonhttps://appsmaventech.com › blog › Selecting-The-Corr...",
-               "href":"https://appsmaventech.com/blog/Selecting-The-Correct-Back-end-Technology-PHP-vs-Python"
-            }
-         ],
-         "cite":{
-            "domain":"https://appsmaventech.com › blog › Selecting-The-Corr...",
-            "span":" › blog › Selecting-The-Corr..."
-         }
-      },
-      {
-         "title":"Binance - Senior QA Engineer (Python/PHP) - Lever",
-         "link":"https://jobs.lever.co/binance/f6614c62-e642-413d-8753-34f95d497cd4",
-         "description":"Binance is the global blockchain company behind the world's largest digital asset exchange by trading volume and users, serving a greater mission to ...",
-         "additional_links":[
-            {
-               "text":"Binance - Senior QA Engineer (Python/PHP) - Leverhttps://jobs.lever.co › binance",
-               "href":"https://jobs.lever.co/binance/f6614c62-e642-413d-8753-34f95d497cd4"
-            }
-         ],
-         "cite":{
-            "domain":"https://jobs.lever.co › binance",
-            "span":" › binance"
-         }
-      },
-      {
-         "title":"68 Python Php Javascript Developer jobs in United States (2 ...",
-         "link":"https://www.linkedin.com/jobs/python-php-javascript-developer-jobs-conshohocken-pa?trk=guest_job_details_jd_jserp_more_jobs_link",
-         "description":"Today's top 68 Python Php Javascript Developer jobs in United States. Leverage your professional network, and get hired. New Python Php Javascript Developer ...",
-         "additional_links":[
-            {
-               "text":"68 Python Php Javascript Developer jobs in United States (2 ...https://www.linkedin.com › jobs › python-php-javascript-...",
-               "href":"https://www.linkedin.com/jobs/python-php-javascript-developer-jobs-conshohocken-pa?trk=guest_job_details_jd_jserp_more_jobs_link"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.linkedin.com › jobs › python-php-javascript-...",
-            "span":" › jobs › python-php-javascript-..."
-         }
-      },
-      {
-         "title":"SpecializedCommercialHosts - Python Wiki",
-         "link":"https://wiki.python.org/moin/SpecializedCommercialHosts",
-         "description":"Sep 30, 2019 — Python hosting with MySQL and MongoDB, including support for Django. All accounts come with a Control Panel and SSH access. Our servers have ...",
-         "additional_links":[
-            {
-               "text":"SpecializedCommercialHosts - Python Wikihttps://wiki.python.org › moin › SpecializedCommercia...",
-               "href":"https://wiki.python.org/moin/SpecializedCommercialHosts"
-            }
-         ],
-         "cite":{
-            "domain":"https://wiki.python.org › moin › SpecializedCommercia...",
-            "span":" › moin › SpecializedCommercia..."
-         }
-      },
-      {
-         "title":"Compare and contrast the shell, Perl, Python, PHP and Tcl as ...",
-         "link":"https://www.wyzant.com/resources/answers/854542/compare-and-contrast-the-shell-perl-python-php-and-tcl-as-rival-languages-f",
-         "description":"Jun 11, 2021 · 1 answerShell script is on Unix/Linux. It is used to manipulate data files on the operating system and perform other system tasks.",
-         "additional_links":[
-            {
-               "text":"Compare and contrast the shell, Perl, Python, PHP and Tcl as ...https://www.wyzant.com › Resources › Ask an Expert",
-               "href":"https://www.wyzant.com/resources/answers/854542/compare-and-contrast-the-shell-perl-python-php-and-tcl-as-rival-languages-f"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.wyzant.com › Resources › Ask an Expert",
-            "span":" › Resources › Ask an Expert"
-         }
-      },
-      {
-         "title":"Java, Python, PHP, JavaScript, C++, C# ... WHO MAKES ...",
-         "link":"https://www.killersites.com/community/index.php?/topic/23434-java-python-php-javascript-c-c-who-makes-more-money/",
-         "description":"Feb 26, 2020 — In this video, Stefan does a deep dive into developer salaries in California. An analysis comparing salaries between Python, PHP, Java, ...",
-         "additional_links":[
-            {
-               "text":"Java, Python, PHP, JavaScript, C++, C# ... WHO MAKES ...https://www.killersites.com › Programming › PHP",
-               "href":"https://www.killersites.com/community/index.php?/topic/23434-java-python-php-javascript-c-c-who-makes-more-money/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.killersites.com › Programming › PHP",
-            "span":" › Programming › PHP"
-         }
-      },
-      {
-         "title":"The Top 55 Python Php Python3 Open Source Projects on ...",
-         "link":"https://awesomeopensource.com/projects/php/python/python3",
-         "description":"The Top 55 Python Php Python3 Open Source Projects on Github. Categories > Programming Languages > Php. Categories > Programming Languages > Python.",
-         "additional_links":[
-            {
-               "text":"The Top 55 Python Php Python3 Open Source Projects on ...https://awesomeopensource.com › projects › python3",
-               "href":"https://awesomeopensource.com/projects/php/python/python3"
-            }
-         ],
-         "cite":{
-            "domain":"https://awesomeopensource.com › projects › python3",
-            "span":" › projects › python3"
-         }
-      },
-      {
-         "title":"What is the Use of Python and PHP While Creating an E ...",
-         "link":"https://www.probytes.net/blog/python-php-creating-e-commerce-website/",
-         "description":"Oct 23, 2017 — There are a number of platforms and programming languages that can help you to build an e-commerce site. These programming languages that ...",
-         "additional_links":[
-            {
-               "text":"What is the Use of Python and PHP While Creating an E ...https://www.probytes.net › blog › python-php-creating-...",
-               "href":"https://www.probytes.net/blog/python-php-creating-e-commerce-website/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.probytes.net › blog › python-php-creating-...",
-            "span":" › blog › python-php-creating-..."
-         }
-      },
-      {
-         "title":"Index of /wp-content/uploads/gallery/python-php-deployment",
-         "link":"http://www.ahmct.ucdavis.edu/wp-content/uploads/gallery/python-php-deployment/",
-         "description":"Name · Last modified · Size · Description. [PARENTDIR], Parent Directory, -. [IMG], php-on-280-2.jpg, 2011-08-16 11:49, 295K. [IMG] ...",
-         "additional_links":[
-            {
-               "text":"Index of /wp-content/uploads/gallery/python-php-deploymenthttp://www.ahmct.ucdavis.edu › wp-content › python-p...",
-               "href":"http://www.ahmct.ucdavis.edu/wp-content/uploads/gallery/python-php-deployment/"
-            }
-         ],
-         "cite":{
-            "domain":"http://www.ahmct.ucdavis.edu › wp-content › python-p...",
-            "span":" › wp-content › python-p..."
-         }
-      },
-      {
-         "title":"ArangoDB Client Drivers",
-         "link":"https://www.arangodb.com/download/drivers/",
-         "description":"Together with the community we provide ArangoDB drivers in many languages: Java, JavaScript, Node.JS, Go, Python, Ruby, Elixir, PHP and more.",
-         "additional_links":[
-            {
-               "text":"ArangoDB Client Drivershttps://www.arangodb.com › download › drivers",
-               "href":"https://www.arangodb.com/download/drivers/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.arangodb.com › download › drivers",
-            "span":" › download › drivers"
-         }
-      },
-      {
-         "title":"Dynamic Languages (Node.JS, Python, PHP, C/C++ ...",
-         "link":"https://community.appdynamics.com/t5/Dynamic-Languages-Node-JS-Python/bd-p/DynamicLanguages/page/3",
-         "description":"Click the Start a free trial link to start a 15-day SaaS trial of our product and join our community as a trial user. If you are an existing customer do not ...",
-         "additional_links":[
-            {
-               "text":"Dynamic Languages (Node.JS, Python, PHP, C/C++ ...https://community.appdynamics.com › bd-p › page",
-               "href":"https://community.appdynamics.com/t5/Dynamic-Languages-Node-JS-Python/bd-p/DynamicLanguages/page/3"
-            }
-         ],
-         "cite":{
-            "domain":"https://community.appdynamics.com › bd-p › page",
-            "span":" › bd-p › page"
-         }
-      },
-      {
-         "title":"How to Use the Axesso – Amazon Data Service API with ...",
-         "link":"https://slacker.ro/2021/03/26/how-to-use-the-axesso-amazon-data-service-api-with-python-php-ruby-javascript-examples/",
-         "description":"Mar 26, 2021 — With the increased demand for goods and services in different regions of the world, e-commerce has become an acceptable way for selling ...",
-         "additional_links":[
-            {
-               "text":"How to Use the Axesso – Amazon Data Service API with ...https://slacker.ro › 2021/03/26 › how-to-use-the-axesso...",
-               "href":"https://slacker.ro/2021/03/26/how-to-use-the-axesso-amazon-data-service-api-with-python-php-ruby-javascript-examples/"
-            }
-         ],
-         "cite":{
-            "domain":"https://slacker.ro › 2021/03/26 › how-to-use-the-axesso...",
-            "span":" › 2021/03/26 › how-to-use-the-axesso..."
-         }
-      },
-      {
-         "title":"Topics tagged pro-python-php - Postman community",
-         "link":"https://community.postman.com/tag/pro-python-php",
-         "description":"Topics tagged pro-python-php.",
-         "additional_links":[
-            {
-               "text":"Topics tagged pro-python-php - Postman communityhttps://community.postman.com › tag › pro-python-php",
-               "href":"https://community.postman.com/tag/pro-python-php"
-            }
-         ],
-         "cite":{
-            "domain":"https://community.postman.com › tag › pro-python-php",
-            "span":" › tag › pro-python-php"
-         }
-      },
-      {
-         "title":"PHP equivalent of in_array() for Python - Twig's Tech Tips",
-         "link":"https://twigstechtips.blogspot.com/2010/02/python-php-equivalent-of-inarray-for.html",
-         "description":"Feb 21, 2010 — To check if a value exists within a PHP array: view sourceprint? 1. if (in_array( \"x\" , $php_array )) {. 2. // Exists.",
-         "additional_links":[
-            {
-               "text":"PHP equivalent of in_array() for Python - Twig's Tech Tipshttps://twigstechtips.blogspot.com › 2010/02 › python-...",
-               "href":"https://twigstechtips.blogspot.com/2010/02/python-php-equivalent-of-inarray-for.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://twigstechtips.blogspot.com › 2010/02 › python-...",
-            "span":" › 2010/02 › python-..."
-         }
-      },
-      {
-         "title":"Documentation for Visual Studio Code",
-         "link":"https://code.visualstudio.com/docs",
-         "description":"It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, ...",
-         "additional_links":[
-            {
-               "text":"Documentation for Visual Studio Codehttps://code.visualstudio.com › docs",
-               "href":"https://code.visualstudio.com/docs"
-            }
-         ],
-         "cite":{
-            "domain":"https://code.visualstudio.com › docs",
-            "span":" › docs"
-         }
-      },
-      {
-         "title":"[ Regex, Python, PHP ] July Code Challenge Review - Twitch",
-         "link":"https://m.twitch.tv/howtocodewell/clip/GeniusSpoopyBottleCharlieBitMe?lang=cs",
-         "description":"0:26Sledujte klip uživatele howtocodewell s názvem [ Regex, Python, PHP ] July Code Challenge Review.Aug 2, 2020",
-         "additional_links":[
-            {
-               "text":"[ Regex, Python, PHP ] July Code Challenge Review - Twitchhttps://m.twitch.tv › Directory",
-               "href":"https://m.twitch.tv/howtocodewell/clip/GeniusSpoopyBottleCharlieBitMe?lang=cs"
-            },
-            {
-               "text":"0:26",
-               "href":"https://m.twitch.tv/howtocodewell/clip/GeniusSpoopyBottleCharlieBitMe?lang=cs"
-            }
-         ],
-         "cite":{
-            "domain":"https://m.twitch.tv › Directory",
-            "span":" › Directory"
-         }
-      },
-      {
-         "title":"Komodo IDE By ActiveState - One IDE for All Your Languages",
-         "link":"https://www.activestate.com/products/komodo-ide/",
-         "description":"Code faster with the IDE for today's web languages – Python, PHP, Perl, Golang, Ruby and more. For Windows, Mac and Linux. Komodo IDE is now FREE as part of ...",
-         "additional_links":[
-            {
-               "text":"Komodo IDE By ActiveState - One IDE for All Your Languageshttps://www.activestate.com › Products",
-               "href":"https://www.activestate.com/products/komodo-ide/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.activestate.com › Products",
-            "span":" › Products"
-         }
-      },
-      {
-         "title":"PHP, JavaScript, Ruby, Perl, Python, and Tcl Today - CIO.com",
-         "link":"https://www.cio.com/article/2433977/php--javascript--ruby--perl--python--and-tcl-today--the-state-of-the-scripting-universe.html",
-         "description":"Aug 29, 2008 — Three years ago, Lynn Greiner interviewed the big cheeses responsible for the popular scripting languages PHP, Perl, Tcl, Python, Ruby and ...",
-         "additional_links":[
-            {
-               "text":"PHP, JavaScript, Ruby, Perl, Python, and Tcl Today - CIO.comhttps://www.cio.com › Developer › Careers",
-               "href":"https://www.cio.com/article/2433977/php--javascript--ruby--perl--python--and-tcl-today--the-state-of-the-scripting-universe.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.cio.com › Developer › Careers",
-            "span":" › Developer › Careers"
-         }
-      },
-      {
-         "title":"Is it possible to use perl, python, php, ruby or whatever to write ...",
-         "link":"https://serverfault.com/questions/476506/is-it-possible-to-use-perl-python-php-ruby-or-whatever-to-write-init-d-script",
-         "description":"1 answerYes. There are issues of availability, speed, reliability, maintainability, etc, but init scripts can be written in whatever you want.",
-         "additional_links":[
-            {
-               "text":"Is it possible to use perl, python, php, ruby or whatever to write ...https://serverfault.com › questions › is-it-possible-to-use...",
-               "href":"https://serverfault.com/questions/476506/is-it-possible-to-use-perl-python-php-ruby-or-whatever-to-write-init-d-script"
-            }
-         ],
-         "cite":{
-            "domain":"https://serverfault.com › questions › is-it-possible-to-use...",
-            "span":" › questions › is-it-possible-to-use..."
-         }
-      },
-      {
-         "title":"Free Vector | Programmer working on web development code ...",
-         "link":"https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723889.htm",
-         "description":"Download this Free Vector about Programmer working on web development code. engineer programming in python, php and java script on computer., and discover ...",
-         "additional_links":[
-            {
-               "text":"Free Vector | Programmer working on web development code ...https://www.freepik.com › free-vector › programmer-w...",
-               "href":"https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723889.htm"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.freepik.com › free-vector › programmer-w...",
-            "span":" › free-vector › programmer-w..."
-         }
-      },
-      {
-         "title":"The 10 Most Popular Programming Languages to Learn in 2021",
-         "link":"https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/",
-         "description":"Jun 18, 2020 — Looking to start a career in software? Learning the most popular programming languages in 2021 will help you build your skills and land a ...",
-         "additional_links":[
-            {
-               "text":"The 10 Most Popular Programming Languages to Learn in 2021https://www.northeastern.edu › graduate › blog › most-...",
-               "href":"https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.northeastern.edu › graduate › blog › most-...",
-            "span":" › graduate › blog › most-..."
-         }
-      },
-      {
-         "title":"Asaba, : CS student/persons interested in learning Python ...",
-         "link":"https://www.superprof.com/student-persons-interested-learning-python-php-programming-language-asaba-delta-state.html",
-         "description":"1$/h : My Teaching is based on piratical, i like to teach and use that which has been taught to make examples. i like to motivate my student to do as much.",
-         "additional_links":[
-            {
-               "text":"Asaba, : CS student/persons interested in learning Python ...https://www.superprof.com › student-persons-interested...",
-               "href":"https://www.superprof.com/student-persons-interested-learning-python-php-programming-language-asaba-delta-state.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.superprof.com › student-persons-interested...",
-            "span":" › student-persons-interested..."
-         }
-      },
-      {
-         "title":"PYTHON PHP Manual - 上广才阅读网，免费读经典 - 学知识",
-         "link":"http://www.ixyread.com/read/ID160549400694ee/OEBPS-Text-Section0045.html",
-         "description":"Feb 16, 2021 — PYTHON PHP Manual · This reference manual describes the syntax and “core semantics” of the language. It is terse, but attempts to be exact and ...",
-         "additional_links":[
-            {
-               "text":"PYTHON PHP Manual - 上广才阅读网，免费读经典 - 学知识http://www.ixyread.com › OEBPS-Text-Section0045",
-               "href":"http://www.ixyread.com/read/ID160549400694ee/OEBPS-Text-Section0045.html"
-            }
-         ],
-         "cite":{
-            "domain":"http://www.ixyread.com › OEBPS-Text-Section0045",
-            "span":" › OEBPS-Text-Section0045"
-         }
-      },
-      {
-         "title":"Top Code Editors and IDE for PHP Development of 2021",
-         "link":"https://www.cloudways.com/blog/top-ide-and-code-editors-php-development/",
-         "description":"NetbeansAptana StudioEclipseSublime TextAtomNotepad++CodaBracketsSlickEditjEditKomodo EditRJ TextEd",
-         "additional_links":[
-            {
-               "text":"Top Code Editors and IDE for PHP Development of 2021https://www.cloudways.com › blog › top-ide-and-code-...",
-               "href":"https://www.cloudways.com/blog/top-ide-and-code-editors-php-development/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.cloudways.com › blog › top-ide-and-code-...",
-            "span":" › blog › top-ide-and-code-..."
-         }
-      },
-      {
-         "title":"Python, PHP, and Ruby: Deciding which language to learn ...",
-         "link":"https://glints.com/sg/hired/python-php-and-ruby-deciding-which-language-to-learn-first-as-you-prepare-for-a-mid-career-switch/",
-         "description":"Aug 15, 2018 — Preparing for a mid-career switch into software development? Can't decide between Python, PHP, and Ruby? Here's how to figure out which ...",
-         "additional_links":[
-            {
-               "text":"Python, PHP, and Ruby: Deciding which language to learn ...https://glints.com › hired › python-php-and-ruby-decid...",
-               "href":"https://glints.com/sg/hired/python-php-and-ruby-deciding-which-language-to-learn-first-as-you-prepare-for-a-mid-career-switch/"
-            }
-         ],
-         "cite":{
-            "domain":"https://glints.com › hired › python-php-and-ruby-decid...",
-            "span":" › hired › python-php-and-ruby-decid..."
-         }
-      },
-      {
-         "title":"NET / Python / PHP / Ruby - Cloud DevOps - Digital Marketplace",
-         "link":"https://www.digitalmarketplace.service.gov.uk/g-cloud/services/932445747549798",
-         "description":"Our highly experienced Software Engineers connect your needs with applicable technology solutions throughout the software development lifecycle.",
-         "additional_links":[
-            {
-               "text":"NET / Python / PHP / Ruby - Cloud DevOps - Digital Marketplacehttps://www.digitalmarketplace.service.gov.uk › services",
-               "href":"https://www.digitalmarketplace.service.gov.uk/g-cloud/services/932445747549798"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.digitalmarketplace.service.gov.uk › services",
-            "span":" › services"
-         }
-      },
-      {
-         "title":"Long lived Python/PHP daemon-script-wrapper with ...",
-         "link":"https://upwork.link/servers-of-web-apache2/long-lived-python-php-daemon-script-wrapper-with-supervisor-instead-cron-schedules/",
-         "description":"Jun 1, 2021 — All novice Linux users and seasoned sysadmins know that Cron is a great simple solution to the problem of regularly calling the same ...",
-         "additional_links":[
-            {
-               "text":"Long lived Python/PHP daemon-script-wrapper with ...https://upwork.link › servers-of-web-apache2 › long-liv...",
-               "href":"https://upwork.link/servers-of-web-apache2/long-lived-python-php-daemon-script-wrapper-with-supervisor-instead-cron-schedules/"
-            }
-         ],
-         "cite":{
-            "domain":"https://upwork.link › servers-of-web-apache2 › long-liv...",
-            "span":" › servers-of-web-apache2 › long-liv..."
-         }
-      },
-      {
-         "title":"Why choose Python over PHP in web application development?",
-         "link":"https://ezeelive.com/choose-python-php-web-application-development/",
-         "description":"Why choose Python over PHP in web application development? Back to Blog. Ezeelive Technologie - Python PHP in Web Application Development.",
-         "additional_links":[
-            {
-               "text":"Why choose Python over PHP in web application development?https://ezeelive.com › ... › Web Development",
-               "href":"https://ezeelive.com/choose-python-php-web-application-development/"
-            }
-         ],
-         "cite":{
-            "domain":"https://ezeelive.com › ... › Web Development",
-            "span":" › ... › Web Development"
-         }
-      },
-      {
-         "title":"Between Python, PHP, and Javascript, which one is more ...",
-         "link":"https://community.spiceworks.com/topic/2170394-between-python-php-and-javascript-which-one-is-more-useful-to-learn",
-         "description":"Oct 21, 2018 — I wish to go into coding, but i see so many different languages that i wonder which one would be actually useful to learn?Many.5 posts  ·  You can start learning PHP and Javascript first if that is your preference. However, ...",
-         "additional_links":[
-            {
-               "text":"Between Python, PHP, and Javascript, which one is more ...https://community.spiceworks.com › topic › 2170394-b...",
-               "href":"https://community.spiceworks.com/topic/2170394-between-python-php-and-javascript-which-one-is-more-useful-to-learn"
-            },
-            {
-               "text":"5 posts",
-               "href":"https://community.spiceworks.com/topic/2170394-between-python-php-and-javascript-which-one-is-more-useful-to-learn#entry-8028733"
-            }
-         ],
-         "cite":{
-            "domain":"https://community.spiceworks.com › topic › 2170394-b...",
-            "span":" › topic › 2170394-b..."
-         }
-      },
-      {
-         "title":"PHP和Python的全面比较，究竟哪一个更好？ - BitDegree",
-         "link":"https://cn.bitdegree.org/jiao-cheng/php-he-python/",
-         "description":"Jul 16, 2020 — PHP和Python：发现差异和相似之处。阅读这个关于PHP和Python的比较教程，找出哪个更好更适合您的需要：究竟是PHP还是Python？",
-         "additional_links":[
-            {
-               "text":"PHP和Python的全面比较，究竟哪一个更好？ - BitDegreehttps://cn.bitdegree.org › jiao-cheng",
-               "href":"https://cn.bitdegree.org/jiao-cheng/php-he-python/"
-            },
-            {
-               "text":"Translate this page",
-               "href":"https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://cn.bitdegree.org/jiao-cheng/php-he-python/&prev=search&pto=aue"
-            }
-         ],
-         "cite":{
-            "domain":"https://cn.bitdegree.org › jiao-cheng",
-            "span":" › jiao-cheng"
-         }
-      },
-      {
-         "title":"Difference between PyCharm/PHPStorm and IDEA Plugins for ...",
-         "link":"https://intellij-support.jetbrains.com/hc/en-us/community/posts/206937185-Difference-between-PyCharm-PHPStorm-and-IDEA-Plugins-for-Python-PHP",
-         "description":"Apr 12, 2010 — Hi,i'm taking a look at at JetBrains' IDEs and was wondering wether there is a difference between the various IDEA Plugins for...",
-         "additional_links":[
-            {
-               "text":"Difference between PyCharm/PHPStorm and IDEA Plugins for ...https://intellij-support.jetbrains.com › community › posts",
-               "href":"https://intellij-support.jetbrains.com/hc/en-us/community/posts/206937185-Difference-between-PyCharm-PHPStorm-and-IDEA-Plugins-for-Python-PHP"
-            }
-         ],
-         "cite":{
-            "domain":"https://intellij-support.jetbrains.com › community › posts",
-            "span":" › community › posts"
-         }
-      },
-      {
-         "title":"How has the performance of PHP, Python, and Ruby improved ...",
-         "link":"https://levelup.gitconnected.com/how-has-the-performance-of-php-python-and-ruby-improved-in-recent-years-1768fd5b6df9",
-         "description":"Feb 23, 2020 — Let's review performance improvements for 3 of the main programming languages to better understand the importance of keeping our projects ...",
-         "additional_links":[
-            {
-               "text":"How has the performance of PHP, Python, and Ruby improved ...https://levelup.gitconnected.com › ...",
-               "href":"https://levelup.gitconnected.com/how-has-the-performance-of-php-python-and-ruby-improved-in-recent-years-1768fd5b6df9"
-            }
-         ],
-         "cite":{
-            "domain":"https://levelup.gitconnected.com › ...",
-            "span":" › ..."
-         }
-      },
-      {
-         "title":"Red Hat updates Python, PHP, Node.js, more; supports new ...",
-         "link":"https://developers.redhat.com/blog/2017/10/04/red-hat-updates-python-php-node-js-supports-new-arches",
-         "description":"Oct 4, 2017 — I am pleased to announce the immediate availability of Red Hat Software Collections 3.0 Beta, Red Hat's newest installment of open source ...",
-         "additional_links":[
-            {
-               "text":"Red Hat updates Python, PHP, Node.js, more; supports new ...https://developers.redhat.com › blog › 2017/10/04 › re...",
-               "href":"https://developers.redhat.com/blog/2017/10/04/red-hat-updates-python-php-node-js-supports-new-arches"
-            }
-         ],
-         "cite":{
-            "domain":"https://developers.redhat.com › blog › 2017/10/04 › re...",
-            "span":" › blog › 2017/10/04 › re..."
-         }
-      },
-      {
-         "title":"Which Country Has More Java, JavaScript, Ruby on Rails ...",
-         "link":"https://www.daxx.com/blog/development-trends/number-java-javascript-python-php-rubyonrails-developers",
-         "description":"Jan 24, 2020 — Find numbers of Java, JavaScript, Ruby on Rails, Python, and PHP developers in the US, the UK, Germany, the Netherlands, and Ukraine in our ...",
-         "additional_links":[
-            {
-               "text":"Which Country Has More Java, JavaScript, Ruby on Rails ...https://www.daxx.com › Blog › Trends",
-               "href":"https://www.daxx.com/blog/development-trends/number-java-javascript-python-php-rubyonrails-developers"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.daxx.com › Blog › Trends",
-            "span":" › Blog › Trends"
-         }
-      },
-      {
-         "title":"PHP Vs Python : What to Choose in 2021? (Updated Guide)",
-         "link":"https://www.techgropse.com/blog/php-vs-python/",
-         "description":"Nov 17, 2020 — In this world of programming languages, it's necessary to be sure for staying on the right side of development. We will be discussing PHP vs ...",
-         "additional_links":[
-            {
-               "text":"PHP Vs Python : What to Choose in 2021? (Updated Guide)https://www.techgropse.com › blog › php-vs-python",
-               "href":"https://www.techgropse.com/blog/php-vs-python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.techgropse.com › blog › php-vs-python",
-            "span":" › blog › php-vs-python"
-         }
-      },
-      {
-         "title":"Running a python script from my php server - Ask Ubuntu",
-         "link":"https://askubuntu.com/questions/902833/running-a-python-script-from-my-php-server",
-         "description":"Apr 9, 2017 · 1 answerNot the answer you're looking for? Browse other questions tagged scripts python php raspberrypi or ask your own question. The Overflow Blog.",
-         "additional_links":[
-            {
-               "text":"Running a python script from my php server - Ask Ubuntuhttps://askubuntu.com › questions › running-a-python-s...",
-               "href":"https://askubuntu.com/questions/902833/running-a-python-script-from-my-php-server"
-            }
-         ],
-         "cite":{
-            "domain":"https://askubuntu.com › questions › running-a-python-s...",
-            "span":" › questions › running-a-python-s..."
-         }
-      },
-      {
-         "title":"Programming language PHP 8 is out: This new JIT compiler ...",
-         "link":"https://www.zdnet.com/article/programming-language-php-8-is-out-this-new-jit-compiler-points-to-better-performance/",
-         "description":"Nov 27, 2020 — A senior Google database expert loves the JIT compiler, but others doubt its worth and say it could be hard to maintain.",
-         "additional_links":[
-            {
-               "text":"Programming language PHP 8 is out: This new JIT compiler ...https://www.zdnet.com › Topic › Enterprise Software",
-               "href":"https://www.zdnet.com/article/programming-language-php-8-is-out-this-new-jit-compiler-points-to-better-performance/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.zdnet.com › Topic › Enterprise Software",
-            "span":" › Topic › Enterprise Software"
-         }
-      },
-      {
-         "title":"Senior Web Developer - Python/PHP/Node-JS - Akamai Careers",
-         "link":"https://akamaijobs.referrals.selectminds.com/jobs/senior-web-developer-python-php-node-js-14184",
-         "description":"Dec 2, 2020 — Are you a web developer who loves creating complex web applications ? Would developing the web pages and business-critical applications ...",
-         "additional_links":[
-            {
-               "text":"Senior Web Developer - Python/PHP/Node-JS - Akamai Careershttps://akamaijobs.referrals.selectminds.com › jobs › se...",
-               "href":"https://akamaijobs.referrals.selectminds.com/jobs/senior-web-developer-python-php-node-js-14184"
-            }
-         ],
-         "cite":{
-            "domain":"https://akamaijobs.referrals.selectminds.com › jobs › se...",
-            "span":" › jobs › se..."
-         }
-      },
-      {
-         "title":"Release the clients! Ruby, Python, PHP, Perl | Elastic Blog",
-         "link":"https://www.elastic.co/blog/unleash-the-clients-ruby-python-php-perl",
-         "description":"Sep 24, 2013 — Today, the Elasticsearch developer team is excited to announce the release of official Elasticsearch clients for Ruby, Python, PHP and Perl, ...",
-         "additional_links":[
-            {
-               "text":"Release the clients! Ruby, Python, PHP, Perl | Elastic Bloghttps://www.elastic.co › blog › unleash-the-clients-ruby...",
-               "href":"https://www.elastic.co/blog/unleash-the-clients-ruby-python-php-perl"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.elastic.co › blog › unleash-the-clients-ruby...",
-            "span":" › blog › unleash-the-clients-ruby..."
-         }
-      },
-      {
-         "title":"C, C++, Java, Python, PHP, JavaScript and Linux For Beginners",
-         "link":"https://books.google.com/books?id=xnTcDwAAQBAJ&pg=PA608&lpg=PA608&dq=%22Python+Php%22&source=bl&ots=q0fU5yaDsI&sig=ACfU3U2kWpY2RM7mbHhQkYkPm84cDHP6eg&hl=en&sa=X&ved=2ahUKEwj_56eF-4v0AhWcRjABHasZCG0Q6AF6BQjCAhAD",
-         "description":"Manjunath.R · 2020 · ‎Antiques & Collectibles",
-         "additional_links":[
-            {
-               "text":"C, C++, Java, Python, PHP, JavaScript and Linux For Beginnershttps://books.google.com › books",
-               "href":"https://books.google.com/books?id=xnTcDwAAQBAJ&pg=PA608&lpg=PA608&dq=%22Python+Php%22&source=bl&ots=q0fU5yaDsI&sig=ACfU3U2kWpY2RM7mbHhQkYkPm84cDHP6eg&hl=en&sa=X&ved=2ahUKEwj_56eF-4v0AhWcRjABHasZCG0Q6AF6BQjCAhAD"
-            },
-            {
-               "text":"Manjunath.R",
-               "href":"/search?num=100&tbm=bks&q=inauthor:%22Manjunath.R%22&sa=X&ved=2ahUKEwj_56eF-4v0AhWcRjABHasZCG0Q9Ah6BQjCAhAG"
-            }
-         ],
-         "cite":{
-            "domain":"https://books.google.com › books",
-            "span":" › books"
-         }
+  "results": [
+    {
+      "title": "Python vs PHP in 2021 - Comparison, Features & Applications",
+      "link": "https://hackr.io/blog/python-vs-php",
+      "description": "Aug 27, 2021 — PHP has been considered the easiest language to exist since its birth. It was created to provide a simple language for new starters to learn.‎What is Python? · ‎What is PHP? · ‎PHP vs Python Performance... · ‎Ease of Learning",
+      "additional_links": [
+        {
+          "text": "Python vs PHP in 2021 - Comparison, Features & Applicationshttps://hackr.io › blog › python-vs-php",
+          "href": "https://hackr.io/blog/python-vs-php"
+        },
+        {
+          "text": "What is Python?",
+          "href": "https://hackr.io/blog/python-vs-php#what-is-python"
+        },
+        {
+          "text": "What is PHP?",
+          "href": "https://hackr.io/blog/python-vs-php#what-is-php"
+        },
+        {
+          "text": "PHP vs Python Performance...",
+          "href": "https://hackr.io/blog/python-vs-php#php-vs-python-performance-comparison"
+        },
+        {
+          "text": "Ease of Learning",
+          "href": "https://hackr.io/blog/python-vs-php#ease-of-learning"
+        }
+      ],
+      "cite": {
+        "domain": "https://hackr.io › blog › python-vs-php",
+        "span": " › blog › python-vs-php"
       }
-   ],
-   "image_results":[
-
-   ],
-   "total":4060000,
-   "answers":[
-
-   ],
-   "ts":2.1588473320007324,
-   "device_region":"US",
-   "device_type":"desktop"
+    },
+    {
+      "title": "PHP Vs Python: Which Is Best For Web Applications In 2021?",
+      "link": "https://medium.com/quick-code/php-vs-python-which-is-best-for-web-applications-in-2021-b7ad3fe0743a",
+      "description": "Jun 3, 2021 — A few years ago, Python was considered the fastest programming language, but PHP version 7 has completely changed the picture. Today PHP is 3 ...",
+      "additional_links": [
+        {
+          "text": "PHP Vs Python: Which Is Best For Web Applications In 2021?https://medium.com › quick-code",
+          "href": "https://medium.com/quick-code/php-vs-python-which-is-best-for-web-applications-in-2021-b7ad3fe0743a"
+        }
+      ],
+      "cite": {
+        "domain": "https://medium.com › quick-code",
+        "span": " › quick-code"
+      }
+    },
+    {
+      "title": "PHP vs Python: Features & Comparison in 2021 | Net Solutions",
+      "link": "https://www.netsolutions.com/insights/10-reasons-why-python-scores-over-php-for-web-development/",
+      "description": "Python and Php both are great langages. Php is much more in web development but Python has much wide sectors like web development, ai, machine learning etc.",
+      "additional_links": [
+        {
+          "text": "PHP vs Python: Features & Comparison in 2021 | Net Solutionshttps://www.netsolutions.com › insights › 10-reasons-w...",
+          "href": "https://www.netsolutions.com/insights/10-reasons-why-python-scores-over-php-for-web-development/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.netsolutions.com › insights › 10-reasons-w...",
+        "span": " › insights › 10-reasons-w..."
+      }
+    },
+    {
+      "title": "Python Vs PHP: Which should you go for in 2021 - H2k Infosys",
+      "link": "https://www.h2kinfosys.com/blog/python-vs-php-which-should-you-go-for-in-2021/",
+      "description": "Jan 28, 2021 — Python is a general-purpose language as it can be used in many applications such as machine learning, hacking, software testing, etc. Whereas ...Speed: Running codes in Python is fasterFramework: Python has a relatively small num...Learning curve: Python has a gentle learning c...",
+      "additional_links": [
+        {
+          "text": "Python Vs PHP: Which should you go for in 2021 - H2k Infosyshttps://www.h2kinfosys.com › blog › python-vs-php-w...",
+          "href": "https://www.h2kinfosys.com/blog/python-vs-php-which-should-you-go-for-in-2021/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.h2kinfosys.com › blog › python-vs-php-w...",
+        "span": " › blog › python-vs-php-w..."
+      }
+    },
+    {
+      "title": "PHP vs Python: Which One To Opt For Web Development?",
+      "link": "https://www.esparkinfo.com/php-vs-python.html",
+      "description": "PHP and Python are two of the finest programming languages for developing web applications. This blog provides a feature-based comparison of PHP vs Python.Type of language: Regular purpose programm...Database Connectivity: Not as broad a databa...Learning curve: Python is meant for long-term ...Frameworks: Python has lesser frameworksWhich Is Faster: Python or PHP?Why Prefer Python Over PHP?",
+      "additional_links": [
+        {
+          "text": "PHP vs Python: Which One To Opt For Web Development?https://www.esparkinfo.com › php-vs-python",
+          "href": "https://www.esparkinfo.com/php-vs-python.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.esparkinfo.com › php-vs-python",
+        "span": " › php-vs-python"
+      }
+    },
+    {
+      "title": "Python vs. PHP: The Battle Is ON - Clarion Technologies",
+      "link": "https://www.clariontech.com/blog/python-vs.-php-the-battle-is-on",
+      "description": "PHP, with impeccable code readability. When PHP is widely used for web development, Python is empowered with the magical power to define data science and ...",
+      "additional_links": [
+        {
+          "text": "Python vs. PHP: The Battle Is ON - Clarion Technologieshttps://www.clariontech.com › blog › python-vs.-php-t...",
+          "href": "https://www.clariontech.com/blog/python-vs.-php-the-battle-is-on"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.clariontech.com › blog › python-vs.-php-t...",
+        "span": " › blog › python-vs.-php-t..."
+      }
+    },
+    {
+      "title": "PHP vs Python vs Ruby: Detailed Comparison - PixelCrayons",
+      "link": "https://www.pixelcrayons.com/blog/php-vs-python-vs-ruby-comparison/",
+      "description": "Tags:php vs pythonphp vs python careerphp vs python efficiencyphp vs python fasterphp vs python speed comparisonPHP vs Python vs Ruby ...Oct 26, 2021 · Uploaded by PixelCrayons",
+      "additional_links": [
+        {
+          "text": "PHP vs Python vs Ruby: Detailed Comparison - PixelCrayonshttps://www.pixelcrayons.com › blog › php-vs-python-vs...",
+          "href": "https://www.pixelcrayons.com/blog/php-vs-python-vs-ruby-comparison/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.pixelcrayons.com › blog › php-vs-python-vs...",
+        "span": " › blog › php-vs-python-vs..."
+      }
+    },
+    {
+      "title": "Python vs PHP: Which Technology Will Dominate In The Future?",
+      "link": "https://www.ideamotive.co/blog/python-vs-php-which-technology-will-dominate-the-future-of-web-development",
+      "description": "Nov 16, 2020 — Python vs PHP: find out which programming language is better, faster, and easier to learn!",
+      "additional_links": [
+        {
+          "text": "Python vs PHP: Which Technology Will Dominate In The Future?https://www.ideamotive.co › blog › python-vs-php-whi...",
+          "href": "https://www.ideamotive.co/blog/python-vs-php-which-technology-will-dominate-the-future-of-web-development"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.ideamotive.co › blog › python-vs-php-whi...",
+        "span": " › blog › python-vs-php-whi..."
+      }
+    },
+    {
+      "title": "PHP vs. Python Backend Languages: What's the Difference?",
+      "link": "https://gbksoft.com/blog/php-vs-python-backend-languages/",
+      "description": "Sep 21, 2021 — Python; PHP; JavaScript; Ruby; C#. So when it comes to backend developers, there is one reasonable question – what framework should ... Rating: 4.8 · ‎42 reviews",
+      "additional_links": [
+        {
+          "text": "PHP vs. Python Backend Languages: What's the Difference?https://gbksoft.com › Blog › Tech › PHP",
+          "href": "https://gbksoft.com/blog/php-vs-python-backend-languages/"
+        }
+      ],
+      "cite": {
+        "domain": "https://gbksoft.com › Blog › Tech › PHP",
+        "span": " › Blog › Tech › PHP"
+      },
+      "g_review_stars": " Rating: 4.8 · ‎42 reviews"
+    },
+    {
+      "title": "PHP vs. Python: Is One Better Than The Other? - Scout APM",
+      "link": "https://scoutapm.com/blog/php-vs-python",
+      "description": "Mar 30, 2021 — Based on Stack Overflow trends in the last 10 years, two of the most popular server-side languages are Python and PHP.",
+      "additional_links": [
+        {
+          "text": "PHP vs. Python: Is One Better Than The Other? - Scout APMhttps://scoutapm.com › blog › php-vs-python",
+          "href": "https://scoutapm.com/blog/php-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://scoutapm.com › blog › php-vs-python",
+        "span": " › blog › php-vs-python"
+      }
+    },
+    {
+      "title": "Python vs PHP - STechies",
+      "link": "https://www.stechies.com/difference-between-python-php/",
+      "description": "What is the difference between Python vs PHP? PHP stands for Hypertext Preprocessor is a programming language used for back end web development that earlier ...",
+      "additional_links": [
+        {
+          "text": "Python vs PHP - STechieshttps://www.stechies.com › Python › Python Tutorial",
+          "href": "https://www.stechies.com/difference-between-python-php/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.stechies.com › Python › Python Tutorial",
+        "span": " › Python › Python Tutorial"
+      }
+    },
+    {
+      "title": "Python vs PHP vs JavaScript: Which is Best For Your Next ...",
+      "link": "https://hackernoon.com/python-vs-php-vs-javascript-which-is-best-for-your-next-project-i33v31y1",
+      "description": " › ...  › ... Jan 21, 2021 — ",
+      "additional_links": [
+        {
+          "text": "Python vs PHP vs JavaScript: Which is Best For Your Next ...https://hackernoon.com › ...",
+          "href": "https://hackernoon.com/python-vs-php-vs-javascript-which-is-best-for-your-next-project-i33v31y1"
+        },
+        {
+          "text": "Python vs PHP: Who Will Win the Ultimate Battle? | Hacker Noonhttps://hackernoon.com › ...",
+          "href": "https://hackernoon.com/python-vs-php-who-wins-the-ultimate-battle-dd75m32ly"
+        }
+      ],
+      "cite": {
+        "domain": "https://hackernoon.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Python vs PHP vs JavaScript: Which is Best For Your Next ...",
+      "link": "https://hackernoon.com/python-vs-php-vs-javascript-which-is-best-for-your-next-project-i33v31y1",
+      "description": "Jan 21, 2021 — Python, JavaScript, and PHP are all the leading programming or scripting languages in the world. Python is a scripting language for Linux, PHP ...",
+      "additional_links": [
+        {
+          "text": "Python vs PHP vs JavaScript: Which is Best For Your Next ...https://hackernoon.com › ...",
+          "href": "https://hackernoon.com/python-vs-php-vs-javascript-which-is-best-for-your-next-project-i33v31y1"
+        }
+      ],
+      "cite": {
+        "domain": "https://hackernoon.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Python vs PHP: Who Will Win the Ultimate Battle? | Hacker Noon",
+      "link": "https://hackernoon.com/python-vs-php-who-wins-the-ultimate-battle-dd75m32ly",
+      "description": "Oct 13, 2019 — When it's about Python vs PHP, I certainly feel that Python is used for general purposes as similar to Java. With great choice of libraries ...",
+      "additional_links": [
+        {
+          "text": "Python vs PHP: Who Will Win the Ultimate Battle? | Hacker Noonhttps://hackernoon.com › ...",
+          "href": "https://hackernoon.com/python-vs-php-who-wins-the-ultimate-battle-dd75m32ly"
+        }
+      ],
+      "cite": {
+        "domain": "https://hackernoon.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Which is better, PHP or Python? Why? - Quora",
+      "link": "https://www.quora.com/Which-is-better-PHP-or-Python-Why",
+      "description": "Python is used for a lot more than web development. PHP is not. Judging by your \"HTML & CSS\", I'd guess web development is your main focus right now. But should ...408 answers  ·  3 votes: Both of them have the characteristic features that make them unique. Pyhton has gained ...",
+      "additional_links": [
+        {
+          "text": "Which is better, PHP or Python? Why? - Quorahttps://www.quora.com › Which-is-better-PHP-or-Pyth...",
+          "href": "https://www.quora.com/Which-is-better-PHP-or-Python-Why"
+        },
+        {
+          "text": "408 answers",
+          "href": "https://www.quora.com/Which-is-better-PHP-or-Python-Why?top_ans=312487732"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.quora.com › Which-is-better-PHP-or-Pyth...",
+        "span": " › Which-is-better-PHP-or-Pyth..."
+      }
+    },
+    {
+      "title": "PHP vs Python: Which Language Is Dominating The Market?",
+      "link": "https://appinventiv.com/blog/php-vs-python/",
+      "description": "Nov 21, 2019 — One of the PHP vs Python key differences is that PHP is object-oriented programming language whereas Python is both object and ...",
+      "additional_links": [
+        {
+          "text": "PHP vs Python: Which Language Is Dominating The Market?https://appinventiv.com › blog › php-vs-python",
+          "href": "https://appinventiv.com/blog/php-vs-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://appinventiv.com › blog › php-vs-python",
+        "span": " › blog › php-vs-python"
+      }
+    },
+    {
+      "title": "Call Python (Web API) from PHP - No Frameworks Involved",
+      "link": "https://www.youtube.com/watch?v=Bx_BEA8VPq0",
+      "description": "15:57Build a Web API in Pythonhttps://youtu.be/Bdeclymkt-AA web API, developed in any programming language ...Oct 1, 2020 · Uploaded by Kovolff",
+      "additional_links": [
+        {
+          "text": "Call Python (Web API) from PHP - No Frameworks Involvedhttps://www.youtube.com › watch",
+          "href": "https://www.youtube.com/watch?v=Bx_BEA8VPq0"
+        },
+        {
+          "text": "15:57",
+          "href": "https://www.youtube.com/watch?v=Bx_BEA8VPq0"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.youtube.com › watch",
+        "span": " › watch"
+      }
+    },
+    {
+      "title": "Python vs PHP for Web Development: Which Is Better? - DZone",
+      "link": "https://dzone.com/articles/why-python-is-better-for-web-development-than-php",
+      "description": "Dec 29, 2020 — Python and PHP are two extremely popular and high-ranked programming languages. If you may be wondering which language has a greater demand ...",
+      "additional_links": [
+        {
+          "text": "Python vs PHP for Web Development: Which Is Better? - DZonehttps://dzone.com › Web Dev Zone",
+          "href": "https://dzone.com/articles/why-python-is-better-for-web-development-than-php"
+        }
+      ],
+      "cite": {
+        "domain": "https://dzone.com › Web Dev Zone",
+        "span": " › Web Dev Zone"
+      }
+    },
+    {
+      "title": "Python vs PHP: Main Differences and Comparison - SCAND",
+      "link": "https://scand.com/company/blog/python-vs-php-for-web-development/",
+      "description": "Jun 28, 2019 — Well, Python used to be faster before PHP7 appeared. The performance benchmarks show that now PHP7 beats other programming languages in terms of ...",
+      "additional_links": [
+        {
+          "text": "Python vs PHP: Main Differences and Comparison - SCANDhttps://scand.com › Corporate Blog",
+          "href": "https://scand.com/company/blog/python-vs-php-for-web-development/"
+        }
+      ],
+      "cite": {
+        "domain": "https://scand.com › Corporate Blog",
+        "span": " › Corporate Blog"
+      }
+    },
+    {
+      "title": "Learn Python, PHP, Ruby and Javascript in one Blog Post",
+      "link": "https://dev.to/alexmercedcoder/learn-python-php-ruby-and-javascript-in-one-blog-post-2n0p",
+      "description": "Jan 30, 2021 — Getting Started Below we will have the patterns for all the main programming concepts in f... Tagged with python, php, javascript, ruby.",
+      "additional_links": [
+        {
+          "text": "Learn Python, PHP, Ruby and Javascript in one Blog Posthttps://dev.to › alexmercedcoder › learn-python-php-ru...",
+          "href": "https://dev.to/alexmercedcoder/learn-python-php-ruby-and-javascript-in-one-blog-post-2n0p"
+        }
+      ],
+      "cite": {
+        "domain": "https://dev.to › alexmercedcoder › learn-python-php-ru...",
+        "span": " › alexmercedcoder › learn-python-php-ru..."
+      }
+    },
+    {
+      "title": "PHP vs Python vs Ruby : A Detailed Comparison - SemiDot ...",
+      "link": "https://semidotinfotech.com/blog/php-vs-python-vs-ruby-comparison/",
+      "description": "Apr 22, 2020 — Everyone wants to have a solution that is based on the best available technology. There are many programming languages available in the market, ...",
+      "additional_links": [
+        {
+          "text": "PHP vs Python vs Ruby : A Detailed Comparison - SemiDot ...https://semidotinfotech.com › blog › php-vs-python-vs-...",
+          "href": "https://semidotinfotech.com/blog/php-vs-python-vs-ruby-comparison/"
+        }
+      ],
+      "cite": {
+        "domain": "https://semidotinfotech.com › blog › php-vs-python-vs-...",
+        "span": " › blog › php-vs-python-vs-..."
+      }
+    },
+    {
+      "title": "INFO.3050 Survey of Perl/Python/PHP (Formerly 90.305)",
+      "link": "https://www.uml.edu/catalog/courses/info/3050",
+      "description": "Id: 007987 Credits Min: 3 Credits Max: 3. Description. The goal of this course is to provide an in-depth introduction to the Python programming language ...",
+      "additional_links": [
+        {
+          "text": "INFO.3050 Survey of Perl/Python/PHP (Formerly 90.305)https://www.uml.edu › catalog › courses › info",
+          "href": "https://www.uml.edu/catalog/courses/info/3050"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.uml.edu › catalog › courses › info",
+        "span": " › catalog › courses › info"
+      }
+    },
+    {
+      "title": "Difference Between PHP and Python (with Comparison Chart)",
+      "link": "https://techdifferences.com/difference-between-php-and-python.html",
+      "description": "PHP vs Python PHP and Python are the popular high-level programming languages which have a strong open source background and also provide comprehensive ...",
+      "additional_links": [
+        {
+          "text": "Difference Between PHP and Python (with Comparison Chart)https://techdifferences.com › difference-between-php-a...",
+          "href": "https://techdifferences.com/difference-between-php-and-python.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://techdifferences.com › difference-between-php-a...",
+        "span": " › difference-between-php-a..."
+      }
+    },
+    {
+      "title": "CCXT – CryptoCurrency eXchange Trading Library - GitHub",
+      "link": "https://github.com/ccxt/ccxt",
+      "description": "... Exchange Markets Install JavaScript (NPM) JavaScript (for use with the <script> tag): Python PHP Docker Documentation Usage Intro JavaScript Python PHP ...",
+      "additional_links": [
+        {
+          "text": "CCXT – CryptoCurrency eXchange Trading Library - GitHubhttps://github.com › ccxt › ccxt",
+          "href": "https://github.com/ccxt/ccxt"
+        }
+      ],
+      "cite": {
+        "domain": "https://github.com › ccxt › ccxt",
+        "span": " › ccxt › ccxt"
+      }
+    },
+    {
+      "title": "JavaScript vs PHP vs Python 2021 Comparison of Languages",
+      "link": "https://stackshare.io/stackups/javascript-vs-php-vs-python",
+      "description": " › stackups › javascript-vs-php-vs-p...  › stackups › javascript-vs-php-vs-p... Oct 30, 2021 —  Related Comparisons. Python vs SwiftGroovy vs PythonPHP vs Python vs RubyJavaScript vs SwiftJava vs PHP vs Python ...",
+      "additional_links": [
+        {
+          "text": "JavaScript vs PHP vs Python 2021 Comparison of Languageshttps://stackshare.io › stackups › javascript-vs-php-vs-p...",
+          "href": "https://stackshare.io/stackups/javascript-vs-php-vs-python"
+        },
+        {
+          "text": "Java vs PHP vs Python | What are the differences? - StackSharehttps://stackshare.io › stackups › java-vs-php-vs-python",
+          "href": "https://stackshare.io/stackups/java-vs-php-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://stackshare.io › stackups › javascript-vs-php-vs-p...",
+        "span": " › stackups › javascript-vs-php-vs-p..."
+      }
+    },
+    {
+      "title": "JavaScript vs PHP vs Python 2021 Comparison of Languages",
+      "link": "https://stackshare.io/stackups/javascript-vs-php-vs-python",
+      "description": "Oct 30, 2021 — Related Comparisons. Python vs SwiftGroovy vs PythonPHP vs Python vs RubyJavaScript vs SwiftJava vs PHP vs Python ...",
+      "additional_links": [
+        {
+          "text": "JavaScript vs PHP vs Python 2021 Comparison of Languageshttps://stackshare.io › stackups › javascript-vs-php-vs-p...",
+          "href": "https://stackshare.io/stackups/javascript-vs-php-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://stackshare.io › stackups › javascript-vs-php-vs-p...",
+        "span": " › stackups › javascript-vs-php-vs-p..."
+      }
+    },
+    {
+      "title": "Java vs PHP vs Python | What are the differences? - StackShare",
+      "link": "https://stackshare.io/stackups/java-vs-php-vs-python",
+      "description": "4 days ago — Related Comparisons. JavaScript vs PHP vs PythonPython vs SwiftGroovy vs PythonPHP vs Python vs RubyPython vs R Language vs Scala ...",
+      "additional_links": [
+        {
+          "text": "Java vs PHP vs Python | What are the differences? - StackSharehttps://stackshare.io › stackups › java-vs-php-vs-python",
+          "href": "https://stackshare.io/stackups/java-vs-php-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://stackshare.io › stackups › java-vs-php-vs-python",
+        "span": " › stackups › java-vs-php-vs-python"
+      }
+    },
+    {
+      "title": "Python Tutorial - W3Schools",
+      "link": "https://www.w3schools.com/python/",
+      "description": "HTML CSS JAVASCRIPT SQL PYTHON PHP BOOTSTRAP HOW TO W3.CSS JAVA JQUERY C++ C# R React Kotlin. ×. Tutorials. HTML and CSS.",
+      "additional_links": [
+        {
+          "text": "Python Tutorial - W3Schoolshttps://www.w3schools.com › python",
+          "href": "https://www.w3schools.com/python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.w3schools.com › python",
+        "span": " › python"
+      }
+    },
+    {
+      "title": "Python vs PHP - which language to choose for your app?",
+      "link": "https://www.merixstudio.com/blog/python-php-choose-for-app/",
+      "description": "Python and PHP are two mature server-side programming languages. Which will suit your project best? Read to find out!Mar 12, 2020 · Uploaded by Marcos Nobre",
+      "additional_links": [
+        {
+          "text": "Python vs PHP - which language to choose for your app?https://www.merixstudio.com › ... › business & agile",
+          "href": "https://www.merixstudio.com/blog/python-php-choose-for-app/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.merixstudio.com › ... › business & agile",
+        "span": " › ... › business & agile"
+      }
+    },
+    {
+      "title": "lamp python php Jobs near Placentia, CA - CyberCoders",
+      "link": "https://www.cybercoders.com/search/lamp-python-php-skills/placentia-ca-area-jobs/?telecommute=true",
+      "description": "lamp python php Jobs near Placentia, CA ... Make your profile visible to over 350 recruiters looking to place candidates like you. ... CyberCoders is an Equal ...",
+      "additional_links": [
+        {
+          "text": "lamp python php Jobs near Placentia, CA - CyberCodershttps://www.cybercoders.com › search › placentia-ca-ar...",
+          "href": "https://www.cybercoders.com/search/lamp-python-php-skills/placentia-ca-area-jobs/?telecommute=true"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.cybercoders.com › search › placentia-ca-ar...",
+        "span": " › search › placentia-ca-ar..."
+      }
+    },
+    {
+      "title": "Junior to Mid level Python/PHP web developer - Dept Agency",
+      "link": "https://www.deptagency.com/en-ie/vacancy/junior-to-mid-level-python-php-web-developer/",
+      "description": "For our Dublin office, we are looking for a Junior to Mid Python/PHP Developer who has been involved in a lot of amazing projects and knows how to help a ...",
+      "additional_links": [
+        {
+          "text": "Junior to Mid level Python/PHP web developer - Dept Agencyhttps://www.deptagency.com › en-ie › vacancy › junior...",
+          "href": "https://www.deptagency.com/en-ie/vacancy/junior-to-mid-level-python-php-web-developer/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.deptagency.com › en-ie › vacancy › junior...",
+        "span": " › en-ie › vacancy › junior..."
+      }
+    },
+    {
+      "title": "HMAC SHA256 - Php To Python - Stack Overflow",
+      "link": "https://stackoverflow.com/questions/66941603/hmac-sha256-php-to-python",
+      "description": "Apr 4, 2021 · 1 answerpython php. PHP CODE SNIPPET $timestamp = time(); $appID = 1; $key = '5nF6Ai4ykPY='; $secret = '0a75...'; $sign = \"key:\".$key.\"id:\".$appID.hostname -I in python/php - Stack OverflowMay 12, 2021Calling Python in PHP - Stack OverflowSep 20, 2013Python, PHP or what scripting language is the best for ...Mar 2, 2010Why brew needs python while installing php7 - Stack OverflowJan 5, 2021More results from stackoverflow.com",
+      "additional_links": [
+        {
+          "text": "HMAC SHA256 - Php To Python - Stack Overflowhttps://stackoverflow.com › questions › hmac-sha256-p...",
+          "href": "https://stackoverflow.com/questions/66941603/hmac-sha256-php-to-python"
+        },
+        {
+          "text": "hostname -I in python/php - Stack Overflow",
+          "href": "https://stackoverflow.com/questions/67498848/hostname-i-in-python-php"
+        },
+        {
+          "text": "Calling Python in PHP - Stack Overflow",
+          "href": "https://stackoverflow.com/questions/166944/calling-python-in-php"
+        },
+        {
+          "text": "Python, PHP or what scripting language is the best for ...",
+          "href": "https://stackoverflow.com/questions/2364890/python-php-or-what-scripting-language-is-the-best-for-automating-web-interactio"
+        },
+        {
+          "text": "Why brew needs python while installing php7 - Stack Overflow",
+          "href": "https://stackoverflow.com/questions/65583607/why-brew-needs-python-while-installing-php7"
+        }
+      ],
+      "cite": {
+        "domain": "https://stackoverflow.com › questions › hmac-sha256-p...",
+        "span": " › questions › hmac-sha256-p..."
+      }
+    },
+    {
+      "title": "Licensing for cross-platform applications made with Python ...",
+      "link": "https://www.wibu.com/us/wibu-systems-webinars/licensing-for-cross-platform-applications-made-with-python-php-and-javascript.html",
+      "description": "Leading market surveys consistently put JavaScript, PHP, and Python at the top of the list of the most favored programming languages.",
+      "additional_links": [
+        {
+          "text": "Licensing for cross-platform applications made with Python ...https://www.wibu.com › ... › Resources › Webinars",
+          "href": "https://www.wibu.com/us/wibu-systems-webinars/licensing-for-cross-platform-applications-made-with-python-php-and-javascript.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.wibu.com › ... › Resources › Webinars",
+        "span": " › ... › Resources › Webinars"
+      }
+    },
+    {
+      "title": "Fullstack Go Golang Node.Js Python PHP Sci Fi Dev Framework",
+      "link": "https://www.udemy.com/course/fullstack-go-golang-nodejs-python-php-sci-fi-dev-framework/",
+      "description": "Fullstack Go Golang Node.Js Python PHP Sci Fi Dev Framework. Unleash your creativity ( Websockets Enabled ). Highest Rated.",
+      "additional_links": [
+        {
+          "text": "Fullstack Go Golang Node.Js Python PHP Sci Fi Dev Frameworkhttps://www.udemy.com › ... › Web Frameworks",
+          "href": "https://www.udemy.com/course/fullstack-go-golang-nodejs-python-php-sci-fi-dev-framework/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.udemy.com › ... › Web Frameworks",
+        "span": " › ... › Web Frameworks"
+      }
+    },
+    {
+      "title": "Python php Jobs | Glassdoor",
+      "link": "https://www.glassdoor.com/Job/python-php-jobs-SRCH_KO0,10.htm",
+      "description": "Search Python php jobs. Get the right Python php job with company ratings & salaries. 4043 open jobs for Python php.",
+      "additional_links": [
+        {
+          "text": "Python php Jobs | Glassdoorhttps://www.glassdoor.com › Job › python-php-jobs-SRC...",
+          "href": "https://www.glassdoor.com/Job/python-php-jobs-SRCH_KO0,10.htm"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.glassdoor.com › Job › python-php-jobs-SRC...",
+        "span": " › Job › python-php-jobs-SRC..."
+      }
+    },
+    {
+      "title": "Python/PHP Developer Resume NYC - Hire IT People",
+      "link": "https://www.hireitpeople.com/resume-database/72-web-developer-resumes/145039-python-php-developer-resume-nyc",
+      "description": "Over 8+ years of extensive experience in web based applications using LAMP, WAMP, PHP, Python, Drupal, & SEO technologies. Good working experience in ...",
+      "additional_links": [
+        {
+          "text": "Python/PHP Developer Resume NYC - Hire IT Peoplehttps://www.hireitpeople.com › resume-database › 1450...",
+          "href": "https://www.hireitpeople.com/resume-database/72-web-developer-resumes/145039-python-php-developer-resume-nyc"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.hireitpeople.com › resume-database › 1450...",
+        "span": " › resume-database › 1450..."
+      }
+    },
+    {
+      "title": "Portin PHP to Python - Reddit",
+      "link": "https://www.reddit.com/r/PHP/comments/1t5g58/portin_php_to_python/",
+      "description": "Hello, I'm a Python programmer trying to convert FPDI to Python. I noticed that most of PHP can be directly translated to Python, but I'm having a …",
+      "additional_links": [
+        {
+          "text": "Portin PHP to Python - Reddithttps://www.reddit.com › PHP › comments › portin_ph...",
+          "href": "https://www.reddit.com/r/PHP/comments/1t5g58/portin_php_to_python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.reddit.com › PHP › comments › portin_ph...",
+        "span": " › PHP › comments › portin_ph..."
+      }
+    },
+    {
+      "title": "PHP vs Python: Which Coding Language is Better to Use in ...",
+      "link": "https://cydomedia.com/php-vs-python/",
+      "description": "Nov 14, 2020 — PHP is mostly preferred for web development services, while Python is a “one language for all” kind of a deal. Developers prefer Python because ...",
+      "additional_links": [
+        {
+          "text": "PHP vs Python: Which Coding Language is Better to Use in ...https://cydomedia.com › php-vs-python",
+          "href": "https://cydomedia.com/php-vs-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://cydomedia.com › php-vs-python",
+        "span": " › php-vs-python"
+      }
+    },
+    {
+      "title": "Best Programming Languages To Built E-Commerce Websites",
+      "link": "https://blog.sagipl.com/python-php-for-web-development/",
+      "description": "Jan 28, 2021 — In this article, we will tell you the advantages of one such programming language, PHP for Web Development, and why developers choose such ...",
+      "additional_links": [
+        {
+          "text": "Best Programming Languages To Built E-Commerce Websiteshttps://blog.sagipl.com › python-php-for-web-develop...",
+          "href": "https://blog.sagipl.com/python-php-for-web-development/"
+        }
+      ],
+      "cite": {
+        "domain": "https://blog.sagipl.com › python-php-for-web-develop...",
+        "span": " › python-php-for-web-develop..."
+      }
+    },
+    {
+      "title": "Programming languages used in most popular websites",
+      "link": "https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites",
+      "description": "One thing the most visited websites have in common that they are dynamic websites. Their development typically involves server-side coding, client-side ...",
+      "additional_links": [
+        {
+          "text": "Programming languages used in most popular websiteshttps://en.wikipedia.org › wiki › Programming_languag...",
+          "href": "https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites"
+        }
+      ],
+      "cite": {
+        "domain": "https://en.wikipedia.org › wiki › Programming_languag...",
+        "span": " › wiki › Programming_languag..."
+      }
+    },
+    {
+      "title": "Python, PHP, JavaScript and other creators of web technology ...",
+      "link": "https://asperbrothers.com/blog/programming-languages-frameworks-founders/",
+      "description": "May 13, 2021 — PHP, JavaScript, or Python are technologies used by millions. Who created them? Who invented these and other languages and frameworks.",
+      "additional_links": [
+        {
+          "text": "Python, PHP, JavaScript and other creators of web technology ...https://asperbrothers.com › blog › programming-langua...",
+          "href": "https://asperbrothers.com/blog/programming-languages-frameworks-founders/"
+        }
+      ],
+      "cite": {
+        "domain": "https://asperbrothers.com › blog › programming-langua...",
+        "span": " › blog › programming-langua..."
+      }
+    },
+    {
+      "title": "Scripting Languages I: Node.js, Python, PHP, Ruby",
+      "link": "https://hyperpolyglot.org/scripting",
+      "description": "version. node.js, python, php, ruby. version used, 6.11, 3.6, 7.0, 2.3. show version, $ node --version, $ python -V $ python --version, $ php --version ...",
+      "additional_links": [
+        {
+          "text": "Scripting Languages I: Node.js, Python, PHP, Rubyhttps://hyperpolyglot.org › scripting",
+          "href": "https://hyperpolyglot.org/scripting"
+        }
+      ],
+      "cite": {
+        "domain": "https://hyperpolyglot.org › scripting",
+        "span": " › scripting"
+      }
+    },
+    {
+      "title": "Calling Python in PHP",
+      "link": "https://www.py4u.net/discuss/12136",
+      "description": "I don't want to go through the minor trouble of installing mod_python or mod_wsgi on my Mac, so I was just going to do a system() or popen() from PHP to call ...",
+      "additional_links": [
+        {
+          "text": "Calling Python in PHPhttps://www.py4u.net › discuss",
+          "href": "https://www.py4u.net/discuss/12136"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.py4u.net › discuss",
+        "span": " › discuss"
+      }
+    },
+    {
+      "title": "NumPy: String - Exercises, Practice, Solution - w3resource",
+      "link": "https://www.w3resource.com/python-exercises/numpy/python-numpy-string.php",
+      "description": "Sep 13, 2021 — ['Python PHP Java C++'] Split the element of the said array with spaces: [list(['Python', 'PHP', 'Java', 'C++'])]",
+      "additional_links": [
+        {
+          "text": "NumPy: String - Exercises, Practice, Solution - w3resourcehttps://www.w3resource.com › python-numpy-string",
+          "href": "https://www.w3resource.com/python-exercises/numpy/python-numpy-string.php"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.w3resource.com › python-numpy-string",
+        "span": " › python-numpy-string"
+      }
+    },
+    {
+      "title": "Code (JavaScript, Python, PHP) | Voters | Integromat s.r.o.",
+      "link": "https://integromat.canny.io/new-app-requests/p/code-javascript-python-php",
+      "description": "Thanks, that's nice and all but I don't see an upside to using GCF, my old zapier integrations or a small server myself at the moment.",
+      "additional_links": [
+        {
+          "text": "Code (JavaScript, Python, PHP) | Voters | Integromat s.r.o.https://integromat.canny.io › new-app-requests › code-j...",
+          "href": "https://integromat.canny.io/new-app-requests/p/code-javascript-python-php"
+        }
+      ],
+      "cite": {
+        "domain": "https://integromat.canny.io › new-app-requests › code-j...",
+        "span": " › new-app-requests › code-j..."
+      }
+    },
+    {
+      "title": "python PHP Code Examples - HotExamples",
+      "link": "https://hotexamples.com/examples/-/-/python/php-python-function-examples.html",
+      "description": "PHP python - 2 examples found. These are the top rated real world PHP examples of python extracted from open source projects. You can rate examples to help ...",
+      "additional_links": [
+        {
+          "text": "python PHP Code Examples - HotExampleshttps://hotexamples.com › examples › php-python-functio...",
+          "href": "https://hotexamples.com/examples/-/-/python/php-python-function-examples.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://hotexamples.com › examples › php-python-functio...",
+        "span": " › examples › php-python-functio..."
+      }
+    },
+    {
+      "title": "PHP vs Python - which is best? Cross-comparison in 2021",
+      "link": "https://ebs-integrator.com/blog/php-vs-python-cross-comparison-2021/",
+      "description": "Jul 26, 2021 — Lets look how these two giants of programming languages compare to each other, in our look at PHP vs Python as of 2021.",
+      "additional_links": [
+        {
+          "text": "PHP vs Python - which is best? Cross-comparison in 2021https://ebs-integrator.com › Blog",
+          "href": "https://ebs-integrator.com/blog/php-vs-python-cross-comparison-2021/"
+        }
+      ],
+      "cite": {
+        "domain": "https://ebs-integrator.com › Blog",
+        "span": " › Blog"
+      }
+    },
+    {
+      "title": "php cannot call python - Raspberry Pi Stack Exchange",
+      "link": "https://raspberrypi.stackexchange.com/questions/58339/php-cannot-call-python",
+      "description": "python php. When I call a simple python-script that blinks LED once, from a PHP-script via browser, nothing happens. and I add these lines in the sudoers ...3 answers  ·  1 vote: This is a problem a lot of people face, and it's not always just due to a lack ...",
+      "additional_links": [
+        {
+          "text": "php cannot call python - Raspberry Pi Stack Exchangehttps://raspberrypi.stackexchange.com › questions › ph...",
+          "href": "https://raspberrypi.stackexchange.com/questions/58339/php-cannot-call-python"
+        },
+        {
+          "text": "3 answers",
+          "href": "https://raspberrypi.stackexchange.com/a/58370"
+        }
+      ],
+      "cite": {
+        "domain": "https://raspberrypi.stackexchange.com › questions › ph...",
+        "span": " › questions › ph..."
+      }
+    },
+    {
+      "title": "Python/PHP Senior Developer - paycomonline.net",
+      "link": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=14265&clientkey=C79BD1051367B6CA57C1F4096570F5C6",
+      "description": "ScaleFunder helps institutions boost giving through an innovative platform that has fueled more than 10,000 successful fundraising projects. A subscription- ...",
+      "additional_links": [
+        {
+          "text": "Python/PHP Senior Developer - paycomonline.nethttps://www.paycomonline.net › jobs › ViewJobDetails",
+          "href": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=14265&clientkey=C79BD1051367B6CA57C1F4096570F5C6"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.paycomonline.net › jobs › ViewJobDetails",
+        "span": " › jobs › ViewJobDetails"
+      }
+    },
+    {
+      "title": "How to Use the Breaking News API with Python, PHP, Ruby ...",
+      "link": "https://rapidapi.com/blog/breaking-news-api-with-python-php-ruby-javascript-examples/amp/",
+      "description": " › Blog › Guest Post  › Blog › Guest Post",
+      "additional_links": [
+        {
+          "text": "How to Use the Breaking News API with Python, PHP, Ruby ...https://rapidapi.com › Blog › Guest Post",
+          "href": "https://rapidapi.com/blog/breaking-news-api-with-python-php-ruby-javascript-examples/amp/"
+        },
+        {
+          "text": "How to Use the AeroDataBox API with Python, PHP, Ruby ...https://rapidapi.com › Blog › API Tutorials",
+          "href": "https://rapidapi.com/blog/aerodatabox-api-with-python-php-ruby-javascript-examples/"
+        }
+      ],
+      "cite": {
+        "domain": "https://rapidapi.com › Blog › Guest Post",
+        "span": " › Blog › Guest Post"
+      },
+      "g_review_stars": " Rating: 5 · ‎1 vote"
+    },
+    {
+      "title": "How to Use the Breaking News API with Python, PHP, Ruby ...",
+      "link": "https://rapidapi.com/blog/breaking-news-api-with-python-php-ruby-javascript-examples/amp/",
+      "description": "In addition, this API gives the developer access to any company news that can help in stock price prediction and financial data analysis. Last but not least, ...",
+      "additional_links": [
+        {
+          "text": "How to Use the Breaking News API with Python, PHP, Ruby ...https://rapidapi.com › Blog › Guest Post",
+          "href": "https://rapidapi.com/blog/breaking-news-api-with-python-php-ruby-javascript-examples/amp/"
+        }
+      ],
+      "cite": {
+        "domain": "https://rapidapi.com › Blog › Guest Post",
+        "span": " › Blog › Guest Post"
+      }
+    },
+    {
+      "title": "How to Use the AeroDataBox API with Python, PHP, Ruby ...",
+      "link": "https://rapidapi.com/blog/aerodatabox-api-with-python-php-ruby-javascript-examples/",
+      "description": "Sep 14, 2021 — It provides some unique features that are rarely offered anywhere else, like aircraft image recognition by registration, airport and flight ... Rating: 5 · ‎1 vote",
+      "additional_links": [
+        {
+          "text": "How to Use the AeroDataBox API with Python, PHP, Ruby ...https://rapidapi.com › Blog › API Tutorials",
+          "href": "https://rapidapi.com/blog/aerodatabox-api-with-python-php-ruby-javascript-examples/"
+        }
+      ],
+      "cite": {
+        "domain": "https://rapidapi.com › Blog › API Tutorials",
+        "span": " › Blog › API Tutorials"
+      },
+      "g_review_stars": " Rating: 5 · ‎1 vote"
+    },
+    {
+      "title": "Evernote Cloud API — Python Quick-start Guide",
+      "link": "https://dev.evernote.com/doc/start/python.php",
+      "description": "The purpose of this guide is describing how to download, install, and configure the Evernote SDK for Python, as well as demonstrate how it's used. If everything ...",
+      "additional_links": [
+        {
+          "text": "Evernote Cloud API — Python Quick-start Guidehttps://dev.evernote.com › doc › start › python",
+          "href": "https://dev.evernote.com/doc/start/python.php"
+        }
+      ],
+      "cite": {
+        "domain": "https://dev.evernote.com › doc › start › python",
+        "span": " › doc › start › python"
+      }
+    },
+    {
+      "title": "Python and PHP Programming Bundle - Pinterest",
+      "link": "https://www.pinterest.com/pin/621919029767036403/",
+      "description": "May 29, 2018 - Learn Python and PHP in This Awesome Bundle Course! Take this course.",
+      "additional_links": [
+        {
+          "text": "Python and PHP Programming Bundle - Pinteresthttps://www.pinterest.com › ... › Science › Coding",
+          "href": "https://www.pinterest.com/pin/621919029767036403/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.pinterest.com › ... › Science › Coding",
+        "span": " › ... › Science › Coding"
+      }
+    },
+    {
+      "title": "Is it hard to learn Html,Css,JS and Python,Php? | Sololearn",
+      "link": "https://www.sololearn.com/Discuss/171614/is-it-hard-to-learn-html-css-js-and-python-php",
+      "description": "I think,it might be hard for me to keep in mind all these attributes and etc. html css javascript python php. 15th January 2017, 5:34 AM.",
+      "additional_links": [
+        {
+          "text": "Is it hard to learn Html,Css,JS and Python,Php? | Sololearnhttps://www.sololearn.com › Discuss › is-it-hard-to-lear...",
+          "href": "https://www.sololearn.com/Discuss/171614/is-it-hard-to-learn-html-css-js-and-python-php"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.sololearn.com › Discuss › is-it-hard-to-lear...",
+        "span": " › Discuss › is-it-hard-to-lear..."
+      }
+    },
+    {
+      "title": "Python vs PHP, which is best for your website backend?",
+      "link": "https://www.geekboots.com/story/python-vs-php-which-is-best-for-your-website-backend",
+      "description": "Feb 14, 2019 — Both are programming languages, and that their creators had a totally different goal in mind when they were designing them. PHP was initially ...",
+      "additional_links": [
+        {
+          "text": "Python vs PHP, which is best for your website backend?https://www.geekboots.com › story › python-vs-php-w...",
+          "href": "https://www.geekboots.com/story/python-vs-php-which-is-best-for-your-website-backend"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.geekboots.com › story › python-vs-php-w...",
+        "span": " › story › python-vs-php-w..."
+      }
+    },
+    {
+      "title": "The Best 378 Python php Libraries | PythonRepo",
+      "link": "https://pythonrepo.com/tag/php",
+      "description": "Browse The Top 378 Python php Libraries A collective list of free APIs for use in software and web development., Magnificent app which corrects your ...",
+      "additional_links": [
+        {
+          "text": "The Best 378 Python php Libraries | PythonRepohttps://pythonrepo.com › tag › php",
+          "href": "https://pythonrepo.com/tag/php"
+        }
+      ],
+      "cite": {
+        "domain": "https://pythonrepo.com › tag › php",
+        "span": " › tag › php"
+      }
+    },
+    {
+      "title": "Accesing GPIO using JAVA and Python/PHP - Oracle ...",
+      "link": "https://community.oracle.com/tech/developers/discussion/3563675/accesing-gpio-using-java-and-python-php",
+      "description": "May 22, 2014 — Hello All, I apologize for posting this in the JAVA ME Embedded section. I had previously posted this under the JAVA Embedded MOOC section.",
+      "additional_links": [
+        {
+          "text": "Accesing GPIO using JAVA and Python/PHP - Oracle ...https://community.oracle.com › ... › Java ME Embedded",
+          "href": "https://community.oracle.com/tech/developers/discussion/3563675/accesing-gpio-using-java-and-python-php"
+        }
+      ],
+      "cite": {
+        "domain": "https://community.oracle.com › ... › Java ME Embedded",
+        "span": " › ... › Java ME Embedded"
+      }
+    },
+    {
+      "title": "Difference between Django and PHP - GeeksforGeeks",
+      "link": "https://www.geeksforgeeks.org/difference-between-django-and-php/",
+      "description": "Dec 10, 2020 — In the present world, many new frameworks have emerged in web technology. One such framework is Django which is based on Python.",
+      "additional_links": [
+        {
+          "text": "Difference between Django and PHP - GeeksforGeekshttps://www.geeksforgeeks.org › difference-between-dj...",
+          "href": "https://www.geeksforgeeks.org/difference-between-django-and-php/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.geeksforgeeks.org › difference-between-dj...",
+        "span": " › difference-between-dj..."
+      }
+    },
+    {
+      "title": "C, C++, Java, Python, PHP, JavaScript and Linux For Beginners",
+      "link": "https://www.semanticscholar.org/paper/C%2C-C%2B%2B%2C-Java%2C-Python%2C-PHP%2C-JavaScript-and-Linux-For-Manjunath/c6065b2a630fa602f64da9c06ddbcaa7ce040d66",
+      "description": "This BOOK highlights some basic knowledge of artificial intelligence formal constructed programming languages (like C, C++, Java, PHP, Python, ...",
+      "additional_links": [
+        {
+          "text": "C, C++, Java, Python, PHP, JavaScript and Linux For Beginnershttps://www.semanticscholar.org › paper › C,-C++,-Java,-...",
+          "href": "https://www.semanticscholar.org/paper/C%2C-C%2B%2B%2C-Java%2C-Python%2C-PHP%2C-JavaScript-and-Linux-For-Manjunath/c6065b2a630fa602f64da9c06ddbcaa7ce040d66"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.semanticscholar.org › paper › C,-C++,-Java,-...",
+        "span": " › paper › C,-C++,-Java,-..."
+      }
+    },
+    {
+      "title": "JAVA Python PHP - Home | Facebook",
+      "link": "https://www.facebook.com/pages/JAVA-Python-PHP/1640440566066570",
+      "description": "JAVA Python PHP. Education ... Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and ...",
+      "additional_links": [
+        {
+          "text": "JAVA Python PHP - Home | Facebookhttps://www.facebook.com › ... › JAVA  Python PHP",
+          "href": "https://www.facebook.com/pages/JAVA-Python-PHP/1640440566066570"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.facebook.com › ... › JAVA  Python PHP",
+        "span": " › ... › JAVA  Python PHP"
+      }
+    },
+    {
+      "title": "Stefan Mischook on Instagram",
+      "link": "https://www.instagram.com/tv/CFAes4DAElf/?hl=en",
+      "description": "Sep 11, 2020 — 30 Likes, 10 Comments - Stefan Mischook (@stefanmischook) on Instagram: “coding talk ... JavaScript, Python, PHP, Java, design patterns.",
+      "additional_links": [
+        {
+          "text": "Stefan Mischook on Instagramhttps://www.instagram.com › ...",
+          "href": "https://www.instagram.com/tv/CFAes4DAElf/?hl=en"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.instagram.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Senior Software Engineer - Python, PHP, Linux, Data Structures",
+      "link": "https://www.hamlynwilliams.com/job/senior-software-engineer-python-php-linux-data-structures-1/",
+      "description": "{ site_name }} work with a wide range of employers/recruiters and is a leading provider of Permanent jobs in Rochester with Job Reference Soft Eng 3.",
+      "additional_links": [
+        {
+          "text": "Senior Software Engineer - Python, PHP, Linux, Data Structureshttps://www.hamlynwilliams.com › job › senior-softwar...",
+          "href": "https://www.hamlynwilliams.com/job/senior-software-engineer-python-php-linux-data-structures-1/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.hamlynwilliams.com › job › senior-softwar...",
+        "span": " › job › senior-softwar..."
+      }
+    },
+    {
+      "title": "Selecting The Correct Backend Technology: PHP vs Python",
+      "link": "https://appsmaventech.com/blog/Selecting-The-Correct-Back-end-Technology-PHP-vs-Python",
+      "description": "Feb 27, 2020 — An application is only as good as the backend that supports it. Backend development is here to stay.",
+      "additional_links": [
+        {
+          "text": "Selecting The Correct Backend Technology: PHP vs Pythonhttps://appsmaventech.com › blog › Selecting-The-Corr...",
+          "href": "https://appsmaventech.com/blog/Selecting-The-Correct-Back-end-Technology-PHP-vs-Python"
+        }
+      ],
+      "cite": {
+        "domain": "https://appsmaventech.com › blog › Selecting-The-Corr...",
+        "span": " › blog › Selecting-The-Corr..."
+      }
+    },
+    {
+      "title": "Binance - Senior QA Engineer (Python/PHP) - Lever",
+      "link": "https://jobs.lever.co/binance/f6614c62-e642-413d-8753-34f95d497cd4",
+      "description": "Binance is the global blockchain company behind the world's largest digital asset exchange by trading volume and users, serving a greater mission to ...",
+      "additional_links": [
+        {
+          "text": "Binance - Senior QA Engineer (Python/PHP) - Leverhttps://jobs.lever.co › binance",
+          "href": "https://jobs.lever.co/binance/f6614c62-e642-413d-8753-34f95d497cd4"
+        }
+      ],
+      "cite": {
+        "domain": "https://jobs.lever.co › binance",
+        "span": " › binance"
+      }
+    },
+    {
+      "title": "68 Python Php Javascript Developer jobs in United States (2 ...",
+      "link": "https://www.linkedin.com/jobs/python-php-javascript-developer-jobs-conshohocken-pa?trk=guest_job_details_jd_jserp_more_jobs_link",
+      "description": "Today's top 68 Python Php Javascript Developer jobs in United States. Leverage your professional network, and get hired. New Python Php Javascript Developer ...",
+      "additional_links": [
+        {
+          "text": "68 Python Php Javascript Developer jobs in United States (2 ...https://www.linkedin.com › jobs › python-php-javascript-...",
+          "href": "https://www.linkedin.com/jobs/python-php-javascript-developer-jobs-conshohocken-pa?trk=guest_job_details_jd_jserp_more_jobs_link"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.linkedin.com › jobs › python-php-javascript-...",
+        "span": " › jobs › python-php-javascript-..."
+      }
+    },
+    {
+      "title": "SpecializedCommercialHosts - Python Wiki",
+      "link": "https://wiki.python.org/moin/SpecializedCommercialHosts",
+      "description": "Sep 30, 2019 — Python hosting with MySQL and MongoDB, including support for Django. All accounts come with a Control Panel and SSH access. Our servers have ...",
+      "additional_links": [
+        {
+          "text": "SpecializedCommercialHosts - Python Wikihttps://wiki.python.org › moin › SpecializedCommercia...",
+          "href": "https://wiki.python.org/moin/SpecializedCommercialHosts"
+        }
+      ],
+      "cite": {
+        "domain": "https://wiki.python.org › moin › SpecializedCommercia...",
+        "span": " › moin › SpecializedCommercia..."
+      }
+    },
+    {
+      "title": "Compare and contrast the shell, Perl, Python, PHP and Tcl as ...",
+      "link": "https://www.wyzant.com/resources/answers/854542/compare-and-contrast-the-shell-perl-python-php-and-tcl-as-rival-languages-f",
+      "description": "Jun 11, 2021 · 1 answerShell script is on Unix/Linux. It is used to manipulate data files on the operating system and perform other system tasks.",
+      "additional_links": [
+        {
+          "text": "Compare and contrast the shell, Perl, Python, PHP and Tcl as ...https://www.wyzant.com › Resources › Ask an Expert",
+          "href": "https://www.wyzant.com/resources/answers/854542/compare-and-contrast-the-shell-perl-python-php-and-tcl-as-rival-languages-f"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.wyzant.com › Resources › Ask an Expert",
+        "span": " › Resources › Ask an Expert"
+      }
+    },
+    {
+      "title": "Java, Python, PHP, JavaScript, C++, C# ... WHO MAKES ...",
+      "link": "https://www.killersites.com/community/index.php?/topic/23434-java-python-php-javascript-c-c-who-makes-more-money/",
+      "description": "Feb 26, 2020 — In this video, Stefan does a deep dive into developer salaries in California. An analysis comparing salaries between Python, PHP, Java, ...",
+      "additional_links": [
+        {
+          "text": "Java, Python, PHP, JavaScript, C++, C# ... WHO MAKES ...https://www.killersites.com › Programming › PHP",
+          "href": "https://www.killersites.com/community/index.php?/topic/23434-java-python-php-javascript-c-c-who-makes-more-money/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.killersites.com › Programming › PHP",
+        "span": " › Programming › PHP"
+      }
+    },
+    {
+      "title": "The Top 55 Python Php Python3 Open Source Projects on ...",
+      "link": "https://awesomeopensource.com/projects/php/python/python3",
+      "description": "The Top 55 Python Php Python3 Open Source Projects on Github. Categories > Programming Languages > Php. Categories > Programming Languages > Python.",
+      "additional_links": [
+        {
+          "text": "The Top 55 Python Php Python3 Open Source Projects on ...https://awesomeopensource.com › projects › python3",
+          "href": "https://awesomeopensource.com/projects/php/python/python3"
+        }
+      ],
+      "cite": {
+        "domain": "https://awesomeopensource.com › projects › python3",
+        "span": " › projects › python3"
+      }
+    },
+    {
+      "title": "What is the Use of Python and PHP While Creating an E ...",
+      "link": "https://www.probytes.net/blog/python-php-creating-e-commerce-website/",
+      "description": "Oct 23, 2017 — There are a number of platforms and programming languages that can help you to build an e-commerce site. These programming languages that ...",
+      "additional_links": [
+        {
+          "text": "What is the Use of Python and PHP While Creating an E ...https://www.probytes.net › blog › python-php-creating-...",
+          "href": "https://www.probytes.net/blog/python-php-creating-e-commerce-website/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.probytes.net › blog › python-php-creating-...",
+        "span": " › blog › python-php-creating-..."
+      }
+    },
+    {
+      "title": "Index of /wp-content/uploads/gallery/python-php-deployment",
+      "link": "http://www.ahmct.ucdavis.edu/wp-content/uploads/gallery/python-php-deployment/",
+      "description": "Name · Last modified · Size · Description. [PARENTDIR], Parent Directory, -. [IMG], php-on-280-2.jpg, 2011-08-16 11:49, 295K. [IMG] ...",
+      "additional_links": [
+        {
+          "text": "Index of /wp-content/uploads/gallery/python-php-deploymenthttp://www.ahmct.ucdavis.edu › wp-content › python-p...",
+          "href": "http://www.ahmct.ucdavis.edu/wp-content/uploads/gallery/python-php-deployment/"
+        }
+      ],
+      "cite": {
+        "domain": "http://www.ahmct.ucdavis.edu › wp-content › python-p...",
+        "span": " › wp-content › python-p..."
+      }
+    },
+    {
+      "title": "ArangoDB Client Drivers",
+      "link": "https://www.arangodb.com/download/drivers/",
+      "description": "Together with the community we provide ArangoDB drivers in many languages: Java, JavaScript, Node.JS, Go, Python, Ruby, Elixir, PHP and more.",
+      "additional_links": [
+        {
+          "text": "ArangoDB Client Drivershttps://www.arangodb.com › download › drivers",
+          "href": "https://www.arangodb.com/download/drivers/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.arangodb.com › download › drivers",
+        "span": " › download › drivers"
+      }
+    },
+    {
+      "title": "Dynamic Languages (Node.JS, Python, PHP, C/C++ ...",
+      "link": "https://community.appdynamics.com/t5/Dynamic-Languages-Node-JS-Python/bd-p/DynamicLanguages/page/3",
+      "description": "Click the Start a free trial link to start a 15-day SaaS trial of our product and join our community as a trial user. If you are an existing customer do not ...",
+      "additional_links": [
+        {
+          "text": "Dynamic Languages (Node.JS, Python, PHP, C/C++ ...https://community.appdynamics.com › bd-p › page",
+          "href": "https://community.appdynamics.com/t5/Dynamic-Languages-Node-JS-Python/bd-p/DynamicLanguages/page/3"
+        }
+      ],
+      "cite": {
+        "domain": "https://community.appdynamics.com › bd-p › page",
+        "span": " › bd-p › page"
+      }
+    },
+    {
+      "title": "How to Use the Axesso – Amazon Data Service API with ...",
+      "link": "https://slacker.ro/2021/03/26/how-to-use-the-axesso-amazon-data-service-api-with-python-php-ruby-javascript-examples/",
+      "description": "Mar 26, 2021 — With the increased demand for goods and services in different regions of the world, e-commerce has become an acceptable way for selling ...",
+      "additional_links": [
+        {
+          "text": "How to Use the Axesso – Amazon Data Service API with ...https://slacker.ro › 2021/03/26 › how-to-use-the-axesso...",
+          "href": "https://slacker.ro/2021/03/26/how-to-use-the-axesso-amazon-data-service-api-with-python-php-ruby-javascript-examples/"
+        }
+      ],
+      "cite": {
+        "domain": "https://slacker.ro › 2021/03/26 › how-to-use-the-axesso...",
+        "span": " › 2021/03/26 › how-to-use-the-axesso..."
+      }
+    },
+    {
+      "title": "Topics tagged pro-python-php - Postman community",
+      "link": "https://community.postman.com/tag/pro-python-php",
+      "description": "Topics tagged pro-python-php.",
+      "additional_links": [
+        {
+          "text": "Topics tagged pro-python-php - Postman communityhttps://community.postman.com › tag › pro-python-php",
+          "href": "https://community.postman.com/tag/pro-python-php"
+        }
+      ],
+      "cite": {
+        "domain": "https://community.postman.com › tag › pro-python-php",
+        "span": " › tag › pro-python-php"
+      }
+    },
+    {
+      "title": "PHP equivalent of in_array() for Python - Twig's Tech Tips",
+      "link": "https://twigstechtips.blogspot.com/2010/02/python-php-equivalent-of-inarray-for.html",
+      "description": "Feb 21, 2010 — To check if a value exists within a PHP array: view sourceprint? 1. if (in_array( \"x\" , $php_array )) {. 2. // Exists.",
+      "additional_links": [
+        {
+          "text": "PHP equivalent of in_array() for Python - Twig's Tech Tipshttps://twigstechtips.blogspot.com › 2010/02 › python-...",
+          "href": "https://twigstechtips.blogspot.com/2010/02/python-php-equivalent-of-inarray-for.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://twigstechtips.blogspot.com › 2010/02 › python-...",
+        "span": " › 2010/02 › python-..."
+      }
+    },
+    {
+      "title": "Documentation for Visual Studio Code",
+      "link": "https://code.visualstudio.com/docs",
+      "description": "It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, ...",
+      "additional_links": [
+        {
+          "text": "Documentation for Visual Studio Codehttps://code.visualstudio.com › docs",
+          "href": "https://code.visualstudio.com/docs"
+        }
+      ],
+      "cite": {
+        "domain": "https://code.visualstudio.com › docs",
+        "span": " › docs"
+      }
+    },
+    {
+      "title": "[ Regex, Python, PHP ] July Code Challenge Review - Twitch",
+      "link": "https://m.twitch.tv/howtocodewell/clip/GeniusSpoopyBottleCharlieBitMe?lang=cs",
+      "description": "0:26Sledujte klip uživatele howtocodewell s názvem [ Regex, Python, PHP ] July Code Challenge Review.Aug 2, 2020",
+      "additional_links": [
+        {
+          "text": "[ Regex, Python, PHP ] July Code Challenge Review - Twitchhttps://m.twitch.tv › Directory",
+          "href": "https://m.twitch.tv/howtocodewell/clip/GeniusSpoopyBottleCharlieBitMe?lang=cs"
+        },
+        {
+          "text": "0:26",
+          "href": "https://m.twitch.tv/howtocodewell/clip/GeniusSpoopyBottleCharlieBitMe?lang=cs"
+        }
+      ],
+      "cite": {
+        "domain": "https://m.twitch.tv › Directory",
+        "span": " › Directory"
+      }
+    },
+    {
+      "title": "Komodo IDE By ActiveState - One IDE for All Your Languages",
+      "link": "https://www.activestate.com/products/komodo-ide/",
+      "description": "Code faster with the IDE for today's web languages – Python, PHP, Perl, Golang, Ruby and more. For Windows, Mac and Linux. Komodo IDE is now FREE as part of ...",
+      "additional_links": [
+        {
+          "text": "Komodo IDE By ActiveState - One IDE for All Your Languageshttps://www.activestate.com › Products",
+          "href": "https://www.activestate.com/products/komodo-ide/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.activestate.com › Products",
+        "span": " › Products"
+      }
+    },
+    {
+      "title": "PHP, JavaScript, Ruby, Perl, Python, and Tcl Today - CIO.com",
+      "link": "https://www.cio.com/article/2433977/php--javascript--ruby--perl--python--and-tcl-today--the-state-of-the-scripting-universe.html",
+      "description": "Aug 29, 2008 — Three years ago, Lynn Greiner interviewed the big cheeses responsible for the popular scripting languages PHP, Perl, Tcl, Python, Ruby and ...",
+      "additional_links": [
+        {
+          "text": "PHP, JavaScript, Ruby, Perl, Python, and Tcl Today - CIO.comhttps://www.cio.com › Developer › Careers",
+          "href": "https://www.cio.com/article/2433977/php--javascript--ruby--perl--python--and-tcl-today--the-state-of-the-scripting-universe.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.cio.com › Developer › Careers",
+        "span": " › Developer › Careers"
+      }
+    },
+    {
+      "title": "Is it possible to use perl, python, php, ruby or whatever to write ...",
+      "link": "https://serverfault.com/questions/476506/is-it-possible-to-use-perl-python-php-ruby-or-whatever-to-write-init-d-script",
+      "description": "1 answerYes. There are issues of availability, speed, reliability, maintainability, etc, but init scripts can be written in whatever you want.",
+      "additional_links": [
+        {
+          "text": "Is it possible to use perl, python, php, ruby or whatever to write ...https://serverfault.com › questions › is-it-possible-to-use...",
+          "href": "https://serverfault.com/questions/476506/is-it-possible-to-use-perl-python-php-ruby-or-whatever-to-write-init-d-script"
+        }
+      ],
+      "cite": {
+        "domain": "https://serverfault.com › questions › is-it-possible-to-use...",
+        "span": " › questions › is-it-possible-to-use..."
+      }
+    },
+    {
+      "title": "Free Vector | Programmer working on web development code ...",
+      "link": "https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723889.htm",
+      "description": "Download this Free Vector about Programmer working on web development code. engineer programming in python, php and java script on computer., and discover ...",
+      "additional_links": [
+        {
+          "text": "Free Vector | Programmer working on web development code ...https://www.freepik.com › free-vector › programmer-w...",
+          "href": "https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723889.htm"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.freepik.com › free-vector › programmer-w...",
+        "span": " › free-vector › programmer-w..."
+      }
+    },
+    {
+      "title": "The 10 Most Popular Programming Languages to Learn in 2021",
+      "link": "https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/",
+      "description": "Jun 18, 2020 — Looking to start a career in software? Learning the most popular programming languages in 2021 will help you build your skills and land a ...",
+      "additional_links": [
+        {
+          "text": "The 10 Most Popular Programming Languages to Learn in 2021https://www.northeastern.edu › graduate › blog › most-...",
+          "href": "https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.northeastern.edu › graduate › blog › most-...",
+        "span": " › graduate › blog › most-..."
+      }
+    },
+    {
+      "title": "Asaba, : CS student/persons interested in learning Python ...",
+      "link": "https://www.superprof.com/student-persons-interested-learning-python-php-programming-language-asaba-delta-state.html",
+      "description": "1$/h : My Teaching is based on piratical, i like to teach and use that which has been taught to make examples. i like to motivate my student to do as much.",
+      "additional_links": [
+        {
+          "text": "Asaba, : CS student/persons interested in learning Python ...https://www.superprof.com › student-persons-interested...",
+          "href": "https://www.superprof.com/student-persons-interested-learning-python-php-programming-language-asaba-delta-state.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.superprof.com › student-persons-interested...",
+        "span": " › student-persons-interested..."
+      }
+    },
+    {
+      "title": "PYTHON PHP Manual - 上广才阅读网，免费读经典 - 学知识",
+      "link": "http://www.ixyread.com/read/ID160549400694ee/OEBPS-Text-Section0045.html",
+      "description": "Feb 16, 2021 — PYTHON PHP Manual · This reference manual describes the syntax and “core semantics” of the language. It is terse, but attempts to be exact and ...",
+      "additional_links": [
+        {
+          "text": "PYTHON PHP Manual - 上广才阅读网，免费读经典 - 学知识http://www.ixyread.com › OEBPS-Text-Section0045",
+          "href": "http://www.ixyread.com/read/ID160549400694ee/OEBPS-Text-Section0045.html"
+        }
+      ],
+      "cite": {
+        "domain": "http://www.ixyread.com › OEBPS-Text-Section0045",
+        "span": " › OEBPS-Text-Section0045"
+      }
+    },
+    {
+      "title": "Top Code Editors and IDE for PHP Development of 2021",
+      "link": "https://www.cloudways.com/blog/top-ide-and-code-editors-php-development/",
+      "description": "NetbeansAptana StudioEclipseSublime TextAtomNotepad++CodaBracketsSlickEditjEditKomodo EditRJ TextEd",
+      "additional_links": [
+        {
+          "text": "Top Code Editors and IDE for PHP Development of 2021https://www.cloudways.com › blog › top-ide-and-code-...",
+          "href": "https://www.cloudways.com/blog/top-ide-and-code-editors-php-development/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.cloudways.com › blog › top-ide-and-code-...",
+        "span": " › blog › top-ide-and-code-..."
+      }
+    },
+    {
+      "title": "Python, PHP, and Ruby: Deciding which language to learn ...",
+      "link": "https://glints.com/sg/hired/python-php-and-ruby-deciding-which-language-to-learn-first-as-you-prepare-for-a-mid-career-switch/",
+      "description": "Aug 15, 2018 — Preparing for a mid-career switch into software development? Can't decide between Python, PHP, and Ruby? Here's how to figure out which ...",
+      "additional_links": [
+        {
+          "text": "Python, PHP, and Ruby: Deciding which language to learn ...https://glints.com › hired › python-php-and-ruby-decid...",
+          "href": "https://glints.com/sg/hired/python-php-and-ruby-deciding-which-language-to-learn-first-as-you-prepare-for-a-mid-career-switch/"
+        }
+      ],
+      "cite": {
+        "domain": "https://glints.com › hired › python-php-and-ruby-decid...",
+        "span": " › hired › python-php-and-ruby-decid..."
+      }
+    },
+    {
+      "title": "NET / Python / PHP / Ruby - Cloud DevOps - Digital Marketplace",
+      "link": "https://www.digitalmarketplace.service.gov.uk/g-cloud/services/932445747549798",
+      "description": "Our highly experienced Software Engineers connect your needs with applicable technology solutions throughout the software development lifecycle.",
+      "additional_links": [
+        {
+          "text": "NET / Python / PHP / Ruby - Cloud DevOps - Digital Marketplacehttps://www.digitalmarketplace.service.gov.uk › services",
+          "href": "https://www.digitalmarketplace.service.gov.uk/g-cloud/services/932445747549798"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.digitalmarketplace.service.gov.uk › services",
+        "span": " › services"
+      }
+    },
+    {
+      "title": "Long lived Python/PHP daemon-script-wrapper with ...",
+      "link": "https://upwork.link/servers-of-web-apache2/long-lived-python-php-daemon-script-wrapper-with-supervisor-instead-cron-schedules/",
+      "description": "Jun 1, 2021 — All novice Linux users and seasoned sysadmins know that Cron is a great simple solution to the problem of regularly calling the same ...",
+      "additional_links": [
+        {
+          "text": "Long lived Python/PHP daemon-script-wrapper with ...https://upwork.link › servers-of-web-apache2 › long-liv...",
+          "href": "https://upwork.link/servers-of-web-apache2/long-lived-python-php-daemon-script-wrapper-with-supervisor-instead-cron-schedules/"
+        }
+      ],
+      "cite": {
+        "domain": "https://upwork.link › servers-of-web-apache2 › long-liv...",
+        "span": " › servers-of-web-apache2 › long-liv..."
+      }
+    },
+    {
+      "title": "Why choose Python over PHP in web application development?",
+      "link": "https://ezeelive.com/choose-python-php-web-application-development/",
+      "description": "Why choose Python over PHP in web application development? Back to Blog. Ezeelive Technologie - Python PHP in Web Application Development.",
+      "additional_links": [
+        {
+          "text": "Why choose Python over PHP in web application development?https://ezeelive.com › ... › Web Development",
+          "href": "https://ezeelive.com/choose-python-php-web-application-development/"
+        }
+      ],
+      "cite": {
+        "domain": "https://ezeelive.com › ... › Web Development",
+        "span": " › ... › Web Development"
+      }
+    },
+    {
+      "title": "Between Python, PHP, and Javascript, which one is more ...",
+      "link": "https://community.spiceworks.com/topic/2170394-between-python-php-and-javascript-which-one-is-more-useful-to-learn",
+      "description": "Oct 21, 2018 — I wish to go into coding, but i see so many different languages that i wonder which one would be actually useful to learn?Many.5 posts  ·  You can start learning PHP and Javascript first if that is your preference. However, ...",
+      "additional_links": [
+        {
+          "text": "Between Python, PHP, and Javascript, which one is more ...https://community.spiceworks.com › topic › 2170394-b...",
+          "href": "https://community.spiceworks.com/topic/2170394-between-python-php-and-javascript-which-one-is-more-useful-to-learn"
+        },
+        {
+          "text": "5 posts",
+          "href": "https://community.spiceworks.com/topic/2170394-between-python-php-and-javascript-which-one-is-more-useful-to-learn#entry-8028733"
+        }
+      ],
+      "cite": {
+        "domain": "https://community.spiceworks.com › topic › 2170394-b...",
+        "span": " › topic › 2170394-b..."
+      }
+    },
+    {
+      "title": "PHP和Python的全面比较，究竟哪一个更好？ - BitDegree",
+      "link": "https://cn.bitdegree.org/jiao-cheng/php-he-python/",
+      "description": "Jul 16, 2020 — PHP和Python：发现差异和相似之处。阅读这个关于PHP和Python的比较教程，找出哪个更好更适合您的需要：究竟是PHP还是Python？",
+      "additional_links": [
+        {
+          "text": "PHP和Python的全面比较，究竟哪一个更好？ - BitDegreehttps://cn.bitdegree.org › jiao-cheng",
+          "href": "https://cn.bitdegree.org/jiao-cheng/php-he-python/"
+        },
+        {
+          "text": "Translate this page",
+          "href": "https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://cn.bitdegree.org/jiao-cheng/php-he-python/&prev=search&pto=aue"
+        }
+      ],
+      "cite": {
+        "domain": "https://cn.bitdegree.org › jiao-cheng",
+        "span": " › jiao-cheng"
+      }
+    },
+    {
+      "title": "Difference between PyCharm/PHPStorm and IDEA Plugins for ...",
+      "link": "https://intellij-support.jetbrains.com/hc/en-us/community/posts/206937185-Difference-between-PyCharm-PHPStorm-and-IDEA-Plugins-for-Python-PHP",
+      "description": "Apr 12, 2010 — Hi,i'm taking a look at at JetBrains' IDEs and was wondering wether there is a difference between the various IDEA Plugins for...",
+      "additional_links": [
+        {
+          "text": "Difference between PyCharm/PHPStorm and IDEA Plugins for ...https://intellij-support.jetbrains.com › community › posts",
+          "href": "https://intellij-support.jetbrains.com/hc/en-us/community/posts/206937185-Difference-between-PyCharm-PHPStorm-and-IDEA-Plugins-for-Python-PHP"
+        }
+      ],
+      "cite": {
+        "domain": "https://intellij-support.jetbrains.com › community › posts",
+        "span": " › community › posts"
+      }
+    },
+    {
+      "title": "How has the performance of PHP, Python, and Ruby improved ...",
+      "link": "https://levelup.gitconnected.com/how-has-the-performance-of-php-python-and-ruby-improved-in-recent-years-1768fd5b6df9",
+      "description": "Feb 23, 2020 — Let's review performance improvements for 3 of the main programming languages to better understand the importance of keeping our projects ...",
+      "additional_links": [
+        {
+          "text": "How has the performance of PHP, Python, and Ruby improved ...https://levelup.gitconnected.com › ...",
+          "href": "https://levelup.gitconnected.com/how-has-the-performance-of-php-python-and-ruby-improved-in-recent-years-1768fd5b6df9"
+        }
+      ],
+      "cite": {
+        "domain": "https://levelup.gitconnected.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Red Hat updates Python, PHP, Node.js, more; supports new ...",
+      "link": "https://developers.redhat.com/blog/2017/10/04/red-hat-updates-python-php-node-js-supports-new-arches",
+      "description": "Oct 4, 2017 — I am pleased to announce the immediate availability of Red Hat Software Collections 3.0 Beta, Red Hat's newest installment of open source ...",
+      "additional_links": [
+        {
+          "text": "Red Hat updates Python, PHP, Node.js, more; supports new ...https://developers.redhat.com › blog › 2017/10/04 › re...",
+          "href": "https://developers.redhat.com/blog/2017/10/04/red-hat-updates-python-php-node-js-supports-new-arches"
+        }
+      ],
+      "cite": {
+        "domain": "https://developers.redhat.com › blog › 2017/10/04 › re...",
+        "span": " › blog › 2017/10/04 › re..."
+      }
+    },
+    {
+      "title": "Which Country Has More Java, JavaScript, Ruby on Rails ...",
+      "link": "https://www.daxx.com/blog/development-trends/number-java-javascript-python-php-rubyonrails-developers",
+      "description": "Jan 24, 2020 — Find numbers of Java, JavaScript, Ruby on Rails, Python, and PHP developers in the US, the UK, Germany, the Netherlands, and Ukraine in our ...",
+      "additional_links": [
+        {
+          "text": "Which Country Has More Java, JavaScript, Ruby on Rails ...https://www.daxx.com › Blog › Trends",
+          "href": "https://www.daxx.com/blog/development-trends/number-java-javascript-python-php-rubyonrails-developers"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.daxx.com › Blog › Trends",
+        "span": " › Blog › Trends"
+      }
+    },
+    {
+      "title": "PHP Vs Python : What to Choose in 2021? (Updated Guide)",
+      "link": "https://www.techgropse.com/blog/php-vs-python/",
+      "description": "Nov 17, 2020 — In this world of programming languages, it's necessary to be sure for staying on the right side of development. We will be discussing PHP vs ...",
+      "additional_links": [
+        {
+          "text": "PHP Vs Python : What to Choose in 2021? (Updated Guide)https://www.techgropse.com › blog › php-vs-python",
+          "href": "https://www.techgropse.com/blog/php-vs-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.techgropse.com › blog › php-vs-python",
+        "span": " › blog › php-vs-python"
+      }
+    },
+    {
+      "title": "Running a python script from my php server - Ask Ubuntu",
+      "link": "https://askubuntu.com/questions/902833/running-a-python-script-from-my-php-server",
+      "description": "Apr 9, 2017 · 1 answerNot the answer you're looking for? Browse other questions tagged scripts python php raspberrypi or ask your own question. The Overflow Blog.",
+      "additional_links": [
+        {
+          "text": "Running a python script from my php server - Ask Ubuntuhttps://askubuntu.com › questions › running-a-python-s...",
+          "href": "https://askubuntu.com/questions/902833/running-a-python-script-from-my-php-server"
+        }
+      ],
+      "cite": {
+        "domain": "https://askubuntu.com › questions › running-a-python-s...",
+        "span": " › questions › running-a-python-s..."
+      }
+    },
+    {
+      "title": "Programming language PHP 8 is out: This new JIT compiler ...",
+      "link": "https://www.zdnet.com/article/programming-language-php-8-is-out-this-new-jit-compiler-points-to-better-performance/",
+      "description": "Nov 27, 2020 — A senior Google database expert loves the JIT compiler, but others doubt its worth and say it could be hard to maintain.",
+      "additional_links": [
+        {
+          "text": "Programming language PHP 8 is out: This new JIT compiler ...https://www.zdnet.com › Topic › Enterprise Software",
+          "href": "https://www.zdnet.com/article/programming-language-php-8-is-out-this-new-jit-compiler-points-to-better-performance/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.zdnet.com › Topic › Enterprise Software",
+        "span": " › Topic › Enterprise Software"
+      }
+    },
+    {
+      "title": "Senior Web Developer - Python/PHP/Node-JS - Akamai Careers",
+      "link": "https://akamaijobs.referrals.selectminds.com/jobs/senior-web-developer-python-php-node-js-14184",
+      "description": "Dec 2, 2020 — Are you a web developer who loves creating complex web applications ? Would developing the web pages and business-critical applications ...",
+      "additional_links": [
+        {
+          "text": "Senior Web Developer - Python/PHP/Node-JS - Akamai Careershttps://akamaijobs.referrals.selectminds.com › jobs › se...",
+          "href": "https://akamaijobs.referrals.selectminds.com/jobs/senior-web-developer-python-php-node-js-14184"
+        }
+      ],
+      "cite": {
+        "domain": "https://akamaijobs.referrals.selectminds.com › jobs › se...",
+        "span": " › jobs › se..."
+      }
+    },
+    {
+      "title": "Release the clients! Ruby, Python, PHP, Perl | Elastic Blog",
+      "link": "https://www.elastic.co/blog/unleash-the-clients-ruby-python-php-perl",
+      "description": "Sep 24, 2013 — Today, the Elasticsearch developer team is excited to announce the release of official Elasticsearch clients for Ruby, Python, PHP and Perl, ...",
+      "additional_links": [
+        {
+          "text": "Release the clients! Ruby, Python, PHP, Perl | Elastic Bloghttps://www.elastic.co › blog › unleash-the-clients-ruby...",
+          "href": "https://www.elastic.co/blog/unleash-the-clients-ruby-python-php-perl"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.elastic.co › blog › unleash-the-clients-ruby...",
+        "span": " › blog › unleash-the-clients-ruby..."
+      }
+    },
+    {
+      "title": "C, C++, Java, Python, PHP, JavaScript and Linux For Beginners",
+      "link": "https://books.google.com/books?id=xnTcDwAAQBAJ&pg=PA608&lpg=PA608&dq=%22Python+Php%22&source=bl&ots=q0fU5yaDsI&sig=ACfU3U2kWpY2RM7mbHhQkYkPm84cDHP6eg&hl=en&sa=X&ved=2ahUKEwj_56eF-4v0AhWcRjABHasZCG0Q6AF6BQjCAhAD",
+      "description": "Manjunath.R · 2020 · ‎Antiques & Collectibles",
+      "additional_links": [
+        {
+          "text": "C, C++, Java, Python, PHP, JavaScript and Linux For Beginnershttps://books.google.com › books",
+          "href": "https://books.google.com/books?id=xnTcDwAAQBAJ&pg=PA608&lpg=PA608&dq=%22Python+Php%22&source=bl&ots=q0fU5yaDsI&sig=ACfU3U2kWpY2RM7mbHhQkYkPm84cDHP6eg&hl=en&sa=X&ved=2ahUKEwj_56eF-4v0AhWcRjABHasZCG0Q6AF6BQjCAhAD"
+        },
+        {
+          "text": "Manjunath.R",
+          "href": "/search?num=100&tbm=bks&q=inauthor:%22Manjunath.R%22&sa=X&ved=2ahUKEwj_56eF-4v0AhWcRjABHasZCG0Q9Ah6BQjCAhAG"
+        }
+      ],
+      "cite": {
+        "domain": "https://books.google.com › books",
+        "span": " › books"
+      }
+    }
+  ],
+  "image_results": [
+  ],
+  "total": 4060000,
+  "answers": [
+  ],
+  "ts": 2.1588473320007324,
+  "device_region": "US",
+  "device_type": "desktop"
 }

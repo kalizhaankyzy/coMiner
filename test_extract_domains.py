@@ -184,28 +184,64 @@ def phrase_independence(phrase, descriptions_list):
 
 entity_and_competitors = {
     'Adidas':{
-        'Advantage',
-        'Epic React',
-        'Foam',
-        'Footjoy',
-        'Joyride',
-        'Legacy Lifter',
         'Nike',
-        'OG',
+        'Puma',
         'Pace',
-        'Puma'
+        'Advantage',
+        'Footjoy',
+        'Legacy lifter',
+        'Converse',
+        'Reebok',
+        'Position',
+        'Everybody'
+    },
+    'Python': {
+        'R',
+        'Java',
+        'Javascript',
+        'C',
+        'Ruby',
+        'Matlab',
+        'Php',
+        'Gatoroid',
+        'Go',
+        'Golang'
     },
     'Twix':{
-        'Advantage',
-        'Epic React',
-        'Foam',
-        'Footjoy',
-        'Joyride',
-        'Legacy Lifter',
-        'Nike',
-        'OG',
-        'Pace',
-        'Puma'
+        'Right',
+        'Snickers',
+        'Kit kat',
+        'Left',
+        'Mars',
+        'Treat',
+        'Reese',
+        'Aldi',
+        'Carmel',
+        'Donut'
+    },
+    'Prada': {
+        'Gucci',
+        'Louis vuitton',
+        'Fendi',
+        'Miu miu',
+        'Chanel',
+        'Versace',
+        'Rajput',
+        'Nada',
+        'Azam',
+        'Chloe'
+    },
+    'Toyota': {
+        'Honda',
+        'Nissan',
+        'Competition',
+        'Chevrolet',
+        'Subaru',
+        'Lexus',
+        'Ford',
+        'Volkswagen',
+        'Kia',
+        'Tesla'
     },
     'Facebook':{
         'Instagram', 
@@ -236,7 +272,7 @@ entity_and_competitors = {
 
 entity_names = list(entity_and_competitors.keys())
 # for Facebook
-entity_name = entity_names[3]
+entity_name = entity_names[1]
 
 competitors_list = list(entity_and_competitors[entity_name])
 descriptions_of_entity=list()
@@ -248,7 +284,7 @@ list_of_phrases = phrases_from_descriptions_list(descriptions_list,competitors_l
 
 resulting_dictionary = {}
 # idx = 0
-# print(len(list_of_phrases))
+print(len(list_of_phrases))
 for phrase in list_of_phrases:
 #     idx += 1
 #     # print(idx, phrase)

@@ -1,1576 +1,1570 @@
 {
-   "results":[
-      {
-         "title":"Python vs Go: What's The Difference? – BMC Software | Blogs",
-         "link":"https://www.bmc.com/blogs/go-vs-python/#:~:text=Python%20and%20Go%20are%20different,at%20Java%20and%20C%2B%2B%20speeds.",
-         "description":" More imagesGolang PythonPython and Go are different, generally serving different purposes. Python is the primary language among data scientists, where Go is the language for server-side commands. Go is the language to use to run software. It is the faster language, performing at Java and C++ speeds.Aug 20, 2020Python vs Go: What's The Difference? – BMC Software | Blogshttps://www.bmc.com › blogs › go-vs-pythonhttps://www.bmc.com › blogs › go-vs-pythonComparisonSearch for: golang python comparisonSpeedSearch for: golang python speed",
-         "featured_snippet":" More imagesGolang PythonPython and Go are different, generally serving different purposes. Python is the primary language among data scientists, where Go is the language for server-side commands. Go is the language to use to run software. It is the faster language, performing at Java and C++ speeds.Aug 20, 2020Python vs Go: What's The Difference? – BMC Software | Blogshttps://www.bmc.com › blogs › go-vs-pythonhttps://www.bmc.com › blogs › go-vs-pythonComparisonSearch for: golang python comparisonSpeedSearch for: golang python speed",
-         "additional_links":[
-            {
-               "text":"Python vs Go: What's The Difference? – BMC Software | Blogshttps://www.bmc.com › blogs › go-vs-python",
-               "href":"https://www.bmc.com/blogs/go-vs-python/#:~:text=Python%20and%20Go%20are%20different,at%20Java%20and%20C%2B%2B%20speeds."
-            }
-         ],
-         "cite":{
-            "domain":"https://www.bmc.com › blogs › go-vs-python",
-            "span":" › blogs › go-vs-python"
-         }
-      },
-      {
-         "title":"Why We Switched from Python to Go - GetStream.io",
-         "link":"https://getstream.io/blog/switched-python-go/",
-         "description":"Deciding on a programming language is always a difficult choice, learn why Stream switched from Python to Go as our language of choice.",
-         "additional_links":[
-            {
-               "text":"Why We Switched from Python to Go - GetStream.iohttps://getstream.io › Engineering › Go",
-               "href":"https://getstream.io/blog/switched-python-go/"
-            }
-         ],
-         "cite":{
-            "domain":"https://getstream.io › Engineering › Go",
-            "span":" › Engineering › Go"
-         }
-      },
-      {
-         "title":"All Pythonistas should switch to Go… or okay, maybe just half",
-         "link":"https://thenextweb.com/news/python-vs-go-syndication",
-         "description":"Oct 9, 2021 — Go was invented by an all-star trio at Google: Robert Griesemer was one of the heads behind Google's V8 JavaScript machine and a main developer ...",
-         "additional_links":[
-            {
-               "text":"All Pythonistas should switch to Go… or okay, maybe just halfhttps://thenextweb.com › Neural",
-               "href":"https://thenextweb.com/news/python-vs-go-syndication"
-            }
-         ],
-         "cite":{
-            "domain":"https://thenextweb.com › Neural",
-            "span":" › Neural"
-         }
-      },
-      {
-         "title":"sbinet/go-python: naive go bindings to the CPython2 C-API",
-         "link":"https://github.com/sbinet/go-python",
-         "description":"this package provides a go package named \"python\" under which most of the PyXYZ functions and macros of the public C-API of CPython have been exposed.",
-         "additional_links":[
-            {
-               "text":"sbinet/go-python: naive go bindings to the CPython2 C-APIhttps://github.com › sbinet › go-python",
-               "href":"https://github.com/sbinet/go-python"
-            }
-         ],
-         "cite":{
-            "domain":"https://github.com › sbinet › go-python",
-            "span":" › sbinet › go-python"
-         }
-      },
-      {
-         "title":"Golang vs Python: 6 Questions to Decide Which Programming ...",
-         "link":"https://qvault.io/golang/golang-vs-python/",
-         "description":"Apr 29, 2021 — Go is known for its speed, while Python is known to be a slower language. Python is versatile, while Go is stricter in syntax and formatting.",
-         "additional_links":[
-            {
-               "text":"Golang vs Python: 6 Questions to Decide Which Programming ...https://qvault.io › Golang",
-               "href":"https://qvault.io/golang/golang-vs-python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://qvault.io › Golang",
-            "span":" › Golang"
-         }
-      },
-      {
-         "title":"Introduction To Golang For Python developers - Analytics ...",
-         "link":"https://analyticsindiamag.com/introduction-to-golang-for-python-developers/",
-         "description":"Oct 12, 2020 — Performance: Unlike Python, Go is compiled to machine code. This makes it blazing fast! Here is a benchmarking comparison between Python and Go.",
-         "additional_links":[
-            {
-               "text":"Introduction To Golang For Python developers - Analytics ...https://analyticsindiamag.com › introduction-to-golang-...",
-               "href":"https://analyticsindiamag.com/introduction-to-golang-for-python-developers/"
-            }
-         ],
-         "cite":{
-            "domain":"https://analyticsindiamag.com › introduction-to-golang-...",
-            "span":" › introduction-to-golang-..."
-         }
-      },
-      {
-         "title":"Go vs. Python - main differences overview - CodiLime",
-         "link":"https://codilime.com/blog/go-vs-python-main-differences-overview/",
-         "description":"Oct 4, 2021 — The syntax of these programming languages; How Go and Python tackle exception handling; Dependency management in Go language and Python. What is ...",
-         "additional_links":[
-            {
-               "text":"Go vs. Python - main differences overview - CodiLimehttps://codilime.com › blog › go-vs-python-main-differ...",
-               "href":"https://codilime.com/blog/go-vs-python-main-differences-overview/"
-            }
-         ],
-         "cite":{
-            "domain":"https://codilime.com › blog › go-vs-python-main-differ...",
-            "span":" › blog › go-vs-python-main-differ..."
-         }
-      },
-      {
-         "title":"Python: Go From Rookie To Rockstar - Towards Data Science",
-         "link":"https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8",
-         "description":"Python is an interpreted (runs code line-by-line) high-level (lingo for less painful) general purpose (go crazy with your imagination) programming language.",
-         "additional_links":[
-            {
-               "text":"Python: Go From Rookie To Rockstar - Towards Data Sciencehttps://towardsdatascience.com › python-go-from-rooki...",
-               "href":"https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8"
-            }
-         ],
-         "cite":{
-            "domain":"https://towardsdatascience.com › python-go-from-rooki...",
-            "span":" › python-go-from-rooki..."
-         }
-      },
-      {
-         "title":"5 Key Differences Between Python & GO | by Kurt F. - Medium",
-         "link":"https://medium.com/swlh/5-key-differences-between-python-go-ee52691f65ae",
-         "description":"Sep 30, 2020 — Python and GO continue to grow in popularity as comparable languages ​​between other coding languages. Despite all the rave reviews about GO ...",
-         "additional_links":[
-            {
-               "text":"5 Key Differences Between Python & GO | by Kurt F. - Mediumhttps://medium.com › swlh › 5-key-differences-betwee...",
-               "href":"https://medium.com/swlh/5-key-differences-between-python-go-ee52691f65ae"
-            }
-         ],
-         "cite":{
-            "domain":"https://medium.com › swlh › 5-key-differences-betwee...",
-            "span":" › swlh › 5-key-differences-betwee..."
-         }
-      },
-      {
-         "title":"Go vs Python | What are the differences? - StackShare",
-         "link":"https://stackshare.io/stackups/go-vs-python",
-         "description":"Go - An open source programming language that makes it easy to build simple, reliable, and efficient software. Python - A clear and powerful object-oriented ...",
-         "additional_links":[
-            {
-               "text":"Go vs Python | What are the differences? - StackSharehttps://stackshare.io › stackups › go-vs-python",
-               "href":"https://stackshare.io/stackups/go-vs-python"
-            }
-         ],
-         "cite":{
-            "domain":"https://stackshare.io › stackups › go-vs-python",
-            "span":" › stackups › go-vs-python"
-         }
-      },
-      {
-         "title":"Python and Go : Part I - gRPC - Ardan Labs",
-         "link":"https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html",
-         "description":"Jun 8, 2020 — Another advantage of using protocol buffers is that you write the message definition once, and then generate bindings to every language from the ...",
-         "additional_links":[
-            {
-               "text":"Python and Go : Part I - gRPC - Ardan Labshttps://www.ardanlabs.com › blog › 2020/06 › python-...",
-               "href":"https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.ardanlabs.com › blog › 2020/06 › python-...",
-            "span":" › blog › 2020/06 › python-..."
-         }
-      },
-      {
-         "title":"Go vs. Python – which one is better for machine learning?",
-         "link":"https://websensa.com/en/2020/07/01/go-vs-python-which-one-is-better-for-machine-learning/",
-         "description":"Jul 1, 2020 — Python is the most popular machine learning language, but the less popular, like Go, also have supporters. Read our comparison of Python and ...",
-         "additional_links":[
-            {
-               "text":"Go vs. Python – which one is better for machine learning?https://websensa.com › Home › Blog",
-               "href":"https://websensa.com/en/2020/07/01/go-vs-python-which-one-is-better-for-machine-learning/"
-            }
-         ],
-         "cite":{
-            "domain":"https://websensa.com › Home › Blog",
-            "span":" › Home › Blog"
-         }
-      },
-      {
-         "title":"Cgo and Python | Datadog",
-         "link":"https://www.datadoghq.com/blog/engineering/cgo-and-python/",
-         "description":"How the new Datadog Agent written in Go runs Python checks.Apr 16, 2018 · Uploaded by PyGotham 2017",
-         "additional_links":[
-            {
-               "text":"Cgo and Python | Datadoghttps://www.datadoghq.com › blog › engineering › cgo-a...",
-               "href":"https://www.datadoghq.com/blog/engineering/cgo-and-python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.datadoghq.com › blog › engineering › cgo-a...",
-            "span":" › blog › engineering › cgo-a..."
-         }
-      },
-      {
-         "title":"Go vs Python - clash of backend titans - Merixstudio",
-         "link":"https://www.merixstudio.com/blog/go-vs-python/",
-         "description":"Mar 5, 2020 — Can't decide between Go and Python? See how these backend languages compare in terms of performance, readability, type system, popularity, ...",
-         "additional_links":[
-            {
-               "text":"Go vs Python - clash of backend titans - Merixstudiohttps://www.merixstudio.com › ... › development",
-               "href":"https://www.merixstudio.com/blog/go-vs-python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.merixstudio.com › ... › development",
-            "span":" › ... › development"
-         }
-      },
-      {
-         "title":"Go or Python?: devops - Reddit",
-         "link":"https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/",
-         "description":" › devops › comments › go_or_py...  › devops › comments › go_or_py...  ·  Top answer:  I do 'devops' work in both. In this case, I suggest Python, with reasons following. I'll default ...",
-         "additional_links":[
-            {
-               "text":"Go or Python?: devops - Reddithttps://www.reddit.com › devops › comments › go_or_py...",
-               "href":"https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/"
-            },
-            {
-               "text":"35 answers",
-               "href":"https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/"
-            },
-            {
-               "text":"Why are people ditching python for go?: golang - Reddit",
-               "href":"https://www.reddit.com/r/golang/comments/2aup1g/why_are_people_ditching_python_for_go/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.reddit.com › devops › comments › go_or_py...",
-            "span":" › devops › comments › go_or_py..."
-         }
-      },
-      {
-         "title":"Go or Python?: devops - Reddit",
-         "link":"https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/",
-         "description":"Now I'd like to learn a programming language: python or go? Possible outsider: node.js. I'd go with python because is very flexible, lots of libs, and not ...35 answers  ·  Top answer: I do 'devops' work in both. In this case, I suggest Python, with reasons following. I'll default ...",
-         "additional_links":[
-            {
-               "text":"Go or Python?: devops - Reddithttps://www.reddit.com › devops › comments › go_or_py...",
-               "href":"https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/"
-            },
-            {
-               "text":"35 answers",
-               "href":"https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.reddit.com › devops › comments › go_or_py...",
-            "span":" › devops › comments › go_or_py..."
-         }
-      },
-      {
-         "title":"Why are people ditching python for go?: golang - Reddit",
-         "link":"https://www.reddit.com/r/golang/comments/2aup1g/why_are_people_ditching_python_for_go/",
-         "description":"35 votes, 48 comments. I'm just getting into python and so far I like it, I've used other languages over the years in small amounts but I wanted to …",
-         "additional_links":[
-            {
-               "text":"Why are people ditching python for go?: golang - Reddit",
-               "href":"https://www.reddit.com/r/golang/comments/2aup1g/why_are_people_ditching_python_for_go/"
-            }
-         ],
-         "cite":{
-
-         }
-      },
-      {
-         "title":"Why Go? – Key advantages you may have overlooked",
-         "link":"https://yourbasic.org/golang/advantages-over-java-python/",
-         "description":"Go makes it easier (than Java or Python) to write correct, clear and efficient code. ... Choosing a programming language isn't easy. The separate features of a ...",
-         "additional_links":[
-            {
-               "text":"Why Go? – Key advantages you may have overlookedhttps://yourbasic.org › advantages-over-java-python",
-               "href":"https://yourbasic.org/golang/advantages-over-java-python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://yourbasic.org › advantages-over-java-python",
-            "span":" › advantages-over-java-python"
-         }
-      },
-      {
-         "title":"Is Python past tense? Is Golang the future? Python vs Go 2021",
-         "link":"https://medium.datadriveninvestor.com/is-python-past-tense-is-golang-the-future-python-vs-go-2020-98af0b4311f8",
-         "description":"Feb 19, 2020 — Go was born in Google and was written by Rob Pike, Ken Thompson, and Robert Griesemer. Because of its popularity, Go has attracted the ...",
-         "additional_links":[
-            {
-               "text":"Is Python past tense? Is Golang the future? Python vs Go 2021https://medium.datadriveninvestor.com › ...",
-               "href":"https://medium.datadriveninvestor.com/is-python-past-tense-is-golang-the-future-python-vs-go-2020-98af0b4311f8"
-            }
-         ],
-         "cite":{
-            "domain":"https://medium.datadriveninvestor.com › ...",
-            "span":" › ..."
-         }
-      },
-      {
-         "title":"From Python to Go and Back Again | Hacker News",
-         "link":"https://news.ycombinator.com/item?id=10402307",
-         "description":"Oct 16, 2015 — Goroutines feel cheap, but if you're holding 140k connections, and just 20k of them do something that spins up a goroutine each... you can ...",
-         "additional_links":[
-            {
-               "text":"From Python to Go and Back Again | Hacker Newshttps://news.ycombinator.com › item",
-               "href":"https://news.ycombinator.com/item?id=10402307"
-            }
-         ],
-         "cite":{
-            "domain":"https://news.ycombinator.com › item",
-            "span":" › item"
-         }
-      },
-      {
-         "title":"Senior Software Engineer - Python/Go - Careers at Apple",
-         "link":"https://jobs.apple.com/en-us/details/200276155/senior-software-engineer-python-go",
-         "description":"Aug 13, 2021 — Apply for a Senior Software Engineer - Python/Go job at Apple. Read about the role and find out if it's right for you.",
-         "additional_links":[
-            {
-               "text":"Senior Software Engineer - Python/Go - Careers at Applehttps://jobs.apple.com › en-us › details › senior-softwar...",
-               "href":"https://jobs.apple.com/en-us/details/200276155/senior-software-engineer-python-go"
-            }
-         ],
-         "cite":{
-            "domain":"https://jobs.apple.com › en-us › details › senior-softwar...",
-            "span":" › en-us › details › senior-softwar..."
-         }
-      },
-      {
-         "title":"gopy - pkg.dev",
-         "link":"https://pkg.go.dev/github.com/go-python/gopy",
-         "description":"Aug 30, 2021 — gopy generates (and compiles) language bindings that make it possible to call Go code and pass objects from Python.",
-         "additional_links":[
-            {
-               "text":"gopy - pkg.devhttps://pkg.go.dev › github.com › go-python › gopy",
-               "href":"https://pkg.go.dev/github.com/go-python/gopy"
-            }
-         ],
-         "cite":{
-            "domain":"https://pkg.go.dev › github.com › go-python › gopy",
-            "span":" › github.com › go-python › gopy"
-         }
-      },
-      {
-         "title":"Python, Go cheat sheet - Programming Idioms",
-         "link":"https://programming-idioms.org/cheatsheet/Python/Go",
-         "description":"Implement a function search which looks for item x in a 2D matrix m. Return indices i, j of the matching cell. Think of the most idiomatic way in the ...",
-         "additional_links":[
-            {
-               "text":"Python, Go cheat sheet - Programming Idiomshttps://programming-idioms.org › cheatsheet › Python",
-               "href":"https://programming-idioms.org/cheatsheet/Python/Go"
-            }
-         ],
-         "cite":{
-            "domain":"https://programming-idioms.org › cheatsheet › Python",
-            "span":" › cheatsheet › Python"
-         }
-      },
-      {
-         "title":"Funny Quotes; Monty Python: Go Away or I Shall Taunt You",
-         "link":"https://www.amazon.com/Funny-Quotes-Monty-Python-Second/dp/B07CG8QQ9B",
-         "description":"Buy Funny Quotes; Monty Python: Go Away or I Shall Taunt You a Second Time! (1.5 Inch Button) and other Jewelry at Amazon.com.",
-         "additional_links":[
-            {
-               "text":"Funny Quotes; Monty Python: Go Away or I Shall Taunt Youhttps://www.amazon.com › Funny-Quotes-Monty-Pyth...",
-               "href":"https://www.amazon.com/Funny-Quotes-Monty-Python-Second/dp/B07CG8QQ9B"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.amazon.com › Funny-Quotes-Monty-Pyth...",
-            "span":" › Funny-Quotes-Monty-Pyth..."
-         }
-      },
-      {
-         "title":"Getting Started with Vernier Go Direct® Sensors and Python",
-         "link":"https://vernierst.github.io/godirect-examples/python/",
-         "description":"If you are having issues, make sure you are using the pip3 command to install into Python 3. For more information on installing packages in Python go to https ...",
-         "additional_links":[
-            {
-               "text":"Getting Started with Vernier Go Direct® Sensors and Pythonhttps://vernierst.github.io › godirect-examples › python",
-               "href":"https://vernierst.github.io/godirect-examples/python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://vernierst.github.io › godirect-examples › python",
-            "span":" › godirect-examples › python"
-         }
-      },
-      {
-         "title":"See Python, See Python Go, Go Python Go - Heroku Blog",
-         "link":"https://blog.heroku.com/see_python_see_python_go_go_python_go",
-         "description":"See Python, See Python Go, Go Python Go. Andrey Petrov. Posted by Andrey Petrov June 02, 2016. Listen to this article. Remaining. 11:13.",
-         "additional_links":[
-            {
-               "text":"See Python, See Python Go, Go Python Go - Heroku Bloghttps://blog.heroku.com › see_python_see_python_go_...",
-               "href":"https://blog.heroku.com/see_python_see_python_go_go_python_go"
-            }
-         ],
-         "cite":{
-            "domain":"https://blog.heroku.com › see_python_see_python_go_...",
-            "span":" › see_python_see_python_go_..."
-         }
-      },
-      {
-         "title":"Google's Go language vs Python, which would you prefer to ...",
-         "link":"https://www.quora.com/Googles-Go-language-vs-Python-which-would-you-prefer-to-use-and-why",
-         "description":"Go and Python are two different languages and they've got their own strong grounds. but, for anything general I'll pick Python. Go is a promising language ...24 answers  ·  377 votes: Everywhere I used to use Python, and I have a choice, I now use Go.\n\nThe primary reasons I ...",
-         "additional_links":[
-            {
-               "text":"Google's Go language vs Python, which would you prefer to ...https://www.quora.com › Googles-Go-language-vs-Pytho...",
-               "href":"https://www.quora.com/Googles-Go-language-vs-Python-which-would-you-prefer-to-use-and-why"
-            },
-            {
-               "text":"24 answers",
-               "href":"https://www.quora.com/Googles-Go-language-vs-Python-which-would-you-prefer-to-use-and-why?top_ans=68455952"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.quora.com › Googles-Go-language-vs-Pytho...",
-            "span":" › Googles-Go-language-vs-Pytho..."
-         }
-      },
-      {
-         "title":"GoTrained Python Tutorials - Tutorials on Natural Language ...",
-         "link":"https://python.gotrained.com/",
-         "description":"Tutorials on Natural Language Processing, Machine Learning, Data Extraction, and more.",
-         "additional_links":[
-            {
-               "text":"GoTrained Python Tutorials - Tutorials on Natural Language ...https://python.gotrained.com",
-               "href":"https://python.gotrained.com/"
-            }
-         ],
-         "cite":{
-
-         }
-      },
-      {
-         "title":"One Program Written in Python, Go, and Rust - Nicolas Hahn",
-         "link":"https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/",
-         "description":"Jul 1, 2019 — Update (2019-07-04): Some kind folks have suggested changes on the implementations to make them more idiomatic, so the code here may differ ...",
-         "additional_links":[
-            {
-               "text":"One Program Written in Python, Go, and Rust - Nicolas Hahnhttps://www.nicolas-hahn.com › rust › 2019/07/01 › pr...",
-               "href":"https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.nicolas-hahn.com › rust › 2019/07/01 › pr...",
-            "span":" › rust › 2019/07/01 › pr..."
-         }
-      },
-      {
-         "title":"Python vs. Go: Which Programming Language Should You ...",
-         "link":"https://dev.to/jones268/python-vs-go-which-programming-language-should-you-learn-41pg",
-         "description":"Apr 8, 2021 — Python is a widely popular and diverse programming language. Along with Java, JavaScript and C, Python is one of the most spoken languages ...",
-         "additional_links":[
-            {
-               "text":"Python vs. Go: Which Programming Language Should You ...https://dev.to › jones268",
-               "href":"https://dev.to/jones268/python-vs-go-which-programming-language-should-you-learn-41pg"
-            }
-         ],
-         "cite":{
-            "domain":"https://dev.to › jones268",
-            "span":" › jones268"
-         }
-      },
-      {
-         "title":"Getting Started with Libsodium in Python and Go - Okta ...",
-         "link":"https://developer.okta.com/blog/2021/08/05/libsodium-encryption-go-python",
-         "description":"Aug 5, 2021 — Prerequisites to Building a Libsodium Application · What is Public Key Encryption · How to Create Key Pairs with libsodium · Encrypt a Message with ...",
-         "additional_links":[
-            {
-               "text":"Getting Started with Libsodium in Python and Go - Okta ...https://developer.okta.com › blog › 2021/08/05 › libso...",
-               "href":"https://developer.okta.com/blog/2021/08/05/libsodium-encryption-go-python"
-            }
-         ],
-         "cite":{
-            "domain":"https://developer.okta.com › blog › 2021/08/05 › libso...",
-            "span":" › blog › 2021/08/05 › libso..."
-         }
-      },
-      {
-         "title":"Combine Python & Go for Machine Learning With gRPC",
-         "link":"https://levelup.gitconnected.com/combine-python-go-for-machine-learning-with-grpc-fb1316a2219b",
-         "description":"Aug 5, 2021 — Python and Go have each found themselves at the top of the programming food chain for their own respective roles.",
-         "additional_links":[
-            {
-               "text":"Combine Python & Go for Machine Learning With gRPChttps://levelup.gitconnected.com › combine-python-go-...",
-               "href":"https://levelup.gitconnected.com/combine-python-go-for-machine-learning-with-grpc-fb1316a2219b"
-            }
-         ],
-         "cite":{
-            "domain":"https://levelup.gitconnected.com › combine-python-go-...",
-            "span":" › combine-python-go-..."
-         }
-      },
-      {
-         "title":"create golang bindings for a python module - Stack Overflow",
-         "link":"https://stackoverflow.com/questions/63510031/create-golang-bindings-for-a-python-module",
-         "description":"Aug 20, 2020 — python go binding cpython. I want to write golang bindings for an existing (third party) Python module. The purpose is that I want to use ...1 answer  ·  Top answer: I want to use the API that the Python module provides in Golang.\n\nCalling Python from Go is detailed recently in \"Python and Go : Part I - gRPC\" ...",
-         "additional_links":[
-            {
-               "text":"create golang bindings for a python module - Stack Overflowhttps://stackoverflow.com › questions › create-golang-b...",
-               "href":"https://stackoverflow.com/questions/63510031/create-golang-bindings-for-a-python-module"
-            },
-            {
-               "text":"1 answer",
-               "href":"https://stackoverflow.com/a/63540182"
-            }
-         ],
-         "cite":{
-            "domain":"https://stackoverflow.com › questions › create-golang-b...",
-            "span":" › questions › create-golang-b..."
-         }
-      },
-      {
-         "title":"Episode #231 Go Python, Go!",
-         "link":"https://pythonbytes.fm/episodes/show/231/go-python-go",
-         "description":"Apr 28, 2021 — Sponsored by us! Support our work through: Our courses at Talk Python Training · pytest book · Patreon Supporters. Special guests: Cecil Phillip.",
-         "additional_links":[
-            {
-               "text":"Episode #231 Go Python, Go!https://pythonbytes.fm › episodes › show › go-python-go",
-               "href":"https://pythonbytes.fm/episodes/show/231/go-python-go"
-            }
-         ],
-         "cite":{
-            "domain":"https://pythonbytes.fm › episodes › show › go-python-go",
-            "span":" › episodes › show › go-python-go"
-         }
-      },
-      {
-         "title":"Typing in Python, Go and JavaScript compared - OpenGenus IQ",
-         "link":"https://iq.opengenus.org/typing-in-go-javascript-python/",
-         "description":"Static Typing, Dynamic Typing ... Whether a language is statically typed or dynamically typed depends on how the compiler/interpreter handles variables and at ...",
-         "additional_links":[
-            {
-               "text":"Typing in Python, Go and JavaScript compared - OpenGenus IQhttps://iq.opengenus.org › typing-in-go-javascript-python",
-               "href":"https://iq.opengenus.org/typing-in-go-javascript-python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://iq.opengenus.org › typing-in-go-javascript-python",
-            "span":" › typing-in-go-javascript-python"
-         }
-      },
-      {
-         "title":"Principal Software Engineer- Python, Go, Java, Cloud Native",
-         "link":"https://jobs.paloaltonetworks.com/en/jobs/job/principal-software-engineer-python-go-java-cloud-native-santa-clara-a0eabd76-7521-4878-a504-048a8b36b6eb/",
-         "description":"Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of ...",
-         "additional_links":[
-            {
-               "text":"Principal Software Engineer- Python, Go, Java, Cloud Nativehttps://jobs.paloaltonetworks.com › jobs › job › princip...",
-               "href":"https://jobs.paloaltonetworks.com/en/jobs/job/principal-software-engineer-python-go-java-cloud-native-santa-clara-a0eabd76-7521-4878-a504-048a8b36b6eb/"
-            }
-         ],
-         "cite":{
-            "domain":"https://jobs.paloaltonetworks.com › jobs › job › princip...",
-            "span":" › jobs › job › princip..."
-         }
-      },
-      {
-         "title":"Go Vs Python: Updated Comparison 2021 - Developer ...",
-         "link":"https://ssiddique.info/go-vs-python-updated-comparison.html",
-         "description":"Dec 18, 2020 — Ultimately, Python is for people, while Go is for server-side commands and machines. Next to this, Go supports concurrency and Python does not, ...Python: 2442.13377 ns/opLanguage: SpeedGo: 20.8 ns/op",
-         "additional_links":[
-            {
-               "text":"Go Vs Python: Updated Comparison 2021 - Developer ...https://ssiddique.info › Programming",
-               "href":"https://ssiddique.info/go-vs-python-updated-comparison.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://ssiddique.info › Programming",
-            "span":" › Programming"
-         }
-      },
-      {
-         "title":"REMOTE- Data Engineer- Python/Go- Venture Backed Big Data",
-         "link":"https://www.cybercoders.com/remote-data-engineer-python-go-venture-backed-big-data-job-596299",
-         "description":"Oct 4, 2021 — With multiple offices and campuses across the US, we are an expanding enterprise Informatics Big Data company with a growing, global presence, ...",
-         "additional_links":[
-            {
-               "text":"REMOTE- Data Engineer- Python/Go- Venture Backed Big Datahttps://www.cybercoders.com › remote-data-engineer-p...",
-               "href":"https://www.cybercoders.com/remote-data-engineer-python-go-venture-backed-big-data-job-596299"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.cybercoders.com › remote-data-engineer-p...",
-            "span":" › remote-data-engineer-p..."
-         }
-      },
-      {
-         "title":"Go vs Python: What's the Best Choice for Your Project? - Tivix",
-         "link":"https://www.tivix.com/blog/go-vs-python-whats-the-best-choice-for-your-project",
-         "description":"Oct 1, 2019 — The total number of programming languages worldwide is somewhere between 256 and over 8,000. Every developer has a personal favorite.",
-         "additional_links":[
-            {
-               "text":"Go vs Python: What's the Best Choice for Your Project? - Tivixhttps://www.tivix.com › Blog",
-               "href":"https://www.tivix.com/blog/go-vs-python-whats-the-best-choice-for-your-project"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.tivix.com › Blog",
-            "span":" › Blog"
-         }
-      },
-      {
-         "title":"Platform Engineer (Python / Go) - Careers at BlackRock",
-         "link":"https://careers.blackrock.com/job/13141414/platform-engineer-python-go-new-york-ny/",
-         "description":"The Aladdin Product Group SRE is looking for a talented, ambitious engineer to grow and expand the SRE Platform team. Our platforms incorporate best-of-breed ...",
-         "additional_links":[
-            {
-               "text":"Platform Engineer (Python / Go) - Careers at BlackRockhttps://careers.blackrock.com › job › platform-engineer...",
-               "href":"https://careers.blackrock.com/job/13141414/platform-engineer-python-go-new-york-ny/"
-            }
-         ],
-         "cite":{
-            "domain":"https://careers.blackrock.com › job › platform-engineer...",
-            "span":" › job › platform-engineer..."
-         }
-      },
-      {
-         "title":"gns3/python-go-perl-php - Docker Image",
-         "link":"https://hub.docker.com/r/gns3/python-go-perl-php",
-         "description":"Ubuntu - Programming Toolbox. This appliance contains the following networking tools: net-tools (basic network administration tools); ping; ssh client ...",
-         "additional_links":[
-            {
-               "text":"gns3/python-go-perl-php - Docker Imagehttps://hub.docker.com › gns3 › python-go-perl-php",
-               "href":"https://hub.docker.com/r/gns3/python-go-perl-php"
-            }
-         ],
-         "cite":{
-            "domain":"https://hub.docker.com › gns3 › python-go-perl-php",
-            "span":" › gns3 › python-go-perl-php"
-         }
-      },
-      {
-         "title":"How Long Can A Ball Python Go Without Eating - Oddly Cute ...",
-         "link":"https://oddlycutepets.com/ball-python-going-without-eating/",
-         "description":"How Long Can A Ball Python Go Without Eating. Is your pet ball python refusing to eat? Ball pythons are notoriously picky eaters and are famous for going on “ ...",
-         "additional_links":[
-            {
-               "text":"How Long Can A Ball Python Go Without Eating - Oddly Cute ...https://oddlycutepets.com › ... › Snakes › Ball Pythons",
-               "href":"https://oddlycutepets.com/ball-python-going-without-eating/"
-            }
-         ],
-         "cite":{
-            "domain":"https://oddlycutepets.com › ... › Snakes › Ball Pythons",
-            "span":" › ... › Snakes › Ball Pythons"
-         }
-      },
-      {
-         "title":"Writing Cloud Functions",
-         "link":"https://cloud.google.com/functions/docs/writing",
-         "description":"Cloud Functions can be written in Node.js, Python, Go, Java, .NET, Ruby, and PHP programming languages, and are executed in language-specific runtimes. The ...",
-         "additional_links":[
-            {
-               "text":"Writing Cloud Functionshttps://cloud.google.com › ... › Documentation",
-               "href":"https://cloud.google.com/functions/docs/writing"
-            }
-         ],
-         "cite":{
-            "domain":"https://cloud.google.com › ... › Documentation",
-            "span":" › ... › Documentation"
-         }
-      },
-      {
-         "title":"Moving from Python to Go - Morioh",
-         "link":"https://morioh.com/p/11e59f8cea39",
-         "description":"I love Python. It has been my go-to language for the past five years. Python is very friendly and easy to learn while still remaining super effective.",
-         "additional_links":[
-            {
-               "text":"Moving from Python to Go - Moriohhttps://morioh.com › ...",
-               "href":"https://morioh.com/p/11e59f8cea39"
-            }
-         ],
-         "cite":{
-            "domain":"https://morioh.com › ...",
-            "span":" › ..."
-         }
-      },
-      {
-         "title":"Google's Go: A New Programming Language That's Python ...",
-         "link":"https://techcrunch.com/2009/11/10/google-go-language/",
-         "description":"Nov 10, 2009 — Big news for developers out there: Google has just announced the release of a new, open sourced programming language called Go.",
-         "additional_links":[
-            {
-               "text":"Google's Go: A New Programming Language That's Python ...https://techcrunch.com › 2009/11/10 › google-go-lang...",
-               "href":"https://techcrunch.com/2009/11/10/google-go-language/"
-            }
-         ],
-         "cite":{
-            "domain":"https://techcrunch.com › 2009/11/10 › google-go-lang...",
-            "span":" › 2009/11/10 › google-go-lang..."
-         }
-      },
-      {
-         "title":"python/python.go - platform/build/soong - Git at Google",
-         "link":"https://android.googlesource.com/platform/build/soong/+/refs/heads/pie-cts-release/python/python.go",
-         "description":"// or filegroup using the syntax \":module\". Srcs []string `android:\"arch_variant\"`. // list of source ...",
-         "additional_links":[
-            {
-               "text":"python/python.go - platform/build/soong - Git at Googlehttps://android.googlesource.com › refs › pie-cts-release",
-               "href":"https://android.googlesource.com/platform/build/soong/+/refs/heads/pie-cts-release/python/python.go"
-            }
-         ],
-         "cite":{
-            "domain":"https://android.googlesource.com › refs › pie-cts-release",
-            "span":" › refs › pie-cts-release"
-         }
-      },
-      {
-         "title":"Senior Software Development Engineer (AWS, Java, Python ...",
-         "link":"https://careers.changehealthcare.com/job/seattle/senior-software-development-engineer-aws-java-python-go/32443/4386287536",
-         "description":"Learn more about applying for Senior Software Development Engineer (AWS, Java, Python, Go) at Change Healthcare.",
-         "additional_links":[
-            {
-               "text":"Senior Software Development Engineer (AWS, Java, Python ...https://careers.changehealthcare.com › job › seattle › se...",
-               "href":"https://careers.changehealthcare.com/job/seattle/senior-software-development-engineer-aws-java-python-go/32443/4386287536"
-            }
-         ],
-         "cite":{
-            "domain":"https://careers.changehealthcare.com › job › seattle › se...",
-            "span":" › job › seattle › se..."
-         }
-      },
-      {
-         "title":"Senior Backend Engineer Python Go Jobs, Employment in ...",
-         "link":"https://www.indeed.com/m/jobs?q=Senior+Backend+Engineer+Python+Go&l=San+Francisco%2C+CA",
-         "description":"135 Senior Backend Engineer Python Go jobs available in San Francisco, CA on Indeed.com. Apply to Senior Software Engineer, Back End Developer, ...",
-         "additional_links":[
-            {
-               "text":"Senior Backend Engineer Python Go Jobs, Employment in ...https://www.indeed.com › jobs",
-               "href":"https://www.indeed.com/m/jobs?q=Senior+Backend+Engineer+Python+Go&l=San+Francisco%2C+CA"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.indeed.com › jobs",
-            "span":" › jobs"
-         }
-      },
-      {
-         "title":"DevOps Engineer (Python/Go), SAP Intelligence Enterprise ...",
-         "link":"https://jobs.sap.com/job/Bangalore-DevOps-Engineer-%28PythonGo%29%2C-SAP-Intelligence-Enterprise-Solutions-560066/704360001/",
-         "description":"Our company culture is focused on helping our employees enable innovation by building breakthroughs together. How? We focus every day on building the foundation ...",
-         "additional_links":[
-            {
-               "text":"DevOps Engineer (Python/Go), SAP Intelligence Enterprise ...https://jobs.sap.com › job › Bangalore-DevOps-Enginee...",
-               "href":"https://jobs.sap.com/job/Bangalore-DevOps-Engineer-%28PythonGo%29%2C-SAP-Intelligence-Enterprise-Solutions-560066/704360001/"
-            }
-         ],
-         "cite":{
-            "domain":"https://jobs.sap.com › job › Bangalore-DevOps-Enginee...",
-            "span":" › job › Bangalore-DevOps-Enginee..."
-         }
-      },
-      {
-         "title":"Python, Go, Perl, PHP | GNS3",
-         "link":"https://gns3.com/marketplace/appliance/python-go-perl-php",
-         "description":"So I installed the TCL in this python go perl php device. After restarting the gns3/vm. I lost installed TCL. How can I add TCL or any other along with ...",
-         "additional_links":[
-            {
-               "text":"Python, Go, Perl, PHP | GNS3https://gns3.com › marketplace › appliance › python-g...",
-               "href":"https://gns3.com/marketplace/appliance/python-go-perl-php"
-            }
-         ],
-         "cite":{
-            "domain":"https://gns3.com › marketplace › appliance › python-g...",
-            "span":" › marketplace › appliance › python-g..."
-         }
-      },
-      {
-         "title":"Go Language will replace Python in 2021 ! - LinkedIn",
-         "link":"https://www.linkedin.com/pulse/golang-replace-python-2021-youssef-houmazen",
-         "description":"Oct 13, 2020 — Its growth over the past has been huge, especially over the past 5 years. Python became the machine learning and data science developers' go-to ...",
-         "additional_links":[
-            {
-               "text":"Go Language will replace Python in 2021 ! - LinkedInhttps://www.linkedin.com › pulse › golang-replace-pytho...",
-               "href":"https://www.linkedin.com/pulse/golang-replace-python-2021-youssef-houmazen"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.linkedin.com › pulse › golang-replace-pytho...",
-            "span":" › pulse › golang-replace-pytho..."
-         }
-      },
-      {
-         "title":"Software Engineer - MIG Infra Team (C/Python/GO) - Cisco Jobs",
-         "link":"https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-MIG-Infra-Team-C-Python-GO/1319907",
-         "description":"Apply for Software Engineer - MIG Infra Team (C/Python/GO) job with Cisco in San Jose, California, US. Read about the role and find out if it's right for ...",
-         "additional_links":[
-            {
-               "text":"Software Engineer - MIG Infra Team (C/Python/GO) - Cisco Jobshttps://jobs.cisco.com › jobs › ProjectDetail › Software-...",
-               "href":"https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-MIG-Infra-Team-C-Python-GO/1319907"
-            }
-         ],
-         "cite":{
-            "domain":"https://jobs.cisco.com › jobs › ProjectDetail › Software-...",
-            "span":" › jobs › ProjectDetail › Software-..."
-         }
-      },
-      {
-         "title":"Software Engineer, Carriers (Python/Go) - Greenhouse",
-         "link":"https://boards.greenhouse.io/easypost/jobs/5523059002",
-         "description":"EasyPost is helping e-commerce companies with accurate tracking and logistics. EasyPost pushes boundaries and changes the status quo through our RESTful API, ...",
-         "additional_links":[
-            {
-               "text":"Software Engineer, Carriers (Python/Go) - Greenhousehttps://boards.greenhouse.io › easypost › jobs",
-               "href":"https://boards.greenhouse.io/easypost/jobs/5523059002"
-            }
-         ],
-         "cite":{
-            "domain":"https://boards.greenhouse.io › easypost › jobs",
-            "span":" › easypost › jobs"
-         }
-      },
-      {
-         "title":"How Long Can A Ball Python Go Without Eating?: The TRUTH!",
-         "link":"https://uniquepetswiki.com/how-long-can-a-ball-python-go-without-eating/",
-         "description":"Have you ever noticed your ball python suddenly not eating? We give you the answers and guide to the question \"How Long Can A Ball Python Go Without Eating\"",
-         "additional_links":[
-            {
-               "text":"How Long Can A Ball Python Go Without Eating?: The TRUTH!https://uniquepetswiki.com › how-long-can-a-ball-pyth...",
-               "href":"https://uniquepetswiki.com/how-long-can-a-ball-python-go-without-eating/"
-            }
-         ],
-         "cite":{
-            "domain":"https://uniquepetswiki.com › how-long-can-a-ball-pyth...",
-            "span":" › how-long-can-a-ball-pyth..."
-         }
-      },
-      {
-         "title":"Google Grumpy (Python->Go)",
-         "link":"https://groups.google.com/g/golang-nuts/c/OJX0TlOF-hw",
-         "description":"TL;DR; compile your Python 2.7 to Go by replacing CPython with Grumpy. Looks very interesting!",
-         "additional_links":[
-            {
-               "text":"Google Grumpy (Python->Go)https://groups.google.com › golang-nuts",
-               "href":"https://groups.google.com/g/golang-nuts/c/OJX0TlOF-hw"
-            }
-         ],
-         "cite":{
-            "domain":"https://groups.google.com › golang-nuts",
-            "span":" › golang-nuts"
-         }
-      },
-      {
-         "title":"\"Go to definition\", \"Class View\", \"Find all references\" not working",
-         "link":"https://developercommunity.visualstudio.com/content/problem/54876/python-go-to-definition-class-view-find-all-refere.html",
-         "description":"Under VS2015 the python \"Go to definition\", \"Class View\", \"Find all references\" works fine. Now under the new VS2017 (15.2) this is not working anymore.",
-         "additional_links":[
-            {
-               "text":"\"Go to definition\", \"Class View\", \"Find all references\" not workinghttps://developercommunity.visualstudio.com › problem",
-               "href":"https://developercommunity.visualstudio.com/content/problem/54876/python-go-to-definition-class-view-find-all-refere.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://developercommunity.visualstudio.com › problem",
-            "span":" › problem"
-         }
-      },
-      {
-         "title":"Any All in Python - Go Coding",
-         "link":"https://gocoding.org/any-all-in-python/",
-         "description":"Aug 7, 2021 — ANY() function iterates over the values provided and returns TRUE as soon as the first TRUE value is discovered. If all the values provided ...",
-         "additional_links":[
-            {
-               "text":"Any All in Python - Go Codinghttps://gocoding.org › any-all-in-python",
-               "href":"https://gocoding.org/any-all-in-python/"
-            }
-         ],
-         "cite":{
-            "domain":"https://gocoding.org › any-all-in-python",
-            "span":" › any-all-in-python"
-         }
-      },
-      {
-         "title":"Jeremy Howard on Twitter: \"Like Python, Go has a \"batteries ...",
-         "link":"https://twitter.com/jeremyphoward/status/1332835373987233793?lang=en",
-         "description":"Nov 28, 2020 — Like Python, Go has a \"batteries included\" standard library, an easy to use package system, and doesn't require manual memory management, which ...",
-         "additional_links":[
-            {
-               "text":"Jeremy Howard on Twitter: \"Like Python, Go has a \"batteries ...https://twitter.com › jeremyphoward › status",
-               "href":"https://twitter.com/jeremyphoward/status/1332835373987233793?lang=en"
-            }
-         ],
-         "cite":{
-            "domain":"https://twitter.com › jeremyphoward › status",
-            "span":" › jeremyphoward › status"
-         }
-      },
-      {
-         "title":"OpenSearch clients in Python, Go, and Node.js",
-         "link":"https://opensearch.org/blog/community/2021/09/opensearch-py-js-go/",
-         "description":"Sep 30, 2021 — The golang implementation is separated into distinct packages ( opensearchapi for the OpenSearch API, opensearchtransport for transport and ...",
-         "additional_links":[
-            {
-               "text":"OpenSearch clients in Python, Go, and Node.jshttps://opensearch.org › blog › community › 2021/09",
-               "href":"https://opensearch.org/blog/community/2021/09/opensearch-py-js-go/"
-            }
-         ],
-         "cite":{
-            "domain":"https://opensearch.org › blog › community › 2021/09",
-            "span":" › blog › community › 2021/09"
-         }
-      },
-      {
-         "title":"Python / Go / Java number overflow | Sololearn",
-         "link":"https://www.sololearn.com/Discuss/2833035/python-go-java-number-overflow",
-         "description":"Jul 10, 2021 — Hi!!! Why is Python the unique language with capabilities of resolve all digits even without using decimal.Decimal?",
-         "additional_links":[
-            {
-               "text":"Python / Go / Java number overflow | Sololearnhttps://www.sololearn.com › Discuss › python-go-java-...",
-               "href":"https://www.sololearn.com/Discuss/2833035/python-go-java-number-overflow"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.sololearn.com › Discuss › python-go-java-...",
-            "span":" › Discuss › python-go-java-..."
-         }
-      },
-      {
-         "title":"Language Stack Installation for Python & Go - Composite ...",
-         "link":"https://compositecode.blog/2020/05/27/language-stack-installation-for-python-go/",
-         "description":"May 27, 2020 — Previously I've gone through the steps I take to get a solid development machine setup. From the base operating system load, to the browser ...",
-         "additional_links":[
-            {
-               "text":"Language Stack Installation for Python & Go - Composite ...https://compositecode.blog › 2020/05/27 › language-sta...",
-               "href":"https://compositecode.blog/2020/05/27/language-stack-installation-for-python-go/"
-            }
-         ],
-         "cite":{
-            "domain":"https://compositecode.blog › 2020/05/27 › language-sta...",
-            "span":" › 2020/05/27 › language-sta..."
-         }
-      },
-      {
-         "title":"Announcing the RemoteWrite SDK for Custom Metrics | Logz.io",
-         "link":"https://logz.io/blog/remotewrite-sdk-custom-metrics/",
-         "description":"Jul 22, 2021 — Logz.io introduces its new RemoteWrite SDK for custom metrics, based on OpenTelemetry. Ship Python, Go, Java, and many more.",
-         "additional_links":[
-            {
-               "text":"Announcing the RemoteWrite SDK for Custom Metrics | Logz.iohttps://logz.io › Blog › DevOps",
-               "href":"https://logz.io/blog/remotewrite-sdk-custom-metrics/"
-            }
-         ],
-         "cite":{
-            "domain":"https://logz.io › Blog › DevOps",
-            "span":" › Blog › DevOps"
-         }
-      },
-      {
-         "title":"Python - GO-Technologies/DPATL Wiki",
-         "link":"https://github-wiki-see.page/m/GO-Technologies/DPATL/wiki/Python",
-         "description":"4. Python is a multi-purpose language used frequently for data analytics and scientific graphs. DPATL is capable of running Python 3.8 in the web browser on the ...",
-         "additional_links":[
-            {
-               "text":"Python - GO-Technologies/DPATL Wikihttps://github-wiki-see.page › GO-Technologies › Python",
-               "href":"https://github-wiki-see.page/m/GO-Technologies/DPATL/wiki/Python"
-            }
-         ],
-         "cite":{
-            "domain":"https://github-wiki-see.page › GO-Technologies › Python",
-            "span":" › GO-Technologies › Python"
-         }
-      },
-      {
-         "title":"Software Development Engineer IV (AWS, Java, Python, Go, C#)",
-         "link":"https://www.bctechnology.com/jobs/Change-Healthcare/147006/Software-Development-Engineer-IV-(AWS-Java-Python-Go-C)----remote.cfm",
-         "description":"Aug 3, 2021 — Change Healthcare is hiring for the position: Software Development Engineer IV (AWS, Java, Python, Go, C#) -- remote.",
-         "additional_links":[
-            {
-               "text":"Software Development Engineer IV (AWS, Java, Python, Go, C#)https://www.bctechnology.com › Change-Healthcare",
-               "href":"https://www.bctechnology.com/jobs/Change-Healthcare/147006/Software-Development-Engineer-IV-(AWS-Java-Python-Go-C)----remote.cfm"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.bctechnology.com › Change-Healthcare",
-            "span":" › Change-Healthcare"
-         }
-      },
-      {
-         "title":"Python Bytes Live Stream - Episode #231 - YouTube",
-         "link":"https://www.youtube.com/watch?v=rDYKZG6Fn8o",
-         "description":"46:58Join us for the live stream recording of episode 231. Check out the full show notes and links at ...Apr 29, 2021 · Uploaded by Python Bytes Podcast",
-         "additional_links":[
-            {
-               "text":"Python Bytes Live Stream - Episode #231 - YouTubehttps://www.youtube.com › watch",
-               "href":"https://www.youtube.com/watch?v=rDYKZG6Fn8o"
-            },
-            {
-               "text":"46:58",
-               "href":"https://www.youtube.com/watch?v=rDYKZG6Fn8o"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.youtube.com › watch",
-            "span":" › watch"
-         }
-      },
-      {
-         "title":"Thread: Will my Ball Python go blind????",
-         "link":"https://ball-pythons.net/forums/showthread.php?255301-Will-my-Ball-Python-go-blind",
-         "description":"Apr 30, 2018 — Will my Ball Python go blind???? Okay so on my instagram account I made for my BP Ramen, someone has commented twice saying that my infrared ...",
-         "additional_links":[
-            {
-               "text":"Thread: Will my Ball Python go blind????https://ball-pythons.net › forums › showthread › 25530...",
-               "href":"https://ball-pythons.net/forums/showthread.php?255301-Will-my-Ball-Python-go-blind"
-            }
-         ],
-         "cite":{
-            "domain":"https://ball-pythons.net › forums › showthread › 25530...",
-            "span":" › forums › showthread › 25530..."
-         }
-      },
-      {
-         "title":"Sr. Test Automation Engineer (Python/Go/Java), Romania ...",
-         "link":"https://crowdstrike.searchgreatcareers.com/job/bucharest/sr-software-engineer-in-test-python-romania-remote/27577/14173620288",
-         "description":"Sep 11, 2021 — Learn more about applying for Sr. Test Automation Engineer (Python/Go/Java), Romania (Remote) at CrowdStrike.",
-         "additional_links":[
-            {
-               "text":"Sr. Test Automation Engineer (Python/Go/Java), Romania ...https://crowdstrike.searchgreatcareers.com › bucharest",
-               "href":"https://crowdstrike.searchgreatcareers.com/job/bucharest/sr-software-engineer-in-test-python-romania-remote/27577/14173620288"
-            }
-         ],
-         "cite":{
-            "domain":"https://crowdstrike.searchgreatcareers.com › bucharest",
-            "span":" › bucharest"
-         }
-      },
-      {
-         "title":"Python — Go tutorials - Bitfield Consulting",
-         "link":"https://bitfieldconsulting.com/golang/tag/Python",
-         "description":"Oct 5, 2020 — Which is better, Python or Go? Which language should you learn today, and why? How do the two compare in performance, ease of learning, ...",
-         "additional_links":[
-            {
-               "text":"Python — Go tutorials - Bitfield Consultinghttps://bitfieldconsulting.com › golang › tag › Python",
-               "href":"https://bitfieldconsulting.com/golang/tag/Python"
-            }
-         ],
-         "cite":{
-            "domain":"https://bitfieldconsulting.com › golang › tag › Python",
-            "span":" › golang › tag › Python"
-         }
-      },
-      {
-         "title":"ADS 3.2 Websockets : python/GO (at least) example clients ...",
-         "link":"https://community.developers.refinitiv.com/questions/27709/ads-32-websockets-pythongo-at-least-example-client.html",
-         "description":"May 21, 2018 — In GO, the refresh message returns \"null\", then the updates are received correctly also. I attached python command line and ADS debug logger ...",
-         "additional_links":[
-            {
-               "text":"ADS 3.2 Websockets : python/GO (at least) example clients ...https://community.developers.refinitiv.com › questions",
-               "href":"https://community.developers.refinitiv.com/questions/27709/ads-32-websockets-pythongo-at-least-example-client.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://community.developers.refinitiv.com › questions",
-            "span":" › questions"
-         }
-      },
-      {
-         "title":"How Long Can A Ball Python Go Without Eating? - Embora Pets",
-         "link":"https://emborapets.com/how-long-can-a-ball-python-go-without-eating/",
-         "description":"How Long Can A Ball Python Go Without Eating? · Snakes don't have the teeth to chop and cut up their food. Venomous snakes have digestive enzymes in their venom ...",
-         "additional_links":[
-            {
-               "text":"How Long Can A Ball Python Go Without Eating? - Embora Petshttps://emborapets.com › how-long-can-a-ball-python-...",
-               "href":"https://emborapets.com/how-long-can-a-ball-python-go-without-eating/"
-            }
-         ],
-         "cite":{
-            "domain":"https://emborapets.com › how-long-can-a-ball-python-...",
-            "span":" › how-long-can-a-ball-python-..."
-         }
-      },
-      {
-         "title":"Python Function That Searches For Go Terms Of Proteins",
-         "link":"https://www.biostars.org/p/96529/",
-         "description":"Mar 31, 2014 — python go • 3.2k views. ADD COMMENT • link updated 7.6 years ago by Xingyu Yang ▴ 260 • written 7.6 years ago by nadia.sl89 • 0.1 answer  ·  1 vote: You need biopython.\nFisrt, you need to blast your sequences to uniprot using qblast() function in Bio.Blast.NCBIWWW.\nSee instruction here: http://biopython.org/ ...",
-         "additional_links":[
-            {
-               "text":"Python Function That Searches For Go Terms Of Proteinshttps://www.biostars.org › ...",
-               "href":"https://www.biostars.org/p/96529/"
-            },
-            {
-               "text":"1 answer",
-               "href":"https://www.biostars.org/p/96529/#96558"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.biostars.org › ...",
-            "span":" › ..."
-         }
-      },
-      {
-         "title":"Context Managers in Python — Go Beyond “with open() as file”",
-         "link":"https://betterprogramming.pub/context-managers-in-python-go-beyond-with-open-as-file-85a27e392114",
-         "description":"Jul 28, 2020 — When we deal with files in Python, the most common operation is probably the use of the built-in open() function. This creates a file object ...",
-         "additional_links":[
-            {
-               "text":"Context Managers in Python — Go Beyond “with open() as file”https://betterprogramming.pub › context-managers-in-p...",
-               "href":"https://betterprogramming.pub/context-managers-in-python-go-beyond-with-open-as-file-85a27e392114"
-            }
-         ],
-         "cite":{
-            "domain":"https://betterprogramming.pub › context-managers-in-p...",
-            "span":" › context-managers-in-p..."
-         }
-      },
-      {
-         "title":"New Python, GO, iOS Kin SDK Tutorials",
-         "link":"https://kin.org/python-go-ios-tutorials-released/",
-         "description":"May 31, 2021 — Python, Go, and iOS Kin SDK Tutorials are now available via Kintegrate.dev!",
-         "additional_links":[
-            {
-               "text":"New Python, GO, iOS Kin SDK Tutorialshttps://kin.org › python-go-ios-tutorials-released",
-               "href":"https://kin.org/python-go-ios-tutorials-released/"
-            }
-         ],
-         "cite":{
-            "domain":"https://kin.org › python-go-ios-tutorials-released",
-            "span":" › python-go-ios-tutorials-released"
-         }
-      },
-      {
-         "title":"go.figure y axis name python Code Example",
-         "link":"https://www.codegrepper.com/code-examples/python/go.figure+y+axis+name+python",
-         "description":"... plotly xlabel ylabel python · plotly title python · plotly html histogram title name · plotly python go.figure configure axis numbers ...",
-         "additional_links":[
-            {
-               "text":"go.figure y axis name python Code Examplehttps://www.codegrepper.com › code-examples › go.fig...",
-               "href":"https://www.codegrepper.com/code-examples/python/go.figure+y+axis+name+python"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.codegrepper.com › code-examples › go.fig...",
-            "span":" › code-examples › go.fig..."
-         }
-      },
-      {
-         "title":"5 Programming Languages That Will Dominate 2021: Python ...",
-         "link":"https://insights.dice.com/2020/12/09/5-programming-languages-that-will-dominate-2021-python-go-more/",
-         "description":"Dec 9, 2020 — Forecasting the world's most popular programming languages over the next few years is a difficult task, but we tried to name five.",
-         "additional_links":[
-            {
-               "text":"5 Programming Languages That Will Dominate 2021: Python ...https://insights.dice.com › 2020/12/09 › 5-programmin...",
-               "href":"https://insights.dice.com/2020/12/09/5-programming-languages-that-will-dominate-2021-python-go-more/"
-            }
-         ],
-         "cite":{
-            "domain":"https://insights.dice.com › 2020/12/09 › 5-programmin...",
-            "span":" › 2020/12/09 › 5-programmin..."
-         }
-      },
-      {
-         "title":"Python Go Sticker for iOS & Android | GIPHY",
-         "link":"https://giphy.com/gifs/go-python-golang-zYi4Qdbs4LUmCrVD82",
-         "description":"Discover & share this Go Sticker for iOS and Android. Bring your texts and messages to life with our collection of GIPHY Stickers.",
-         "additional_links":[
-            {
-               "text":"Python Go Sticker for iOS & Android | GIPHYhttps://giphy.com › gifs › go-python-golang-zYi4Qdbs...",
-               "href":"https://giphy.com/gifs/go-python-golang-zYi4Qdbs4LUmCrVD82"
-            }
-         ],
-         "cite":{
-            "domain":"https://giphy.com › gifs › go-python-golang-zYi4Qdbs...",
-            "span":" › gifs › go-python-golang-zYi4Qdbs..."
-         }
-      },
-      {
-         "title":"counting words in Python, Go, C++, C, AWK, Forth, and Rust",
-         "link":"https://benhoyt.com/writings/count-words/",
-         "description":"Go to: Constraints | Python Go C++ C AWK Forth Rust Shell Others | Results! I've conducted many coding interviews over the past few years, and one of the ...",
-         "additional_links":[
-            {
-               "text":"counting words in Python, Go, C++, C, AWK, Forth, and Rusthttps://benhoyt.com › writings › count-words",
-               "href":"https://benhoyt.com/writings/count-words/"
-            }
-         ],
-         "cite":{
-            "domain":"https://benhoyt.com › writings › count-words",
-            "span":" › writings › count-words"
-         }
-      },
-      {
-         "title":"Python go - LeetCode Profile",
-         "link":"https://leetcode.com/pythongo/",
-         "description":"Python go. pythongo. Location. United States. Contributions. Points. 3455. Problems. 0. Testcases. 0. Discuss. Reputation. 0. Contest Rating. 1,388pt.",
-         "additional_links":[
-            {
-               "text":"Python go - LeetCode Profilehttps://leetcode.com › pythongo",
-               "href":"https://leetcode.com/pythongo/"
-            }
-         ],
-         "cite":{
-            "domain":"https://leetcode.com › pythongo",
-            "span":" › pythongo"
-         }
-      },
-      {
-         "title":"Ball Python Care Sheet - Petco",
-         "link":"https://www.petco.com/content/petco/PetcoStore/en_US/pet-services/resource-center/caresheets/ball-python.html",
-         "description":"Young ball pythons may shed once a month as they grow. Fully grown adults typically shed a few times per year. How long can a ball python go without eating? A ...Care Difficulty: Good for beginner snake hobb...Average Adult Size: 4-5 feet longMinimum Habitat Size: 10-20 gallons when ad...Average Life Span: Up to 30 years with proper ...",
-         "additional_links":[
-            {
-               "text":"Ball Python Care Sheet - Petcohttps://www.petco.com › pet-services › resource-center",
-               "href":"https://www.petco.com/content/petco/PetcoStore/en_US/pet-services/resource-center/caresheets/ball-python.html"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.petco.com › pet-services › resource-center",
-            "span":" › pet-services › resource-center"
-         }
-      },
-      {
-         "title":"The Top 25 Python Go Machine Learning Open Source ...",
-         "link":"https://awesomeopensource.com/projects/go/machine-learning/python",
-         "description":"The Top 25 Python Go Machine Learning Open Source Projects on Github. Categories > Programming Languages > Go. Categories > Machine Learning > Machine ...",
-         "additional_links":[
-            {
-               "text":"The Top 25 Python Go Machine Learning Open Source ...https://awesomeopensource.com › projects › python",
-               "href":"https://awesomeopensource.com/projects/go/machine-learning/python"
-            }
-         ],
-         "cite":{
-            "domain":"https://awesomeopensource.com › projects › python",
-            "span":" › projects › python"
-         }
-      },
-      {
-         "title":"Python Code Examples for go forward - ProgramCreek.com",
-         "link":"https://www.programcreek.com/python/?CodeExample=go+forward",
-         "description":"def go_forward(self): \"\"\"Go forward one place in the history, if possible. Increase the pointer value by 1, if possible. Otherwise, the pointer value will ...",
-         "additional_links":[
-            {
-               "text":"Python Code Examples for go forward - ProgramCreek.comhttps://www.programcreek.com › python",
-               "href":"https://www.programcreek.com/python/?CodeExample=go+forward"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.programcreek.com › python",
-            "span":" › python"
-         }
-      },
-      {
-         "title":"Nim — A Programming Language That Combines Best Of ...",
-         "link":"https://fossbytes.com/nim-programming-language-nimrod/",
-         "description":"Jan 19, 2017 — Nim, formerly known as Nimrod, is a statically typed, powerful, imperative programming language that doesn't compromise with runtime ...",
-         "additional_links":[
-            {
-               "text":"Nim — A Programming Language That Combines Best Of ...https://fossbytes.com › nim-programming-language-ni...",
-               "href":"https://fossbytes.com/nim-programming-language-nimrod/"
-            }
-         ],
-         "cite":{
-            "domain":"https://fossbytes.com › nim-programming-language-ni...",
-            "span":" › nim-programming-language-ni..."
-         }
-      },
-      {
-         "title":"Solved In Python Go through the visualization of the - Chegg",
-         "link":"https://www.chegg.com/homework-help/questions-and-answers/python-go-visualization-selection-sort-bubble-sort-insertion-sort-write-pseudo-code-first--q41408280",
-         "description":" › questions-and-answers › pyth...  › questions-and-answers › pyth...",
-         "additional_links":[
-            {
-               "text":"Solved In Python Go through the visualization of the - Chegghttps://www.chegg.com › questions-and-answers › pyth...",
-               "href":"https://www.chegg.com/homework-help/questions-and-answers/python-go-visualization-selection-sort-bubble-sort-insertion-sort-write-pseudo-code-first--q41408280"
-            },
-            {
-               "text":"Solved Python: Go to the linked list library and add a - Chegg",
-               "href":"https://www.chegg.com/homework-help/questions-and-answers/python-go-linked-list-library-add-method-called-getnumber-n--getnumber-n-return-data-item--q39395265"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.chegg.com › questions-and-answers › pyth...",
-            "span":" › questions-and-answers › pyth..."
-         }
-      },
-      {
-         "title":"Solved In Python Go through the visualization of the - Chegg",
-         "link":"https://www.chegg.com/homework-help/questions-and-answers/python-go-visualization-selection-sort-bubble-sort-insertion-sort-write-pseudo-code-first--q41408280",
-         "description":"In Python. Go through the visualization of the Selection Sort, Bubble Sort and Insertion Sort. Write a Pseudo code first for each of these sort methods.",
-         "additional_links":[
-            {
-               "text":"Solved In Python Go through the visualization of the - Chegghttps://www.chegg.com › questions-and-answers › pyth...",
-               "href":"https://www.chegg.com/homework-help/questions-and-answers/python-go-visualization-selection-sort-bubble-sort-insertion-sort-write-pseudo-code-first--q41408280"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.chegg.com › questions-and-answers › pyth...",
-            "span":" › questions-and-answers › pyth..."
-         }
-      },
-      {
-         "title":"Solved Python: Go to the linked list library and add a - Chegg",
-         "link":"https://www.chegg.com/homework-help/questions-and-answers/python-go-linked-list-library-add-method-called-getnumber-n--getnumber-n-return-data-item--q39395265",
-         "description":"If you run getnumber(2) I you should see whatever that item in the list is: Code to help is below. the method needs to be added to the linked list file. Linked ...",
-         "additional_links":[
-            {
-               "text":"Solved Python: Go to the linked list library and add a - Chegg",
-               "href":"https://www.chegg.com/homework-help/questions-and-answers/python-go-linked-list-library-add-method-called-getnumber-n--getnumber-n-return-data-item--q39395265"
-            }
-         ],
-         "cite":{
-
-         }
-      },
-      {
-         "title":"Senior Software Engineer (Tools Developer - Ruby / Rust ...",
-         "link":"https://akamai.dejobs.org/krakow-pol/senior-software-engineer-tools-developer-ruby-rust-python-go/D498EAC92C6F4C7B94FBF3C97C906926/job/?utm_medium=Education&utm_campaign=NACElink&utm_source=NACElink-DE",
-         "description":"Do you relish the prospect of working with the most cutting-edge technology? Are you excited by promoting user-centered design within a leading technology ...",
-         "additional_links":[
-            {
-               "text":"Senior Software Engineer (Tools Developer - Ruby / Rust ...https://akamai.dejobs.org › krakow-pol › job",
-               "href":"https://akamai.dejobs.org/krakow-pol/senior-software-engineer-tools-developer-ruby-rust-python-go/D498EAC92C6F4C7B94FBF3C97C906926/job/?utm_medium=Education&utm_campaign=NACElink&utm_source=NACElink-DE"
-            }
-         ],
-         "cite":{
-            "domain":"https://akamai.dejobs.org › krakow-pol › job",
-            "span":" › krakow-pol › job"
-         }
-      },
-      {
-         "title":"python go to code example | Newbedev",
-         "link":"https://newbedev.com/python-python-go-to-code-example",
-         "description":"python go to code example. Example: go to line in python. def goto(linenum): global line line = linenum line = 1 while True: if line == 1: response ...",
-         "additional_links":[
-            {
-               "text":"python go to code example | Newbedevhttps://newbedev.com › python-python-go-to-code-exa...",
-               "href":"https://newbedev.com/python-python-go-to-code-example"
-            }
-         ],
-         "cite":{
-            "domain":"https://newbedev.com › python-python-go-to-code-exa...",
-            "span":" › python-python-go-to-code-exa..."
-         }
-      },
-      {
-         "title":"API Reference | Protocol Buffers | Google Developers",
-         "link":"https://developers.google.com/protocol-buffers/docs/reference/overview",
-         "description":"This section contains reference documentation for working with protocol buffer classes in C++, Java, Python, Go, C#, Objective C, JavaScript, Ruby, PHP, ...",
-         "additional_links":[
-            {
-               "text":"API Reference | Protocol Buffers | Google Developershttps://developers.google.com › reference › overview",
-               "href":"https://developers.google.com/protocol-buffers/docs/reference/overview"
-            }
-         ],
-         "cite":{
-            "domain":"https://developers.google.com › reference › overview",
-            "span":" › reference › overview"
-         }
-      },
-      {
-         "title":"myCompiler - An online IDE for C, C++, Java, Python, Go ...",
-         "link":"https://www.mycompiler.io/",
-         "description":"Run your favourite programming languages online with myCompiler. Simple and easy to use IDE where you can edit, compile and run your code in the programming ...",
-         "additional_links":[
-            {
-               "text":"myCompiler - An online IDE for C, C++, Java, Python, Go ...https://www.mycompiler.io",
-               "href":"https://www.mycompiler.io/"
-            }
-         ],
-         "cite":{
-
-         }
-      },
-      {
-         "title":"Monty Python Go Away 1 pinback button / magnet | Etsy",
-         "link":"https://www.etsy.com/listing/710896254/monty-python-go-away-1-pinback-button",
-         "description":"Aug 22, 2019 — This order includes a single 1 pinback button or magnet. Please see the images for size references. All buttons & magnets are handmade to ... Rating: 5 · ‎174 votes",
-         "additional_links":[
-            {
-               "text":"Monty Python Go Away 1 pinback button / magnet | Etsyhttps://www.etsy.com › listing › monty-python-go-away-...",
-               "href":"https://www.etsy.com/listing/710896254/monty-python-go-away-1-pinback-button"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.etsy.com › listing › monty-python-go-away-...",
-            "span":" › listing › monty-python-go-away-..."
-         },
-         "g_review_stars":" Rating: 5 · ‎174 votes"
-      },
-      {
-         "title":"Python (programming language) - Wikipedia",
-         "link":"https://en.wikipedia.org/wiki/Python_(programming_language)",
-         "description":"\"Google's Grumpy code makes Python Go\". www.theregister.com. Archived from the original on 7 March 2021. Retrieved 20 January 2021.Paradigm: Multi-paradigm: ‎object-oriented‎, ‎pro...‎First appeared: February 20, 1991; 30 years agoDeveloper: Python Software FoundationStable release: 3.10.0 / 4 October 2021; 36 days ...",
-         "additional_links":[
-            {
-               "text":"Python (programming language) - Wikipediahttps://en.wikipedia.org › wiki › Python_(programming...",
-               "href":"https://en.wikipedia.org/wiki/Python_(programming_language)"
-            },
-            {
-               "text":"Multi-paradigm",
-               "href":"http://en.wikipedia.org/wiki/Multi-paradigm_programming_language"
-            },
-            {
-               "text":"object-oriented",
-               "href":"http://en.wikipedia.org/wiki/Object-oriented_programming"
-            },
-            {
-               "text":"pro...",
-               "href":"http://en.wikipedia.org/wiki/Procedural_programming"
-            },
-            {
-               "text":"Python Software Foundation",
-               "href":"http://en.wikipedia.org/wiki/Python_Software_Foundation"
-            }
-         ],
-         "cite":{
-            "domain":"https://en.wikipedia.org › wiki › Python_(programming...",
-            "span":" › wiki › Python_(programming..."
-         }
-      },
-      {
-         "title":"Lead Developer (Back end) - Go (GoLang)/ Python/ AWS",
-         "link":"https://apply.workable.com/kin-4/j/C443B7A427/",
-         "description":"The Kin Foundation The Kin Foundation is a Canadian nonprofit corporation established for the governance of the cryptocurrency Kin and is tasked with ...",
-         "additional_links":[
-            {
-               "text":"Lead Developer (Back end) - Go (GoLang)/ Python/ AWShttps://apply.workable.com › kin-4",
-               "href":"https://apply.workable.com/kin-4/j/C443B7A427/"
-            }
-         ],
-         "cite":{
-            "domain":"https://apply.workable.com › kin-4",
-            "span":" › kin-4"
-         }
-      },
-      {
-         "title":"quozlet.python+go ruleset - Semgrep",
-         "link":"https://semgrep.dev/p/quozlet.python+go",
-         "description":"Found an insecure gRPC connection using 'grpc.WithInsecure()'. This creates a connection without encryption to a gRPC server. A malicious attacker could tamper ...",
-         "additional_links":[
-            {
-               "text":"quozlet.python+go ruleset - Semgrephttps://semgrep.dev › quozlet.python+go",
-               "href":"https://semgrep.dev/p/quozlet.python+go"
-            }
-         ],
-         "cite":{
-            "domain":"https://semgrep.dev › quozlet.python+go",
-            "span":" › quozlet.python+go"
-         }
-      },
-      {
-         "title":"Senior Python/Go Engineer @Coins.ph - Just Join IT",
-         "link":"https://justjoin.it/offers/coins-ph-senior-python-go-engineer",
-         "description":"The first map of the labor market in the IT sector. We want to simplify the search process to minimum.",
-         "additional_links":[
-            {
-               "text":"Senior Python/Go Engineer @Coins.ph - Just Join IThttps://justjoin.it › offers › coins-ph-senior-python-go-e...",
-               "href":"https://justjoin.it/offers/coins-ph-senior-python-go-engineer"
-            }
-         ],
-         "cite":{
-            "domain":"https://justjoin.it › offers › coins-ph-senior-python-go-e...",
-            "span":" › offers › coins-ph-senior-python-go-e..."
-         }
-      },
-      {
-         "title":"How Python Has Become a Go-to Language - BairesDev",
-         "link":"https://www.bairesdev.com/blog/python-go-to-language/",
-         "description":"Oct 12, 2020 — Given the possibilities for things you can create with Python, it's no surprise that programmers love to experiment with the language.",
-         "additional_links":[
-            {
-               "text":"How Python Has Become a Go-to Language - BairesDevhttps://www.bairesdev.com › Blog › Technology",
-               "href":"https://www.bairesdev.com/blog/python-go-to-language/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.bairesdev.com › Blog › Technology",
-            "span":" › Blog › Technology"
-         }
-      },
-      {
-         "title":"Senior Software Engineer - Python/Go (Work From Home)",
-         "link":"https://careerstech9.applytojob.com/apply/T7STtbNhSP/Senior-Software-Engineer-PythonGo-Work-From-Home",
-         "description":"We are growing quickly at Tech9 and looking for a Senior Software Engineer who can develop in Python and Golang to help lead the development of a Cyber ...",
-         "additional_links":[
-            {
-               "text":"Senior Software Engineer - Python/Go (Work From Home)https://careerstech9.applytojob.com › apply › Senior-So...",
-               "href":"https://careerstech9.applytojob.com/apply/T7STtbNhSP/Senior-Software-Engineer-PythonGo-Work-From-Home"
-            }
-         ],
-         "cite":{
-            "domain":"https://careerstech9.applytojob.com › apply › Senior-So...",
-            "span":" › apply › Senior-So..."
-         }
-      },
-      {
-         "title":"Go Vs Python | What are the Differences? - MindMajix",
-         "link":"https://mindmajix.com/go-vs-python",
-         "description":"Apr 21, 2021 — Go Vs Python: In this article we will compare the two programming languages based on various parameters that help you decide which one is ... Rating: 5 · ‎764 reviews",
-         "additional_links":[
-            {
-               "text":"Go Vs Python | What are the Differences? - MindMajixhttps://mindmajix.com › go-vs-python",
-               "href":"https://mindmajix.com/go-vs-python"
-            }
-         ],
-         "cite":{
-            "domain":"https://mindmajix.com › go-vs-python",
-            "span":" › go-vs-python"
-         },
-         "g_review_stars":" Rating: 5 · ‎764 reviews"
-      },
-      {
-         "title":"Advice From an IBM Data Scientist: Start With Python and You ...",
-         "link":"https://blog.edx.org/ibm-data-scientist-advice-start-with-python-go-far",
-         "description":"Feb 5, 2020 — Across industries, data scientists are bringing buzzwords to life: artificial intelligence, machine learning, big data, data visualization.",
-         "additional_links":[
-            {
-               "text":"Advice From an IBM Data Scientist: Start With Python and You ...https://blog.edx.org › ibm-data-scientist-advice-start-wit...",
-               "href":"https://blog.edx.org/ibm-data-scientist-advice-start-with-python-go-far"
-            }
-         ],
-         "cite":{
-            "domain":"https://blog.edx.org › ibm-data-scientist-advice-start-wit...",
-            "span":" › ibm-data-scientist-advice-start-wit..."
-         }
-      },
-      {
-         "title":"5 Programming Languages That Will Dominate 2021 - Pinterest",
-         "link":"https://www.pinterest.com/pin/611082243190693698/",
-         "description":"Apr 8, 2021 - Forecasting the world's most popular programming languages over the next few years is a difficult task, but we tried to name five.",
-         "additional_links":[
-            {
-               "text":"5 Programming Languages That Will Dominate 2021 - Pinteresthttps://www.pinterest.com › ... › Computer",
-               "href":"https://www.pinterest.com/pin/611082243190693698/"
-            }
-         ],
-         "cite":{
-            "domain":"https://www.pinterest.com › ... › Computer",
-            "span":" › ... › Computer"
-         }
-      },
-      {
-         "title":"Resource cleanup, compared: Python, Go and C++ - Code ...",
-         "link":"https://codewithoutrules.com/2016/03/10/compare-contrast/",
-         "description":"Mar 10, 2016 — As a programmer you are expected to learn new technologies regularly. Even when the documentation is excellent, there will typically be ...",
-         "additional_links":[
-            {
-               "text":"Resource cleanup, compared: Python, Go and C++ - Code ...https://codewithoutrules.com › compare-contrast",
-               "href":"https://codewithoutrules.com/2016/03/10/compare-contrast/"
-            }
-         ],
-         "cite":{
-            "domain":"https://codewithoutrules.com › compare-contrast",
-            "span":" › compare-contrast"
-         }
-      },
-      {
-         "title":"See Python, See Python Go, Go Python Go - PyCon US",
-         "link":"https://us.pycon.org/2016/schedule/presentation/1633/",
-         "description":"Wednesday 1:10 p.m.–1:40 p.m.. See Python, See Python Go, Go Python Go. Andrey Petrov. Audience level: Experienced; Category: Python Core (language, stdlib, ...",
-         "additional_links":[
-            {
-               "text":"See Python, See Python Go, Go Python Go - PyCon UShttps://us.pycon.org › schedule › presentation",
-               "href":"https://us.pycon.org/2016/schedule/presentation/1633/"
-            }
-         ],
-         "cite":{
-            "domain":"https://us.pycon.org › schedule › presentation",
-            "span":" › schedule › presentation"
-         }
+  "results": [
+    {
+      "title": "Python vs Go: What's The Difference? – BMC Software | Blogs",
+      "link": "https://www.bmc.com/blogs/go-vs-python/#:~:text=Python%20and%20Go%20are%20different,at%20Java%20and%20C%2B%2B%20speeds.",
+      "description": " More imagesGolang PythonPython and Go are different, generally serving different purposes. Python is the primary language among data scientists, where Go is the language for server-side commands. Go is the language to use to run software. It is the faster language, performing at Java and C++ speeds.Aug 20, 2020Python vs Go: What's The Difference? – BMC Software | Blogshttps://www.bmc.com › blogs › go-vs-pythonhttps://www.bmc.com › blogs › go-vs-pythonComparisonSearch for: golang python comparisonSpeedSearch for: golang python speed",
+      "featured_snippet": " More imagesGolang PythonPython and Go are different, generally serving different purposes. Python is the primary language among data scientists, where Go is the language for server-side commands. Go is the language to use to run software. It is the faster language, performing at Java and C++ speeds.Aug 20, 2020Python vs Go: What's The Difference? – BMC Software | Blogshttps://www.bmc.com › blogs › go-vs-pythonhttps://www.bmc.com › blogs › go-vs-pythonComparisonSearch for: golang python comparisonSpeedSearch for: golang python speed",
+      "additional_links": [
+        {
+          "text": "Python vs Go: What's The Difference? – BMC Software | Blogshttps://www.bmc.com › blogs › go-vs-python",
+          "href": "https://www.bmc.com/blogs/go-vs-python/#:~:text=Python%20and%20Go%20are%20different,at%20Java%20and%20C%2B%2B%20speeds."
+        }
+      ],
+      "cite": {
+        "domain": "https://www.bmc.com › blogs › go-vs-python",
+        "span": " › blogs › go-vs-python"
       }
-   ],
-   "image_results":[
-
-   ],
-   "total":2300000,
-   "answers":[
-
-   ],
-   "ts":2.263336181640625,
-   "device_region":"US",
-   "device_type":"desktop"
+    },
+    {
+      "title": "Why We Switched from Python to Go - GetStream.io",
+      "link": "https://getstream.io/blog/switched-python-go/",
+      "description": "Deciding on a programming language is always a difficult choice, learn why Stream switched from Python to Go as our language of choice.",
+      "additional_links": [
+        {
+          "text": "Why We Switched from Python to Go - GetStream.iohttps://getstream.io › Engineering › Go",
+          "href": "https://getstream.io/blog/switched-python-go/"
+        }
+      ],
+      "cite": {
+        "domain": "https://getstream.io › Engineering › Go",
+        "span": " › Engineering › Go"
+      }
+    },
+    {
+      "title": "All Pythonistas should switch to Go… or okay, maybe just half",
+      "link": "https://thenextweb.com/news/python-vs-go-syndication",
+      "description": "Oct 9, 2021 — Go was invented by an all-star trio at Google: Robert Griesemer was one of the heads behind Google's V8 JavaScript machine and a main developer ...",
+      "additional_links": [
+        {
+          "text": "All Pythonistas should switch to Go… or okay, maybe just halfhttps://thenextweb.com › Neural",
+          "href": "https://thenextweb.com/news/python-vs-go-syndication"
+        }
+      ],
+      "cite": {
+        "domain": "https://thenextweb.com › Neural",
+        "span": " › Neural"
+      }
+    },
+    {
+      "title": "sbinet/go-python: naive go bindings to the CPython2 C-API",
+      "link": "https://github.com/sbinet/go-python",
+      "description": "this package provides a go package named \"python\" under which most of the PyXYZ functions and macros of the public C-API of CPython have been exposed.",
+      "additional_links": [
+        {
+          "text": "sbinet/go-python: naive go bindings to the CPython2 C-APIhttps://github.com › sbinet › go-python",
+          "href": "https://github.com/sbinet/go-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://github.com › sbinet › go-python",
+        "span": " › sbinet › go-python"
+      }
+    },
+    {
+      "title": "Golang vs Python: 6 Questions to Decide Which Programming ...",
+      "link": "https://qvault.io/golang/golang-vs-python/",
+      "description": "Apr 29, 2021 — Go is known for its speed, while Python is known to be a slower language. Python is versatile, while Go is stricter in syntax and formatting.",
+      "additional_links": [
+        {
+          "text": "Golang vs Python: 6 Questions to Decide Which Programming ...https://qvault.io › Golang",
+          "href": "https://qvault.io/golang/golang-vs-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://qvault.io › Golang",
+        "span": " › Golang"
+      }
+    },
+    {
+      "title": "Introduction To Golang For Python developers - Analytics ...",
+      "link": "https://analyticsindiamag.com/introduction-to-golang-for-python-developers/",
+      "description": "Oct 12, 2020 — Performance: Unlike Python, Go is compiled to machine code. This makes it blazing fast! Here is a benchmarking comparison between Python and Go.",
+      "additional_links": [
+        {
+          "text": "Introduction To Golang For Python developers - Analytics ...https://analyticsindiamag.com › introduction-to-golang-...",
+          "href": "https://analyticsindiamag.com/introduction-to-golang-for-python-developers/"
+        }
+      ],
+      "cite": {
+        "domain": "https://analyticsindiamag.com › introduction-to-golang-...",
+        "span": " › introduction-to-golang-..."
+      }
+    },
+    {
+      "title": "Go vs. Python - main differences overview - CodiLime",
+      "link": "https://codilime.com/blog/go-vs-python-main-differences-overview/",
+      "description": "Oct 4, 2021 — The syntax of these programming languages; How Go and Python tackle exception handling; Dependency management in Go language and Python. What is ...",
+      "additional_links": [
+        {
+          "text": "Go vs. Python - main differences overview - CodiLimehttps://codilime.com › blog › go-vs-python-main-differ...",
+          "href": "https://codilime.com/blog/go-vs-python-main-differences-overview/"
+        }
+      ],
+      "cite": {
+        "domain": "https://codilime.com › blog › go-vs-python-main-differ...",
+        "span": " › blog › go-vs-python-main-differ..."
+      }
+    },
+    {
+      "title": "Python: Go From Rookie To Rockstar - Towards Data Science",
+      "link": "https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8",
+      "description": "Python is an interpreted (runs code line-by-line) high-level (lingo for less painful) general purpose (go crazy with your imagination) programming language.",
+      "additional_links": [
+        {
+          "text": "Python: Go From Rookie To Rockstar - Towards Data Sciencehttps://towardsdatascience.com › python-go-from-rooki...",
+          "href": "https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8"
+        }
+      ],
+      "cite": {
+        "domain": "https://towardsdatascience.com › python-go-from-rooki...",
+        "span": " › python-go-from-rooki..."
+      }
+    },
+    {
+      "title": "5 Key Differences Between Python & GO | by Kurt F. - Medium",
+      "link": "https://medium.com/swlh/5-key-differences-between-python-go-ee52691f65ae",
+      "description": "Sep 30, 2020 — Python and GO continue to grow in popularity as comparable languages ​​between other coding languages. Despite all the rave reviews about GO ...",
+      "additional_links": [
+        {
+          "text": "5 Key Differences Between Python & GO | by Kurt F. - Mediumhttps://medium.com › swlh › 5-key-differences-betwee...",
+          "href": "https://medium.com/swlh/5-key-differences-between-python-go-ee52691f65ae"
+        }
+      ],
+      "cite": {
+        "domain": "https://medium.com › swlh › 5-key-differences-betwee...",
+        "span": " › swlh › 5-key-differences-betwee..."
+      }
+    },
+    {
+      "title": "Go vs Python | What are the differences? - StackShare",
+      "link": "https://stackshare.io/stackups/go-vs-python",
+      "description": "Go - An open source programming language that makes it easy to build simple, reliable, and efficient software. Python - A clear and powerful object-oriented ...",
+      "additional_links": [
+        {
+          "text": "Go vs Python | What are the differences? - StackSharehttps://stackshare.io › stackups › go-vs-python",
+          "href": "https://stackshare.io/stackups/go-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://stackshare.io › stackups › go-vs-python",
+        "span": " › stackups › go-vs-python"
+      }
+    },
+    {
+      "title": "Python and Go : Part I - gRPC - Ardan Labs",
+      "link": "https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html",
+      "description": "Jun 8, 2020 — Another advantage of using protocol buffers is that you write the message definition once, and then generate bindings to every language from the ...",
+      "additional_links": [
+        {
+          "text": "Python and Go : Part I - gRPC - Ardan Labshttps://www.ardanlabs.com › blog › 2020/06 › python-...",
+          "href": "https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.ardanlabs.com › blog › 2020/06 › python-...",
+        "span": " › blog › 2020/06 › python-..."
+      }
+    },
+    {
+      "title": "Go vs. Python – which one is better for machine learning?",
+      "link": "https://websensa.com/en/2020/07/01/go-vs-python-which-one-is-better-for-machine-learning/",
+      "description": "Jul 1, 2020 — Python is the most popular machine learning language, but the less popular, like Go, also have supporters. Read our comparison of Python and ...",
+      "additional_links": [
+        {
+          "text": "Go vs. Python – which one is better for machine learning?https://websensa.com › Home › Blog",
+          "href": "https://websensa.com/en/2020/07/01/go-vs-python-which-one-is-better-for-machine-learning/"
+        }
+      ],
+      "cite": {
+        "domain": "https://websensa.com › Home › Blog",
+        "span": " › Home › Blog"
+      }
+    },
+    {
+      "title": "Cgo and Python | Datadog",
+      "link": "https://www.datadoghq.com/blog/engineering/cgo-and-python/",
+      "description": "How the new Datadog Agent written in Go runs Python checks.Apr 16, 2018 · Uploaded by PyGotham 2017",
+      "additional_links": [
+        {
+          "text": "Cgo and Python | Datadoghttps://www.datadoghq.com › blog › engineering › cgo-a...",
+          "href": "https://www.datadoghq.com/blog/engineering/cgo-and-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.datadoghq.com › blog › engineering › cgo-a...",
+        "span": " › blog › engineering › cgo-a..."
+      }
+    },
+    {
+      "title": "Go vs Python - clash of backend titans - Merixstudio",
+      "link": "https://www.merixstudio.com/blog/go-vs-python/",
+      "description": "Mar 5, 2020 — Can't decide between Go and Python? See how these backend languages compare in terms of performance, readability, type system, popularity, ...",
+      "additional_links": [
+        {
+          "text": "Go vs Python - clash of backend titans - Merixstudiohttps://www.merixstudio.com › ... › development",
+          "href": "https://www.merixstudio.com/blog/go-vs-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.merixstudio.com › ... › development",
+        "span": " › ... › development"
+      }
+    },
+    {
+      "title": "Go or Python?: devops - Reddit",
+      "link": "https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/",
+      "description": " › devops › comments › go_or_py...  › devops › comments › go_or_py...  ·  Top answer:  I do 'devops' work in both. In this case, I suggest Python, with reasons following. I'll default ...",
+      "additional_links": [
+        {
+          "text": "Go or Python?: devops - Reddithttps://www.reddit.com › devops › comments › go_or_py...",
+          "href": "https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/"
+        },
+        {
+          "text": "35 answers",
+          "href": "https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/"
+        },
+        {
+          "text": "Why are people ditching python for go?: golang - Reddit",
+          "href": "https://www.reddit.com/r/golang/comments/2aup1g/why_are_people_ditching_python_for_go/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.reddit.com › devops › comments › go_or_py...",
+        "span": " › devops › comments › go_or_py..."
+      }
+    },
+    {
+      "title": "Go or Python?: devops - Reddit",
+      "link": "https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/",
+      "description": "Now I'd like to learn a programming language: python or go? Possible outsider: node.js. I'd go with python because is very flexible, lots of libs, and not ...35 answers  ·  Top answer: I do 'devops' work in both. In this case, I suggest Python, with reasons following. I'll default ...",
+      "additional_links": [
+        {
+          "text": "Go or Python?: devops - Reddithttps://www.reddit.com › devops › comments › go_or_py...",
+          "href": "https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/"
+        },
+        {
+          "text": "35 answers",
+          "href": "https://www.reddit.com/r/devops/comments/8trdyw/go_or_python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.reddit.com › devops › comments › go_or_py...",
+        "span": " › devops › comments › go_or_py..."
+      }
+    },
+    {
+      "title": "Why are people ditching python for go?: golang - Reddit",
+      "link": "https://www.reddit.com/r/golang/comments/2aup1g/why_are_people_ditching_python_for_go/",
+      "description": "35 votes, 48 comments. I'm just getting into python and so far I like it, I've used other languages over the years in small amounts but I wanted to …",
+      "additional_links": [
+        {
+          "text": "Why are people ditching python for go?: golang - Reddit",
+          "href": "https://www.reddit.com/r/golang/comments/2aup1g/why_are_people_ditching_python_for_go/"
+        }
+      ],
+      "cite": {
+      }
+    },
+    {
+      "title": "Why Go? – Key advantages you may have overlooked",
+      "link": "https://yourbasic.org/golang/advantages-over-java-python/",
+      "description": "Go makes it easier (than Java or Python) to write correct, clear and efficient code. ... Choosing a programming language isn't easy. The separate features of a ...",
+      "additional_links": [
+        {
+          "text": "Why Go? – Key advantages you may have overlookedhttps://yourbasic.org › advantages-over-java-python",
+          "href": "https://yourbasic.org/golang/advantages-over-java-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://yourbasic.org › advantages-over-java-python",
+        "span": " › advantages-over-java-python"
+      }
+    },
+    {
+      "title": "Is Python past tense? Is Golang the future? Python vs Go 2021",
+      "link": "https://medium.datadriveninvestor.com/is-python-past-tense-is-golang-the-future-python-vs-go-2020-98af0b4311f8",
+      "description": "Feb 19, 2020 — Go was born in Google and was written by Rob Pike, Ken Thompson, and Robert Griesemer. Because of its popularity, Go has attracted the ...",
+      "additional_links": [
+        {
+          "text": "Is Python past tense? Is Golang the future? Python vs Go 2021https://medium.datadriveninvestor.com › ...",
+          "href": "https://medium.datadriveninvestor.com/is-python-past-tense-is-golang-the-future-python-vs-go-2020-98af0b4311f8"
+        }
+      ],
+      "cite": {
+        "domain": "https://medium.datadriveninvestor.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "From Python to Go and Back Again | Hacker News",
+      "link": "https://news.ycombinator.com/item?id=10402307",
+      "description": "Oct 16, 2015 — Goroutines feel cheap, but if you're holding 140k connections, and just 20k of them do something that spins up a goroutine each... you can ...",
+      "additional_links": [
+        {
+          "text": "From Python to Go and Back Again | Hacker Newshttps://news.ycombinator.com › item",
+          "href": "https://news.ycombinator.com/item?id=10402307"
+        }
+      ],
+      "cite": {
+        "domain": "https://news.ycombinator.com › item",
+        "span": " › item"
+      }
+    },
+    {
+      "title": "Senior Software Engineer - Python/Go - Careers at Apple",
+      "link": "https://jobs.apple.com/en-us/details/200276155/senior-software-engineer-python-go",
+      "description": "Aug 13, 2021 — Apply for a Senior Software Engineer - Python/Go job at Apple. Read about the role and find out if it's right for you.",
+      "additional_links": [
+        {
+          "text": "Senior Software Engineer - Python/Go - Careers at Applehttps://jobs.apple.com › en-us › details › senior-softwar...",
+          "href": "https://jobs.apple.com/en-us/details/200276155/senior-software-engineer-python-go"
+        }
+      ],
+      "cite": {
+        "domain": "https://jobs.apple.com › en-us › details › senior-softwar...",
+        "span": " › en-us › details › senior-softwar..."
+      }
+    },
+    {
+      "title": "gopy - pkg.dev",
+      "link": "https://pkg.go.dev/github.com/go-python/gopy",
+      "description": "Aug 30, 2021 — gopy generates (and compiles) language bindings that make it possible to call Go code and pass objects from Python.",
+      "additional_links": [
+        {
+          "text": "gopy - pkg.devhttps://pkg.go.dev › github.com › go-python › gopy",
+          "href": "https://pkg.go.dev/github.com/go-python/gopy"
+        }
+      ],
+      "cite": {
+        "domain": "https://pkg.go.dev › github.com › go-python › gopy",
+        "span": " › github.com › go-python › gopy"
+      }
+    },
+    {
+      "title": "Python, Go cheat sheet - Programming Idioms",
+      "link": "https://programming-idioms.org/cheatsheet/Python/Go",
+      "description": "Implement a function search which looks for item x in a 2D matrix m. Return indices i, j of the matching cell. Think of the most idiomatic way in the ...",
+      "additional_links": [
+        {
+          "text": "Python, Go cheat sheet - Programming Idiomshttps://programming-idioms.org › cheatsheet › Python",
+          "href": "https://programming-idioms.org/cheatsheet/Python/Go"
+        }
+      ],
+      "cite": {
+        "domain": "https://programming-idioms.org › cheatsheet › Python",
+        "span": " › cheatsheet › Python"
+      }
+    },
+    {
+      "title": "Funny Quotes; Monty Python: Go Away or I Shall Taunt You",
+      "link": "https://www.amazon.com/Funny-Quotes-Monty-Python-Second/dp/B07CG8QQ9B",
+      "description": "Buy Funny Quotes; Monty Python: Go Away or I Shall Taunt You a Second Time! (1.5 Inch Button) and other Jewelry at Amazon.com.",
+      "additional_links": [
+        {
+          "text": "Funny Quotes; Monty Python: Go Away or I Shall Taunt Youhttps://www.amazon.com › Funny-Quotes-Monty-Pyth...",
+          "href": "https://www.amazon.com/Funny-Quotes-Monty-Python-Second/dp/B07CG8QQ9B"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.amazon.com › Funny-Quotes-Monty-Pyth...",
+        "span": " › Funny-Quotes-Monty-Pyth..."
+      }
+    },
+    {
+      "title": "Getting Started with Vernier Go Direct® Sensors and Python",
+      "link": "https://vernierst.github.io/godirect-examples/python/",
+      "description": "If you are having issues, make sure you are using the pip3 command to install into Python 3. For more information on installing packages in Python go to https ...",
+      "additional_links": [
+        {
+          "text": "Getting Started with Vernier Go Direct® Sensors and Pythonhttps://vernierst.github.io › godirect-examples › python",
+          "href": "https://vernierst.github.io/godirect-examples/python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://vernierst.github.io › godirect-examples › python",
+        "span": " › godirect-examples › python"
+      }
+    },
+    {
+      "title": "See Python, See Python Go, Go Python Go - Heroku Blog",
+      "link": "https://blog.heroku.com/see_python_see_python_go_go_python_go",
+      "description": "See Python, See Python Go, Go Python Go. Andrey Petrov. Posted by Andrey Petrov June 02, 2016. Listen to this article. Remaining. 11:13.",
+      "additional_links": [
+        {
+          "text": "See Python, See Python Go, Go Python Go - Heroku Bloghttps://blog.heroku.com › see_python_see_python_go_...",
+          "href": "https://blog.heroku.com/see_python_see_python_go_go_python_go"
+        }
+      ],
+      "cite": {
+        "domain": "https://blog.heroku.com › see_python_see_python_go_...",
+        "span": " › see_python_see_python_go_..."
+      }
+    },
+    {
+      "title": "Google's Go language vs Python, which would you prefer to ...",
+      "link": "https://www.quora.com/Googles-Go-language-vs-Python-which-would-you-prefer-to-use-and-why",
+      "description": "Go and Python are two different languages and they've got their own strong grounds. but, for anything general I'll pick Python. Go is a promising language ...24 answers  ·  377 votes: Everywhere I used to use Python, and I have a choice, I now use Go.\n\nThe primary reasons I ...",
+      "additional_links": [
+        {
+          "text": "Google's Go language vs Python, which would you prefer to ...https://www.quora.com › Googles-Go-language-vs-Pytho...",
+          "href": "https://www.quora.com/Googles-Go-language-vs-Python-which-would-you-prefer-to-use-and-why"
+        },
+        {
+          "text": "24 answers",
+          "href": "https://www.quora.com/Googles-Go-language-vs-Python-which-would-you-prefer-to-use-and-why?top_ans=68455952"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.quora.com › Googles-Go-language-vs-Pytho...",
+        "span": " › Googles-Go-language-vs-Pytho..."
+      }
+    },
+    {
+      "title": "GoTrained Python Tutorials - Tutorials on Natural Language ...",
+      "link": "https://python.gotrained.com/",
+      "description": "Tutorials on Natural Language Processing, Machine Learning, Data Extraction, and more.",
+      "additional_links": [
+        {
+          "text": "GoTrained Python Tutorials - Tutorials on Natural Language ...https://python.gotrained.com",
+          "href": "https://python.gotrained.com/"
+        }
+      ],
+      "cite": {
+      }
+    },
+    {
+      "title": "One Program Written in Python, Go, and Rust - Nicolas Hahn",
+      "link": "https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/",
+      "description": "Jul 1, 2019 — Update (2019-07-04): Some kind folks have suggested changes on the implementations to make them more idiomatic, so the code here may differ ...",
+      "additional_links": [
+        {
+          "text": "One Program Written in Python, Go, and Rust - Nicolas Hahnhttps://www.nicolas-hahn.com › rust › 2019/07/01 › pr...",
+          "href": "https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.nicolas-hahn.com › rust › 2019/07/01 › pr...",
+        "span": " › rust › 2019/07/01 › pr..."
+      }
+    },
+    {
+      "title": "Python vs. Go: Which Programming Language Should You ...",
+      "link": "https://dev.to/jones268/python-vs-go-which-programming-language-should-you-learn-41pg",
+      "description": "Apr 8, 2021 — Python is a widely popular and diverse programming language. Along with Java, JavaScript and C, Python is one of the most spoken languages ...",
+      "additional_links": [
+        {
+          "text": "Python vs. Go: Which Programming Language Should You ...https://dev.to › jones268",
+          "href": "https://dev.to/jones268/python-vs-go-which-programming-language-should-you-learn-41pg"
+        }
+      ],
+      "cite": {
+        "domain": "https://dev.to › jones268",
+        "span": " › jones268"
+      }
+    },
+    {
+      "title": "Getting Started with Libsodium in Python and Go - Okta ...",
+      "link": "https://developer.okta.com/blog/2021/08/05/libsodium-encryption-go-python",
+      "description": "Aug 5, 2021 — Prerequisites to Building a Libsodium Application · What is Public Key Encryption · How to Create Key Pairs with libsodium · Encrypt a Message with ...",
+      "additional_links": [
+        {
+          "text": "Getting Started with Libsodium in Python and Go - Okta ...https://developer.okta.com › blog › 2021/08/05 › libso...",
+          "href": "https://developer.okta.com/blog/2021/08/05/libsodium-encryption-go-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://developer.okta.com › blog › 2021/08/05 › libso...",
+        "span": " › blog › 2021/08/05 › libso..."
+      }
+    },
+    {
+      "title": "Combine Python & Go for Machine Learning With gRPC",
+      "link": "https://levelup.gitconnected.com/combine-python-go-for-machine-learning-with-grpc-fb1316a2219b",
+      "description": "Aug 5, 2021 — Python and Go have each found themselves at the top of the programming food chain for their own respective roles.",
+      "additional_links": [
+        {
+          "text": "Combine Python & Go for Machine Learning With gRPChttps://levelup.gitconnected.com › combine-python-go-...",
+          "href": "https://levelup.gitconnected.com/combine-python-go-for-machine-learning-with-grpc-fb1316a2219b"
+        }
+      ],
+      "cite": {
+        "domain": "https://levelup.gitconnected.com › combine-python-go-...",
+        "span": " › combine-python-go-..."
+      }
+    },
+    {
+      "title": "create golang bindings for a python module - Stack Overflow",
+      "link": "https://stackoverflow.com/questions/63510031/create-golang-bindings-for-a-python-module",
+      "description": "Aug 20, 2020 — python go binding cpython. I want to write golang bindings for an existing (third party) Python module. The purpose is that I want to use ...1 answer  ·  Top answer: I want to use the API that the Python module provides in Golang.\n\nCalling Python from Go is detailed recently in \"Python and Go : Part I - gRPC\" ...",
+      "additional_links": [
+        {
+          "text": "create golang bindings for a python module - Stack Overflowhttps://stackoverflow.com › questions › create-golang-b...",
+          "href": "https://stackoverflow.com/questions/63510031/create-golang-bindings-for-a-python-module"
+        },
+        {
+          "text": "1 answer",
+          "href": "https://stackoverflow.com/a/63540182"
+        }
+      ],
+      "cite": {
+        "domain": "https://stackoverflow.com › questions › create-golang-b...",
+        "span": " › questions › create-golang-b..."
+      }
+    },
+    {
+      "title": "Episode #231 Go Python, Go!",
+      "link": "https://pythonbytes.fm/episodes/show/231/go-python-go",
+      "description": "Apr 28, 2021 — Sponsored by us! Support our work through: Our courses at Talk Python Training · pytest book · Patreon Supporters. Special guests: Cecil Phillip.",
+      "additional_links": [
+        {
+          "text": "Episode #231 Go Python, Go!https://pythonbytes.fm › episodes › show › go-python-go",
+          "href": "https://pythonbytes.fm/episodes/show/231/go-python-go"
+        }
+      ],
+      "cite": {
+        "domain": "https://pythonbytes.fm › episodes › show › go-python-go",
+        "span": " › episodes › show › go-python-go"
+      }
+    },
+    {
+      "title": "Typing in Python, Go and JavaScript compared - OpenGenus IQ",
+      "link": "https://iq.opengenus.org/typing-in-go-javascript-python/",
+      "description": "Static Typing, Dynamic Typing ... Whether a language is statically typed or dynamically typed depends on how the compiler/interpreter handles variables and at ...",
+      "additional_links": [
+        {
+          "text": "Typing in Python, Go and JavaScript compared - OpenGenus IQhttps://iq.opengenus.org › typing-in-go-javascript-python",
+          "href": "https://iq.opengenus.org/typing-in-go-javascript-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://iq.opengenus.org › typing-in-go-javascript-python",
+        "span": " › typing-in-go-javascript-python"
+      }
+    },
+    {
+      "title": "Principal Software Engineer- Python, Go, Java, Cloud Native",
+      "link": "https://jobs.paloaltonetworks.com/en/jobs/job/principal-software-engineer-python-go-java-cloud-native-santa-clara-a0eabd76-7521-4878-a504-048a8b36b6eb/",
+      "description": "Our Mission At Palo Alto Networks® everything starts and ends with our mission: Being the cybersecurity partner of choice, protecting our digital way of ...",
+      "additional_links": [
+        {
+          "text": "Principal Software Engineer- Python, Go, Java, Cloud Nativehttps://jobs.paloaltonetworks.com › jobs › job › princip...",
+          "href": "https://jobs.paloaltonetworks.com/en/jobs/job/principal-software-engineer-python-go-java-cloud-native-santa-clara-a0eabd76-7521-4878-a504-048a8b36b6eb/"
+        }
+      ],
+      "cite": {
+        "domain": "https://jobs.paloaltonetworks.com › jobs › job › princip...",
+        "span": " › jobs › job › princip..."
+      }
+    },
+    {
+      "title": "Go Vs Python: Updated Comparison 2021 - Developer ...",
+      "link": "https://ssiddique.info/go-vs-python-updated-comparison.html",
+      "description": "Dec 18, 2020 — Ultimately, Python is for people, while Go is for server-side commands and machines. Next to this, Go supports concurrency and Python does not, ...Python: 2442.13377 ns/opLanguage: SpeedGo: 20.8 ns/op",
+      "additional_links": [
+        {
+          "text": "Go Vs Python: Updated Comparison 2021 - Developer ...https://ssiddique.info › Programming",
+          "href": "https://ssiddique.info/go-vs-python-updated-comparison.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://ssiddique.info › Programming",
+        "span": " › Programming"
+      }
+    },
+    {
+      "title": "REMOTE- Data Engineer- Python/Go- Venture Backed Big Data",
+      "link": "https://www.cybercoders.com/remote-data-engineer-python-go-venture-backed-big-data-job-596299",
+      "description": "Oct 4, 2021 — With multiple offices and campuses across the US, we are an expanding enterprise Informatics Big Data company with a growing, global presence, ...",
+      "additional_links": [
+        {
+          "text": "REMOTE- Data Engineer- Python/Go- Venture Backed Big Datahttps://www.cybercoders.com › remote-data-engineer-p...",
+          "href": "https://www.cybercoders.com/remote-data-engineer-python-go-venture-backed-big-data-job-596299"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.cybercoders.com › remote-data-engineer-p...",
+        "span": " › remote-data-engineer-p..."
+      }
+    },
+    {
+      "title": "Go vs Python: What's the Best Choice for Your Project? - Tivix",
+      "link": "https://www.tivix.com/blog/go-vs-python-whats-the-best-choice-for-your-project",
+      "description": "Oct 1, 2019 — The total number of programming languages worldwide is somewhere between 256 and over 8,000. Every developer has a personal favorite.",
+      "additional_links": [
+        {
+          "text": "Go vs Python: What's the Best Choice for Your Project? - Tivixhttps://www.tivix.com › Blog",
+          "href": "https://www.tivix.com/blog/go-vs-python-whats-the-best-choice-for-your-project"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.tivix.com › Blog",
+        "span": " › Blog"
+      }
+    },
+    {
+      "title": "Platform Engineer (Python / Go) - Careers at BlackRock",
+      "link": "https://careers.blackrock.com/job/13141414/platform-engineer-python-go-new-york-ny/",
+      "description": "The Aladdin Product Group SRE is looking for a talented, ambitious engineer to grow and expand the SRE Platform team. Our platforms incorporate best-of-breed ...",
+      "additional_links": [
+        {
+          "text": "Platform Engineer (Python / Go) - Careers at BlackRockhttps://careers.blackrock.com › job › platform-engineer...",
+          "href": "https://careers.blackrock.com/job/13141414/platform-engineer-python-go-new-york-ny/"
+        }
+      ],
+      "cite": {
+        "domain": "https://careers.blackrock.com › job › platform-engineer...",
+        "span": " › job › platform-engineer..."
+      }
+    },
+    {
+      "title": "gns3/python-go-perl-php - Docker Image",
+      "link": "https://hub.docker.com/r/gns3/python-go-perl-php",
+      "description": "Ubuntu - Programming Toolbox. This appliance contains the following networking tools: net-tools (basic network administration tools); ping; ssh client ...",
+      "additional_links": [
+        {
+          "text": "gns3/python-go-perl-php - Docker Imagehttps://hub.docker.com › gns3 › python-go-perl-php",
+          "href": "https://hub.docker.com/r/gns3/python-go-perl-php"
+        }
+      ],
+      "cite": {
+        "domain": "https://hub.docker.com › gns3 › python-go-perl-php",
+        "span": " › gns3 › python-go-perl-php"
+      }
+    },
+    {
+      "title": "How Long Can A Ball Python Go Without Eating - Oddly Cute ...",
+      "link": "https://oddlycutepets.com/ball-python-going-without-eating/",
+      "description": "How Long Can A Ball Python Go Without Eating. Is your pet ball python refusing to eat? Ball pythons are notoriously picky eaters and are famous for going on “ ...",
+      "additional_links": [
+        {
+          "text": "How Long Can A Ball Python Go Without Eating - Oddly Cute ...https://oddlycutepets.com › ... › Snakes › Ball Pythons",
+          "href": "https://oddlycutepets.com/ball-python-going-without-eating/"
+        }
+      ],
+      "cite": {
+        "domain": "https://oddlycutepets.com › ... › Snakes › Ball Pythons",
+        "span": " › ... › Snakes › Ball Pythons"
+      }
+    },
+    {
+      "title": "Writing Cloud Functions",
+      "link": "https://cloud.google.com/functions/docs/writing",
+      "description": "Cloud Functions can be written in Node.js, Python, Go, Java, .NET, Ruby, and PHP programming languages, and are executed in language-specific runtimes. The ...",
+      "additional_links": [
+        {
+          "text": "Writing Cloud Functionshttps://cloud.google.com › ... › Documentation",
+          "href": "https://cloud.google.com/functions/docs/writing"
+        }
+      ],
+      "cite": {
+        "domain": "https://cloud.google.com › ... › Documentation",
+        "span": " › ... › Documentation"
+      }
+    },
+    {
+      "title": "Moving from Python to Go - Morioh",
+      "link": "https://morioh.com/p/11e59f8cea39",
+      "description": "I love Python. It has been my go-to language for the past five years. Python is very friendly and easy to learn while still remaining super effective.",
+      "additional_links": [
+        {
+          "text": "Moving from Python to Go - Moriohhttps://morioh.com › ...",
+          "href": "https://morioh.com/p/11e59f8cea39"
+        }
+      ],
+      "cite": {
+        "domain": "https://morioh.com › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Google's Go: A New Programming Language That's Python ...",
+      "link": "https://techcrunch.com/2009/11/10/google-go-language/",
+      "description": "Nov 10, 2009 — Big news for developers out there: Google has just announced the release of a new, open sourced programming language called Go.",
+      "additional_links": [
+        {
+          "text": "Google's Go: A New Programming Language That's Python ...https://techcrunch.com › 2009/11/10 › google-go-lang...",
+          "href": "https://techcrunch.com/2009/11/10/google-go-language/"
+        }
+      ],
+      "cite": {
+        "domain": "https://techcrunch.com › 2009/11/10 › google-go-lang...",
+        "span": " › 2009/11/10 › google-go-lang..."
+      }
+    },
+    {
+      "title": "python/python.go - platform/build/soong - Git at Google",
+      "link": "https://android.googlesource.com/platform/build/soong/+/refs/heads/pie-cts-release/python/python.go",
+      "description": "// or filegroup using the syntax \":module\". Srcs []string `android:\"arch_variant\"`. // list of source ...",
+      "additional_links": [
+        {
+          "text": "python/python.go - platform/build/soong - Git at Googlehttps://android.googlesource.com › refs › pie-cts-release",
+          "href": "https://android.googlesource.com/platform/build/soong/+/refs/heads/pie-cts-release/python/python.go"
+        }
+      ],
+      "cite": {
+        "domain": "https://android.googlesource.com › refs › pie-cts-release",
+        "span": " › refs › pie-cts-release"
+      }
+    },
+    {
+      "title": "Senior Software Development Engineer (AWS, Java, Python ...",
+      "link": "https://careers.changehealthcare.com/job/seattle/senior-software-development-engineer-aws-java-python-go/32443/4386287536",
+      "description": "Learn more about applying for Senior Software Development Engineer (AWS, Java, Python, Go) at Change Healthcare.",
+      "additional_links": [
+        {
+          "text": "Senior Software Development Engineer (AWS, Java, Python ...https://careers.changehealthcare.com › job › seattle › se...",
+          "href": "https://careers.changehealthcare.com/job/seattle/senior-software-development-engineer-aws-java-python-go/32443/4386287536"
+        }
+      ],
+      "cite": {
+        "domain": "https://careers.changehealthcare.com › job › seattle › se...",
+        "span": " › job › seattle › se..."
+      }
+    },
+    {
+      "title": "Senior Backend Engineer Python Go Jobs, Employment in ...",
+      "link": "https://www.indeed.com/m/jobs?q=Senior+Backend+Engineer+Python+Go&l=San+Francisco%2C+CA",
+      "description": "135 Senior Backend Engineer Python Go jobs available in San Francisco, CA on Indeed.com. Apply to Senior Software Engineer, Back End Developer, ...",
+      "additional_links": [
+        {
+          "text": "Senior Backend Engineer Python Go Jobs, Employment in ...https://www.indeed.com › jobs",
+          "href": "https://www.indeed.com/m/jobs?q=Senior+Backend+Engineer+Python+Go&l=San+Francisco%2C+CA"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.indeed.com › jobs",
+        "span": " › jobs"
+      }
+    },
+    {
+      "title": "DevOps Engineer (Python/Go), SAP Intelligence Enterprise ...",
+      "link": "https://jobs.sap.com/job/Bangalore-DevOps-Engineer-%28PythonGo%29%2C-SAP-Intelligence-Enterprise-Solutions-560066/704360001/",
+      "description": "Our company culture is focused on helping our employees enable innovation by building breakthroughs together. How? We focus every day on building the foundation ...",
+      "additional_links": [
+        {
+          "text": "DevOps Engineer (Python/Go), SAP Intelligence Enterprise ...https://jobs.sap.com › job › Bangalore-DevOps-Enginee...",
+          "href": "https://jobs.sap.com/job/Bangalore-DevOps-Engineer-%28PythonGo%29%2C-SAP-Intelligence-Enterprise-Solutions-560066/704360001/"
+        }
+      ],
+      "cite": {
+        "domain": "https://jobs.sap.com › job › Bangalore-DevOps-Enginee...",
+        "span": " › job › Bangalore-DevOps-Enginee..."
+      }
+    },
+    {
+      "title": "Python, Go, Perl, PHP | GNS3",
+      "link": "https://gns3.com/marketplace/appliance/python-go-perl-php",
+      "description": "So I installed the TCL in this python go perl php device. After restarting the gns3/vm. I lost installed TCL. How can I add TCL or any other along with ...",
+      "additional_links": [
+        {
+          "text": "Python, Go, Perl, PHP | GNS3https://gns3.com › marketplace › appliance › python-g...",
+          "href": "https://gns3.com/marketplace/appliance/python-go-perl-php"
+        }
+      ],
+      "cite": {
+        "domain": "https://gns3.com › marketplace › appliance › python-g...",
+        "span": " › marketplace › appliance › python-g..."
+      }
+    },
+    {
+      "title": "Go Language will replace Python in 2021 ! - LinkedIn",
+      "link": "https://www.linkedin.com/pulse/golang-replace-python-2021-youssef-houmazen",
+      "description": "Oct 13, 2020 — Its growth over the past has been huge, especially over the past 5 years. Python became the machine learning and data science developers' go-to ...",
+      "additional_links": [
+        {
+          "text": "Go Language will replace Python in 2021 ! - LinkedInhttps://www.linkedin.com › pulse › golang-replace-pytho...",
+          "href": "https://www.linkedin.com/pulse/golang-replace-python-2021-youssef-houmazen"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.linkedin.com › pulse › golang-replace-pytho...",
+        "span": " › pulse › golang-replace-pytho..."
+      }
+    },
+    {
+      "title": "Software Engineer - MIG Infra Team (C/Python/GO) - Cisco Jobs",
+      "link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-MIG-Infra-Team-C-Python-GO/1319907",
+      "description": "Apply for Software Engineer - MIG Infra Team (C/Python/GO) job with Cisco in San Jose, California, US. Read about the role and find out if it's right for ...",
+      "additional_links": [
+        {
+          "text": "Software Engineer - MIG Infra Team (C/Python/GO) - Cisco Jobshttps://jobs.cisco.com › jobs › ProjectDetail › Software-...",
+          "href": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-MIG-Infra-Team-C-Python-GO/1319907"
+        }
+      ],
+      "cite": {
+        "domain": "https://jobs.cisco.com › jobs › ProjectDetail › Software-...",
+        "span": " › jobs › ProjectDetail › Software-..."
+      }
+    },
+    {
+      "title": "Software Engineer, Carriers (Python/Go) - Greenhouse",
+      "link": "https://boards.greenhouse.io/easypost/jobs/5523059002",
+      "description": "EasyPost is helping e-commerce companies with accurate tracking and logistics. EasyPost pushes boundaries and changes the status quo through our RESTful API, ...",
+      "additional_links": [
+        {
+          "text": "Software Engineer, Carriers (Python/Go) - Greenhousehttps://boards.greenhouse.io › easypost › jobs",
+          "href": "https://boards.greenhouse.io/easypost/jobs/5523059002"
+        }
+      ],
+      "cite": {
+        "domain": "https://boards.greenhouse.io › easypost › jobs",
+        "span": " › easypost › jobs"
+      }
+    },
+    {
+      "title": "How Long Can A Ball Python Go Without Eating?: The TRUTH!",
+      "link": "https://uniquepetswiki.com/how-long-can-a-ball-python-go-without-eating/",
+      "description": "Have you ever noticed your ball python suddenly not eating? We give you the answers and guide to the question \"How Long Can A Ball Python Go Without Eating\"",
+      "additional_links": [
+        {
+          "text": "How Long Can A Ball Python Go Without Eating?: The TRUTH!https://uniquepetswiki.com › how-long-can-a-ball-pyth...",
+          "href": "https://uniquepetswiki.com/how-long-can-a-ball-python-go-without-eating/"
+        }
+      ],
+      "cite": {
+        "domain": "https://uniquepetswiki.com › how-long-can-a-ball-pyth...",
+        "span": " › how-long-can-a-ball-pyth..."
+      }
+    },
+    {
+      "title": "Google Grumpy (Python->Go)",
+      "link": "https://groups.google.com/g/golang-nuts/c/OJX0TlOF-hw",
+      "description": "TL;DR; compile your Python 2.7 to Go by replacing CPython with Grumpy. Looks very interesting!",
+      "additional_links": [
+        {
+          "text": "Google Grumpy (Python->Go)https://groups.google.com › golang-nuts",
+          "href": "https://groups.google.com/g/golang-nuts/c/OJX0TlOF-hw"
+        }
+      ],
+      "cite": {
+        "domain": "https://groups.google.com › golang-nuts",
+        "span": " › golang-nuts"
+      }
+    },
+    {
+      "title": "\"Go to definition\", \"Class View\", \"Find all references\" not working",
+      "link": "https://developercommunity.visualstudio.com/content/problem/54876/python-go-to-definition-class-view-find-all-refere.html",
+      "description": "Under VS2015 the python \"Go to definition\", \"Class View\", \"Find all references\" works fine. Now under the new VS2017 (15.2) this is not working anymore.",
+      "additional_links": [
+        {
+          "text": "\"Go to definition\", \"Class View\", \"Find all references\" not workinghttps://developercommunity.visualstudio.com › problem",
+          "href": "https://developercommunity.visualstudio.com/content/problem/54876/python-go-to-definition-class-view-find-all-refere.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://developercommunity.visualstudio.com › problem",
+        "span": " › problem"
+      }
+    },
+    {
+      "title": "Any All in Python - Go Coding",
+      "link": "https://gocoding.org/any-all-in-python/",
+      "description": "Aug 7, 2021 — ANY() function iterates over the values provided and returns TRUE as soon as the first TRUE value is discovered. If all the values provided ...",
+      "additional_links": [
+        {
+          "text": "Any All in Python - Go Codinghttps://gocoding.org › any-all-in-python",
+          "href": "https://gocoding.org/any-all-in-python/"
+        }
+      ],
+      "cite": {
+        "domain": "https://gocoding.org › any-all-in-python",
+        "span": " › any-all-in-python"
+      }
+    },
+    {
+      "title": "Jeremy Howard on Twitter: \"Like Python, Go has a \"batteries ...",
+      "link": "https://twitter.com/jeremyphoward/status/1332835373987233793?lang=en",
+      "description": "Nov 28, 2020 — Like Python, Go has a \"batteries included\" standard library, an easy to use package system, and doesn't require manual memory management, which ...",
+      "additional_links": [
+        {
+          "text": "Jeremy Howard on Twitter: \"Like Python, Go has a \"batteries ...https://twitter.com › jeremyphoward › status",
+          "href": "https://twitter.com/jeremyphoward/status/1332835373987233793?lang=en"
+        }
+      ],
+      "cite": {
+        "domain": "https://twitter.com › jeremyphoward › status",
+        "span": " › jeremyphoward › status"
+      }
+    },
+    {
+      "title": "OpenSearch clients in Python, Go, and Node.js",
+      "link": "https://opensearch.org/blog/community/2021/09/opensearch-py-js-go/",
+      "description": "Sep 30, 2021 — The golang implementation is separated into distinct packages ( opensearchapi for the OpenSearch API, opensearchtransport for transport and ...",
+      "additional_links": [
+        {
+          "text": "OpenSearch clients in Python, Go, and Node.jshttps://opensearch.org › blog › community › 2021/09",
+          "href": "https://opensearch.org/blog/community/2021/09/opensearch-py-js-go/"
+        }
+      ],
+      "cite": {
+        "domain": "https://opensearch.org › blog › community › 2021/09",
+        "span": " › blog › community › 2021/09"
+      }
+    },
+    {
+      "title": "Python / Go / Java number overflow | Sololearn",
+      "link": "https://www.sololearn.com/Discuss/2833035/python-go-java-number-overflow",
+      "description": "Jul 10, 2021 — Hi!!! Why is Python the unique language with capabilities of resolve all digits even without using decimal.Decimal?",
+      "additional_links": [
+        {
+          "text": "Python / Go / Java number overflow | Sololearnhttps://www.sololearn.com › Discuss › python-go-java-...",
+          "href": "https://www.sololearn.com/Discuss/2833035/python-go-java-number-overflow"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.sololearn.com › Discuss › python-go-java-...",
+        "span": " › Discuss › python-go-java-..."
+      }
+    },
+    {
+      "title": "Language Stack Installation for Python & Go - Composite ...",
+      "link": "https://compositecode.blog/2020/05/27/language-stack-installation-for-python-go/",
+      "description": "May 27, 2020 — Previously I've gone through the steps I take to get a solid development machine setup. From the base operating system load, to the browser ...",
+      "additional_links": [
+        {
+          "text": "Language Stack Installation for Python & Go - Composite ...https://compositecode.blog › 2020/05/27 › language-sta...",
+          "href": "https://compositecode.blog/2020/05/27/language-stack-installation-for-python-go/"
+        }
+      ],
+      "cite": {
+        "domain": "https://compositecode.blog › 2020/05/27 › language-sta...",
+        "span": " › 2020/05/27 › language-sta..."
+      }
+    },
+    {
+      "title": "Announcing the RemoteWrite SDK for Custom Metrics | Logz.io",
+      "link": "https://logz.io/blog/remotewrite-sdk-custom-metrics/",
+      "description": "Jul 22, 2021 — Logz.io introduces its new RemoteWrite SDK for custom metrics, based on OpenTelemetry. Ship Python, Go, Java, and many more.",
+      "additional_links": [
+        {
+          "text": "Announcing the RemoteWrite SDK for Custom Metrics | Logz.iohttps://logz.io › Blog › DevOps",
+          "href": "https://logz.io/blog/remotewrite-sdk-custom-metrics/"
+        }
+      ],
+      "cite": {
+        "domain": "https://logz.io › Blog › DevOps",
+        "span": " › Blog › DevOps"
+      }
+    },
+    {
+      "title": "Python - GO-Technologies/DPATL Wiki",
+      "link": "https://github-wiki-see.page/m/GO-Technologies/DPATL/wiki/Python",
+      "description": "4. Python is a multi-purpose language used frequently for data analytics and scientific graphs. DPATL is capable of running Python 3.8 in the web browser on the ...",
+      "additional_links": [
+        {
+          "text": "Python - GO-Technologies/DPATL Wikihttps://github-wiki-see.page › GO-Technologies › Python",
+          "href": "https://github-wiki-see.page/m/GO-Technologies/DPATL/wiki/Python"
+        }
+      ],
+      "cite": {
+        "domain": "https://github-wiki-see.page › GO-Technologies › Python",
+        "span": " › GO-Technologies › Python"
+      }
+    },
+    {
+      "title": "Software Development Engineer IV (AWS, Java, Python, Go, C#)",
+      "link": "https://www.bctechnology.com/jobs/Change-Healthcare/147006/Software-Development-Engineer-IV-(AWS-Java-Python-Go-C)----remote.cfm",
+      "description": "Aug 3, 2021 — Change Healthcare is hiring for the position: Software Development Engineer IV (AWS, Java, Python, Go, C#) -- remote.",
+      "additional_links": [
+        {
+          "text": "Software Development Engineer IV (AWS, Java, Python, Go, C#)https://www.bctechnology.com › Change-Healthcare",
+          "href": "https://www.bctechnology.com/jobs/Change-Healthcare/147006/Software-Development-Engineer-IV-(AWS-Java-Python-Go-C)----remote.cfm"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.bctechnology.com › Change-Healthcare",
+        "span": " › Change-Healthcare"
+      }
+    },
+    {
+      "title": "Python Bytes Live Stream - Episode #231 - YouTube",
+      "link": "https://www.youtube.com/watch?v=rDYKZG6Fn8o",
+      "description": "46:58Join us for the live stream recording of episode 231. Check out the full show notes and links at ...Apr 29, 2021 · Uploaded by Python Bytes Podcast",
+      "additional_links": [
+        {
+          "text": "Python Bytes Live Stream - Episode #231 - YouTubehttps://www.youtube.com › watch",
+          "href": "https://www.youtube.com/watch?v=rDYKZG6Fn8o"
+        },
+        {
+          "text": "46:58",
+          "href": "https://www.youtube.com/watch?v=rDYKZG6Fn8o"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.youtube.com › watch",
+        "span": " › watch"
+      }
+    },
+    {
+      "title": "Thread: Will my Ball Python go blind????",
+      "link": "https://ball-pythons.net/forums/showthread.php?255301-Will-my-Ball-Python-go-blind",
+      "description": "Apr 30, 2018 — Will my Ball Python go blind???? Okay so on my instagram account I made for my BP Ramen, someone has commented twice saying that my infrared ...",
+      "additional_links": [
+        {
+          "text": "Thread: Will my Ball Python go blind????https://ball-pythons.net › forums › showthread › 25530...",
+          "href": "https://ball-pythons.net/forums/showthread.php?255301-Will-my-Ball-Python-go-blind"
+        }
+      ],
+      "cite": {
+        "domain": "https://ball-pythons.net › forums › showthread › 25530...",
+        "span": " › forums › showthread › 25530..."
+      }
+    },
+    {
+      "title": "Sr. Test Automation Engineer (Python/Go/Java), Romania ...",
+      "link": "https://crowdstrike.searchgreatcareers.com/job/bucharest/sr-software-engineer-in-test-python-romania-remote/27577/14173620288",
+      "description": "Sep 11, 2021 — Learn more about applying for Sr. Test Automation Engineer (Python/Go/Java), Romania (Remote) at CrowdStrike.",
+      "additional_links": [
+        {
+          "text": "Sr. Test Automation Engineer (Python/Go/Java), Romania ...https://crowdstrike.searchgreatcareers.com › bucharest",
+          "href": "https://crowdstrike.searchgreatcareers.com/job/bucharest/sr-software-engineer-in-test-python-romania-remote/27577/14173620288"
+        }
+      ],
+      "cite": {
+        "domain": "https://crowdstrike.searchgreatcareers.com › bucharest",
+        "span": " › bucharest"
+      }
+    },
+    {
+      "title": "Python — Go tutorials - Bitfield Consulting",
+      "link": "https://bitfieldconsulting.com/golang/tag/Python",
+      "description": "Oct 5, 2020 — Which is better, Python or Go? Which language should you learn today, and why? How do the two compare in performance, ease of learning, ...",
+      "additional_links": [
+        {
+          "text": "Python — Go tutorials - Bitfield Consultinghttps://bitfieldconsulting.com › golang › tag › Python",
+          "href": "https://bitfieldconsulting.com/golang/tag/Python"
+        }
+      ],
+      "cite": {
+        "domain": "https://bitfieldconsulting.com › golang › tag › Python",
+        "span": " › golang › tag › Python"
+      }
+    },
+    {
+      "title": "ADS 3.2 Websockets : python/GO (at least) example clients ...",
+      "link": "https://community.developers.refinitiv.com/questions/27709/ads-32-websockets-pythongo-at-least-example-client.html",
+      "description": "May 21, 2018 — In GO, the refresh message returns \"null\", then the updates are received correctly also. I attached python command line and ADS debug logger ...",
+      "additional_links": [
+        {
+          "text": "ADS 3.2 Websockets : python/GO (at least) example clients ...https://community.developers.refinitiv.com › questions",
+          "href": "https://community.developers.refinitiv.com/questions/27709/ads-32-websockets-pythongo-at-least-example-client.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://community.developers.refinitiv.com › questions",
+        "span": " › questions"
+      }
+    },
+    {
+      "title": "How Long Can A Ball Python Go Without Eating? - Embora Pets",
+      "link": "https://emborapets.com/how-long-can-a-ball-python-go-without-eating/",
+      "description": "How Long Can A Ball Python Go Without Eating? · Snakes don't have the teeth to chop and cut up their food. Venomous snakes have digestive enzymes in their venom ...",
+      "additional_links": [
+        {
+          "text": "How Long Can A Ball Python Go Without Eating? - Embora Petshttps://emborapets.com › how-long-can-a-ball-python-...",
+          "href": "https://emborapets.com/how-long-can-a-ball-python-go-without-eating/"
+        }
+      ],
+      "cite": {
+        "domain": "https://emborapets.com › how-long-can-a-ball-python-...",
+        "span": " › how-long-can-a-ball-python-..."
+      }
+    },
+    {
+      "title": "Python Function That Searches For Go Terms Of Proteins",
+      "link": "https://www.biostars.org/p/96529/",
+      "description": "Mar 31, 2014 — python go • 3.2k views. ADD COMMENT • link updated 7.6 years ago by Xingyu Yang ▴ 260 • written 7.6 years ago by nadia.sl89 • 0.1 answer  ·  1 vote: You need biopython.\nFisrt, you need to blast your sequences to uniprot using qblast() function in Bio.Blast.NCBIWWW.\nSee instruction here: http://biopython.org/ ...",
+      "additional_links": [
+        {
+          "text": "Python Function That Searches For Go Terms Of Proteinshttps://www.biostars.org › ...",
+          "href": "https://www.biostars.org/p/96529/"
+        },
+        {
+          "text": "1 answer",
+          "href": "https://www.biostars.org/p/96529/#96558"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.biostars.org › ...",
+        "span": " › ..."
+      }
+    },
+    {
+      "title": "Context Managers in Python — Go Beyond “with open() as file”",
+      "link": "https://betterprogramming.pub/context-managers-in-python-go-beyond-with-open-as-file-85a27e392114",
+      "description": "Jul 28, 2020 — When we deal with files in Python, the most common operation is probably the use of the built-in open() function. This creates a file object ...",
+      "additional_links": [
+        {
+          "text": "Context Managers in Python — Go Beyond “with open() as file”https://betterprogramming.pub › context-managers-in-p...",
+          "href": "https://betterprogramming.pub/context-managers-in-python-go-beyond-with-open-as-file-85a27e392114"
+        }
+      ],
+      "cite": {
+        "domain": "https://betterprogramming.pub › context-managers-in-p...",
+        "span": " › context-managers-in-p..."
+      }
+    },
+    {
+      "title": "New Python, GO, iOS Kin SDK Tutorials",
+      "link": "https://kin.org/python-go-ios-tutorials-released/",
+      "description": "May 31, 2021 — Python, Go, and iOS Kin SDK Tutorials are now available via Kintegrate.dev!",
+      "additional_links": [
+        {
+          "text": "New Python, GO, iOS Kin SDK Tutorialshttps://kin.org › python-go-ios-tutorials-released",
+          "href": "https://kin.org/python-go-ios-tutorials-released/"
+        }
+      ],
+      "cite": {
+        "domain": "https://kin.org › python-go-ios-tutorials-released",
+        "span": " › python-go-ios-tutorials-released"
+      }
+    },
+    {
+      "title": "go.figure y axis name python Code Example",
+      "link": "https://www.codegrepper.com/code-examples/python/go.figure+y+axis+name+python",
+      "description": "... plotly xlabel ylabel python · plotly title python · plotly html histogram title name · plotly python go.figure configure axis numbers ...",
+      "additional_links": [
+        {
+          "text": "go.figure y axis name python Code Examplehttps://www.codegrepper.com › code-examples › go.fig...",
+          "href": "https://www.codegrepper.com/code-examples/python/go.figure+y+axis+name+python"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.codegrepper.com › code-examples › go.fig...",
+        "span": " › code-examples › go.fig..."
+      }
+    },
+    {
+      "title": "5 Programming Languages That Will Dominate 2021: Python ...",
+      "link": "https://insights.dice.com/2020/12/09/5-programming-languages-that-will-dominate-2021-python-go-more/",
+      "description": "Dec 9, 2020 — Forecasting the world's most popular programming languages over the next few years is a difficult task, but we tried to name five.",
+      "additional_links": [
+        {
+          "text": "5 Programming Languages That Will Dominate 2021: Python ...https://insights.dice.com › 2020/12/09 › 5-programmin...",
+          "href": "https://insights.dice.com/2020/12/09/5-programming-languages-that-will-dominate-2021-python-go-more/"
+        }
+      ],
+      "cite": {
+        "domain": "https://insights.dice.com › 2020/12/09 › 5-programmin...",
+        "span": " › 2020/12/09 › 5-programmin..."
+      }
+    },
+    {
+      "title": "Python Go Sticker for iOS & Android | GIPHY",
+      "link": "https://giphy.com/gifs/go-python-golang-zYi4Qdbs4LUmCrVD82",
+      "description": "Discover & share this Go Sticker for iOS and Android. Bring your texts and messages to life with our collection of GIPHY Stickers.",
+      "additional_links": [
+        {
+          "text": "Python Go Sticker for iOS & Android | GIPHYhttps://giphy.com › gifs › go-python-golang-zYi4Qdbs...",
+          "href": "https://giphy.com/gifs/go-python-golang-zYi4Qdbs4LUmCrVD82"
+        }
+      ],
+      "cite": {
+        "domain": "https://giphy.com › gifs › go-python-golang-zYi4Qdbs...",
+        "span": " › gifs › go-python-golang-zYi4Qdbs..."
+      }
+    },
+    {
+      "title": "counting words in Python, Go, C++, C, AWK, Forth, and Rust",
+      "link": "https://benhoyt.com/writings/count-words/",
+      "description": "Go to: Constraints | Python Go C++ C AWK Forth Rust Shell Others | Results! I've conducted many coding interviews over the past few years, and one of the ...",
+      "additional_links": [
+        {
+          "text": "counting words in Python, Go, C++, C, AWK, Forth, and Rusthttps://benhoyt.com › writings › count-words",
+          "href": "https://benhoyt.com/writings/count-words/"
+        }
+      ],
+      "cite": {
+        "domain": "https://benhoyt.com › writings › count-words",
+        "span": " › writings › count-words"
+      }
+    },
+    {
+      "title": "Python go - LeetCode Profile",
+      "link": "https://leetcode.com/pythongo/",
+      "description": "Python go. pythongo. Location. United States. Contributions. Points. 3455. Problems. 0. Testcases. 0. Discuss. Reputation. 0. Contest Rating. 1,388pt.",
+      "additional_links": [
+        {
+          "text": "Python go - LeetCode Profilehttps://leetcode.com › pythongo",
+          "href": "https://leetcode.com/pythongo/"
+        }
+      ],
+      "cite": {
+        "domain": "https://leetcode.com › pythongo",
+        "span": " › pythongo"
+      }
+    },
+    {
+      "title": "Ball Python Care Sheet - Petco",
+      "link": "https://www.petco.com/content/petco/PetcoStore/en_US/pet-services/resource-center/caresheets/ball-python.html",
+      "description": "Young ball pythons may shed once a month as they grow. Fully grown adults typically shed a few times per year. How long can a ball python go without eating? A ...Care Difficulty: Good for beginner snake hobb...Average Adult Size: 4-5 feet longMinimum Habitat Size: 10-20 gallons when ad...Average Life Span: Up to 30 years with proper ...",
+      "additional_links": [
+        {
+          "text": "Ball Python Care Sheet - Petcohttps://www.petco.com › pet-services › resource-center",
+          "href": "https://www.petco.com/content/petco/PetcoStore/en_US/pet-services/resource-center/caresheets/ball-python.html"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.petco.com › pet-services › resource-center",
+        "span": " › pet-services › resource-center"
+      }
+    },
+    {
+      "title": "The Top 25 Python Go Machine Learning Open Source ...",
+      "link": "https://awesomeopensource.com/projects/go/machine-learning/python",
+      "description": "The Top 25 Python Go Machine Learning Open Source Projects on Github. Categories > Programming Languages > Go. Categories > Machine Learning > Machine ...",
+      "additional_links": [
+        {
+          "text": "The Top 25 Python Go Machine Learning Open Source ...https://awesomeopensource.com › projects › python",
+          "href": "https://awesomeopensource.com/projects/go/machine-learning/python"
+        }
+      ],
+      "cite": {
+        "domain": "https://awesomeopensource.com › projects › python",
+        "span": " › projects › python"
+      }
+    },
+    {
+      "title": "Python Code Examples for go forward - ProgramCreek.com",
+      "link": "https://www.programcreek.com/python/?CodeExample=go+forward",
+      "description": "def go_forward(self): \"\"\"Go forward one place in the history, if possible. Increase the pointer value by 1, if possible. Otherwise, the pointer value will ...",
+      "additional_links": [
+        {
+          "text": "Python Code Examples for go forward - ProgramCreek.comhttps://www.programcreek.com › python",
+          "href": "https://www.programcreek.com/python/?CodeExample=go+forward"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.programcreek.com › python",
+        "span": " › python"
+      }
+    },
+    {
+      "title": "Nim — A Programming Language That Combines Best Of ...",
+      "link": "https://fossbytes.com/nim-programming-language-nimrod/",
+      "description": "Jan 19, 2017 — Nim, formerly known as Nimrod, is a statically typed, powerful, imperative programming language that doesn't compromise with runtime ...",
+      "additional_links": [
+        {
+          "text": "Nim — A Programming Language That Combines Best Of ...https://fossbytes.com › nim-programming-language-ni...",
+          "href": "https://fossbytes.com/nim-programming-language-nimrod/"
+        }
+      ],
+      "cite": {
+        "domain": "https://fossbytes.com › nim-programming-language-ni...",
+        "span": " › nim-programming-language-ni..."
+      }
+    },
+    {
+      "title": "Solved In Python Go through the visualization of the - Chegg",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/python-go-visualization-selection-sort-bubble-sort-insertion-sort-write-pseudo-code-first--q41408280",
+      "description": " › questions-and-answers › pyth...  › questions-and-answers › pyth...",
+      "additional_links": [
+        {
+          "text": "Solved In Python Go through the visualization of the - Chegghttps://www.chegg.com › questions-and-answers › pyth...",
+          "href": "https://www.chegg.com/homework-help/questions-and-answers/python-go-visualization-selection-sort-bubble-sort-insertion-sort-write-pseudo-code-first--q41408280"
+        },
+        {
+          "text": "Solved Python: Go to the linked list library and add a - Chegg",
+          "href": "https://www.chegg.com/homework-help/questions-and-answers/python-go-linked-list-library-add-method-called-getnumber-n--getnumber-n-return-data-item--q39395265"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.chegg.com › questions-and-answers › pyth...",
+        "span": " › questions-and-answers › pyth..."
+      }
+    },
+    {
+      "title": "Solved In Python Go through the visualization of the - Chegg",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/python-go-visualization-selection-sort-bubble-sort-insertion-sort-write-pseudo-code-first--q41408280",
+      "description": "In Python. Go through the visualization of the Selection Sort, Bubble Sort and Insertion Sort. Write a Pseudo code first for each of these sort methods.",
+      "additional_links": [
+        {
+          "text": "Solved In Python Go through the visualization of the - Chegghttps://www.chegg.com › questions-and-answers › pyth...",
+          "href": "https://www.chegg.com/homework-help/questions-and-answers/python-go-visualization-selection-sort-bubble-sort-insertion-sort-write-pseudo-code-first--q41408280"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.chegg.com › questions-and-answers › pyth...",
+        "span": " › questions-and-answers › pyth..."
+      }
+    },
+    {
+      "title": "Solved Python: Go to the linked list library and add a - Chegg",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/python-go-linked-list-library-add-method-called-getnumber-n--getnumber-n-return-data-item--q39395265",
+      "description": "If you run getnumber(2) I you should see whatever that item in the list is: Code to help is below. the method needs to be added to the linked list file. Linked ...",
+      "additional_links": [
+        {
+          "text": "Solved Python: Go to the linked list library and add a - Chegg",
+          "href": "https://www.chegg.com/homework-help/questions-and-answers/python-go-linked-list-library-add-method-called-getnumber-n--getnumber-n-return-data-item--q39395265"
+        }
+      ],
+      "cite": {
+      }
+    },
+    {
+      "title": "Senior Software Engineer (Tools Developer - Ruby / Rust ...",
+      "link": "https://akamai.dejobs.org/krakow-pol/senior-software-engineer-tools-developer-ruby-rust-python-go/D498EAC92C6F4C7B94FBF3C97C906926/job/?utm_medium=Education&utm_campaign=NACElink&utm_source=NACElink-DE",
+      "description": "Do you relish the prospect of working with the most cutting-edge technology? Are you excited by promoting user-centered design within a leading technology ...",
+      "additional_links": [
+        {
+          "text": "Senior Software Engineer (Tools Developer - Ruby / Rust ...https://akamai.dejobs.org › krakow-pol › job",
+          "href": "https://akamai.dejobs.org/krakow-pol/senior-software-engineer-tools-developer-ruby-rust-python-go/D498EAC92C6F4C7B94FBF3C97C906926/job/?utm_medium=Education&utm_campaign=NACElink&utm_source=NACElink-DE"
+        }
+      ],
+      "cite": {
+        "domain": "https://akamai.dejobs.org › krakow-pol › job",
+        "span": " › krakow-pol › job"
+      }
+    },
+    {
+      "title": "python go to code example | Newbedev",
+      "link": "https://newbedev.com/python-python-go-to-code-example",
+      "description": "python go to code example. Example: go to line in python. def goto(linenum): global line line = linenum line = 1 while True: if line == 1: response ...",
+      "additional_links": [
+        {
+          "text": "python go to code example | Newbedevhttps://newbedev.com › python-python-go-to-code-exa...",
+          "href": "https://newbedev.com/python-python-go-to-code-example"
+        }
+      ],
+      "cite": {
+        "domain": "https://newbedev.com › python-python-go-to-code-exa...",
+        "span": " › python-python-go-to-code-exa..."
+      }
+    },
+    {
+      "title": "API Reference | Protocol Buffers | Google Developers",
+      "link": "https://developers.google.com/protocol-buffers/docs/reference/overview",
+      "description": "This section contains reference documentation for working with protocol buffer classes in C++, Java, Python, Go, C#, Objective C, JavaScript, Ruby, PHP, ...",
+      "additional_links": [
+        {
+          "text": "API Reference | Protocol Buffers | Google Developershttps://developers.google.com › reference › overview",
+          "href": "https://developers.google.com/protocol-buffers/docs/reference/overview"
+        }
+      ],
+      "cite": {
+        "domain": "https://developers.google.com › reference › overview",
+        "span": " › reference › overview"
+      }
+    },
+    {
+      "title": "myCompiler - An online IDE for C, C++, Java, Python, Go ...",
+      "link": "https://www.mycompiler.io/",
+      "description": "Run your favourite programming languages online with myCompiler. Simple and easy to use IDE where you can edit, compile and run your code in the programming ...",
+      "additional_links": [
+        {
+          "text": "myCompiler - An online IDE for C, C++, Java, Python, Go ...https://www.mycompiler.io",
+          "href": "https://www.mycompiler.io/"
+        }
+      ],
+      "cite": {
+      }
+    },
+    {
+      "title": "Monty Python Go Away 1 pinback button / magnet | Etsy",
+      "link": "https://www.etsy.com/listing/710896254/monty-python-go-away-1-pinback-button",
+      "description": "Aug 22, 2019 — This order includes a single 1 pinback button or magnet. Please see the images for size references. All buttons & magnets are handmade to ... Rating: 5 · ‎174 votes",
+      "additional_links": [
+        {
+          "text": "Monty Python Go Away 1 pinback button / magnet | Etsyhttps://www.etsy.com › listing › monty-python-go-away-...",
+          "href": "https://www.etsy.com/listing/710896254/monty-python-go-away-1-pinback-button"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.etsy.com › listing › monty-python-go-away-...",
+        "span": " › listing › monty-python-go-away-..."
+      },
+      "g_review_stars": " Rating: 5 · ‎174 votes"
+    },
+    {
+      "title": "Python (programming language) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "description": "\"Google's Grumpy code makes Python Go\". www.theregister.com. Archived from the original on 7 March 2021. Retrieved 20 January 2021.Paradigm: Multi-paradigm: ‎object-oriented‎, ‎pro...‎First appeared: February 20, 1991; 30 years agoDeveloper: Python Software FoundationStable release: 3.10.0 / 4 October 2021; 36 days ...",
+      "additional_links": [
+        {
+          "text": "Python (programming language) - Wikipediahttps://en.wikipedia.org › wiki › Python_(programming...",
+          "href": "https://en.wikipedia.org/wiki/Python_(programming_language)"
+        },
+        {
+          "text": "Multi-paradigm",
+          "href": "http://en.wikipedia.org/wiki/Multi-paradigm_programming_language"
+        },
+        {
+          "text": "object-oriented",
+          "href": "http://en.wikipedia.org/wiki/Object-oriented_programming"
+        },
+        {
+          "text": "pro...",
+          "href": "http://en.wikipedia.org/wiki/Procedural_programming"
+        },
+        {
+          "text": "Python Software Foundation",
+          "href": "http://en.wikipedia.org/wiki/Python_Software_Foundation"
+        }
+      ],
+      "cite": {
+        "domain": "https://en.wikipedia.org › wiki › Python_(programming...",
+        "span": " › wiki › Python_(programming..."
+      }
+    },
+    {
+      "title": "Lead Developer (Back end) - Go (GoLang)/ Python/ AWS",
+      "link": "https://apply.workable.com/kin-4/j/C443B7A427/",
+      "description": "The Kin Foundation The Kin Foundation is a Canadian nonprofit corporation established for the governance of the cryptocurrency Kin and is tasked with ...",
+      "additional_links": [
+        {
+          "text": "Lead Developer (Back end) - Go (GoLang)/ Python/ AWShttps://apply.workable.com › kin-4",
+          "href": "https://apply.workable.com/kin-4/j/C443B7A427/"
+        }
+      ],
+      "cite": {
+        "domain": "https://apply.workable.com › kin-4",
+        "span": " › kin-4"
+      }
+    },
+    {
+      "title": "quozlet.python+go ruleset - Semgrep",
+      "link": "https://semgrep.dev/p/quozlet.python+go",
+      "description": "Found an insecure gRPC connection using 'grpc.WithInsecure()'. This creates a connection without encryption to a gRPC server. A malicious attacker could tamper ...",
+      "additional_links": [
+        {
+          "text": "quozlet.python+go ruleset - Semgrephttps://semgrep.dev › quozlet.python+go",
+          "href": "https://semgrep.dev/p/quozlet.python+go"
+        }
+      ],
+      "cite": {
+        "domain": "https://semgrep.dev › quozlet.python+go",
+        "span": " › quozlet.python+go"
+      }
+    },
+    {
+      "title": "Senior Python/Go Engineer @Coins.ph - Just Join IT",
+      "link": "https://justjoin.it/offers/coins-ph-senior-python-go-engineer",
+      "description": "The first map of the labor market in the IT sector. We want to simplify the search process to minimum.",
+      "additional_links": [
+        {
+          "text": "Senior Python/Go Engineer @Coins.ph - Just Join IThttps://justjoin.it › offers › coins-ph-senior-python-go-e...",
+          "href": "https://justjoin.it/offers/coins-ph-senior-python-go-engineer"
+        }
+      ],
+      "cite": {
+        "domain": "https://justjoin.it › offers › coins-ph-senior-python-go-e...",
+        "span": " › offers › coins-ph-senior-python-go-e..."
+      }
+    },
+    {
+      "title": "How Python Has Become a Go-to Language - BairesDev",
+      "link": "https://www.bairesdev.com/blog/python-go-to-language/",
+      "description": "Oct 12, 2020 — Given the possibilities for things you can create with Python, it's no surprise that programmers love to experiment with the language.",
+      "additional_links": [
+        {
+          "text": "How Python Has Become a Go-to Language - BairesDevhttps://www.bairesdev.com › Blog › Technology",
+          "href": "https://www.bairesdev.com/blog/python-go-to-language/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.bairesdev.com › Blog › Technology",
+        "span": " › Blog › Technology"
+      }
+    },
+    {
+      "title": "Senior Software Engineer - Python/Go (Work From Home)",
+      "link": "https://careerstech9.applytojob.com/apply/T7STtbNhSP/Senior-Software-Engineer-PythonGo-Work-From-Home",
+      "description": "We are growing quickly at Tech9 and looking for a Senior Software Engineer who can develop in Python and Golang to help lead the development of a Cyber ...",
+      "additional_links": [
+        {
+          "text": "Senior Software Engineer - Python/Go (Work From Home)https://careerstech9.applytojob.com › apply › Senior-So...",
+          "href": "https://careerstech9.applytojob.com/apply/T7STtbNhSP/Senior-Software-Engineer-PythonGo-Work-From-Home"
+        }
+      ],
+      "cite": {
+        "domain": "https://careerstech9.applytojob.com › apply › Senior-So...",
+        "span": " › apply › Senior-So..."
+      }
+    },
+    {
+      "title": "Go Vs Python | What are the Differences? - MindMajix",
+      "link": "https://mindmajix.com/go-vs-python",
+      "description": "Apr 21, 2021 — Go Vs Python: In this article we will compare the two programming languages based on various parameters that help you decide which one is ... Rating: 5 · ‎764 reviews",
+      "additional_links": [
+        {
+          "text": "Go Vs Python | What are the Differences? - MindMajixhttps://mindmajix.com › go-vs-python",
+          "href": "https://mindmajix.com/go-vs-python"
+        }
+      ],
+      "cite": {
+        "domain": "https://mindmajix.com › go-vs-python",
+        "span": " › go-vs-python"
+      },
+      "g_review_stars": " Rating: 5 · ‎764 reviews"
+    },
+    {
+      "title": "Advice From an IBM Data Scientist: Start With Python and You ...",
+      "link": "https://blog.edx.org/ibm-data-scientist-advice-start-with-python-go-far",
+      "description": "Feb 5, 2020 — Across industries, data scientists are bringing buzzwords to life: artificial intelligence, machine learning, big data, data visualization.",
+      "additional_links": [
+        {
+          "text": "Advice From an IBM Data Scientist: Start With Python and You ...https://blog.edx.org › ibm-data-scientist-advice-start-wit...",
+          "href": "https://blog.edx.org/ibm-data-scientist-advice-start-with-python-go-far"
+        }
+      ],
+      "cite": {
+        "domain": "https://blog.edx.org › ibm-data-scientist-advice-start-wit...",
+        "span": " › ibm-data-scientist-advice-start-wit..."
+      }
+    },
+    {
+      "title": "5 Programming Languages That Will Dominate 2021 - Pinterest",
+      "link": "https://www.pinterest.com/pin/611082243190693698/",
+      "description": "Apr 8, 2021 - Forecasting the world's most popular programming languages over the next few years is a difficult task, but we tried to name five.",
+      "additional_links": [
+        {
+          "text": "5 Programming Languages That Will Dominate 2021 - Pinteresthttps://www.pinterest.com › ... › Computer",
+          "href": "https://www.pinterest.com/pin/611082243190693698/"
+        }
+      ],
+      "cite": {
+        "domain": "https://www.pinterest.com › ... › Computer",
+        "span": " › ... › Computer"
+      }
+    },
+    {
+      "title": "Resource cleanup, compared: Python, Go and C++ - Code ...",
+      "link": "https://codewithoutrules.com/2016/03/10/compare-contrast/",
+      "description": "Mar 10, 2016 — As a programmer you are expected to learn new technologies regularly. Even when the documentation is excellent, there will typically be ...",
+      "additional_links": [
+        {
+          "text": "Resource cleanup, compared: Python, Go and C++ - Code ...https://codewithoutrules.com › compare-contrast",
+          "href": "https://codewithoutrules.com/2016/03/10/compare-contrast/"
+        }
+      ],
+      "cite": {
+        "domain": "https://codewithoutrules.com › compare-contrast",
+        "span": " › compare-contrast"
+      }
+    },
+    {
+      "title": "See Python, See Python Go, Go Python Go - PyCon US",
+      "link": "https://us.pycon.org/2016/schedule/presentation/1633/",
+      "description": "Wednesday 1:10 p.m.–1:40 p.m.. See Python, See Python Go, Go Python Go. Andrey Petrov. Audience level: Experienced; Category: Python Core (language, stdlib, ...",
+      "additional_links": [
+        {
+          "text": "See Python, See Python Go, Go Python Go - PyCon UShttps://us.pycon.org › schedule › presentation",
+          "href": "https://us.pycon.org/2016/schedule/presentation/1633/"
+        }
+      ],
+      "cite": {
+        "domain": "https://us.pycon.org › schedule › presentation",
+        "span": " › schedule › presentation"
+      }
+    }
+  ],
+  "image_results": [
+  ],
+  "total": 2300000,
+  "answers": [
+  ],
+  "ts": 2.263336181640625,
+  "device_region": "US",
+  "device_type": "desktop"
 }
