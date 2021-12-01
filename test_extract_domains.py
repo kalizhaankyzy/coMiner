@@ -91,13 +91,14 @@ def get_descriptions_list(descriptions_all):
 # returns frequency of phrase in document
 def phrase_frequency(phrase, descriptions_list):
     text = ' '.join(descriptions_list)
-    return len(re.findall(r'\b{}\b'.format(phrase), ' '.join(text.lower())))
+
+    return len(re.findall(r'\b{}\b'.format(phrase), text.lower())) + len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(phrase), text.lower()))
 
 # returns the number of documents containing the phrase
 def document_frequency(phrase, descriptions_list):
     cnt = 0
     for description in descriptions_list:
-        if len(re.findall(r'\b{}\b'.format(phrase), description)) > 0:
+        if len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(phrase), description)) > 0:
             cnt += 1
     return cnt
 
@@ -114,7 +115,8 @@ def average_distance(phrase, entity_name, descriptions_list, competitors_list):
             description = description.lower()
             phrase = phrase.lower()
             try:
-                if re.search(r'\W' + phrase + r'\W', description) != None:
+                if re.search(r'\b{}\b'.format(phrase, description)) != None:
+                # if re.search(r'\W' + phrase + r'\W', description) != None:
                     if ' ' in phrase:
                         p_new = phrase.replace(" ", '')
                         description = description.replace(phrase, p_new)
@@ -206,15 +208,35 @@ entity_and_competitors = {
         'Puma'
     },
     'Facebook':{
-        'Apple'
+        'Instagram', 
+        'Twitter', 
+        'Google', 
+        'Apple', 
+        'Youtube', 
+        'Linkedin', 
+        'Snapchat', 
+        'Twitch', 
+        'Australia', 
+        'Whatsapp'
+    },
+    'Amazon':{
+        'Walmart', 
+        'Google', 
+        'Apple', 
+        'Shopify', 
+        'Microsoft', 
+        'Alibaba', 
+        'Netflix', 
+        'Prime', 
+        'Hachette', 
+        'Youtube'
     }
 }
 
 
-
 entity_names = list(entity_and_competitors.keys())
-# for Adidas
-entity_name = entity_names[0]
+# for Facebook
+entity_name = entity_names[3]
 
 competitors_list = list(entity_and_competitors[entity_name])
 descriptions_of_entity=list()
@@ -225,20 +247,22 @@ descriptions_list = get_descriptions_list(descriptions_of_entity)
 list_of_phrases = phrases_from_descriptions_list(descriptions_list,competitors_list, entity_name)
 
 resulting_dictionary = {}
-idx = 0
-print(len(list_of_phrases))
+# idx = 0
+# print(len(list_of_phrases))
 for phrase in list_of_phrases:
-    idx += 1
-    # print(idx, phrase)
+#     idx += 1
+#     # print(idx, phrase)
     resulting_dictionary[phrase] = phrase_frequency(phrase, descriptions_list) * 0.138
     resulting_dictionary[phrase] += document_frequency(phrase, descriptions_list) * 0.06
     resulting_dictionary[phrase] += phrase_length(phrase) * 0.229
     resulting_dictionary[phrase] += average_distance(phrase, entity_name, descriptions_list, competitors_list) * (-0.073)
     resulting_dictionary[phrase] += phrase_independence(phrase, descriptions_list) * 0.187
+#
 
 # Sorting
 resulting_dictionary = dict(sorted(resulting_dictionary.items(), key=lambda item: item[1], reverse=True))
-
-most_ranked = list(resulting_dictionary.keys())[0:30]
+# print(list(resulting_dictionary.items())[0:30])
+#
+most_ranked = list(resulting_dictionary.keys())[0:10]
 for item in most_ranked:
     print(item)
