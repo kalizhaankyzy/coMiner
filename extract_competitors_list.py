@@ -253,7 +253,7 @@ names = [
     'Adidas',
     'Twix',
     'Amazon',
-    'Facebook'
+    # 'Facebook'
 ]
 for entity_name in names:
     work(entity_name)

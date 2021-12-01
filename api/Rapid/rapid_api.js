@@ -20,7 +20,7 @@
 
 
 const entity_name = 'Amazon'
-// const competitor_list = ['Instagram', 'Twitter', 'Google', 'Apple', 'Youtube', 'Linkedin', 'Google ads', 'Linkedin ads', 'Snapchat', 'Twitch']
+const competitors_list= ['Walmart', 'Google', 'Apple', 'Shopify', 'Microsoft', 'Alibaba', 'Netflix', 'Prime', 'Hachette', 'Youtube']
 
 
 document.querySelector('button').addEventListener('click',() => {
