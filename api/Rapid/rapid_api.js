@@ -15,6 +15,8 @@ const entity_name = 'Twix'
 const competitors_list = ['Right', 'Snickers', 'Kat', 'Kit', 'Left', 'Mars', 'Treat', 'Aldi', 'Reese', 'Kit kat']
 
 
+document.querySelector('button').addEventListener('click',() => {
+
 for(let i = 0 ; i < competitors_list.length; i++){
     setTimeout(() => {
         fetch(`https://google-search3.p.rapidapi.com/api/v1/search/q="${entity_name} ${competitors_list[i]}"&num=100`, {
@@ -34,5 +36,5 @@ for(let i = 0 ; i < competitors_list.length; i++){
     .catch(err => {
         console.error(err);
     });
-    }, i *1000)
-}
+    }, i *1000)}
+})

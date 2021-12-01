@@ -59,7 +59,9 @@ def extract_c2(words, entity_name):
                          wordsFormat)
 
     ans = list(map(get_second_element, results))
-    return filter_stop_words(ans)
+    ans2 = list(map(get_second_element, results))
+
+    return filter_stop_words(ans+ans2)
 
 
 # Function that extract words that matches by pattern C3
@@ -90,11 +92,9 @@ def extract_h1(words, entity_name):
 # Function that extract words that matches by pattern H2
 def extract_h2(words, entity_name):
     wordsFormat = " ".join(words)
-    arr = re.findall(r'especially {}(, ([A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)|, (\b[A-Z][a-zA-Z]*\b)|\b)( and (\b[A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Z][a-zA-Z]*\b)|, and (\b[A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)|, and (\b[A-Z][a-zA-Z]*\b)|\b)'.format(entity_name), wordsFormat)
-    # print(arr)
-    # arr2 = re.findall(r'especially {},? (\b[A-Z][a-zA-Z]*\b \b[A-Z][a-zA-Z]*\b|\b[A-Z][a-zA-Z]*\b)'.format(entity_name), wordsFormat)
-    # print(arr)
+    arr = re.findall(r'especially {},?( ([A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)| (\b[A-Z][a-zA-Z]*\b)|\b)( and (\b[A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Z][a-zA-Z]*\b)|\b)'.format(entity_name), wordsFormat)
     arr = extractor_from_h1(arr)
+    # print(arr)
     return filter_stop_words(arr)
 
 
@@ -102,8 +102,9 @@ def extract_h2(words, entity_name):
 # Function that extract words that matches by pattern H3
 def extract_h3(words, entity_name):
     wordsFormat = " ".join(words)
-    arr = re.findall(r'including {}(, (\b[A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)|, (\b[A-Z][a-zA-Z]*\b)|\b)(, (\b[A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)|, (\b[A-Z][a-zA-Z]*\b)|\b)'.format(entity_name), wordsFormat)
+    arr = re.findall(r'including {},?( ([A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)| (\b[A-Z][a-zA-Z]*\b)|\b)( and (\b[A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Z][a-zA-Z]*\b)|\b)'.format(entity_name), wordsFormat)
     arr = extractor_from_h1(arr)
+    # print(arr)
     return filter_stop_words(arr)
 
 
@@ -156,7 +157,7 @@ def get_unique_competitors(competitors_list_dict):
 
 
 # returns dictionary of math count (with weights) for each candidate competitor { CN[i]:mc(CN[i]),.... }
-def calculate_math_count(competitors_list_dict, competitor):
+def calculate_match_count(competitors_list_dict, competitor):
     # unique_competitors = get_unique_competitors(competitors_list_dict)
     # unique_competitors = list(set(list(map(lambda x: x.lower(),unique_competitors))))
 
@@ -176,34 +177,26 @@ def calculate_math_count(competitors_list_dict, competitor):
 # here competitor_list is array of snippets and titles
 def pointwise_mutual_information(search_results, entity_name, competitor_name):
     wordsFormat = " ".join(search_results)
-    cnt = 0
-    for sentence in search_results:
-        # print(sentence)
-        if (
-                len(re.findall(r' {entity_name} [a-z][a-z] {competitor_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
-                or len(re.findall(r' {competitor_name} [a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
-                or len(re.findall(r' {competitor_name} [a-z][a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name),sentence)) > 0
-                or len(re.findall(r' {competitor_name} [a-z][a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
-        ):
-            cnt += 1
-    hits_ce = len(re.findall(r'{entity_name} [a-zA-Z]+ {competitor_name}'.format(entity_name=entity_name, competitor_name=competitor_name), wordsFormat))
+
+    hits_ce = len(re.findall(r'{entity_name} (and|or|,|vs|vs.|VS|Vs) {competitor_name}'.format(entity_name=entity_name, competitor_name=competitor_name), wordsFormat))
+    hits_ce += len(re.findall(r'{competitor_name} (and|or|,|vs|vs.|VS|Vs) {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), wordsFormat))
     # print(hits_ce)
     hits_c = len(re.findall(r'\b{}\b'.format(competitor_name), wordsFormat)) + len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(competitor_name), wordsFormat))
     hits_e = len(re.findall(r'\b{}\b'.format(entity_name), wordsFormat))  + len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(entity_name), wordsFormat))
-    # print(competitor_name, hits_c)
+    # print(hits_ce / (hits_e * hits_c))
     return hits_ce / (hits_e * hits_c)
 
 
 def candidate_confidence(search_results, competitor_name, competitors_list_dict):
     wordsFormat = " ".join(search_results)
 
-    return calculate_math_count(competitors_list_dict,competitor_name) / len(
+    return calculate_match_count(competitors_list_dict, competitor_name) / len(
         re.findall(r'\b{}\b'.format(competitor_name), wordsFormat))
 
 
 def confidence_score(competitor_name, entity_name, competitors_list_dict, extracted_texts):
     search_results = numpy.concatenate(list(extracted_texts.values()))
-    r = calculate_math_count(competitors_list_dict, competitor=competitor_name)
+    r = calculate_match_count(competitors_list_dict, competitor=competitor_name)
     k1 = 0.2 * r
     # k1 = 0
     k2 = 0.6 * pointwise_mutual_information(search_results, entity_name, competitor_name)
@@ -258,24 +251,44 @@ def work(entity_name):
             if(len(words) != 2):
                 continue
             bir,eki = words
-            birge_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(soz.lower()), all_text))
+            birge_sanau = len(re.findall(r'{}'.format(soz.lower()), all_text))
             bir_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(bir.lower()), all_text))
             eki_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(eki.lower()), all_text))
-            # print(soz, [birge_sanau,bir_sanau, eki_sanau,])
-            # if(bir in maldar):
+            # print(soz, [birge_sanau,bir_sanau, eki_sanau])
+            pmi = birge_sanau/ (bir_sanau * eki_sanau)
 
-    # a= list(ranked_CL.keys())[0:9]
-    # for i in a:
+            if(birge_sanau/ max(bir_sanau,eki_sanau) >0.6):
+                common = 1/max(birge_sanau, bir_sanau, eki_sanau)
+                threshold = 0.7
+                if pmi/common > threshold:
+                    # print(words)
+                    f_point, s_point = 0,0
+                    if bir in ranked_CL:
+                        f_point = ranked_CL[bir]
+                        del ranked_CL[bir]
+                    if eki in ranked_CL:
+                        s_point = ranked_CL[eki]
+                        del ranked_CL[eki]
+                    # print(ranked_CL[soz])
+                    ranked_CL[soz] += (f_point+s_point)
+                    # print(ranked_CL[soz])
+
+
+            # if(bir in maldar):
+    wws = dict(sorted(ranked_CL.items(), key=lambda item: item[1], reverse=True))
+    #
+    # for i in wws.items():
     #     print(i)
-    print(list(map(lambda x: x.capitalize(),list(ranked_CL)[0:10])))
+    print(list(map(lambda x: x.capitalize(),list(wws)[0:10])))
 
 
 names = [
-    # 'Python',
     'Prada',
-    # 'Toyota',
-    # 'Adidas',
-    # 'Twix'
+    'Python',
+    'Prada',
+    'Toyota',
+    'Adidas',
+    'Twix'
 ]
 for entity_name in names:
     work(entity_name)
