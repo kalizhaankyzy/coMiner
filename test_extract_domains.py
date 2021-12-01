@@ -88,35 +88,29 @@ def phrases_from_descriptions_list(descriptions, competitors_list, entity_name):
 def get_descriptions_list(descriptions_all):
     return list(numpy.concatenate(descriptions_all))
 
-
+# returns frequency of phrase in document
 def phrase_frequency(phrase, descriptions_list):
     text = ' '.join(descriptions_list)
-    # print('phrase_frequency')
-    # descriptions_word_array = nltk.word_tokenize(text.lower())
-    # return descriptions_word_array.count(phrase.lower())
     return len(re.findall(r'\b{}\b'.format(phrase), ' '.join(text.lower())))
 
-
+# returns the number of documents containing the phrase
 def document_frequency(phrase, descriptions_list):
-    # print('Getting document frequency')
     cnt = 0
     for description in descriptions_list:
         if len(re.findall(r'\b{}\b'.format(phrase), description)) > 0:
             cnt += 1
     return cnt
 
-
+# Getting phrase length
 def phrase_length(phrase):
-    # print('Getting phrase length')
     return len(phrase.lower().split(' '))
 
-
-def average_distance(phrase, entity_name, descriptions_list_mapped):
-    # print('Getting average distance')
+# it is calculated by the distance between the phrase and the given entity or its competitors
+def average_distance(phrase, entity_name, descriptions_list, competitors_list):
     sum = 0
     n = 0
-    for c_name in descriptions_list_mapped.keys():
-        for description in descriptions_list_mapped.get(c_name):
+    for c_name in competitors_list:
+        for description in descriptions_list:
             description = description.lower()
             phrase = phrase.lower()
             try:
@@ -130,11 +124,10 @@ def average_distance(phrase, entity_name, descriptions_list_mapped):
                     n += 1
             except:
                 return 1000000000
+        if n == 0:
+            return 1000000000
 
-    if n == 0:
-        return 10000000
-
-    return sum/(2*n)
+        return sum / (2 * n)
 
 
 # TODO implement this function
@@ -187,143 +180,62 @@ def phrase_independence(phrase, descriptions_list):
         PR += F/PF * logga
     return (PR+PF)/2
 
-
-
-
-
-
-
-# entity_name = 'Python'
-# entity_name = 'Twix'
-entity_name = 'Adidas'
-# entity_name = 'Toyota'
-# Extracting files
-# c = extract_description_from_file('c',entity_name)
-# php = extract_description_from_file('php', entity_name)
-# java = extract_description_from_file('java', entity_name)
-# javascript = extract_description_from_file('javascript',entity_name)
-# js = extract_description_from_file('js',entity_name)
-# go = extract_description_from_file('go', entity_name)
-# r = extract_description_from_file('r', entity_name)
-# matlab = extract_description_from_file('matlab', entity_name)
-# ruby = extract_description_from_file('ruby', entity_name)
-
-# aldi = extract_description_from_file('aldi',entity_name)
-# kat = extract_description_from_file('kat', entity_name)
-# mars = extract_description_from_file('mars', entity_name)
-# kit_kat = extract_description_from_file('kit_kat',entity_name)
-# reese = extract_description_from_file('reese',entity_name)
-# left = extract_description_from_file('left', entity_name)
-# snickers = extract_description_from_file('snickers', entity_name)
-# treat = extract_description_from_file('treat', entity_name)
-# kit = extract_description_from_file('kit', entity_name)
-
-# ['Nike', 'Puma', 'Pace', 'Legacy lifter', 'Epic react', 'Advantage', 'Footjoy', 'Foam', 'Joyride', 'Nike joyride']
-
-
-
-# chevrolet = extract_description_from_file('chevrolet', entity_name)
-# competition = extract_description_from_file('competition',entity_name)
-# ford = extract_description_from_file('ford',entity_name)
-# frontier = extract_description_from_file('frontier', entity_name)
-# honda = extract_description_from_file('honda', entity_name)
-# hybrid = extract_description_from_file('hybrid', entity_name)
-# lexus= extract_description_from_file('lexus', entity_name)
-# subaru = extract_description_from_file('subaru', entity_name)
-competitors = {
+entity_and_competitors = {
     'Adidas':{
-        'Advantage':extract_description_from_file('advantage', entity_name),
-        'Epic React':extract_description_from_file('epic_react', entity_name),
-        'Foam':extract_description_from_file('foam', entity_name),
-        'Footjoy':extract_description_from_file('footjoy', entity_name),
-        'Joyride':extract_description_from_file('joyride', entity_name),
-        'Legacy Lifter':extract_description_from_file('legacy_lifter', entity_name),
-        'Nike':extract_description_from_file('nike', entity_name),
-        'OG':extract_description_from_file('og', entity_name),
-        'Pace':extract_description_from_file('pace', entity_name),
-        'Puma': extract_description_from_file('puma', entity_name)
+        'Advantage',
+        'Epic React',
+        'Foam',
+        'Footjoy',
+        'Joyride',
+        'Legacy Lifter',
+        'Nike',
+        'OG',
+        'Pace',
+        'Puma'
     },
     'Twix':{
-        'Advantage':extract_description_from_file('advantage', entity_name),
-        'Epic React':extract_description_from_file('epic_react', entity_name),
-        'Foam':extract_description_from_file('foam', entity_name),
-        'Footjoy':extract_description_from_file('footjoy', entity_name),
-        'Joyride':extract_description_from_file('joyride', entity_name),
-        'Legacy Lifter':extract_description_from_file('legacy_lifter', entity_name),
-        'Nike':extract_description_from_file('nike', entity_name),
-        'OG':extract_description_from_file('og', entity_name),
-        'Pace':extract_description_from_file('pace', entity_name),
-        'Puma': extract_description_from_file('puma', entity_name)
+        'Advantage',
+        'Epic React',
+        'Foam',
+        'Footjoy',
+        'Joyride',
+        'Legacy Lifter',
+        'Nike',
+        'OG',
+        'Pace',
+        'Puma'
     }
 }
-descriptions_list_mapped = {
-    'Advantage':extract_description_from_file('advantage', entity_name),
-    'Epic React':extract_description_from_file('epic_react', entity_name),
-    'Foam':extract_description_from_file('foam', entity_name),
-    'Footjoy':extract_description_from_file('footjoy', entity_name),
-    'Joyride':extract_description_from_file('joyride', entity_name),
-    'Legacy Lifter':extract_description_from_file('legacy_lifter', entity_name),
-    'Nike':extract_description_from_file('nike', entity_name),
-    'OG':extract_description_from_file('og', entity_name),
-    'Pace':extract_description_from_file('pace', entity_name),
-    'Puma': extract_description_from_file('puma', entity_name)
-    # 'chevrolet': chevrolet,
-    # 'competition': competition,
-    # 'ford': ford,
-    # 'honda': honda,
-    # 'lexus': lexus,
-    # 'subaru': subaru,
-    # 'frontier': frontier,
-    # 'hybrid': hybrid,
-
-    # 'php': php,
-    # 'javascript': javascript,
-    # 'go': go,
-    # 'r': r,
-    # 'matlab': matlab,
-    # 'ruby': ruby,
-    # 'js': js,
-    # 'c': c,
-
-    # 'kit kat': kit_kat,
-    # 'kit': kit,
-    # 'kat': kat,
-    # 'reese': reese,
-    # 'left': left,
-    # 'snickers': snickers,
-    # 'treat': treat,
-    # 'mars': mars,
-    # 'aldi': aldi
-}
 
 
-entity_names = list(competitors.keys())
-competitor_list = list(competitors[entity_names[0]].keys())
-descriptions_of_entity = list(descriptions_list_mapped.values())
-print(competitor_list)
-# competitors_list = list(descriptions_list_mapped.keys())
-# lists_of_descriptions_of_each_competitor = list(descriptions_list_mapped.values())
-# descriptions_list = get_descriptions_list(lists_of_descriptions_of_each_competitor)
-#
-#
-# list_of_phrases = phrases_from_descriptions_list(descriptions_list,competitors_list, entity_name )
-#
-# resulting_dictionary = {}
-# idx = 0
-# print(len(list_of_phrases))
-# for phrase in list_of_phrases:
-#     idx += 1
-#     # print(idx, phrase)
-#     resulting_dictionary[phrase] = phrase_frequency(phrase, descriptions_list) * 0.138
-#     resulting_dictionary[phrase] += document_frequency(phrase, descriptions_list) * 0.06
-#     resulting_dictionary[phrase] += phrase_length(phrase) * 0.229
-#     resulting_dictionary[phrase] += average_distance(phrase, entity_name, descriptions_list_mapped) * (-0.073)
-#     resulting_dictionary[phrase] += phrase_independence(phrase, descriptions_list) * 0.187
-#
-#
-# # Sorting
-# resulting_dictionary = dict(sorted(resulting_dictionary.items(), key=lambda item: item[1], reverse=True))
-#
-# most_ranked = list(resulting_dictionary.keys())[0:30]
-# for item in most_ranked:
-#     print(item)
+
+entity_names = list(entity_and_competitors.keys())
+# for Adidas
+entity_name = entity_names[0]
+
+competitors_list = list(entity_and_competitors[entity_name])
+descriptions_of_entity=list()
+for c in competitors_list:
+    descriptions_of_entity.append(extract_description_from_file(c.lower(), entity_name))
+descriptions_list = get_descriptions_list(descriptions_of_entity)
+
+list_of_phrases = phrases_from_descriptions_list(descriptions_list,competitors_list, entity_name)
+
+resulting_dictionary = {}
+idx = 0
+print(len(list_of_phrases))
+for phrase in list_of_phrases:
+    idx += 1
+    # print(idx, phrase)
+    resulting_dictionary[phrase] = phrase_frequency(phrase, descriptions_list) * 0.138
+    resulting_dictionary[phrase] += document_frequency(phrase, descriptions_list) * 0.06
+    resulting_dictionary[phrase] += phrase_length(phrase) * 0.229
+    resulting_dictionary[phrase] += average_distance(phrase, entity_name, descriptions_list, competitors_list) * (-0.073)
+    resulting_dictionary[phrase] += phrase_independence(phrase, descriptions_list) * 0.187
+
+# Sorting
+resulting_dictionary = dict(sorted(resulting_dictionary.items(), key=lambda item: item[1], reverse=True))
+
+most_ranked = list(resulting_dictionary.keys())[0:30]
+for item in most_ranked:
+    print(item)

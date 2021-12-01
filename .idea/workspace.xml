@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5853e78d-208a-4307-b5a5-060b3590d1cd" name="Default Changelist" comment="done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/epic_react.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/epic react.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/legacy_lifter.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/legacy lifter.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extract_competitors_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_competitors_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_extract_domains.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_extract_domains.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
