@@ -15,8 +15,13 @@
 // const competitors_list = ['Nike', 'Puma', 'Pace', 'Legacy lifter', 'Epic react', 'Advantage', 'Footjoy', 'Foam', 'Joyride', 'Og']
 
 
-const entity_name = 'Facebook'
-const competitors_list = ['Instagram', 'Twitter', 'Google', 'Apple', 'Youtube', 'Linkedin', 'Snapchat', 'Twitch', 'Australia', 'Whatsapp']
+// const entity_name = 'Facebook'
+// const competitors_list = ['Instagram', 'Twitter', 'Google', 'Apple', 'Youtube', 'Linkedin', 'Snapchat', 'Twitch', 'Australia', 'Whatsapp']
+
+
+const entity_name = 'Amazon'
+// const competitor_list = ['Instagram', 'Twitter', 'Google', 'Apple', 'Youtube', 'Linkedin', 'Google ads', 'Linkedin ads', 'Snapchat', 'Twitch']
+
 
 document.querySelector('button').addEventListener('click',() => {
 
