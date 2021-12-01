@@ -66,15 +66,18 @@ def extract_h1(words, entity_name):
     arr = re.findall(r'such as {},? (\b[A-Z][a-zA-Z]*\b \b[A-Z][a-zA-Z]*\b|\b[A-Z][a-zA-Z]*\b)'.format(entity_name), wordsFormat)
     #
     # such as {},? (\b[A-Z][a-zA-Z]*\b \b[A-Z][a-zA-Z]*\b|\b[A-Z][a-zA-Z]*\b)( or (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Za-z]*\b) (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Z][a-zA-Z]*\b)|\b)
-    print(arr)
-    return filter_stop_words(arr)
+    # print(arr)
+    return filter_stop_words(extract_h1(arr))
 
 
 # Function that extract words that matches by pattern H2
 def extract_h2(words, entity_name):
     wordsFormat = " ".join(words)
-    arr = re.findall(r'especially {},? (\b[A-Z][a-zA-Z]+\b)'.format(entity_name), wordsFormat)
-    # print(arr)
+    arr = re.findall(r'especially {}(, ([A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)|, (\b[A-Z][a-zA-Z]*\b)|\b)( and (\b[A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Z][a-zA-Z]*\b)|, and (\b[A-Z][a-zA-Z]*\b) (\b[A-Z][a-zA-Z]*\b)|, and (\b[A-Z][a-zA-Z]*\b)|\b)'.format(entity_name), wordsFormat)
+    print(arr)
+    arr = re.findall(r'especially {},? (\b[A-Z][a-zA-Z]*\b \b[A-Z][a-zA-Z]*\b|\b[A-Z][a-zA-Z]*\b)'.format(entity_name), wordsFormat)
+    print(arr)
+
     return filter_stop_words(arr)
 
 
@@ -213,8 +216,8 @@ def work(entity_name):
 
 
 names = [
-    'Python',
-    # 'Prada',
+    # 'Python',
+    'Prada',
     # 'Toyota',
     # 'Adidas'
 ]
