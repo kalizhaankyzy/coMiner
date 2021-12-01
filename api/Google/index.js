@@ -5,14 +5,14 @@ const API_KEY = 'AIzaSyAUHBeU9Rzj3Iw7AVSDFOWSPAc4rGFZlts&cx=eef1ce54ee2a2ef00&'
 const API_KEY_2='AIzaSyC6ew8yX8jbVDhD6zzZ-Bs6lUwR05D5l5s&cx=aaab32314809a8355&' // kbtu
 const API_KEY_3='AIzaSyAUHBeU9Rzj3Iw7AVSDFOWSPAc4rGFZlts&cx=c23c8927750a7737f&'
 
-
+const API_KEY_4='AIzaSyBxlychguUxAObIIfKstO6oQsunToyiKvg&cx=875e72d75203947e7'
 
 const patternMaker = (EN) => {
     return [
-        `vs ${EN}`,
-        `${EN} vs`,
-        `${EN} or`,
-        `or ${EN}`,
+        // `vs ${EN}`,
+        // `${EN} vs`,
+        // `${EN} or`,
+        // `or ${EN}`,
         `such as ${EN} * or OR and`,
         `especially ${EN},`,
         `including ${EN},`,
@@ -23,13 +23,42 @@ const getResults = (queryString) => {
     const promises = [];
 
     for(let i = 1; i <=91 ; i+=10){
-        promises.push(fetch(`https://www.googleapis.com/customsearch/v1?key=${API_KEY_2}q="${queryString}"&start=${i}&safe=active`))
+        promises.push(fetch(`https://www.googleapis.com/customsearch/v1?key=${API_KEY_4}&q="${queryString}"&start=${i}&safe=active`))
     }
     return promises
 }
 
+
+const work = () => {
+    const patterns = patternMaker('Facebook')
+
+    for(let i = 0 ;i < patterns.length; i++) {
+       setTimeout(() => {
+            const promises = getResults(patterns[i])
+            Promise.all(promises)
+                .then(results => Promise.all(results.map(r => r.json())))
+                .then((a) => {
+                    const b = {}
+                    for (let i = 0; i < a.length; i++) {
+                        b[`${i + 1}`] = a[i]
+                    }
+                    if(i%2===0) {
+                          console.log('results for',(patterns[i]))
+
+                          console.log(JSON.stringify(b))
+                    }
+                    else {
+                        console.debug('results for',(patterns[i]))
+
+                        console.debug(JSON.stringify(b))
+                    }
+
+                })
+           }, 5000*i)
+    }
+}
+
 const handleGetCompetitorList = () => {
-    const patterns = patternMaker('Twix')
     const promises = getResults(patterns[6])
     Promise.all(promises)
         .then(results => Promise.all(results.map(r => r.json())))
@@ -45,4 +74,4 @@ const handleGetCompetitorList = () => {
 
 
 
-btn.addEventListener('click', handleGetCompetitorList)
+btn.addEventListener('click', work )

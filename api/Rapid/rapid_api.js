@@ -1,18 +1,26 @@
 // Used thus api to search query for step 2.
 
 // const entity_name = 'Python'
-// const competitors_list = ['R', 'Java',
+// const competitor_list = ['R', 'Java',
 //     'Javascript', 'Ruby', 'C', 'Js', 'Php', 'Go', 'Matlab'
 // ]
 // const entity_name = 'Toyota'
-// const competitors_list = ['Honda', 'Nissan', 'Competition', 'Chevrolet', 'Subaru', 'Frontier', 'Lexus', 'Ford', 'Hybrid']
+// const competitor_list = ['Honda', 'Nissan', 'Competition', 'Chevrolet', 'Subaru', 'Frontier', 'Lexus', 'Ford', 'Hybrid']
 
 // const entity_name = 'Prada'
-// const competitors_list  = ['Gucci', 'Vuitton', 'Fendi', 'Nada', 'Homme', 'Burberry', 'Sweeney', 'Chanel', 'Miu']
+// const competitor_list  = ['Gucci', 'Vuitton', 'Fendi', 'Nada', 'Homme', 'Burberry', 'Sweeney', 'Chanel', 'Miu']
 
 
-const entity_name = 'Adidas'
-const competitors_list = ['Nike', 'Puma', 'Pace', 'Legacy lifter', 'Epic react', 'Advantage', 'Footjoy', 'Foam', 'Joyride', 'Og']
+// const entity_name = 'Adidas'
+// const competitors_list = ['Nike', 'Puma', 'Pace', 'Legacy lifter', 'Epic react', 'Advantage', 'Footjoy', 'Foam', 'Joyride', 'Og']
+
+
+// const entity_name = 'Facebook'
+// const competitors_list = ['Instagram', 'Twitter', 'Google', 'Apple', 'Youtube', 'Linkedin', 'Snapchat', 'Twitch', 'Australia', 'Whatsapp']
+
+
+const entity_name = 'Amazon'
+// const competitor_list = ['Instagram', 'Twitter', 'Google', 'Apple', 'Youtube', 'Linkedin', 'Google ads', 'Linkedin ads', 'Snapchat', 'Twitch']
 
 
 document.querySelector('button').addEventListener('click',() => {

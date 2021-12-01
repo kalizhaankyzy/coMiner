@@ -122,7 +122,7 @@ def get_competitor_list_dict_from_extracted_texts_dict(extracted_texts, entity_n
     return competitors_list_dict
 
 
-# calculate match count of one competitor in a competitors_list(pattern) multiplied by weight(pattern)
+# calculate match count of one competitor in a competitor_list(pattern) multiplied by weight(pattern)
 def calculate_match_count_util(competitors_extracted_by_some_pattern, pattern_weight, current_competitor):
     return pattern_weight * competitors_extracted_by_some_pattern.count(current_competitor)
 1
@@ -172,9 +172,8 @@ def confidence_score(competitor_name, entity_name, competitors_list_dict, extrac
 def get_ranked_list_of_competitor_names(entity_name, competitors_list_dict, extracted_texts):
     competitors = get_unique_competitors(competitors_list_dict)
     CL = {}
-
     for competitor in competitors:
-        if (entity_name.lower() not in competitor.lower()):
+        if(entity_name.lower() not in competitor.lower()):
             CS = confidence_score(competitor, entity_name, competitors_list_dict, extracted_texts)
             CL[competitor] = CS
     # here we filter all results by translating to lowercase, because some competitor names occurs in different ways, e.g., "matlab, MATLAB, MatLab"
@@ -248,11 +247,13 @@ def work(entity_name):
 
 
 names = [
-    'Prada',
-    'Python',
-    'Toyota',
-    'Adidas',
-    'Twix'
+    # 'Prada',
+    # 'Python',
+    # 'Toyota',
+    # 'Adidas',
+    # 'Twix'
+    'Amazon',
+    'Facebook'
 ]
 for entity_name in names:
     work(entity_name)

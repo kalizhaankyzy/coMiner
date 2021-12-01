@@ -204,6 +204,9 @@ entity_and_competitors = {
         'OG',
         'Pace',
         'Puma'
+    },
+    'Facebook':{
+        'Apple'
     }
 }
 
