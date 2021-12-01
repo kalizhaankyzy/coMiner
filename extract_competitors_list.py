@@ -246,6 +246,8 @@ def work(entity_name):
     all_text = " ".join(list(numpy.concatenate(list(extracted_texts.values())))).lower()
     for i in range(len(maldar)):
         soz = maldar[i]
+        if(entity_name.lower() in soz):
+            del ranked_CL[soz]
         if ' ' in soz:
             words = soz.split(' ')
             if(len(words) != 2):
@@ -277,18 +279,17 @@ def work(entity_name):
             # if(bir in maldar):
     wws = dict(sorted(ranked_CL.items(), key=lambda item: item[1], reverse=True))
     #
-    # for i in wws.items():
-    #     print(i)
-    print(list(map(lambda x: x.capitalize(),list(wws)[0:10])))
+    for i in wws.items():
+        print(i)
+    # print(list(map(lambda x: x.capitalize(),list(wws)[0:10])))
 
 
 names = [
-    'Prada',
-    'Python',
-    'Prada',
-    'Toyota',
+    # 'Python',
+    # 'Prada',
+    # 'Toyota',
     'Adidas',
-    'Twix'
+    # 'Twix'
 ]
 for entity_name in names:
     work(entity_name)

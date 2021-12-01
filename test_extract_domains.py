@@ -214,9 +214,11 @@ def phrase_independence(phrase, descriptions_list):
 
 
 
-entity_name = 'Python'
-entity_name = 'Twix'
+# entity_name = 'Python'
+# entity_name = 'Twix'
+entity_name ='Prada'
 # entity_name = 'Toyota'
+
 # Extracting files
 # c = extract_description_from_file('c',entity_name)
 # php = extract_description_from_file('php', entity_name)
@@ -228,16 +230,15 @@ entity_name = 'Twix'
 # matlab = extract_description_from_file('matlab', entity_name)
 # ruby = extract_description_from_file('ruby', entity_name)
 
-aldi = extract_description_from_file('aldi',entity_name)
-kat = extract_description_from_file('kat', entity_name)
-mars = extract_description_from_file('mars', entity_name)
-kit_kat = extract_description_from_file('kit_kat',entity_name)
-reese = extract_description_from_file('reese',entity_name)
-left = extract_description_from_file('left', entity_name)
-snickers = extract_description_from_file('snickers', entity_name)
-treat = extract_description_from_file('treat', entity_name)
-kit = extract_description_from_file('kit', entity_name)
-
+# aldi = extract_description_from_file('aldi',entity_name)
+# kat = extract_description_from_file('kat', entity_name)
+# mars = extract_description_from_file('mars', entity_name)
+# kit_kat = extract_description_from_file('kit_kat',entity_name)
+# reese = extract_description_from_file('reese',entity_name)
+# left = extract_description_from_file('left', entity_name)
+# snickers = extract_description_from_file('snickers', entity_name)
+# treat = extract_description_from_file('treat', entity_name)
+# kit = extract_description_from_file('kit', entity_name)
 
 
 # chevrolet = extract_description_from_file('chevrolet', entity_name)
@@ -249,7 +250,28 @@ kit = extract_description_from_file('kit', entity_name)
 # lexus= extract_description_from_file('lexus', entity_name)
 # subaru = extract_description_from_file('subaru', entity_name)
 
+# azam = extract_description_from_file('azam',entity_name)
+# chanel= extract_description_from_file('chanel', entity_name)
+# chloe= extract_description_from_file('chloe', entity_name)
+# fendi = extract_description_from_file('fendi',entity_name)
+# gucci = extract_description_from_file('gucci',entity_name)
+# louis_vuitton = extract_description_from_file('louis_vuitton', entity_name)
+# miu_miu = extract_description_from_file('miu_miu', entity_name)
+# rajput = extract_description_from_file('rajput', entity_name)
+# spain = extract_description_from_file('spain', entity_name)
+# versace = extract_description_from_file('versace', entity_name)
+
 descriptions_list_mapped = {
+    # 'Сhanel':chanel,
+    # 'Сhloe':chloe,
+    # 'Аendi': fendi,
+    # 'gucci': gucci,
+    # 'Louis vuitton': louis_vuitton,
+    # 'Miu miu': miu_miu,
+    # 'Rajput': rajput,
+    # 'Spain':spain,
+    # "Versace":versace
+
     # 'chevrolet': chevrolet,
     # 'competition': competition,
     # 'ford': ford,
@@ -268,15 +290,15 @@ descriptions_list_mapped = {
     # 'js': js,
     # 'c': c,
 
-    'kit kat': kit_kat,
-    'kit': kit,
-    'kat': kat,
-    'reese': reese,
-    'left': left,
-    'snickers': snickers,
-    'treat': treat,
-    'mars': mars,
-    'aldi': aldi
+    # 'kit kat': kit_kat,
+    # 'kit': kit,
+    # 'kat': kat,
+    # 'reese': reese,
+    # 'left': left,
+    # 'snickers': snickers,
+    # 'treat': treat,
+    # 'mars': mars,
+    # 'aldi': aldi
 }
 
 
