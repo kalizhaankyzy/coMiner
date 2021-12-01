@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5853e78d-208a-4307-b5a5-060b3590d1cd" name="Default Changelist" comment="done">
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/advantage.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/epic_react.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/foam.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/footjoy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/joyride.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/legacy_lifter.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/nike.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/og.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/pace.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Adidas/domain_mining/search_results/puma.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/Rapid/rapid_api.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/Rapid/rapid_api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_competitors_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_competitors_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_extract_domains.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_extract_domains.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tfdif.py" beforeDir="false" afterPath="$PROJECT_DIR$/tfdif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/helpers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
