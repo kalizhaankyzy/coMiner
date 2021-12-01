@@ -35,28 +35,10 @@ def get_directory_of_descriptions(name, entity_name):
 
 # get list of descriptions(documents) for one competitor
 def extract_description_from_file(name, entity_name):
-    # file_name_with_dir = get_directory_of_document_text(name, entity_name)
-    # f = open(file_name_with_dir, encoding='utf-8')
-    #
-    # data = json.load(f)['descriptions']
     ans = []
-    # idx = 0
-    # for description in data:
-    #     if description == 'lol':
-    #         ans.append(description)
-    #     else:
-    #         f_2 = open(get_directory_of_descriptions(name, entity_name), encoding='utf-8')
-    #         json_ = json.load(f_2)
-    #         results = json_['results']
-    #         result = results[idx]
-    #         description_from_mother = result['description']
-    #         ans.append(description_from_mother)
-    #     idx += 1
     f_2 = open(get_directory_of_descriptions(name, entity_name), encoding='utf-8')
     json_ = json.load(f_2)
-    # print(json_)
     results = json_['results']
-    # print(results)
     for res in results:
         ans.append(res['description'])
     return ans
@@ -65,7 +47,6 @@ def extract_description_from_file(name, entity_name):
 # get phrases list from one description(document)
 def phrase_from_one_description(description, competitors_list, entity_name):
     # We collect words using nltk
-    # print('phrase_from_one_description')
     words_list = nltk.pos_tag(nltk.word_tokenize(description))
     results = set()
     for i in range(len(words_list)-1):
@@ -84,7 +65,7 @@ def phrase_from_one_description(description, competitors_list, entity_name):
                 if first_word_pos in ['NNS', 'NNPS'] and (first_word[-1]=='s'):
                     first_word = first_word[0:len(first_word) - 1]
                 results.add(first_word)
-            # If it is phrase that is like adjective + noun, add it as two words phrase
+            # If it is phrase that is like adjective + noun, add it as two-word phrase
             if first_word_pos in ['VBG', 'JJ', 'NN', 'NNP', 'VP'] and second_word_pos in ['NN', 'NNP', 'VP', 'NNS','NNPS']:
                 if is_word(second_word) and not has_intersection(second_word, competitors_list, entity_name):
                     if second_word_pos in ['NNS', 'NNPS','NNP','VBZ'] and (second_word[-1]=='s'):
@@ -93,12 +74,11 @@ def phrase_from_one_description(description, competitors_list, entity_name):
 
     return filterize(list(results))
 
-
+# returns unique list of descriptions
 def phrases_from_descriptions_list(descriptions, competitors_list, entity_name):
-    # print('Getting phrases from one competitor descriptions list')
     result = set()
     for description in descriptions:
-        phrases = phrase_from_one_description(description,competitors_list,entity_name)
+        phrases = phrase_from_one_description(description, competitors_list, entity_name)
         for phrase in phrases:
             result.add(phrase)
     return list(result)
@@ -256,6 +236,7 @@ entity_name = 'Adidas'
 # hybrid = extract_description_from_file('hybrid', entity_name)
 # lexus= extract_description_from_file('lexus', entity_name)
 # subaru = extract_description_from_file('subaru', entity_name)
+<<<<<<< HEAD
 
 # azam = extract_description_from_file('azam',entity_name)
 # chanel= extract_description_from_file('chanel', entity_name)
@@ -268,6 +249,34 @@ entity_name = 'Adidas'
 # spain = extract_description_from_file('spain', entity_name)
 # versace = extract_description_from_file('versace', entity_name)
 
+=======
+competitors = {
+    'Adidas':{
+        'Advantage':extract_description_from_file('advantage', entity_name),
+        'Epic React':extract_description_from_file('epic_react', entity_name),
+        'Foam':extract_description_from_file('foam', entity_name),
+        'Footjoy':extract_description_from_file('footjoy', entity_name),
+        'Joyride':extract_description_from_file('joyride', entity_name),
+        'Legacy Lifter':extract_description_from_file('legacy_lifter', entity_name),
+        'Nike':extract_description_from_file('nike', entity_name),
+        'OG':extract_description_from_file('og', entity_name),
+        'Pace':extract_description_from_file('pace', entity_name),
+        'Puma': extract_description_from_file('puma', entity_name)
+    },
+    'Twix':{
+        'Advantage':extract_description_from_file('advantage', entity_name),
+        'Epic React':extract_description_from_file('epic_react', entity_name),
+        'Foam':extract_description_from_file('foam', entity_name),
+        'Footjoy':extract_description_from_file('footjoy', entity_name),
+        'Joyride':extract_description_from_file('joyride', entity_name),
+        'Legacy Lifter':extract_description_from_file('legacy_lifter', entity_name),
+        'Nike':extract_description_from_file('nike', entity_name),
+        'OG':extract_description_from_file('og', entity_name),
+        'Pace':extract_description_from_file('pace', entity_name),
+        'Puma': extract_description_from_file('puma', entity_name)
+    }
+}
+>>>>>>> f91d27acf6d0d146c4e0fb41c13e1464b39f284c
 descriptions_list_mapped = {
     # 'Сhanel':chanel,
     # 'Сhloe':chloe,
@@ -319,30 +328,33 @@ descriptions_list_mapped = {
 }
 
 
-
-competitors_list = list(descriptions_list_mapped.keys())
-lists_of_descriptions_of_each_competitor = list(descriptions_list_mapped.values())
-descriptions_list = get_descriptions_list(lists_of_descriptions_of_each_competitor)
-
-
-list_of_phrases = phrases_from_descriptions_list(descriptions_list,competitors_list, entity_name )
-
-resulting_dictionary = {}
-idx = 0
-print(len(list_of_phrases))
-for phrase in list_of_phrases:
-    idx += 1
-    # print(idx, phrase)
-    resulting_dictionary[phrase] = phrase_frequency(phrase, descriptions_list) * 0.138
-    resulting_dictionary[phrase] += document_frequency(phrase, descriptions_list) * 0.06
-    resulting_dictionary[phrase] += phrase_length(phrase) * 0.229
-    resulting_dictionary[phrase] += average_distance(phrase, entity_name, descriptions_list_mapped) * (-0.073)
-    resulting_dictionary[phrase] += phrase_independence(phrase, descriptions_list) * 0.187
-
-
-# Sorting
-resulting_dictionary = dict(sorted(resulting_dictionary.items(), key=lambda item: item[1], reverse=True))
-
-most_ranked = list(resulting_dictionary.keys())[0:30]
-for item in most_ranked:
-    print(item)
+entity_names = list(competitors.keys())
+competitor_list = list(competitors[entity_names[0]].keys())
+descriptions_of_entity = list(descriptions_list_mapped.values())
+print(competitor_list)
+# competitors_list = list(descriptions_list_mapped.keys())
+# lists_of_descriptions_of_each_competitor = list(descriptions_list_mapped.values())
+# descriptions_list = get_descriptions_list(lists_of_descriptions_of_each_competitor)
+#
+#
+# list_of_phrases = phrases_from_descriptions_list(descriptions_list,competitors_list, entity_name )
+#
+# resulting_dictionary = {}
+# idx = 0
+# print(len(list_of_phrases))
+# for phrase in list_of_phrases:
+#     idx += 1
+#     # print(idx, phrase)
+#     resulting_dictionary[phrase] = phrase_frequency(phrase, descriptions_list) * 0.138
+#     resulting_dictionary[phrase] += document_frequency(phrase, descriptions_list) * 0.06
+#     resulting_dictionary[phrase] += phrase_length(phrase) * 0.229
+#     resulting_dictionary[phrase] += average_distance(phrase, entity_name, descriptions_list_mapped) * (-0.073)
+#     resulting_dictionary[phrase] += phrase_independence(phrase, descriptions_list) * 0.187
+#
+#
+# # Sorting
+# resulting_dictionary = dict(sorted(resulting_dictionary.items(), key=lambda item: item[1], reverse=True))
+#
+# most_ranked = list(resulting_dictionary.keys())[0:30]
+# for item in most_ranked:
+#     print(item)

@@ -173,8 +173,9 @@ def get_ranked_list_of_competitor_names(entity_name, competitors_list_dict, extr
     competitors = get_unique_competitors(competitors_list_dict)
     CL = {}
     for competitor in competitors:
-        CS = confidence_score(competitor, entity_name, competitors_list_dict, extracted_texts)
-        CL[competitor] = CS
+        if(competitor != entity_name):
+            CS = confidence_score(competitor, entity_name, competitors_list_dict, extracted_texts)
+            CL[competitor] = CS
     # here we filter all results by translating to lowercase, because some competitor names occurs in different ways, e.g., "matlab, MATLAB, MatLab"
     competitors = list(map(lambda x: x.lower(), competitors))
     CL_New = {}
