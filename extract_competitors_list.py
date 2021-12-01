@@ -173,7 +173,7 @@ def get_ranked_list_of_competitor_names(entity_name, competitors_list_dict, extr
     competitors = get_unique_competitors(competitors_list_dict)
     CL = {}
     for competitor in competitors:
-        if(competitor != entity_name):
+        if(entity_name.lower() not in competitor.lower()):
             CS = confidence_score(competitor, entity_name, competitors_list_dict, extracted_texts)
             CL[competitor] = CS
     # here we filter all results by translating to lowercase, because some competitor names occurs in different ways, e.g., "matlab, MATLAB, MatLab"
@@ -218,6 +218,8 @@ def filter_competitor_names_bigrams(text, competitors_list):
                         s_point = competitors_list[second_word]
                         del competitors_list[second_word]
                     competitors_list[competitor_name] += (f_point + s_point)
+            else:
+                del competitors_list[competitor_name]
 
     return dict(sorted(competitors_list.items(), key=lambda item: item[1], reverse=True))
 
@@ -250,7 +252,8 @@ names = [
     # 'Toyota',
     # 'Adidas',
     # 'Twix'
-    'Amazon'
+    'Amazon',
+    'Facebook'
 ]
 for entity_name in names:
     work(entity_name)
