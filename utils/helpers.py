@@ -5,7 +5,7 @@ from urllib.request import urlopen
 
 def is_word(word):
     # return re.match(word, "[a-zA-Z]+")
-    if(len(word) > 20):
+    if(len(word) > 20 or len(word) < 3):
         return False
     for i in word:
         if i not in 'qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM':

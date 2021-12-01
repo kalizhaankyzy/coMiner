@@ -17,6 +17,7 @@ def filterize(arr):
             ans.append(word)
     return ans
 
+
 # check if a string is word using nltk
 def check_is_word_nltk(word_to_test):
     return wordnet.synsets(word_to_test)
@@ -59,8 +60,6 @@ def extract_description_from_file(name, entity_name):
     for res in results:
         ans.append(res['description'])
     return ans
-
-
 
 
 # get phrases list from one description(document)
@@ -216,6 +215,7 @@ def phrase_independence(phrase, descriptions_list):
 
 
 entity_name = 'Python'
+entity_name = 'Twix'
 # entity_name = 'Toyota'
 # Extracting files
 # c = extract_description_from_file('c',entity_name)
@@ -228,15 +228,26 @@ entity_name = 'Python'
 # matlab = extract_description_from_file('matlab', entity_name)
 # ruby = extract_description_from_file('ruby', entity_name)
 
+aldi = extract_description_from_file('aldi',entity_name)
+kat = extract_description_from_file('kat', entity_name)
+mars = extract_description_from_file('mars', entity_name)
+kit_kat = extract_description_from_file('kit_kat',entity_name)
+reese = extract_description_from_file('reese',entity_name)
+left = extract_description_from_file('left', entity_name)
+snickers = extract_description_from_file('snickers', entity_name)
+treat = extract_description_from_file('treat', entity_name)
+kit = extract_description_from_file('kit', entity_name)
 
-chevrolet = extract_description_from_file('chevrolet', entity_name)
-competition = extract_description_from_file('competition',entity_name)
-ford = extract_description_from_file('ford',entity_name)
-frontier = extract_description_from_file('frontier', entity_name)
-honda = extract_description_from_file('honda', entity_name)
-hybrid = extract_description_from_file('hybrid', entity_name)
-lexus= extract_description_from_file('lexus', entity_name)
-subaru = extract_description_from_file('subaru', entity_name)
+
+
+# chevrolet = extract_description_from_file('chevrolet', entity_name)
+# competition = extract_description_from_file('competition',entity_name)
+# ford = extract_description_from_file('ford',entity_name)
+# frontier = extract_description_from_file('frontier', entity_name)
+# honda = extract_description_from_file('honda', entity_name)
+# hybrid = extract_description_from_file('hybrid', entity_name)
+# lexus= extract_description_from_file('lexus', entity_name)
+# subaru = extract_description_from_file('subaru', entity_name)
 
 descriptions_list_mapped = {
     # 'chevrolet': chevrolet,
@@ -248,14 +259,24 @@ descriptions_list_mapped = {
     # 'frontier': frontier,
     # 'hybrid': hybrid,
 
-    'php': php,
-    'javascript': javascript,
-    'go': go,
-    'r': r,
-    'matlab': matlab,
-    'ruby': ruby,
-    'js': js,
-    'c': c
+    # 'php': php,
+    # 'javascript': javascript,
+    # 'go': go,
+    # 'r': r,
+    # 'matlab': matlab,
+    # 'ruby': ruby,
+    # 'js': js,
+    # 'c': c,
+
+    'kit kat': kit_kat,
+    'kit': kit,
+    'kat': kat,
+    'reese': reese,
+    'left': left,
+    'snickers': snickers,
+    'treat': treat,
+    'mars': mars,
+    'aldi': aldi
 }
 
 

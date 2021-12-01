@@ -47,7 +47,6 @@ def extract_c1(words, entity_name):
     results = re.findall(r'(\b[A-Z][a-zA-Z]*\b) (vs|VS|Vs|versus)\.? {}'.format(entity_name), wordsFormat)
     ans = list(map(get_first_element, results))
     ans2 = list(map(get_first_element, results2))
-
     return filter_stop_words(ans+ans2)
 
 
@@ -248,24 +247,22 @@ def work(entity_name):
     competitors_list_for_each_pattern = get_competitor_list_dict_from_extracted_texts_dict(extracted_texts, entity_name)
     ranked_CL = get_ranked_list_of_competitor_names(entity_name, competitors_list_for_each_pattern, extracted_texts)
     maldar = list(ranked_CL.keys())
+
     # print(maldar)
     # print(maldar)
-    # all_text = " ".join(list(numpy.concatenate(list(extracted_texts.values()))))
-    # for i in range(len(maldar)):
-    #     soz = maldar[i]
-    #     if ' ' in soz:
-    #         words = soz.split(' ')
-    #         bir,eki = words
-    #         birge_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(soz), all_text))
-    #         bir_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(bir), all_text))
-    #         eki_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(eki), all_text))
-    #         # print(soz, [birge_sanau,bir_sanau, eki_sanau,])
-    #         # if(bir in maldar):
-
-
-
-
-
+    all_text = " ".join(list(numpy.concatenate(list(extracted_texts.values())))).lower()
+    for i in range(len(maldar)):
+        soz = maldar[i]
+        if ' ' in soz:
+            words = soz.split(' ')
+            if(len(words) != 2):
+                continue
+            bir,eki = words
+            birge_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(soz.lower()), all_text))
+            bir_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(bir.lower()), all_text))
+            eki_sanau = len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(eki.lower()), all_text))
+            # print(soz, [birge_sanau,bir_sanau, eki_sanau,])
+            # if(bir in maldar):
 
     # a= list(ranked_CL.keys())[0:9]
     # for i in a:
@@ -274,11 +271,11 @@ def work(entity_name):
 
 
 names = [
-    'Python',
+    # 'Python',
     'Prada',
-    'Toyota',
-    'Adidas',
-    'Twix'
+    # 'Toyota',
+    # 'Adidas',
+    # 'Twix'
 ]
 for entity_name in names:
     work(entity_name)

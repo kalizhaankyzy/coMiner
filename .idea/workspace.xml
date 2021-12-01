@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7281455e-53c4-4f97-bfe7-d3b86613dcf8" name="Changes" comment="">
+    <list default="true" id="5853e78d-208a-4307-b5a5-060b3590d1cd" name="Default Changelist" comment="done">
+      <change afterPath="$PROJECT_DIR$/db/Twix/competitor_list/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/extract_competitors_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_competitors_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extract_domains.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_domains.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_extract_domains.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_extract_domains.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/helpers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="21bQD47H5LJ6uSmwGJ13XeaVgW3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +43,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -81,5 +88,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

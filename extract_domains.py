@@ -11,6 +11,8 @@ DOCUMENTS_ROOT = './db/python/domain_mining/document_texts/'
 DESCRIPTION_ROOT = './db/python/domain_mining/competitor_list/'
 entity_name = 'Python'
 competitors_list = ['R', 'Java', 'Javascript', 'Ruby', 'C', 'Js', 'Php', 'Go', 'Matlab']
+entity_name = 'Twix'
+competitors_list = ['Snickers', 'Kat', 'Kit', 'Left', 'Mars', 'Treat', 'Aldi', 'Reese', 'Kit kat']
 
 
 def check_is_word_nltk(word_to_test):
@@ -96,6 +98,8 @@ go = extract_description_from_file('go')
 r = extract_description_from_file('r')
 matlab = extract_description_from_file('matlab')
 ruby = extract_description_from_file('ruby')
+
+
 
 
 descriptions_list_mapped = {
