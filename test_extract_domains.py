@@ -271,34 +271,47 @@ entity_and_competitors = {
 
 
 entity_names = list(entity_and_competitors.keys())
+# for Adidas
+# entity_name = entity_names[0]
+# for Python
+# entity_name = entity_names[1]
+# for Twix
+# entity_name = entity_names[2]
+# for Prada
+# entity_name = entity_names[3]
+# for Toyota
+# entity_name = entity_names[4]
 # for Facebook
-entity_name = entity_names[1]
+# entity_name = entity_names[5]
+# for Amazon
+entity_name = entity_names[6]
 
 competitors_list = list(entity_and_competitors[entity_name])
-descriptions_of_entity=list()
+
+def extract_domains(entity, competitor):
+    print(entity, competitor)
+    # print(extract_description_from_file(competitor.lower(), entity))
+    descriptions = list()
+    descriptions.append(extract_description_from_file(competitor.lower(), entity))
+    descriptions_list = get_descriptions_list(descriptions)
+    # print(descriptions_list)
+    list_of_phrases = phrases_from_descriptions_list(descriptions_list, competitors_list, entity_name)
+    print(len(list_of_phrases))
+    resulting_dictionary = {}
+
+    for phrase in list_of_phrases:
+        resulting_dictionary[phrase] = phrase_frequency(phrase, descriptions_list) * 0.138
+        resulting_dictionary[phrase] += document_frequency(phrase, descriptions_list) * 0.06
+        resulting_dictionary[phrase] += phrase_length(phrase) * 0.229
+        resulting_dictionary[phrase] += average_distance(phrase, entity_name, descriptions_list, competitors_list) * (
+            -0.073)
+        resulting_dictionary[phrase] += phrase_independence(phrase, descriptions_list) * 0.187
+
+    resulting_dictionary = dict(sorted(resulting_dictionary.items(), key=lambda item: item[1], reverse=True))
+    return list(resulting_dictionary.keys())[0:5]
+
+
 for c in competitors_list:
-    descriptions_of_entity.append(extract_description_from_file(c.lower(), entity_name))
-descriptions_list = get_descriptions_list(descriptions_of_entity)
-
-list_of_phrases = phrases_from_descriptions_list(descriptions_list,competitors_list, entity_name)
-
-resulting_dictionary = {}
-# idx = 0
-print(len(list_of_phrases))
-for phrase in list_of_phrases:
-#     idx += 1
-#     # print(idx, phrase)
-    resulting_dictionary[phrase] = phrase_frequency(phrase, descriptions_list) * 0.138
-    resulting_dictionary[phrase] += document_frequency(phrase, descriptions_list) * 0.06
-    resulting_dictionary[phrase] += phrase_length(phrase) * 0.229
-    resulting_dictionary[phrase] += average_distance(phrase, entity_name, descriptions_list, competitors_list) * (-0.073)
-    resulting_dictionary[phrase] += phrase_independence(phrase, descriptions_list) * 0.187
-#
-
-# Sorting
-resulting_dictionary = dict(sorted(resulting_dictionary.items(), key=lambda item: item[1], reverse=True))
-# print(list(resulting_dictionary.items())[0:30])
-#
-most_ranked = list(resulting_dictionary.keys())[0:10]
-for item in most_ranked:
-    print(item)
+    for item in extract_domains(entity_name, c):
+        print(item)
+    print("-"*10)
