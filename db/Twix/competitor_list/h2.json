@@ -1,0 +1,2989 @@
+{
+  "1": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "45",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 1,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "45",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "context": {
+      "title": "darik"
+    },
+    "searchInformation": {
+      "searchTime": 0.370072,
+      "formattedSearchTime": "0.37",
+      "totalResults": "45",
+      "formattedTotalResults": "45"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "DID YOU KNOW THAT HEALTHY TWIX EXISTS?!! – The Tipsy Kale",
+        "htmlTitle": "DID YOU KNOW THAT HEALTHY TWIX EXISTS?!! – The Tipsy Kale",
+        "link": "https://allhailsthekale.com/2019/02/26/did-you-know-that-healthy-twix-exists/",
+        "displayLink": "allhailsthekale.com",
+        "snippet": "Feb 26, 2019 ... I have to store all of my chocolate candy – **especially Twix** – in my freezer to control the WHOLE chocolate overdose situation – ya know ...",
+        "htmlSnippet": "Feb 26, 2019 <b>...</b> I have to store all of my chocolate candy – **<b>especially Twix</b>** – in my freezer to control the WHOLE chocolate overdose situation – ya know&nbsp;...",
+        "cacheId": "wp_q3KeVoiQJ",
+        "formattedUrl": "https://allhailsthekale.com/2019/02/.../did-you-know-that-healthy-twix-exists/",
+        "htmlFormattedUrl": "https://allhailsthekale.com/2019/02/.../did-you-know-that-healthy-twix-exists/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://i0.wp.com/allhailsthekale.com/wp-content/uploads/2019/02/P2215484-copy-e1551157648523.jpg?fit=1200%2C910&ssl=1",
+              "og:type": "article",
+              "article:published_time": "2019-02-27T03:34:08+00:00",
+              "og:image:width": "1200",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "The Tipsy Kale",
+              "og:title": "DID YOU KNOW THAT HEALTHY TWIX EXISTS?!!",
+              "og:image:height": "910",
+              "msapplication-tileimage": "https://i0.wp.com/allhailsthekale.com/wp-content/uploads/2020/08/cropped-Sub1.png?fit=270%2C270&ssl=1",
+              "og:description": "I go CRAY for Twix. BUT SERIOUSLY!! Dietetics majors have cravings too!!! It’s something about the cookie base crunch and the chocolate that make me SINK to my knees. I have to store all of m…",
+              "twitter:creator": "@allhailsthekale",
+              "twitter:image": "https://i0.wp.com/allhailsthekale.com/wp-content/uploads/2019/02/P2215484-copy-e1551157648523.jpg?fit=1200%2C910&ssl=1&w=640",
+              "twitter:text:title": "DID YOU KNOW THAT HEALTHY TWIX EXISTS?!!",
+              "article:modified_time": "2020-05-09T21:52:58+00:00",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:locale": "en_US",
+              "og:url": "https://allhailsthekale.com/2019/02/26/did-you-know-that-healthy-twix-exists/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i0.wp.com/allhailsthekale.com/wp-content/uploads/2019/02/P2215484-copy-e1551157648523.jpg?fit=1200%2C910&ssl=1",
+              "width": "258",
+              "type": "1",
+              "height": "195"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Homemade Twix Bars | In The Kitchen With Matt",
+        "htmlTitle": "Homemade Twix Bars | In The Kitchen With Matt",
+        "link": "https://www.inthekitchenwithmatt.com/homemade-twix-bars",
+        "displayLink": "www.inthekitchenwithmatt.com",
+        "snippet": "Sep 9, 2021 ... If you are a fan of candy bars, especially Twix, you have got to try these homemade Twix bars. They are fun and easy to make at home.",
+        "htmlSnippet": "Sep 9, 2021 <b>...</b> If you are a fan of candy bars, <b>especially Twix</b>, you have got to try these homemade Twix bars. They are fun and easy to make at home.",
+        "cacheId": "msLwTS3SWgAJ",
+        "formattedUrl": "https://www.inthekitchenwithmatt.com/homemade-twix-bars",
+        "htmlFormattedUrl": "https://www.inthekitchenwithmatt.com/homemade-twix-bars",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.inthekitchenwithmatt.com/wp-content/uploads/2021/09/Homemade-Twix-Bars.jpeg",
+              "og:type": "article",
+              "article:published_time": "2021-09-09T18:41:33+00:00",
+              "og:image:width": "1024",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "In The Kitchen With Matt",
+              "og:title": "Homemade Twix Bars | In The Kitchen With Matt",
+              "og:image:height": "576",
+              "msapplication-tileimage": "https://www.inthekitchenwithmatt.com/wp-content/uploads/2021/08/cropped-In-the-Kitchen-with-Matt-Logo-Color-872x872-white-270x270.jpg",
+              "og:description": "If you like Twix, you will love this homemade Twix bars recipe. They are so incredibly easy to make, and taste better than the real thing!",
+              "twitter:creator": "@kitchenwithmatt",
+              "article:publisher": "https://www.facebook.com/inthekitchenwithmatt",
+              "article:author": "https://www.facebook.com/inthekitchenwithmatt",
+              "follow.it-verification-code-sxlqnjr1dnfsow93a21zaulizzr1t3ljqmnrqxfrodfoew5vr1jprjz5nvptt3lwnhe2djhzodb1nwnoyjvxawdituf3qwrickfkvdvpnghvk0huv3g1dnqrsefrdg43m0u5dhjhmkjprup3n0kzbulssfzwdu90q2vgdkdsm1r8melxze9gvm8wqk1huhpjchzzcetowm9rd0lpythzrkvsstjvr2fgweluaz0=": "G1hrd76UXEDH85sxBrgJ",
+              "twitter:site": "@KitchenWithMatt",
+              "article:modified_time": "2021-09-16T22:13:37+00:00",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "og:locale": "en_US",
+              "og:url": "https://www.inthekitchenwithmatt.com/homemade-twix-bars"
+            }
+          ],
+          "videoobject": [
+            {
+              "duration": "PT12M55S",
+              "embedurl": "https://www.youtube.com/embed/91AQM-29ddM",
+              "uploaddate": "2021-09-09T14:00:04Z",
+              "name": "How to Make Twix Bars Copycat | Homemade Twix Candy Bars Recipe",
+              "description": "Find and Print the FULL recipe here on my website: https://www.inthekitchenwithmatt.com/homemade-twix-bars In this episode of In The Kitchen With Matt, I will show you how to make copycat Twix...",
+              "thumbnailurl": "https://www.inthekitchenwithmatt.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F91AQM-29ddM%2Fhqdefault.jpg",
+              "accessibilityfeature": "captions"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.inthekitchenwithmatt.com/wp-content/uploads/2021/09/Homemade-Twix-Bars.jpeg",
+              "width": "300",
+              "type": "1",
+              "height": "168"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "4 Candies that Are Scary Bad For Your Teeth This Halloween",
+        "htmlTitle": "4 Candies that Are Scary Bad For Your Teeth This Halloween",
+        "link": "https://riverrundentalspa.com/candy-thats-scary-bad-for-your-teeth-this-halloween/",
+        "displayLink": "riverrundentalspa.com",
+        "snippet": "Oct 23, 2014 ... That's definitely a pity, because I love all of those candies, especially Twix! I'm definitely going to steer clear of these candies.",
+        "htmlSnippet": "Oct 23, 2014 <b>...</b> That&#39;s definitely a pity, because I love all of those candies, <b>especially Twix</b>! I&#39;m definitely going to steer clear of these candies.",
+        "cacheId": "yXOH7jHNyTAJ",
+        "formattedUrl": "https://riverrundentalspa.com/candy-thats-scary-bad-for-your-teeth-this- halloween/",
+        "htmlFormattedUrl": "https://riverrundentalspa.com/candy-thats-scary-bad-for-your-teeth-this- halloween/",
+        "pagemap": {
+          "metatags": [
+            {
+              "p:domain_verify": "6c7c82f2377c410ce835ec7a5583bf9a",
+              "og:image": "https://riverrundentalspa.com/wp-content/uploads/2014/10/thumbnail-e1414088579589-150x150.png",
+              "og:type": "article",
+              "article:published_time": "2014-10-23T18:20:40+00:00",
+              "og:image:width": "475",
+              "twitter:card": "summary",
+              "og:site_name": "River Run Dental",
+              "og:title": "4 Candies That Are Scary Bad for Your Teeth This Halloween",
+              "og:image:height": "316",
+              "twitter:label1": "Written by",
+              "twitter:label2": "Est. reading time",
+              "msapplication-tileimage": "https://riverrundentalspa.com/wp-content/uploads/2016/11/cropped-RGB_Blue_Icon-e1467214065708-270x270.png",
+              "og:description": "Halloween is almost here! Time to start planning your Halloween costume and choosing the optimal trick-or-treat route. With the perfect costume and route planned, this is sure to be the best Halloween yet. Bad news though, not everyone is excited for Halloween. In fact, some of your very close friends who play an important role in your everyday life and overall health are flat out scared. Your teeth! Your beautiful and well cared for teeth are dreading the 31st. They …",
+              "twitter:data1": "drrusnak",
+              "twitter:data2": "3 minutes",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "og:locale": "en_US",
+              "og:url": "https://riverrundentalspa.com/candy-thats-scary-bad-for-your-teeth-this-halloween/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://riverrundentalspa.com/wp-content/uploads/2014/10/thumbnail-e1414088579589-150x150.png",
+              "width": "150",
+              "type": "1",
+              "height": "150"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Twix vs Jive — Second Rate Snacks",
+        "htmlTitle": "Twix vs Jive — Second Rate Snacks",
+        "link": "https://secondratesnacks.com/twix-vs-jive",
+        "displayLink": "secondratesnacks.com",
+        "snippet": "Oct 17, 2010 ... UUUUUUUUUUUUUUUUUUGGGGGGGGGGGGGHHHHHHHHHHHHHHHHHHHHH.One I love Twix, especially Twix PB, but just the description alone for Jive just screams ...",
+        "htmlSnippet": "Oct 17, 2010 <b>...</b> UUUUUUUUUUUUUUUUUUGGGGGGGGGGGGGHHHHHHHHHHHHHHHHHHHHH.One I love Twix, <b>especially Twix</b> PB, but just the description alone for Jive just screams&nbsp;...",
+        "cacheId": "081-A-Snb6UJ",
+        "formattedUrl": "https://secondratesnacks.com/twix-vs-jive",
+        "htmlFormattedUrl": "https://secondratesnacks.com/twix-vs-jive",
+        "pagemap": {
+          "hcard": [
+            {
+              "fn": "Samantha",
+              "nickname": "Samantha",
+              "photo": "https://2.gravatar.com/avatar/837b2c03eeeb2db3dd028ef3bc9b5ad7?s=74&d=identicon&r=g"
+            },
+            {
+              "fn": "Jenna Z",
+              "photo": "https://1.gravatar.com/avatar/4011a960842846e6e90c2813d9f61266?s=74&d=identicon&r=g"
+            },
+            {
+              "fn": "snackgirl",
+              "nickname": "snackgirl",
+              "photo": "https://2.gravatar.com/avatar/5097e2696c102e81a4c7ea307153fa72?s=74&d=identicon&r=g"
+            },
+            {
+              "fn": "Dave",
+              "nickname": "Dave",
+              "photo": "https://1.gravatar.com/avatar/4e61f28a952c44642f84aed5a2768218?s=74&d=identicon&r=g"
+            },
+            {
+              "fn": "igobananaz4pepsi",
+              "photo": "https://0.gravatar.com/avatar/98b3babfeb97ead8ab34939fe7f02eac?s=74&d=identicon&r=g"
+            },
+            {
+              "fn": "drew",
+              "nickname": "drew",
+              "photo": "https://0.gravatar.com/avatar/65e1e4a7925e1c30f471877a731c6d0d?s=74&d=identicon&r=g"
+            },
+            {
+              "fn": "Zachary Jacob Zblewski",
+              "photo": "https://2.gravatar.com/avatar/b0834266e01f531413a67f6049740ec9?s=74&d=identicon&r=g"
+            },
+            {
+              "fn": "Eddie",
+              "nickname": "Eddie",
+              "photo": "https://1.gravatar.com/avatar/447053695c6d5fcf8ad44e33b1fe91b8?s=74&d=identicon&r=g"
+            },
+            {
+              "fn": "u8mypinkcookies",
+              "photo": "https://0.gravatar.com/avatar/3fa679afb3bd9a14906580e06c38d6ff?s=74&d=identicon&r=g"
+            },
+            {
+              "fn": "Mark",
+              "nickname": "Mark",
+              "photo": "https://1.gravatar.com/avatar/7ae70177901fc5b5a407047b4a71fde1?s=74&d=identicon&r=g"
+            }
+          ],
+          "metatags": [
+            {
+              "twitter:text:title": "Twix vs Jive — Second Rate Snacks",
+              "og:image": "https://secondratesnacks.com/images/twixjive.jpg",
+              "og:type": "article",
+              "article:published_time": "2010-10-17T00:54:02+00:00",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "Second Rate Snacks",
+              "viewport": "width=device-width",
+              "og:title": "Twix vs Jive — Second Rate Snacks",
+              "og:locale": "en_US",
+              "og:url": "https://secondratesnacks.com/twix-vs-jive",
+              "og:description": "There's a new store that opened not too far away that is a second rate wonderland and inspired me to hop back on the blogging horse.  I can't tell you how",
+              "twitter:image": "https://secondratesnacks.com/images/twixjive.jpg"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://secondratesnacks.com/images/twixjive.jpg",
+              "width": "289",
+              "type": "1",
+              "height": "174"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Saying goodbye to Tualek - Little Belle's Magical Sanctuary",
+        "htmlTitle": "Saying goodbye to Tualek - Little Belle&#39;s Magical Sanctuary",
+        "link": "https://littlebellesmagicalsanctuary.org/2020/01/25/saying-goodbye-to-tualek/",
+        "displayLink": "littlebellesmagicalsanctuary.org",
+        "snippet": "Jan 25, 2020 ... My heart is broken for all of you, especially Twix. We as humans have the capacity to understand even though we may not like it.",
+        "htmlSnippet": "Jan 25, 2020 <b>...</b> My heart is broken for all of you, <b>especially Twix</b>. We as humans have the capacity to understand even though we may not like it.",
+        "cacheId": "omK_HXIqD2cJ",
+        "formattedUrl": "https://littlebellesmagicalsanctuary.org/2020/01/.../saying-goodbye-to-tualek/",
+        "htmlFormattedUrl": "https://littlebellesmagicalsanctuary.org/2020/01/.../saying-goodbye-to-tualek/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://littlebellesmagicalsanctuary.org/wp-content/uploads/2020/01/Afscheid-Tualek-1.jpg",
+              "og:type": "article",
+              "article:published_time": "2020-01-25T17:29:52+00:00",
+              "twitter:card": "summary",
+              "og:site_name": "Little Belle's Magical Sanctuary",
+              "og:title": "Saying goodbye to Tualek - Little Belle's Magical Sanctuary",
+              "twitter:label1": "Written by",
+              "twitter:label2": "Est. reading time",
+              "msapplication-tileimage": "https://i2.wp.com/littlebellesmagicalsanctuary.org/wp-content/uploads/2017/09/Profielfoto-FB-Little-Belle.jpg?fit=180%2C180&ssl=1",
+              "og:description": "On Monday, January 20, after a devastating, very short and unfair battle, we had to say goodbye to our beautiful little boy Tualek ❤️ Below, I will share pictures of several of our dogs (I wasn’t able to take a picture of everyone) who said their own goodbyes to their brother. You will see that Read More",
+              "article:publisher": "https://www.facebook.com/search/top/?q=little%20belle&amp%3bamp%3bepa=SEARCH_BOX",
+              "article:author": "https://www.facebook.com/LittleBelleDog",
+              "twitter:data1": "LittleBelle",
+              "twitter:data2": "1 minute",
+              "article:modified_time": "2020-01-25T19:59:05+00:00",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:locale": "en_US",
+              "og:url": "https://littlebellesmagicalsanctuary.org/2020/01/25/saying-goodbye-to-tualek/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://littlebellesmagicalsanctuary.org/wp-content/uploads/2020/01/Afscheid-Tualek-1.jpg",
+              "width": "259",
+              "type": "1",
+              "height": "194"
+            }
+          ],
+          "hatomfeed": [
+            {}
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Meet the Sea of Smiles Team | Hyde Park Moms",
+        "htmlTitle": "Meet the Sea of Smiles Team | Hyde Park Moms",
+        "link": "https://hydeparkmoms.com/meet-the-sea-of-smiles-team/",
+        "displayLink": "hydeparkmoms.com",
+        "snippet": "Jul 1, 2019 ... What about the Dentists Favorite Candy & tips to help keep teeth healthy while still enjoying it? Dr. Katie – Loves chocolate, especially Twix!",
+        "htmlSnippet": "Jul 1, 2019 <b>...</b> What about the Dentists Favorite Candy &amp; tips to help keep teeth healthy while still enjoying it? Dr. Katie – Loves chocolate, <b>especially Twix</b>!",
+        "cacheId": "_cMV0ezSDowJ",
+        "formattedUrl": "https://hydeparkmoms.com/meet-the-sea-of-smiles-team/",
+        "htmlFormattedUrl": "https://hydeparkmoms.com/meet-the-sea-of-smiles-team/",
+        "pagemap": {
+          "metatags": [
+            {
+              "tec-api-origin": "https://hydeparkmoms.com",
+              "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+              "msapplication-tileimage": "https://hydeparkmoms.com/wp-content/uploads/sites/44/2020/04/cropped-favicon-270x270.png",
+              "tec-api-version": "v1"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://hydeparkmoms.com/wp-content/uploads/sites/44/2019/07/D33AE49B-07D9-4604-8A9E-5FAD9FBDE76D.jpeg",
+              "width": "275",
+              "type": "1",
+              "height": "183"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Mars Halloween Chocolate Candy Variety Bag, 100 ct - Fred Meyer",
+        "htmlTitle": "Mars Halloween Chocolate Candy Variety Bag, 100 ct - Fred Meyer",
+        "link": "https://www.fredmeyer.com/p/mars-halloween-chocolate-candy-variety-bag/0004000056283?fulfillment=PICKUP&bvstate=pg:3/ct:r",
+        "displayLink": "www.fredmeyer.com",
+        "snippet": "6 days ago ... These are some of my favorite flavors especially Twix, so having mini is even better for a great fix for wanting something sweet.",
+        "htmlSnippet": "6 days ago <b>...</b> These are some of my favorite flavors <b>especially Twix</b>, so having mini is even better for a great fix for wanting something sweet.",
+        "cacheId": "dp-fNsAN2AEJ",
+        "formattedUrl": "https://www.fredmeyer.com/p/mars-halloween.../0004000056283?...",
+        "htmlFormattedUrl": "https://www.fredmeyer.com/p/mars-halloween.../0004000056283?...",
+        "pagemap": {
+          "review": [
+            {
+              "author": "Nickp",
+              "datecreated": "2021-08-27",
+              "reviewbody": "[This review was collected as part of a promotion.] This mix of candy is perfect for chocolate and candy lovers! There are four different types of candy in this big bag, including Twix, Milky...",
+              "headline": "Great mix of delicious candy!",
+              "datepublished": "2021-08-27"
+            },
+            {
+              "author": "Cargo",
+              "datecreated": "2019-09-22",
+              "reviewbody": "[This review was collected as part of a promotion.] I am writing today to let everyone know how much I like Mars Chocolate Minis Mix Halloween Candy. All the classics are here. Twix, Milky...",
+              "headline": "Delicious classic candy bars in mini form!",
+              "datepublished": "2019-09-22"
+            },
+            {
+              "author": "JO4444",
+              "datecreated": "2021-08-30",
+              "reviewbody": "[This review was collected as part of a promotion.] I love all the choices in this 455 ct/gigantic bag of Snickers, Twix, Milky Way, and 3 Musketeers. I must confess Milky Way are my favorite...",
+              "headline": "So many tasty choices!",
+              "datepublished": "2021-08-30"
+            },
+            {
+              "author": "Alice 1952",
+              "datecreated": "2020-09-08",
+              "reviewbody": "[This review was collected as part of a promotion.] I received Mixed - MARS Chocolate, Favorites Halloween Bars Candy Variety Mix 28.78 Oz and believe they are the perfect variety mixture....",
+              "headline": "Yummy!",
+              "datepublished": "2020-09-09"
+            },
+            {
+              "author": "TinaD514",
+              "datecreated": "2021-08-15",
+              "reviewbody": "[This review was collected as part of a promotion.] I recently tried this Snickers, Twix, Milky Way and 3 Musketeers Minis Mixed Chocolate Bulk Halloween Candy and it was great. The witch on...",
+              "headline": "Spooky But Yummy Candy",
+              "datepublished": "2021-08-15"
+            },
+            {
+              "author": "Lanapat83",
+              "datecreated": "2021-08-11",
+              "reviewbody": "[This review was collected as part of a promotion.] This is a huge bag of candy! I wanted to save it for Halloween but couldn't help myself, I'll save most of it for the kids on Halloween tho....",
+              "headline": "Delicious!!!",
+              "datepublished": "2021-08-11"
+            },
+            {
+              "author": "okamiclover",
+              "datecreated": "2019-09-25",
+              "reviewbody": "[This review was collected as part of a promotion.] Our family is a huge consumer of sweets, we have never ending sweet-tooth's! This large and in charge bag of Mars Halloween Candy has been...",
+              "headline": "Delicious!",
+              "datepublished": "2019-09-25"
+            },
+            {
+              "author": "ShabbyMamaChick4",
+              "datecreated": "2019-10-15",
+              "reviewbody": "[This review was collected as part of a promotion.] My Mars chocolate mixed bag came and it did not last long in my house not even 3 days. My family devoured it so fast that I only had a couple...",
+              "headline": "Perfect treat for home and Trick or Treaters!",
+              "datepublished": "2019-10-16"
+            },
+            {
+              "author": "JessicaM098",
+              "datecreated": "2019-09-26",
+              "reviewbody": "[This review was collected as part of a promotion.] These are the perfect sized treats for Halloween! There is a great variety which is always nice for all the different preferences that people...",
+              "headline": "Perfect treats!",
+              "datepublished": "2019-09-27"
+            },
+            {
+              "author": "glen from sd",
+              "datecreated": "2019-10-23",
+              "reviewbody": "[This review was collected as part of a promotion.] Just in time for the \"Trick or Treat\" holiday is this 80 piece, 2 lb. variety pack of Halloween goodies ie candy. The ghosts and goblins...",
+              "headline": "Halloween Variety Pack",
+              "datepublished": "2019-10-24"
+            },
+            {
+              "author": "Ranman",
+              "datecreated": "2020-10-25",
+              "reviewbody": "[This review was collected as part of a promotion.] This huge bag has a great combination of candy for Halloween. It comes with a variety of candy that will please everyone. It comes with chocolate...",
+              "headline": "Great Combination of Candy for Halloween",
+              "datepublished": "2020-10-25"
+            },
+            {
+              "author": "cnacca83",
+              "datecreated": "2019-10-23",
+              "reviewbody": "[This review was collected as part of a promotion.] I got this bag of candy hoping to hand it out to trick or treaters for Halloween but it didn't last long enough in my house! My kids and...",
+              "headline": "Great Mix!",
+              "datepublished": "2019-10-23"
+            },
+            {
+              "author": "Lala2019",
+              "datecreated": "2019-11-06",
+              "reviewbody": "[This review was collected as part of a promotion.] I love the variety in this bag. It’s got Snickers, peanut M&M’s, Milky Way, and Twix bars. It’s a great assortment for giving out at...",
+              "headline": "Great variety bag",
+              "datepublished": "2019-11-08"
+            },
+            {
+              "author": "JacquiO29",
+              "datecreated": "2019-10-18",
+              "reviewbody": "[This review was collected as part of a promotion.] My husband goes nuts for the candies in this mix. He tends to like peanut and caramel in his chocolates. This comes with 80 pieces of chocolate...",
+              "headline": "Fantastic variety if you like peanuts and caramel.",
+              "datepublished": "2019-10-19"
+            },
+            {
+              "author": "Pistol pete",
+              "datecreated": "2020-09-03",
+              "reviewbody": "[This review was collected as part of a promotion.] First off I have to say this bag didn’t have a chance of making it until Halloween. We got this to give out to the kids but unfortunately...",
+              "headline": "All our favorites!",
+              "datepublished": "2020-09-04"
+            },
+            {
+              "author": "honestlyjac",
+              "datecreated": "2019-09-29",
+              "reviewbody": "[This review was collected as part of a promotion.] I was trying to save this bag of candy until Halloween, but it didn't work. As soon as my family heard I had candy, they swarmed it. I love...",
+              "headline": "Perfection",
+              "datepublished": "2019-09-29"
+            },
+            {
+              "author": "Dandon",
+              "datecreated": "2019-10-26",
+              "reviewbody": "[This review was collected as part of a promotion.] I have enjoyed the Bag of Mars Chocolate minis which is not what I expected because i bought the bag for Halloween hand-outs but me and my...",
+              "headline": "The perfect bite size",
+              "datepublished": "2019-10-26"
+            },
+            {
+              "author": "Mamabear513",
+              "datecreated": "2019-09-24",
+              "reviewbody": "[This review was collected as part of a promotion.] I was given the MARS Chocolate Favorites Halloween mix to try and review. I absolutely love all the candy in the favorites bag! Some of my...",
+              "headline": "Great Value",
+              "datepublished": "2019-09-24"
+            },
+            {
+              "author": "Kjferg16",
+              "datecreated": "2020-08-29",
+              "reviewbody": "[This review was collected as part of a promotion.] There's something for everyone in this bag of candy. It has m&m's, snickers, Twix, 3 Musketeers, and Milky Way mini pieces included. Perfect...",
+              "headline": "Great variety",
+              "datepublished": "2020-08-29"
+            },
+            {
+              "author": "Trey",
+              "datecreated": "2020-09-17",
+              "reviewbody": "[This review was collected as part of a promotion.] This HUGE bag of chocolate bar \"minis\" has an awesome assortment of good candy bars without any \"duds\" (not milk duds, but the candy that's...",
+              "headline": "Excellent Assortment of Chocolate Favorites",
+              "datepublished": "2020-09-18"
+            },
+            {
+              "author": "daddyof284",
+              "datecreated": "2019-09-23",
+              "reviewbody": "[This review was collected as part of a promotion.] I got these because i wanted to taste them see if they would be good value for Trick of Treat. They are. I loved how you have a variety of...",
+              "headline": "Tasty candy bars",
+              "datepublished": "2019-09-23"
+            },
+            {
+              "author": "Jim D.",
+              "datecreated": "2019-09-22",
+              "reviewbody": "[This review was collected as part of a promotion.] All your favorite Mars candies in mini size, wrapped in a decorative fall/Halloween wrapper. These are great for giving out to Trick or Treaters...",
+              "headline": "Nice Halloween Candies!",
+              "datepublished": "2019-09-22"
+            },
+            {
+              "author": "cookie6226",
+              "datecreated": "2020-09-05",
+              "reviewbody": "[This review was collected as part of a promotion.] MARS Chocolate mix is very delicious. This bag has good variety of chocolates, caramel, and cookie. I love all of the flavors and so does...",
+              "headline": "Good variety of chocolate!",
+              "datepublished": "2020-09-07"
+            },
+            {
+              "author": "Barb65",
+              "datecreated": "2020-09-02",
+              "reviewbody": "[This review was collected as part of a promotion.] I enjoyed all five different kinds of candy. They're all my favorites! If you love Caramel the Milky Way, Snicker's, and Twix have it. If...",
+              "headline": "Delicious Candy!",
+              "datepublished": "2020-09-03"
+            },
+            {
+              "author": "CarleyLouWho",
+              "datecreated": "2021-08-20",
+              "reviewbody": "[This review was collected as part of a promotion.] This mix is perfect for my chocolate loving family. It would also be perfect for Halloween since the variety is great and there is so many...",
+              "headline": "Love This Mix",
+              "datepublished": "2021-08-22"
+            },
+            {
+              "author": "Clwiljas",
+              "datecreated": "2020-08-30",
+              "reviewbody": "[This review was collected as part of a promotion.] I got some of the Mars Halloween Candy variety pack and just love all the different bite size candy bars that are in it. My daughter who...",
+              "headline": "Mars Halloween candy",
+              "datepublished": "2020-09-01"
+            },
+            {
+              "author": "CR41",
+              "datecreated": "2019-09-24",
+              "reviewbody": "[This review was collected as part of a promotion.] Absolutely love this brand of Halloween candy and the mixed assortment of treats we get. I generally buy 5 of these every year for Halloween...",
+              "headline": "All the favorites in 1 pack!!",
+              "datepublished": "2019-09-24"
+            },
+            {
+              "author": "YaGal10",
+              "datecreated": "2019-10-26",
+              "reviewbody": "[This review was collected as part of a promotion.] I am a huge fan of the Mixed Chocolate Peanuts and Caramel Lovers candy bag. I enjoy having the variety and it’s small but satiating size....",
+              "headline": "Hits the Spot",
+              "datepublished": "2019-10-28"
+            },
+            {
+              "author": "KC6988",
+              "datecreated": "2019-09-23",
+              "reviewbody": "[This review was collected as part of a promotion.] This is the perfect trick or treat candy. It has all the chocolate classics, and who doesn't like chocolate? This bag has an even mix of...",
+              "headline": "All my favorites in one bag!",
+              "datepublished": "2019-09-23"
+            },
+            {
+              "author": "Tracey99",
+              "datecreated": "2020-08-29",
+              "reviewbody": "[This review was collected as part of a promotion.] Twix, Snickers, Milky Way, and Maltesers in a 25.4-ounce bag! All my favorites in a single large bag. This is such a giant bag of good stuff....",
+              "headline": "Great Mix!",
+              "datepublished": "2020-08-30"
+            }
+          ],
+          "rating": [
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "4",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            }
+          ],
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=584446630",
+              "og:image": "https://www.kroger.com/product/images/large/front/0004000056283",
+              "theme-color": "#ed1c24",
+              "twitter:card": "summary",
+              "bvdatemodified": "2021-11-23",
+              "viewport": "width=device-width,initial-scale=1",
+              "og:title": "Fred Meyer - Mars Halloween Chocolate Candy Variety Bag, 100 ct",
+              "og:description": "Shop for Mars Halloween Chocolate Candy Variety Bag (100 ct) at Fred Meyer. Find quality candy products to add to your Shopping List or order online for Delivery or Pickup."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.kroger.com/product/images/large/front/0004000056283",
+              "width": "300",
+              "type": "1",
+              "height": "168"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Fun Trick Or Treat Cupcakes! - Mom Does Reviews",
+        "htmlTitle": "Fun Trick Or Treat Cupcakes! - Mom Does Reviews",
+        "link": "https://www.momdoesreviews.com/2020/09/23/fun-trick-or-treat-cupcakes/",
+        "displayLink": "www.momdoesreviews.com",
+        "snippet": "Sep 23, 2020 ... If you love Halloween and Candy (especially Twix), you'll love these fun Trick or Treat Cupcakes! Pile on the candy!",
+        "htmlSnippet": "Sep 23, 2020 <b>...</b> If you love Halloween and Candy (<b>especially Twix</b>), you&#39;ll love these fun Trick or Treat Cupcakes! Pile on the candy!",
+        "cacheId": "QKwtRdZk0DQJ",
+        "formattedUrl": "https://www.momdoesreviews.com/2020/09/23/fun-trick-or-treat-cupcakes/",
+        "htmlFormattedUrl": "https://www.momdoesreviews.com/2020/09/23/fun-trick-or-treat-cupcakes/",
+        "pagemap": {
+          "metatags": [
+            {
+              "viewport": "width=device-width, initial-scale=1",
+              "pubexchange:title": "Fun Trick Or Treat Cupcakes!",
+              "twitter:label1": "Written by",
+              "twitter:label2": "Est. reading time",
+              "follow.it-verification-code-atjqnflrqlzvazdpwtk5ze5dvmrwrk1ztljvbhvgdxbzujrcq3h6ek4yy1ljmzrteujhm1htczneoc9aogpnam9nvytyym5xn2pnmjdlc0jnyuy4zfbhvlbwqxdfu3vmbe93am9yztg5vs9lzcs3cey3k2g4mnz4nm5pzlv5zgz8rnvwtvirne1wchnouxqybvfhwwrjdzdbn01ql094u1jlrwovvfm0bmr2dz0=": "rq1cZXFLHEBxAhEyWVFq",
+              "twitter:data1": "Pam Maynard",
+              "pubexchange:image": "https://www.momdoesreviews.com/wp-content/uploads/2020/09/Trick-or-Treat-Cupcake1-400x267.png",
+              "twitter:data2": "2 minutes"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.momdoesreviews.com/wp-content/uploads/2020/09/Trick-or-Treat-cupcakes-pin.jpg",
+              "width": "183",
+              "type": "1",
+              "height": "275"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Here are 5 Easy Tips To Help Curb your Halloween Candy Cravings",
+        "htmlTitle": "Here are 5 Easy Tips To Help Curb your Halloween Candy Cravings",
+        "link": "https://www.onelifefitness.com/news/here-are-5-easy-tips-to-help-curb-your-halloween-candy-cravings",
+        "displayLink": "www.onelifefitness.com",
+        "snippet": "Especially TWIX, Reeses PB Cups & KitKats! Okay, you get the point. You ate it. It's been done. The best thing you can do about it now is to workout!",
+        "htmlSnippet": "<b>Especially TWIX</b>, Reeses PB Cups &amp; KitKats! Okay, you get the point. You ate it. It&#39;s been done. The best thing you can do about it now is to workout!",
+        "cacheId": "5jafCT-wofMJ",
+        "formattedUrl": "https://www.onelifefitness.com/.../here-are-5-easy-tips-to-help-curb-your- halloween-candy-cravings",
+        "htmlFormattedUrl": "https://www.onelifefitness.com/.../here-are-5-easy-tips-to-help-curb-your- halloween-candy-cravings",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.onelifefitness.com/hubfs/Blog/stock%20images/Non-Feature-Halloween-Candy-Popular-By-State.jpg#keepProtocol",
+              "twitter:title": "Here are 5 Easy Tips To Help Curb your Halloween Candy Cravings",
+              "og:image:width": "670",
+              "og:image:alt": "Non-Feature-Halloween-Candy-Popular-By-State.jpg",
+              "twitter:card": "summary_large_image",
+              "og:type": "article",
+              "twitter:domain": "www.onelifefitness.com",
+              "author": "Onelife Fitness",
+              "og:title": "Here are 5 Easy Tips To Help Curb your Halloween Candy Cravings",
+              "og:image:height": "446",
+              "og:description": "Five easy tips to curb Halloween cravings; Halloween is here and if you have kids or not, bite-sized candy is everywhere. It’s unavoidable & easy to be tempted!",
+              "twitter:image": "https://www.onelifefitness.com/hubfs/Blog/stock%20images/Non-Feature-Halloween-Candy-Popular-By-State.jpg#keepProtocol",
+              "twitter:image:alt": "Non-Feature-Halloween-Candy-Popular-By-State.jpg",
+              "twitter:site": "@OnelifeFitness",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "Five easy tips to curb Halloween cravings; Halloween is here and if you have kids or not, bite-sized candy is everywhere. It’s unavoidable & easy to be tempted!",
+              "og:url": "https://www.onelifefitness.com/news/here-are-5-easy-tips-to-help-curb-your-halloween-candy-cravings"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.onelifefitness.com/hubfs/Blog/stock%20images/Non-Feature-Halloween-Candy-Popular-By-State.jpg#keepProtocol"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Jade Rushby (@jaderushby) • Instagram photos and videos",
+        "htmlTitle": "Jade Rushby (@jaderushby) • Instagram photos and videos",
+        "link": "https://www.instagram.com/jaderushby/?hl=en",
+        "displayLink": "www.instagram.com",
+        "snippet": "Best bday weekend thank u all especially Twix the ferret x. Family portrait session was a CATastrophe x. Taking selfies in the toilet to ensure 2m distance ...",
+        "htmlSnippet": "Best bday weekend thank u all <b>especially Twix</b> the ferret x. Family portrait session was a CATastrophe x. Taking selfies in the toilet to ensure 2m distance&nbsp;...",
+        "formattedUrl": "https://www.instagram.com/jaderushby/?hl=en",
+        "htmlFormattedUrl": "https://www.instagram.com/jaderushby/?hl=en",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s150x150/240157608_444023500054197_3078022207475068862_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=HItZORZt8asAX9lHIW4&edm=ABfd0MgBAAAA&ccb=7-4&oh=b2a7a3bb6183900630a4fafa9e4b57be&oe=61A8FAEA&_nc_sid=7bff83",
+              "theme-color": "#ffffff",
+              "og:type": "profile",
+              "al:ios:app_name": "Instagram",
+              "al:android:package": "com.instagram.android",
+              "al:ios:url": "instagram://user?username=jaderushby",
+              "og:description": "936 Followers, 1,007 Following, 227 Posts - See Instagram photos and videos from Jade Rushby (@jaderushby)",
+              "al:ios:app_store_id": "389801252",
+              "al:android:url": "https://www.instagram.com/_u/jaderushby/",
+              "apple-mobile-web-app-status-bar-style": "default",
+              "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+              "mobile-web-app-capable": "yes",
+              "og:url": "https://www.instagram.com/jaderushby/",
+              "al:android:app_name": "Instagram"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s150x150/240157608_444023500054197_3078022207475068862_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=HItZORZt8asAX9lHIW4&edm=ABfd0MgBAAAA&ccb=7-4&oh=b2a7a3bb6183900630a4fafa9e4b57be&oe=61A8FAEA&_nc_sid=7bff83"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "2": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "41",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 1,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "41",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "41",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 21,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "context": {
+      "title": "darik"
+    },
+    "searchInformation": {
+      "searchTime": 0.223782,
+      "formattedSearchTime": "0.22",
+      "totalResults": "41",
+      "formattedTotalResults": "41"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "TWIX Bites: Give The Gift Of Chocolate #EatMoreBites - sweet lil you",
+        "htmlTitle": "TWIX Bites: Give The Gift Of Chocolate #EatMoreBites - sweet lil you",
+        "link": "https://sweetlilyou.com/twix-give-gift-chocolate/",
+        "displayLink": "sweetlilyou.com",
+        "snippet": "Jun 6, 2014 ... Because chocolate, especially TWIX Bites makes everyone feel better. Me. Because…well…just because! I DID share that coupon info with you, ...",
+        "htmlSnippet": "Jun 6, 2014 <b>...</b> Because chocolate, <b>especially TWIX</b> Bites makes everyone feel better. Me. Because…well…just because! I DID share that coupon info with you,&nbsp;...",
+        "cacheId": "4AZWdhGqPhUJ",
+        "formattedUrl": "https://sweetlilyou.com/twix-give-gift-chocolate/",
+        "htmlFormattedUrl": "https://sweetlilyou.com/twix-give-gift-chocolate/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://sweetlilyou.com/wp-content/uploads/2014/06/Give-the-gift-of-chocolate-eatmorebites-twix-bites.jpg",
+              "og:type": "article",
+              "article:section": "DIY",
+              "article:published_time": "2014-06-06T10:18:40+00:00",
+              "shareaholic:keywords": "3 musketeers®, bite-size, bites, candy, candy bars, chocolate, dessert, gifts, mars, milky way® simply caramel, recipe, sharing, snack, snickers, twix, twix bites, unwrapped, diy, reviews, post",
+              "og:site_name": "sweet lil you",
+              "og:title": "TWIX Bites: Give The Gift Of Chocolate #EatMoreBites  - sweet lil you",
+              "shareaholic:article_modified_time": "2014-10-06T21:50:03-05:00",
+              "shareaholic:site_id": "a644e6c825067bf6e8e8445a0f505c30",
+              "og:updated_time": "2014-10-06T21:50:03+00:00",
+              "shareaholic:wp_version": "8.6.1",
+              "og:description": "TWIX Bites make the perfect gift to give to friends and family! TWIX Bites are great for sharing! Everyone loves chocolate! #EatMoreBites #shop #cbias",
+              "shareaholic:image": "https://sweetlilyou.com/wp-content/uploads/2014/06/Give-the-gift-of-chocolate-eatmorebites-twix-bites-908x1024.jpg",
+              "article:tag": "3 MUSKETEERS®",
+              "shareaholic:shareable_page": "true",
+              "article:modified_time": "2014-10-06T21:50:03+00:00",
+              "shareaholic:url": "https://sweetlilyou.com/twix-give-gift-chocolate/",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:locale": "en_US",
+              "shareaholic:site_name": "sweet lil you",
+              "shareaholic:article_published_time": "2014-06-06T10:18:40-05:00",
+              "og:url": "https://sweetlilyou.com/twix-give-gift-chocolate/",
+              "shareaholic:language": "en-US",
+              "shareaholic:article_author_name": "Sarah"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://sweetlilyou.com/wp-content/uploads/2014/06/Give-the-gift-of-chocolate-eatmorebites-twix-bites.jpg",
+              "width": "211",
+              "type": "1",
+              "height": "238"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "DIY Wood Crate Cat Bed | Jenns Blah Blah Blog",
+        "htmlTitle": "DIY Wood Crate Cat Bed | Jenns Blah Blah Blog",
+        "link": "https://www.jennsblahblahblog.com/diy-wood-crate-cat-bed/",
+        "displayLink": "www.jennsblahblahblog.com",
+        "snippet": "Feb 26, 2018 ... ... I dearly love my cats, especially Twix. We have had her for about 10 years so she certainly deserves a little spoiling don't you think?",
+        "htmlSnippet": "Feb 26, 2018 <b>...</b> ... I dearly love my cats, <b>especially Twix</b>. We have had her for about 10 years so she certainly deserves a little spoiling don&#39;t you think?",
+        "cacheId": "t62iHfrutcUJ",
+        "formattedUrl": "https://www.jennsblahblahblog.com/diy-wood-crate-cat-bed/",
+        "htmlFormattedUrl": "https://www.jennsblahblahblog.com/diy-wood-crate-cat-bed/",
+        "pagemap": {
+          "usercomments": [
+            {
+              "creator": "Christina Almond",
+              "commenttime": "May 10, 2018 - 10:35 pm",
+              "commenttext": "I love that--it's a unique idea that would stand out in your home and easy to do as well!",
+              "discusses": "DIY Wood Crate Cat Bed",
+              "name": "Christina Almond",
+              "url": "https://www.jennsblahblahblog.com/diy-wood-crate-cat-bed/#comment-191128"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://www.jennsblahblahblog.com/wp-content/uploads/2018/01/diy-wood-crate-cat-bed.jpg",
+              "og:type": "article",
+              "article:section": "DIY & Crafts!",
+              "og:image:width": "800",
+              "og:image:alt": "DIY Wood Crate Cat Bed",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "DIY Wood Crate Cat Bed | Jenns Blah Blah Blog",
+              "og:site_name": "Jenns Blah Blah Blog",
+              "og:title": "DIY Wood Crate Cat Bed | Jenns Blah Blah Blog",
+              "og:image:height": "878",
+              "og:image:type": "image/jpeg",
+              "og:updated_time": "2018-02-27T16:50:21-07:00",
+              "og:description": "This is a sponsored post written by me on behalf of Meow Mix for IZEA. All opinions are 100% mine.",
+              "twitter:creator": "@SJBlahBlahBlog",
+              "article:publisher": "http://facebook.com/jennsblahblahblog",
+              "article:author": "https://facebook.com/jennsblahblahblog",
+              "og:image:secure_url": "https://www.jennsblahblahblog.com/wp-content/uploads/2018/01/diy-wood-crate-cat-bed.jpg",
+              "twitter:image": "https://www.jennsblahblahblog.com/wp-content/uploads/2018/01/diy-wood-crate-cat-bed.jpg",
+              "twitter:site": "@SJBlahBlahBlog",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "This is a sponsored post written by me on behalf of Meow Mix for IZEA. All opinions are 100% mine.",
+              "og:locale": "en_US",
+              "fb:admins": "https://facebook.com/jennlworden",
+              "og:url": "https://www.jennsblahblahblog.com/diy-wood-crate-cat-bed/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.jennsblahblahblog.com/wp-content/uploads/2018/01/diy-wood-crate-cat-bed.jpg",
+              "width": "214",
+              "type": "1",
+              "height": "235"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Jean Copeland Obituary - Oklahoma City, OK",
+        "htmlTitle": "Jean Copeland Obituary - Oklahoma City, OK",
+        "link": "https://www.dignitymemorial.com/obituaries/oklahoma-city-ok/jean-copeland-7212329",
+        "displayLink": "www.dignitymemorial.com",
+        "snippet": "Dec 15, 2016 ... She would always give them candy (especially Twix candy bars) and let them stay up late at night. Jean even had a swimming pool in her ...",
+        "htmlSnippet": "Dec 15, 2016 <b>...</b> She would always give them candy (<b>especially Twix</b> candy bars) and let them stay up late at night. Jean even had a swimming pool in her&nbsp;...",
+        "cacheId": "N7pBA1Rb5OEJ",
+        "formattedUrl": "https://www.dignitymemorial.com/obituaries/...city.../jean-copeland-7212329",
+        "htmlFormattedUrl": "https://www.dignitymemorial.com/obituaries/...city.../jean-copeland-7212329",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://d2mjvz2lqjkhe7.cloudfront.net/as/assets-mem-com/cmi/9/2/3/2/7212329/20161217_172445510_0_orig.jpg/-/jean-copeland-oklahoma-city-ok-obituary.jpg?crop=%2867.59375%2C24.166666666666664%2C245.02734375%2C247.70833333333331%29&cropxunits=309&cropyunits=464",
+              "fb:app_id": "650877885577132",
+              "og:type": "article",
+              "theme-color": "#eeebe6",
+              "og:site_name": "Dignity Memorial",
+              "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1",
+              "og:title": "Jean Copeland Obituary - Oklahoma City, OK",
+              "amp-google-client-id-api": "googleanalytics",
+              "og:locale": "en",
+              "title": "Jean Copeland Obituary - Oklahoma City, OK",
+              "og:url": "https://www.dignitymemorial.com/obituaries/oklahoma-city-ok/jean-copeland-7212329",
+              "og:description": "Celebrate the life of Jean Copeland, leave a kind word or memory and get funeral service information care of Bill Eisenhour Funeral Home."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://d2mjvz2lqjkhe7.cloudfront.net/as/assets-mem-com/cmi/9/2/3/2/7212329/20161217_172445510_0_orig.jpg/-/jean-copeland-oklahoma-city-ok-obituary.jpg?crop=%2867.59375%2C24.166666666666664%2C245.02734375%2C247.70833333333331%29&cropxunits=309&cropyunits=464",
+              "width": "200",
+              "type": "1",
+              "height": "252"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Meet this week's Shelter to Go! pets",
+        "htmlTitle": "Meet this week&#39;s Shelter to Go! pets",
+        "link": "https://www.gastongazette.com/lifestyle/20200304/meet-this-weeks-shelter-to-go-pets",
+        "displayLink": "www.gastongazette.com",
+        "snippet": "Mar 4, 2020 ... We have to admit that we are fearful here in the shelter, especially Twix. We are comforted by being together and hope to stay together if ...",
+        "htmlSnippet": "Mar 4, 2020 <b>...</b> We have to admit that we are fearful here in the shelter, <b>especially Twix</b>. We are comforted by being together and hope to stay together if&nbsp;...",
+        "formattedUrl": "https://www.gastongazette.com/lifestyle/.../meet-this-weeks-shelter-to-go-pets",
+        "htmlFormattedUrl": "https://www.gastongazette.com/lifestyle/.../meet-this-weeks-shelter-to-go-pets",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.gannett-cdn.com/authoring/2020/03/04/NGAG/ghows-NC-782dfb79-2148-4c2b-a07d-e0e67c187e75-5f2ca188.jpeg?crop=1079,611,x0,y99&width=1079&height=611&format=pjpg&auto=webp",
+              "theme-color": "#0098FE",
+              "og:image:width": "1079",
+              "og:type": "article",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Meet this week’s Shelter to Go! pets",
+              "og:site_name": "Gaston Gazette",
+              "og:title": "Meet this week’s Shelter to Go! pets",
+              "og:image:height": "611",
+              "google": "notranslate",
+              "og:description": "SHELTER PETS TO GO! \n\n THIS WEEK'S FEATURED PETS \n\n Nimbus (tag 43862984):  “I am a 2 year-old, 7 pound male cat, mostly white with black markings. I look like I'm wearing a black hat. I was brought …",
+              "fb:pages": "10156378388692478",
+              "twitter:creator": "@gastongazette",
+              "article:author": "Staff Writer",
+              "twitter:image": "https://www.gannett-cdn.com/authoring/2020/03/04/NGAG/ghows-NC-782dfb79-2148-4c2b-a07d-e0e67c187e75-5f2ca188.jpeg?crop=1079,611,x0,y99&width=1079&height=539&format=pjpg&auto=webp",
+              "fb:app_id": "4601161756591143",
+              "twitter:site": "@gastongazette",
+              "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+              "twitter:description": "SHELTER PETS TO GO! \n\n THIS WEEK'S FEATURED PETS \n\n Nimbus (tag 43862984):  “I am a 2 year-old, 7 pound male cat, mostly white with black markings. I look like I'm wearing a black hat. I was brought …",
+              "article:content_tier": "metered",
+              "og:url": "https://www.gastongazette.com/story/lifestyle/family/2020/03/04/meet-this-weeks-shelter-to-go-pets/1588057007/",
+              "article:opinion": "false"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.gannett-cdn.com/authoring/2020/03/04/NGAG/ghows-NC-782dfb79-2148-4c2b-a07d-e0e67c187e75-5f2ca188.jpeg?crop=1079,611,x0,y99&width=1079&height=611&format=pjpg&auto=webp",
+              "width": "299",
+              "type": "1",
+              "height": "169"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Chewy Chocolate Meringues | Bakerella",
+        "htmlTitle": "Chewy Chocolate Meringues | Bakerella",
+        "link": "https://www.bakerella.com/chewy-chocolate-meringues/comment-page-16/",
+        "displayLink": "www.bakerella.com",
+        "snippet": "Sep 26, 2011 ... I love anything Chocolate, especially TWIX! Grace — September 26, 2011 @ 9:37 pm Reply. Candy corn is hands down my favorite Halloween candy ...",
+        "htmlSnippet": "Sep 26, 2011 <b>...</b> I love anything Chocolate, <b>especially TWIX</b>! Grace — September 26, 2011 @ 9:37 pm Reply. Candy corn is hands down my favorite Halloween candy&nbsp;...",
+        "cacheId": "7DcT1GlFMPgJ",
+        "formattedUrl": "https://www.bakerella.com/chewy-chocolate-meringues/comment-page-16/",
+        "htmlFormattedUrl": "https://www.bakerella.com/chewy-chocolate-meringues/comment-page-16/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.bakerella.com/site/wp-content/uploads/2016/11/6182429089_60e0401d01_b-660x471.jpg",
+              "og:type": "article",
+              "article:published_time": "2011-09-26T04:03:50Z",
+              "twitter:card": "summary",
+              "twitter:title": "Chewy Chocolate Meringues | Bakerella",
+              "og:site_name": "bakerella.com",
+              "og:title": "Chewy Chocolate Meringues | Bakerella",
+              "og:description": "I want to show you this new book from Williams-Sonoma. It's filled with delicious photographs and tons of recipes including … Pretzels. Pop Tarts. And pies to name a few. Are your taste buds",
+              "og:image:secure_url": "https://www.bakerella.com/site/wp-content/uploads/2016/11/6182429089_60e0401d01_b-660x471.jpg",
+              "twitter:image": "https://www.bakerella.com/site/wp-content/uploads/2016/11/6182429089_60e0401d01_b-660x471.jpg",
+              "article:modified_time": "2021-08-04T18:24:21Z",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "I want to show you this new book from Williams-Sonoma. It's filled with delicious photographs and tons of recipes including … Pretzels. Pop Tarts. And pies to name a few. Are your taste buds",
+              "og:url": "https://www.bakerella.com/chewy-chocolate-meringues/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.bakerella.com/site/wp-content/uploads/2016/11/6182429089_60e0401d01_b-660x471.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "\"Dear Mr Royal Hampton\" (White chicks movie quote) - Review of ...",
+        "htmlTitle": "&quot;Dear Mr Royal Hampton&quot; (White chicks movie quote) - Review of ...",
+        "link": "https://www.tripadvisor.com/ShowUserReviews-g186346-d3437842-r170355691-Hampton_by_Hilton_York-York_North_Yorkshire_England.html",
+        "displayLink": "www.tripadvisor.com",
+        "snippet": "If you decide to stay don't leave chocolate bars out especially twix bars coz the cleaner can't resist one but two :( Apart from this petty personal incident ...",
+        "htmlSnippet": "If you decide to stay don&#39;t leave chocolate bars out <b>especially twix</b> bars coz the cleaner can&#39;t resist one but two :( Apart from this petty personal incident&nbsp;...",
+        "formattedUrl": "https://www.tripadvisor.com/ShowUserReviews-g186346-d3437842- r170355691-Hampton_by_Hilton_York-York_North_Yorkshire_England. ...",
+        "htmlFormattedUrl": "https://www.tripadvisor.com/ShowUserReviews-g186346-d3437842- r170355691-Hampton_by_Hilton_York-York_North_Yorkshire_England. ...",
+        "pagemap": {
+          "metatags": [
+            {
+              "twitter:app:url:iphone": "tripadvisor://www.tripadvisor.com/ShowUserReviews-g186346-d3437842-r170355691-Hampton_by_Hilton_York-York_North_Yorkshire_England.html?m=33762",
+              "og:image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d3/b9/0b/exterior.jpg",
+              "apple-itunes-app": "app-id=284876795",
+              "theme-color": "#34e0a1",
+              "og:image:width": "550",
+              "al:ios:app_name": "TripAdvisor",
+              "twitter:app:url:ipad": "tripadvisor://www.tripadvisor.com/ShowUserReviews-g186346-d3437842-r170355691-Hampton_by_Hilton_York-York_North_Yorkshire_England.html?m=33762",
+              "og:title": "\"Dear Mr Royal Hampton\" (White chicks movie quote) - Review of Hampton by Hilton York, York, England - Tripadvisor",
+              "twitter:app:id:ipad": "284876795",
+              "og:image:height": "367",
+              "twitter:app:id:iphone": "284876795",
+              "al:ios:url": "tripadvisor://www.tripadvisor.com/ShowUserReviews-g186346-d3437842-r170355691-Hampton_by_Hilton_York-York_North_Yorkshire_England.html?m=33762",
+              "og:description": "Hampton by Hilton York: \"Dear Mr Royal Hampton\" (White chicks movie quote) - See 3,345 traveler reviews, 521 candid photos, and great deals for Hampton by Hilton York at Tripadvisor.",
+              "fb:pages": "5863091683",
+              "al:ios:app_store_id": "284876795",
+              "twitter:image": "https://static.tacdn.com/img2/brand_refresh/application_icons/post-image-550x550.png",
+              "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+              "format-detection": "telephone=no"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d3/b9/0b/exterior.jpg",
+              "width": "275",
+              "type": "1",
+              "height": "183"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Tee-Lish Brownies - OMG THE BIGGEST THANK YOU TO ...",
+        "htmlTitle": "Tee-Lish Brownies - OMG THE BIGGEST THANK YOU TO ...",
+        "link": "https://m.facebook.com/teelishbrownies/photos/a.980741198650492/3210364382354818/?type=3&source=57&__tn__=EH-R",
+        "displayLink": "m.facebook.com",
+        "snippet": "Rosaleen Pafalani-Jackson, profile picture. Rosaleen Pafalani-Jackson. Sooo best brownies ever!!!! Especially twix my personal favourite ♥️.",
+        "htmlSnippet": "Rosaleen Pafalani-Jackson, profile picture. Rosaleen Pafalani-Jackson. Sooo best brownies ever!!!! <b>Especially twix</b> my personal favourite ♥️.",
+        "cacheId": "t0F6ogs3bYkJ",
+        "formattedUrl": "https://m.facebook.com/.../photos/a.../3210364382354818/?...3...",
+        "htmlFormattedUrl": "https://m.facebook.com/.../photos/a.../3210364382354818/?...3...",
+        "pagemap": {
+          "metatags": [
+            {
+              "referrer": "origin-when-crossorigin",
+              "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3210364382354818",
+              "theme-color": "#3b5998",
+              "viewport": "user-scalable=no,initial-scale=1,maximum-scale=1",
+              "og:title": "Tee-Lish Brownies",
+              "og:url": "https://www.facebook.com/teelishbrownies/photos/a.980741198650492/3210364382354818/?type=3",
+              "og:description": "OMG THE BIGGEST THANK YOU TO EVERYONE WHO HELPED ME SHARE MY ANNOUNCEMENT!!! My heart has exploded!!! ❤️ I did not expect this much support 😭...honestly and truly. The love and support is REAL!! As..."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3210364382354818",
+              "width": "262",
+              "type": "1",
+              "height": "192"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Mars Chocolate Favorites Halloween Candy Bars Variety Mix Bag ...",
+        "htmlTitle": "Mars Chocolate Favorites Halloween Candy Bars Variety Mix Bag ...",
+        "link": "https://www.kingsoopers.com/p/mars-chocolate-favorites-halloween-candy-bars-variety-mix-bag/0004000049554?fulfillment=PICKUP&bvstate=pg:3/ct:r",
+        "displayLink": "www.kingsoopers.com",
+        "snippet": "2 days ago ... These are some of my favorite flavors especially Twix, so having mini is even better for a great fix for wanting something sweet.",
+        "htmlSnippet": "2 days ago <b>...</b> These are some of my favorite flavors <b>especially Twix</b>, so having mini is even better for a great fix for wanting something sweet.",
+        "cacheId": "al52Qmf0ZUcJ",
+        "formattedUrl": "https://www.kingsoopers.com/p/mars...candy.../0004000049554?...",
+        "htmlFormattedUrl": "https://www.kingsoopers.com/p/mars...candy.../0004000049554?...",
+        "pagemap": {
+          "review": [
+            {
+              "author": "Nickp",
+              "datecreated": "2021-08-27",
+              "reviewbody": "[This review was collected as part of a promotion.] This mix of candy is perfect for chocolate and candy lovers! There are four different types of candy in this big bag, including Twix, Milky...",
+              "headline": "Great mix of delicious candy!",
+              "datepublished": "2021-08-27"
+            },
+            {
+              "author": "Cargo",
+              "datecreated": "2019-09-22",
+              "reviewbody": "[This review was collected as part of a promotion.] I am writing today to let everyone know how much I like Mars Chocolate Minis Mix Halloween Candy. All the classics are here. Twix, Milky...",
+              "headline": "Delicious classic candy bars in mini form!",
+              "datepublished": "2019-09-22"
+            },
+            {
+              "author": "JO4444",
+              "datecreated": "2021-08-30",
+              "reviewbody": "[This review was collected as part of a promotion.] I love all the choices in this 455 ct/gigantic bag of Snickers, Twix, Milky Way, and 3 Musketeers. I must confess Milky Way are my favorite...",
+              "headline": "So many tasty choices!",
+              "datepublished": "2021-08-30"
+            },
+            {
+              "author": "Alice 1952",
+              "datecreated": "2020-09-08",
+              "reviewbody": "[This review was collected as part of a promotion.] I received Mixed - MARS Chocolate, Favorites Halloween Bars Candy Variety Mix 28.78 Oz and believe they are the perfect variety mixture....",
+              "headline": "Yummy!",
+              "datepublished": "2020-09-09"
+            },
+            {
+              "author": "TinaD514",
+              "datecreated": "2021-08-15",
+              "reviewbody": "[This review was collected as part of a promotion.] I recently tried this Snickers, Twix, Milky Way and 3 Musketeers Minis Mixed Chocolate Bulk Halloween Candy and it was great. The witch on...",
+              "headline": "Spooky But Yummy Candy",
+              "datepublished": "2021-08-15"
+            },
+            {
+              "author": "Lanapat83",
+              "datecreated": "2021-08-11",
+              "reviewbody": "[This review was collected as part of a promotion.] This is a huge bag of candy! I wanted to save it for Halloween but couldn't help myself, I'll save most of it for the kids on Halloween tho....",
+              "headline": "Delicious!!!",
+              "datepublished": "2021-08-11"
+            },
+            {
+              "author": "okamiclover",
+              "datecreated": "2019-09-25",
+              "reviewbody": "[This review was collected as part of a promotion.] Our family is a huge consumer of sweets, we have never ending sweet-tooth's! This large and in charge bag of Mars Halloween Candy has been...",
+              "headline": "Delicious!",
+              "datepublished": "2019-09-25"
+            },
+            {
+              "author": "ShabbyMamaChick4",
+              "datecreated": "2019-10-15",
+              "reviewbody": "[This review was collected as part of a promotion.] My Mars chocolate mixed bag came and it did not last long in my house not even 3 days. My family devoured it so fast that I only had a couple...",
+              "headline": "Perfect treat for home and Trick or Treaters!",
+              "datepublished": "2019-10-16"
+            },
+            {
+              "author": "JessicaM098",
+              "datecreated": "2019-09-26",
+              "reviewbody": "[This review was collected as part of a promotion.] These are the perfect sized treats for Halloween! There is a great variety which is always nice for all the different preferences that people...",
+              "headline": "Perfect treats!",
+              "datepublished": "2019-09-27"
+            },
+            {
+              "author": "glen from sd",
+              "datecreated": "2019-10-23",
+              "reviewbody": "[This review was collected as part of a promotion.] Just in time for the \"Trick or Treat\" holiday is this 80 piece, 2 lb. variety pack of Halloween goodies ie candy. The ghosts and goblins...",
+              "headline": "Halloween Variety Pack",
+              "datepublished": "2019-10-24"
+            },
+            {
+              "author": "Ranman",
+              "datecreated": "2020-10-25",
+              "reviewbody": "[This review was collected as part of a promotion.] This huge bag has a great combination of candy for Halloween. It comes with a variety of candy that will please everyone. It comes with chocolate...",
+              "headline": "Great Combination of Candy for Halloween",
+              "datepublished": "2020-10-25"
+            },
+            {
+              "author": "cnacca83",
+              "datecreated": "2019-10-23",
+              "reviewbody": "[This review was collected as part of a promotion.] I got this bag of candy hoping to hand it out to trick or treaters for Halloween but it didn't last long enough in my house! My kids and...",
+              "headline": "Great Mix!",
+              "datepublished": "2019-10-23"
+            },
+            {
+              "author": "Lala2019",
+              "datecreated": "2019-11-06",
+              "reviewbody": "[This review was collected as part of a promotion.] I love the variety in this bag. It’s got Snickers, peanut M&M’s, Milky Way, and Twix bars. It’s a great assortment for giving out at...",
+              "headline": "Great variety bag",
+              "datepublished": "2019-11-08"
+            },
+            {
+              "author": "JacquiO29",
+              "datecreated": "2019-10-18",
+              "reviewbody": "[This review was collected as part of a promotion.] My husband goes nuts for the candies in this mix. He tends to like peanut and caramel in his chocolates. This comes with 80 pieces of chocolate...",
+              "headline": "Fantastic variety if you like peanuts and caramel.",
+              "datepublished": "2019-10-19"
+            },
+            {
+              "author": "Pistol pete",
+              "datecreated": "2020-09-03",
+              "reviewbody": "[This review was collected as part of a promotion.] First off I have to say this bag didn’t have a chance of making it until Halloween. We got this to give out to the kids but unfortunately...",
+              "headline": "All our favorites!",
+              "datepublished": "2020-09-04"
+            },
+            {
+              "author": "honestlyjac",
+              "datecreated": "2019-09-29",
+              "reviewbody": "[This review was collected as part of a promotion.] I was trying to save this bag of candy until Halloween, but it didn't work. As soon as my family heard I had candy, they swarmed it. I love...",
+              "headline": "Perfection",
+              "datepublished": "2019-09-29"
+            },
+            {
+              "author": "Dandon",
+              "datecreated": "2019-10-26",
+              "reviewbody": "[This review was collected as part of a promotion.] I have enjoyed the Bag of Mars Chocolate minis which is not what I expected because i bought the bag for Halloween hand-outs but me and my...",
+              "headline": "The perfect bite size",
+              "datepublished": "2019-10-26"
+            },
+            {
+              "author": "Mamabear513",
+              "datecreated": "2019-09-24",
+              "reviewbody": "[This review was collected as part of a promotion.] I was given the MARS Chocolate Favorites Halloween mix to try and review. I absolutely love all the candy in the favorites bag! Some of my...",
+              "headline": "Great Value",
+              "datepublished": "2019-09-24"
+            },
+            {
+              "author": "Kjferg16",
+              "datecreated": "2020-08-29",
+              "reviewbody": "[This review was collected as part of a promotion.] There's something for everyone in this bag of candy. It has m&m's, snickers, Twix, 3 Musketeers, and Milky Way mini pieces included. Perfect...",
+              "headline": "Great variety",
+              "datepublished": "2020-08-29"
+            },
+            {
+              "author": "Trey",
+              "datecreated": "2020-09-17",
+              "reviewbody": "[This review was collected as part of a promotion.] This HUGE bag of chocolate bar \"minis\" has an awesome assortment of good candy bars without any \"duds\" (not milk duds, but the candy that's...",
+              "headline": "Excellent Assortment of Chocolate Favorites",
+              "datepublished": "2020-09-18"
+            },
+            {
+              "author": "daddyof284",
+              "datecreated": "2019-09-23",
+              "reviewbody": "[This review was collected as part of a promotion.] I got these because i wanted to taste them see if they would be good value for Trick of Treat. They are. I loved how you have a variety of...",
+              "headline": "Tasty candy bars",
+              "datepublished": "2019-09-23"
+            },
+            {
+              "author": "Jim D.",
+              "datecreated": "2019-09-22",
+              "reviewbody": "[This review was collected as part of a promotion.] All your favorite Mars candies in mini size, wrapped in a decorative fall/Halloween wrapper. These are great for giving out to Trick or Treaters...",
+              "headline": "Nice Halloween Candies!",
+              "datepublished": "2019-09-22"
+            },
+            {
+              "author": "cookie6226",
+              "datecreated": "2020-09-05",
+              "reviewbody": "[This review was collected as part of a promotion.] MARS Chocolate mix is very delicious. This bag has good variety of chocolates, caramel, and cookie. I love all of the flavors and so does...",
+              "headline": "Good variety of chocolate!",
+              "datepublished": "2020-09-07"
+            },
+            {
+              "author": "Barb65",
+              "datecreated": "2020-09-02",
+              "reviewbody": "[This review was collected as part of a promotion.] I enjoyed all five different kinds of candy. They're all my favorites! If you love Caramel the Milky Way, Snicker's, and Twix have it. If...",
+              "headline": "Delicious Candy!",
+              "datepublished": "2020-09-03"
+            },
+            {
+              "author": "CarleyLouWho",
+              "datecreated": "2021-08-20",
+              "reviewbody": "[This review was collected as part of a promotion.] This mix is perfect for my chocolate loving family. It would also be perfect for Halloween since the variety is great and there is so many...",
+              "headline": "Love This Mix",
+              "datepublished": "2021-08-22"
+            },
+            {
+              "author": "Clwiljas",
+              "datecreated": "2020-08-30",
+              "reviewbody": "[This review was collected as part of a promotion.] I got some of the Mars Halloween Candy variety pack and just love all the different bite size candy bars that are in it. My daughter who...",
+              "headline": "Mars Halloween candy",
+              "datepublished": "2020-09-01"
+            },
+            {
+              "author": "YaGal10",
+              "datecreated": "2019-10-26",
+              "reviewbody": "[This review was collected as part of a promotion.] I am a huge fan of the Mixed Chocolate Peanuts and Caramel Lovers candy bag. I enjoy having the variety and it’s small but satiating size....",
+              "headline": "Hits the Spot",
+              "datepublished": "2019-10-28"
+            },
+            {
+              "author": "CR41",
+              "datecreated": "2019-09-24",
+              "reviewbody": "[This review was collected as part of a promotion.] Absolutely love this brand of Halloween candy and the mixed assortment of treats we get. I generally buy 5 of these every year for Halloween...",
+              "headline": "All the favorites in 1 pack!!",
+              "datepublished": "2019-09-24"
+            },
+            {
+              "author": "KC6988",
+              "datecreated": "2019-09-23",
+              "reviewbody": "[This review was collected as part of a promotion.] This is the perfect trick or treat candy. It has all the chocolate classics, and who doesn't like chocolate? This bag has an even mix of...",
+              "headline": "All my favorites in one bag!",
+              "datepublished": "2019-09-23"
+            },
+            {
+              "author": "MnLady",
+              "datecreated": "2019-10-24",
+              "reviewbody": "[This review was collected as part of a promotion.] This big bag of Mars Chocolate Fall Harvest Minis has something for everyone! As there are 4 different kinds~Snickers,3 Musketeers,Milky...",
+              "headline": "For All Tastes!",
+              "datepublished": "2019-10-25"
+            }
+          ],
+          "rating": [
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "4",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            }
+          ],
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=584397734",
+              "og:image": "https://www.kroger.com/product/images/large/front/0004000049554",
+              "theme-color": "#e31f26",
+              "twitter:card": "summary",
+              "pricecurrency": "USD",
+              "bvdatemodified": "2021-11-27",
+              "viewport": "width=device-width,initial-scale=1",
+              "og:title": "King Soopers - Mars Chocolate Favorites Halloween Candy Bars Variety Mix Bag, 250 ct",
+              "og:description": "Shop for Mars Chocolate Favorites Halloween Candy Bars Variety Mix Bag (250 ct) at King Soopers. Find quality candy products to add to your Shopping List or order online for Delivery or Pickup."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.kroger.com/product/images/large/front/0004000049554",
+              "width": "225",
+              "type": "1",
+              "height": "225"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Boys' Life Staff's Top Ten Candy Bars – Scout Life magazine",
+        "htmlTitle": "Boys&#39; Life Staff&#39;s Top Ten Candy Bars – Scout Life magazine",
+        "link": "https://scoutlife.org/features/144968/boys-life-staffs-top-ten-chocolate-bars/",
+        "displayLink": "scoutlife.org",
+        "snippet": "I sorta agree. I really like COOKIES (the kind that my mom makes), but candy is great. Especially TWIX!!!!!!!!!!!!!!1 ...",
+        "htmlSnippet": "I sorta agree. I really like COOKIES (the kind that my mom makes), but candy is great. <b>Especially TWIX</b>!!!!!!!!!!!!!!1&nbsp;...",
+        "cacheId": "o9y4KjAGhDEJ",
+        "formattedUrl": "https://scoutlife.org/features/144968/boys-life-staffs-top-ten-chocolate-bars/",
+        "htmlFormattedUrl": "https://scoutlife.org/features/144968/boys-life-staffs-top-ten-chocolate-bars/",
+        "pagemap": {
+          "breadcrumb": [
+            {
+              "title": "Home",
+              "url": "Home"
+            },
+            {
+              "title": "About Scouts",
+              "url": "About Scouts"
+            }
+          ],
+          "metatags": [
+            {
+              "p:domain_verify": "4cfeb11f3dcb0df10165a24bd147d24d",
+              "apple-itunes-app": "app-id=1068124245",
+              "og:image": "https://scoutlife.org/wp-content/uploads/2015/10/bars.jpg",
+              "article:published_time": "2015-10-30T19:27:06+00:00",
+              "og:image:width": "640",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "Scout Life magazine",
+              "parsely-author": "keithfaber",
+              "msapplication-tileimage": "https://scoutlife.org/wp-content/uploads/2021/01/cropped-favicon.jpg?w=270",
+              "og:description": "Did your favorite candy bar make our list?",
+              "twitter:image": "https://scoutlife.org/wp-content/uploads/2015/10/bars.jpg?w=640",
+              "twitter:text:title": "Boys’ Life Staff’s Top Ten Candy Bars",
+              "parsely-type": "post",
+              "twitter:site": "@ScoutLifeMag",
+              "article:modified_time": "2018-03-26T21:31:28+00:00",
+              "parsely-link": "http://scoutlife.org/features/144968/boys-life-staffs-top-ten-chocolate-bars/",
+              "parsely-image-url": "https://scoutlife.org/wp-content/uploads/2015/10/bars.jpg?w=150",
+              "parsely-section": "About Scouts",
+              "og:type": "article",
+              "msvalidate.01": "42E027EEFCD88A0D68633A747BE1BE6A",
+              "og:title": "Boys’ Life Staff’s Top Ten Candy Bars",
+              "og:image:height": "400",
+              "fb:pages": "12355411649",
+              "parsely-title": "Boys’ Life Staff’s Top Ten Candy Bars",
+              "parsely-pub-date": "2015-10-30T19:27:06Z",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "og:locale": "en_US",
+              "og:url": "https://scoutlife.org/features/144968/boys-life-staffs-top-ten-chocolate-bars/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://scoutlife.org/wp-content/uploads/2015/10/bars.jpg",
+              "width": "284",
+              "type": "1",
+              "height": "177"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Mars Halloween Mixed Fun Size Chocolate Candy Bag, 49.23 oz ...",
+        "htmlTitle": "Mars Halloween Mixed Fun Size Chocolate Candy Bag, 49.23 oz ...",
+        "link": "https://www.kingsoopers.com/p/mars-halloween-mixed-fun-size-chocolate-candy-bag-85-count/0004000056218?bvstate=pg:3/ct:r",
+        "displayLink": "www.kingsoopers.com",
+        "snippet": "2 days ago ... These are some of my favorite flavors especially Twix, so having mini is even better for a great fix for wanting something sweet.",
+        "htmlSnippet": "2 days ago <b>...</b> These are some of my favorite flavors <b>especially Twix</b>, so having mini is even better for a great fix for wanting something sweet.",
+        "cacheId": "IHLlVPbmVOYJ",
+        "formattedUrl": "https://www.kingsoopers.com/p/mars...mixed.../0004000056218?...",
+        "htmlFormattedUrl": "https://www.kingsoopers.com/p/mars...mixed.../0004000056218?...",
+        "pagemap": {
+          "review": [
+            {
+              "author": "Nickp",
+              "datecreated": "2021-08-27",
+              "reviewbody": "[This review was collected as part of a promotion.] This mix of candy is perfect for chocolate and candy lovers! There are four different types of candy in this big bag, including Twix, Milky...",
+              "headline": "Great mix of delicious candy!",
+              "datepublished": "2021-08-27"
+            },
+            {
+              "author": "Cargo",
+              "datecreated": "2019-09-22",
+              "reviewbody": "[This review was collected as part of a promotion.] I am writing today to let everyone know how much I like Mars Chocolate Minis Mix Halloween Candy. All the classics are here. Twix, Milky...",
+              "headline": "Delicious classic candy bars in mini form!",
+              "datepublished": "2019-09-22"
+            },
+            {
+              "author": "JO4444",
+              "datecreated": "2021-08-30",
+              "reviewbody": "[This review was collected as part of a promotion.] I love all the choices in this 455 ct/gigantic bag of Snickers, Twix, Milky Way, and 3 Musketeers. I must confess Milky Way are my favorite...",
+              "headline": "So many tasty choices!",
+              "datepublished": "2021-08-30"
+            },
+            {
+              "author": "Alice 1952",
+              "datecreated": "2020-09-08",
+              "reviewbody": "[This review was collected as part of a promotion.] I received Mixed - MARS Chocolate, Favorites Halloween Bars Candy Variety Mix 28.78 Oz and believe they are the perfect variety mixture....",
+              "headline": "Yummy!",
+              "datepublished": "2020-09-09"
+            },
+            {
+              "author": "TinaD514",
+              "datecreated": "2021-08-15",
+              "reviewbody": "[This review was collected as part of a promotion.] I recently tried this Snickers, Twix, Milky Way and 3 Musketeers Minis Mixed Chocolate Bulk Halloween Candy and it was great. The witch on...",
+              "headline": "Spooky But Yummy Candy",
+              "datepublished": "2021-08-15"
+            },
+            {
+              "author": "Lanapat83",
+              "datecreated": "2021-08-11",
+              "reviewbody": "[This review was collected as part of a promotion.] This is a huge bag of candy! I wanted to save it for Halloween but couldn't help myself, I'll save most of it for the kids on Halloween tho....",
+              "headline": "Delicious!!!",
+              "datepublished": "2021-08-11"
+            },
+            {
+              "author": "okamiclover",
+              "datecreated": "2019-09-25",
+              "reviewbody": "[This review was collected as part of a promotion.] Our family is a huge consumer of sweets, we have never ending sweet-tooth's! This large and in charge bag of Mars Halloween Candy has been...",
+              "headline": "Delicious!",
+              "datepublished": "2019-09-25"
+            },
+            {
+              "author": "ShabbyMamaChick4",
+              "datecreated": "2019-10-15",
+              "reviewbody": "[This review was collected as part of a promotion.] My Mars chocolate mixed bag came and it did not last long in my house not even 3 days. My family devoured it so fast that I only had a couple...",
+              "headline": "Perfect treat for home and Trick or Treaters!",
+              "datepublished": "2019-10-16"
+            },
+            {
+              "author": "JessicaM098",
+              "datecreated": "2019-09-26",
+              "reviewbody": "[This review was collected as part of a promotion.] These are the perfect sized treats for Halloween! There is a great variety which is always nice for all the different preferences that people...",
+              "headline": "Perfect treats!",
+              "datepublished": "2019-09-27"
+            },
+            {
+              "author": "glen from sd",
+              "datecreated": "2019-10-23",
+              "reviewbody": "[This review was collected as part of a promotion.] Just in time for the \"Trick or Treat\" holiday is this 80 piece, 2 lb. variety pack of Halloween goodies ie candy. The ghosts and goblins...",
+              "headline": "Halloween Variety Pack",
+              "datepublished": "2019-10-24"
+            },
+            {
+              "author": "Ranman",
+              "datecreated": "2020-10-25",
+              "reviewbody": "[This review was collected as part of a promotion.] This huge bag has a great combination of candy for Halloween. It comes with a variety of candy that will please everyone. It comes with chocolate...",
+              "headline": "Great Combination of Candy for Halloween",
+              "datepublished": "2020-10-25"
+            },
+            {
+              "author": "cnacca83",
+              "datecreated": "2019-10-23",
+              "reviewbody": "[This review was collected as part of a promotion.] I got this bag of candy hoping to hand it out to trick or treaters for Halloween but it didn't last long enough in my house! My kids and...",
+              "headline": "Great Mix!",
+              "datepublished": "2019-10-23"
+            },
+            {
+              "author": "Lala2019",
+              "datecreated": "2019-11-06",
+              "reviewbody": "[This review was collected as part of a promotion.] I love the variety in this bag. It’s got Snickers, peanut M&M’s, Milky Way, and Twix bars. It’s a great assortment for giving out at...",
+              "headline": "Great variety bag",
+              "datepublished": "2019-11-08"
+            },
+            {
+              "author": "JacquiO29",
+              "datecreated": "2019-10-18",
+              "reviewbody": "[This review was collected as part of a promotion.] My husband goes nuts for the candies in this mix. He tends to like peanut and caramel in his chocolates. This comes with 80 pieces of chocolate...",
+              "headline": "Fantastic variety if you like peanuts and caramel.",
+              "datepublished": "2019-10-19"
+            },
+            {
+              "author": "Pistol pete",
+              "datecreated": "2020-09-03",
+              "reviewbody": "[This review was collected as part of a promotion.] First off I have to say this bag didn’t have a chance of making it until Halloween. We got this to give out to the kids but unfortunately...",
+              "headline": "All our favorites!",
+              "datepublished": "2020-09-04"
+            },
+            {
+              "author": "honestlyjac",
+              "datecreated": "2019-09-29",
+              "reviewbody": "[This review was collected as part of a promotion.] I was trying to save this bag of candy until Halloween, but it didn't work. As soon as my family heard I had candy, they swarmed it. I love...",
+              "headline": "Perfection",
+              "datepublished": "2019-09-29"
+            },
+            {
+              "author": "Dandon",
+              "datecreated": "2019-10-26",
+              "reviewbody": "[This review was collected as part of a promotion.] I have enjoyed the Bag of Mars Chocolate minis which is not what I expected because i bought the bag for Halloween hand-outs but me and my...",
+              "headline": "The perfect bite size",
+              "datepublished": "2019-10-26"
+            },
+            {
+              "author": "Mamabear513",
+              "datecreated": "2019-09-24",
+              "reviewbody": "[This review was collected as part of a promotion.] I was given the MARS Chocolate Favorites Halloween mix to try and review. I absolutely love all the candy in the favorites bag! Some of my...",
+              "headline": "Great Value",
+              "datepublished": "2019-09-24"
+            },
+            {
+              "author": "Kjferg16",
+              "datecreated": "2020-08-29",
+              "reviewbody": "[This review was collected as part of a promotion.] There's something for everyone in this bag of candy. It has m&m's, snickers, Twix, 3 Musketeers, and Milky Way mini pieces included. Perfect...",
+              "headline": "Great variety",
+              "datepublished": "2020-08-29"
+            },
+            {
+              "author": "Trey",
+              "datecreated": "2020-09-17",
+              "reviewbody": "[This review was collected as part of a promotion.] This HUGE bag of chocolate bar \"minis\" has an awesome assortment of good candy bars without any \"duds\" (not milk duds, but the candy that's...",
+              "headline": "Excellent Assortment of Chocolate Favorites",
+              "datepublished": "2020-09-18"
+            },
+            {
+              "author": "daddyof284",
+              "datecreated": "2019-09-23",
+              "reviewbody": "[This review was collected as part of a promotion.] I got these because i wanted to taste them see if they would be good value for Trick of Treat. They are. I loved how you have a variety of...",
+              "headline": "Tasty candy bars",
+              "datepublished": "2019-09-23"
+            },
+            {
+              "author": "Jim D.",
+              "datecreated": "2019-09-22",
+              "reviewbody": "[This review was collected as part of a promotion.] All your favorite Mars candies in mini size, wrapped in a decorative fall/Halloween wrapper. These are great for giving out to Trick or Treaters...",
+              "headline": "Nice Halloween Candies!",
+              "datepublished": "2019-09-22"
+            },
+            {
+              "author": "cookie6226",
+              "datecreated": "2020-09-05",
+              "reviewbody": "[This review was collected as part of a promotion.] MARS Chocolate mix is very delicious. This bag has good variety of chocolates, caramel, and cookie. I love all of the flavors and so does...",
+              "headline": "Good variety of chocolate!",
+              "datepublished": "2020-09-07"
+            },
+            {
+              "author": "Barb65",
+              "datecreated": "2020-09-02",
+              "reviewbody": "[This review was collected as part of a promotion.] I enjoyed all five different kinds of candy. They're all my favorites! If you love Caramel the Milky Way, Snicker's, and Twix have it. If...",
+              "headline": "Delicious Candy!",
+              "datepublished": "2020-09-03"
+            },
+            {
+              "author": "CarleyLouWho",
+              "datecreated": "2021-08-20",
+              "reviewbody": "[This review was collected as part of a promotion.] This mix is perfect for my chocolate loving family. It would also be perfect for Halloween since the variety is great and there is so many...",
+              "headline": "Love This Mix",
+              "datepublished": "2021-08-22"
+            },
+            {
+              "author": "Clwiljas",
+              "datecreated": "2020-08-30",
+              "reviewbody": "[This review was collected as part of a promotion.] I got some of the Mars Halloween Candy variety pack and just love all the different bite size candy bars that are in it. My daughter who...",
+              "headline": "Mars Halloween candy",
+              "datepublished": "2020-09-01"
+            },
+            {
+              "author": "CR41",
+              "datecreated": "2019-09-24",
+              "reviewbody": "[This review was collected as part of a promotion.] Absolutely love this brand of Halloween candy and the mixed assortment of treats we get. I generally buy 5 of these every year for Halloween...",
+              "headline": "All the favorites in 1 pack!!",
+              "datepublished": "2019-09-24"
+            },
+            {
+              "author": "YaGal10",
+              "datecreated": "2019-10-26",
+              "reviewbody": "[This review was collected as part of a promotion.] I am a huge fan of the Mixed Chocolate Peanuts and Caramel Lovers candy bag. I enjoy having the variety and it’s small but satiating size....",
+              "headline": "Hits the Spot",
+              "datepublished": "2019-10-28"
+            },
+            {
+              "author": "KC6988",
+              "datecreated": "2019-09-23",
+              "reviewbody": "[This review was collected as part of a promotion.] This is the perfect trick or treat candy. It has all the chocolate classics, and who doesn't like chocolate? This bag has an even mix of...",
+              "headline": "All my favorites in one bag!",
+              "datepublished": "2019-09-23"
+            },
+            {
+              "author": "Tracey99",
+              "datecreated": "2020-08-29",
+              "reviewbody": "[This review was collected as part of a promotion.] Twix, Snickers, Milky Way, and Maltesers in a 25.4-ounce bag! All my favorites in a single large bag. This is such a giant bag of good stuff....",
+              "headline": "Great Mix!",
+              "datepublished": "2020-08-30"
+            }
+          ],
+          "rating": [
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "4",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            },
+            {
+              "ratingvalue": "5",
+              "bestrating": "5"
+            }
+          ],
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=584397734",
+              "og:image": "https://www.kroger.com/product/images/large/front/0004000056218",
+              "theme-color": "#e31f26",
+              "twitter:card": "summary",
+              "pricecurrency": "USD",
+              "bvdatemodified": "2021-11-27",
+              "viewport": "width=device-width,initial-scale=1",
+              "og:title": "King Soopers - Mars Halloween Mixed Fun Size Chocolate Candy Bag, 49.23 oz",
+              "og:description": "Shop for Mars Halloween Mixed Fun Size Chocolate Candy Bag (49.23 oz) at King Soopers. Find quality candy products to add to your Shopping List or order online for Delivery or Pickup."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.kroger.com/product/images/large/front/0004000056218",
+              "width": "251",
+              "type": "1",
+              "height": "200"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "3": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "41",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "41",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 21,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "41",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 31,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "context": {
+      "title": "darik"
+    },
+    "searchInformation": {
+      "searchTime": 0.23644,
+      "formattedSearchTime": "0.24",
+      "totalResults": "41",
+      "formattedTotalResults": "41"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "5 Inspirations Behind Costume Quest, Coming to PS3 October 19th ...",
+        "htmlTitle": "5 Inspirations Behind Costume Quest, Coming to PS3 October 19th ...",
+        "link": "https://blog.playstation.com/2010/10/06/5-inspirations-behind-costume-quest-coming-to-ps3-october-19th/",
+        "displayLink": "blog.playstation.com",
+        "snippet": "Oct 6, 2010 ... i think there was a typo in her post. she meant to say “Send Tasha free candy, especially Twix.” stlthriot. October 6, 2010 at 6:58 pm PDT.",
+        "htmlSnippet": "Oct 6, 2010 <b>...</b> i think there was a typo in her post. she meant to say “Send Tasha free candy, <b>especially Twix</b>.” stlthriot. October 6, 2010 at 6:58 pm PDT.",
+        "cacheId": "WI88LRnGrEEJ",
+        "formattedUrl": "https://blog.playstation.com/.../5-inspirations-behind-costume-quest-coming- to-ps3-october-19th/",
+        "htmlFormattedUrl": "https://blog.playstation.com/.../5-inspirations-behind-costume-quest-coming- to-ps3-october-19th/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://blog.playstation.com/tachyon/2020/09/PROJECT_THUNDER__BG_CVR_1900X470_2X_V1.jpg?w=0&h=0",
+              "og:type": "article",
+              "twitter:card": "summary",
+              "article:section": "PlayStation Network",
+              "article:published_time": "2010-10-06T16:00:43-07:00",
+              "og:site_name": "PlayStation.Blog",
+              "og:title": "5 Inspirations Behind Costume Quest, Coming to PS3 October 19th",
+              "msapplication-tileimage": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGEaCXVzLWVhc3QtMSJGMEQCIEtnlyN9%2FVU8AM%2BY25LsEGZTauDwrcMmixntIGyA2QS6AiBDq80IfAEI59DF4j2xr08d2yQkCJEaf6PsuCn7YIm%2FfSr9AwgqEAAaDDU3NzQxODgxODQxMyIM9kev0KDnWpcz7QlpKtoD1ZA3MhewnihFgrxp3pgEsTa617GiGAtOxX%2BnHp0HRGaaPForcjJ7RIn0kje6g7LoiiY4LnL64yQ9k4JulKCyZkfB3ss5pZunNK%2F%2F0XAlf%2Fn0RB8dqIvv2TggsYeKgaFKWqAaFcF9lI5lzav%2BEiPICZssvhOUfzWW4VqRPZxN5eAiSyDvTvwBFVsJlO2mU6JiZekXdZEAPDN0OGcUeb9brWjgDgDHm%2BzsdNj0r%2B4Z4VH0E93l%2FkN5BpES2ZhAEaV1kf8CEd4KaEaaRt8XZbLJWyWtEEem7%2B%2Bfej6ZTkzVZUC%2FIc9SHVfJfXE%2BBShQqJUc9dQJKJuH5KZChR8b6JhYXqZx4%2FObfsEU24DvzJKL1kw%2FiJRbtSpSdwTo7u2gwpr7vpURo8eB6pqYJdV8XVW%2F2AY1MCnSP4NeVc9%2FUf%2F1PqdQr5sANhHsxCndsbcYB3DgJFCZur74yDA%2FTnMqNcd6w1cxqSy%2F%2BFosS6X%2FxgrmI2Ze3lO1sLWd5SdeCEPRoTTgeUHKAgZlWiavY25ni55XoikuAs5evk%2B3uqc578a3IskV2jPpNnDGnBeEsALaB1BGAdzi0pLfByDfIjFbcyveBI1s%2Faj9mnk8uaCvwmhH60dWLs80zRlgGmJXMJ647YwGOqYBH1zMDYrmDB7cUzyF212yc0RQw",
+              "og:description": "Hi everyone! I’m the project lead for Double Fine’s newest downloadable PSN game, Costume Quest. If you haven’t already heard about it, I’ll give you a quick summary: Costume Quest is a Halloween-themed RPG in which you trick-or-treat through neighborhoods as a group of monster-fighting kids who can transform into super-awesome versions of their costumes. [...]",
+              "article:author": "https://blog.playstation.com/author/tharris/",
+              "article:tag": "costume quest",
+              "article:modified_time": "2012-08-23T13:26:11-07:00",
+              "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+              "og:locale": "en_US",
+              "og:url": "https://blog.playstation.com/2010/10/06/5-inspirations-behind-costume-quest-coming-to-ps3-october-19th/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://blog.playstation.com/tachyon/2020/09/PROJECT_THUNDER__BG_CVR_1900X470_2X_V1.jpg?w=0&h=0",
+              "width": "452",
+              "type": "1",
+              "height": "111"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "New Candy Flavors Coming Out In 2020 That'll Blow You Away",
+        "htmlTitle": "New Candy Flavors Coming Out In 2020 That&#39;ll Blow You Away",
+        "link": "https://www.mashed.com/168227/new-candy-flavors-coming-out-in-2020-thatll-blow-you-away/",
+        "displayLink": "www.mashed.com",
+        "snippet": "Oct 1, 2019 ... There's a saying that goes, \"if it ain't broke, don't fix it,\" and that applies to a whole lotta stuff, especially Twix bars.",
+        "htmlSnippet": "Oct 1, 2019 <b>...</b> There&#39;s a saying that goes, &quot;if it ain&#39;t broke, don&#39;t fix it,&quot; and that applies to a whole lotta stuff, <b>especially Twix</b> bars.",
+        "cacheId": "8ozyDFkGaycJ",
+        "formattedUrl": "https://www.mashed.com/.../new-candy-flavors-coming-out-in-2020-thatll- blow-you-away/",
+        "htmlFormattedUrl": "https://www.mashed.com/.../new-candy-flavors-coming-out-in-2020-thatll- blow-you-away/",
+        "pagemap": {
+          "metatags": [
+            {
+              "p:domain_verify": "98b5a481ac127b9d66bca837ce24de02",
+              "og:image": "https://www.mashed.com/img/gallery/new-candy-flavors-coming-out-in-2020-thatll-blow-you-away/intro-1569942457.jpg",
+              "twitter:title": "New Candy Flavors Coming Out In 2020 That'll Blow You Away",
+              "og:type": "article",
+              "article:published_time": "2019-10-01T11:11:20+00:00",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "Mashed.com",
+              "og:title": "New Candy Flavors Coming Out In 2020 That'll Blow You Away",
+              "title": "New Candy Flavors Coming Out In 2020 That'll Blow You Away",
+              "og:description": "Let's gaze into Willy Wonka's crystal ball and take a look at some of the coolest new candy flavors dropping in 2020.",
+              "fb:pages": "826925124104135",
+              "article:author": "Ryan Unger",
+              "twitter:image": "https://www.mashed.com/img/gallery/new-candy-flavors-coming-out-in-2020-thatll-blow-you-away/intro-1569942457.jpg",
+              "twitter:site": "@MashedHQ",
+              "article:modified_time": "2021-02-11T18:47:52+00:00",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "twitter:description": "Let's gaze into Willy Wonka's crystal ball and take a look at some of the coolest new candy flavors dropping in 2020.",
+              "og:url": "https://www.mashed.com/168227/new-candy-flavors-coming-out-in-2020-thatll-blow-you-away/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.mashed.com/img/gallery/new-candy-flavors-coming-out-in-2020-thatll-blow-you-away/intro-1569942457.jpg",
+              "width": "299",
+              "type": "1",
+              "height": "168"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Trick-or-sugar-free-treat on tap for some – Chicago Tribune",
+        "htmlTitle": "Trick-or-sugar-free-treat on tap for some – Chicago Tribune",
+        "link": "https://www.chicagotribune.com/news/ct-xpm-2013-10-25-ct-met-halloween-without-candy-20131025-story.html",
+        "displayLink": "www.chicagotribune.com",
+        "snippet": "Oct 25, 2013 ... ... he prefers when their Naperville neighbors give out what he calls the \"junky\" goodies — especially Twix and Nestle Crunch candy bars.",
+        "htmlSnippet": "Oct 25, 2013 <b>...</b> ... he prefers when their Naperville neighbors give out what he calls the &quot;junky&quot; goodies — <b>especially Twix</b> and Nestle Crunch candy bars.",
+        "formattedUrl": "https://www.chicagotribune.com/.../ct-xpm-2013-10-25-ct-met-halloween- without-candy-20131025-story.html",
+        "htmlFormattedUrl": "https://www.chicagotribune.com/.../ct-xpm-2013-10-25-ct-met-halloween- without-candy-20131025-story.html",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.chicagotribune.com/resizer/HbQVt9ADiydc5QbOMM6oh5l7wOU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archive.tronc/USP7AVJOQBDYTPB4VPF3427CFA.jpg",
+              "twitter:title": "Trick-or-sugar-free-treat on tap for some",
+              "og:type": "article",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "Chicago Tribune",
+              "twitter:site": "@chicagotribune",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Trick-or-sugar-free-treat on tap for some",
+              "googlebot-news": "index",
+              "article:content_tier": "locked",
+              "og:url": "https://www.chicagotribune.com/news/ct-xpm-2013-10-25-ct-met-halloween-without-candy-20131025-story.html",
+              "twitter:image": "https://www.chicagotribune.com/resizer/HbQVt9ADiydc5QbOMM6oh5l7wOU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archive.tronc/USP7AVJOQBDYTPB4VPF3427CFA.jpg"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.chicagotribune.com/resizer/zcqJnXThE-KA9L6J9AkSf2Owyig=/800x600/filters:format(jpg):quality(70)/www.chicagotribune.com/resizer/IKYKdWoA1qanuO58PiKbFmYkz8U=/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZSFYRPTI4VDU7XTE6EKI3MVFZ4.jpg",
+              "width": "143",
+              "type": "0",
+              "height": "107"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Trick or Treat? Pals Halloween Blog Hop - Stampin' Pretty",
+        "htmlTitle": "Trick or Treat? Pals Halloween Blog Hop - Stampin&#39; Pretty",
+        "link": "https://stampinpretty.com/2013/10/trick-or-treat-pals-halloween-blog-hop.html",
+        "displayLink": "stampinpretty.com",
+        "snippet": "Oct 8, 2013 ... Hmm my favorite, anything chocolate, but especially Twix! Reply. Betsy Johnson. 10/08/2013 at 5:14 am. My hands down fave is Twix – yum!",
+        "htmlSnippet": "Oct 8, 2013 <b>...</b> Hmm my favorite, anything chocolate, but <b>especially Twix</b>! Reply. Betsy Johnson. 10/08/2013 at 5:14 am. My hands down fave is Twix – yum!",
+        "cacheId": "wWzw_STZPLkJ",
+        "formattedUrl": "https://stampinpretty.com/2013/.../trick-or-treat-pals-halloween-blog-hop. html",
+        "htmlFormattedUrl": "https://stampinpretty.com/2013/.../trick-or-treat-pals-halloween-blog-hop. html",
+        "pagemap": {
+          "hcard": [
+            {
+              "fn": "Dianne Kozil",
+              "photo": "https://secure.gravatar.com/avatar/f7d63ec281fb55a1f203d3ee91e8b7a2?s=60&d=identicon&r=g"
+            },
+            {
+              "url_text": "Daniel",
+              "fn": "Daniel",
+              "nickname": "Daniel",
+              "photo": "https://secure.gravatar.com/avatar/e5ec51bfd8d477eee4ae97e1f01518a1?s=60&d=identicon&r=g",
+              "url": "http://www.aseatonatrain.com/"
+            },
+            {
+              "fn": "Shannon Miller",
+              "photo": "https://secure.gravatar.com/avatar/b048b2f1cc9b633d41176dd75b8b1ad4?s=60&d=identicon&r=g"
+            },
+            {
+              "fn": "maria",
+              "nickname": "maria",
+              "photo": "https://secure.gravatar.com/avatar/4c3f355d7b2a987ab7165cb83e1267bc?s=60&d=identicon&r=g"
+            },
+            {
+              "fn": "Jeanne",
+              "nickname": "Jeanne",
+              "photo": "https://secure.gravatar.com/avatar/bd2f7237741e6766c6d21aca42336406?s=60&d=identicon&r=g"
+            },
+            {
+              "fn": "alyse davidson",
+              "photo": "https://secure.gravatar.com/avatar/3077d36a754a7fe93db475028c835018?s=60&d=identicon&r=g"
+            },
+            {
+              "fn": "Missy Smith",
+              "photo": "https://secure.gravatar.com/avatar/d8beeb7eeec2492ef970d34c83328d4b?s=60&d=identicon&r=g"
+            },
+            {
+              "fn": "Carol",
+              "nickname": "Carol",
+              "photo": "https://secure.gravatar.com/avatar/bbab037935ad9e98f84cda28106b7574?s=60&d=identicon&r=g"
+            },
+            {
+              "fn": "Cynthia Tuttle",
+              "photo": "https://secure.gravatar.com/avatar/bd35c6c2a0443864b73eabfeeb41c801?s=60&d=identicon&r=g"
+            },
+            {
+              "fn": "Patricia preston",
+              "photo": "https://secure.gravatar.com/avatar/40b26c8f4b2217007ee84020352262a2?s=60&d=identicon&r=g"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://stampinpretty.com/wp-content/uploads/2013/10/6a00e54f95df928834019affd71a03970b.png",
+              "article:published_time": "2013-10-08T02:30:00-07:00",
+              "twitter:card": "summary_large_image",
+              "og:image:width": "480",
+              "og:site_name": "Stampin' Pretty",
+              "twitter:label1": "Written by",
+              "twitter:label2": "Est. reading time",
+              "og:description": "My project for the hop is ten Halloween treat bags, all made in a snap with the Stampin' Up! Pumpkin Pie Goodie Gear Simply Created Kit (132792). At $4.95, this kit is a budget-friendly way to dress up ten cello bags. Kit includes 10 of each: 3' x 5' cello",
+              "twitter:creator": "@stampinpretty",
+              "twitter:image": "https://stampinpretty.com/wp-content/uploads/2013/10/6a00e54f95df928834019affd71a03970b.png",
+              "article:publisher": "https://www.facebook.com/stampinpretty",
+              "twitter:data1": "Stampin' Pretty",
+              "twitter:data2": "3 minutes",
+              "article_author": "Stampin' Pretty",
+              "twitter:site": "@stampinpretty",
+              "article:modified_time": "2015-08-19T08:25:13-07:00",
+              "og:type": "article",
+              "twitter:title": "Trick or Treat?  Pals Halloween Blog Hop",
+              "og:title": "Trick or Treat?  Pals Halloween Blog Hop",
+              "article_publisher": "https://www.facebook.com/stampinpretty",
+              "og:image:height": "467",
+              "og:updated_time": "2015-08-19T08:25:13-07:00",
+              "fb:app_id": "529576650555031",
+              "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=3.0",
+              "twitter:description": "My project for the hop is ten Halloween treat bags, all made in a snap with the Stampin' Up! Pumpkin Pie Goodie Gear Simply Created Kit (132792). At $4.95, this kit is a budget-friendly way to dress up ten cello bags. Kit includes 10 of each: 3' x 5' cello",
+              "og:locale": "en_US",
+              "og:url": "https://stampinpretty.com/2013/10/trick-or-treat-pals-halloween-blog-hop.html"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://stampinpretty.com/wp-content/uploads/2013/10/6a00e54f95df928834019affd71a03970b.png",
+              "width": "228",
+              "type": "1",
+              "height": "221"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "LOOK: Meet the Adorable Cats of Uniflex Gym! - When In Manila",
+        "htmlTitle": "LOOK: Meet the Adorable Cats of Uniflex Gym! - When In Manila",
+        "link": "https://www.wheninmanila.com/look-meet-the-adorable-cats-of-uniflex-gym/",
+        "displayLink": "www.wheninmanila.com",
+        "snippet": "Feb 8, 2017 ... Most especially Twix who gets jealous of the other cats when they're showered with affection. Uniflex Gym with Cats 9.",
+        "htmlSnippet": "Feb 8, 2017 <b>...</b> Most <b>especially Twix</b> who gets jealous of the other cats when they&#39;re showered with affection. Uniflex Gym with Cats 9.",
+        "cacheId": "ntIlyhJzQiUJ",
+        "formattedUrl": "https://www.wheninmanila.com/look-meet-the-adorable-cats-of-uniflex-gym/",
+        "htmlFormattedUrl": "https://www.wheninmanila.com/look-meet-the-adorable-cats-of-uniflex-gym/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.wheninmanila.com/wp-content/uploads/2017/02/Uniflex-Gym-with-Cats-11.jpg",
+              "article:published_time": "2017-02-08T11:36:40+00:00",
+              "og:image:width": "720",
+              "twitter:card": "summary_large_image",
+              "shareaholic:keywords": "tag:cat gym in the south, tag:fitness gyms in bf homes, tag:homeless cats manila, tag:stray cat adoption, tag:work out spots in bf homes, cat:lifestyle & places, type:post",
+              "og:site_name": "When In Manila",
+              "twitter:label1": "Written by",
+              "twitter:label2": "Est. reading time",
+              "shareaholic:article_modified_time": "2017-02-08T19:38:30+08:00",
+              "og:image:type": "image/jpeg",
+              "msapplication-tileimage": "https://www.wheninmanila.com/wp-content/uploads/2017/02/Uniflex-Gym-with-Cats-11.jpg",
+              "og:description": "Words by Lean Miller (@leanmiller) and Geraldine Hoggang (@geraldinehoggang) Anyone who’s in the process of trying to make going to the gym a habit knows that keeping up motivation levels is no easy feat especially at the start. What if we told you, however, that in existence is a gym tucked away in the South […]",
+              "twitter:creator": "@wheninmanila",
+              "article:publisher": "https://www.facebook.com/WhenInManila/",
+              "twitter:data1": "WhenInManila.com Team #WIMsquad",
+              "og:image:secure_url": "https://www.wheninmanila.com/wp-content/uploads/2017/02/Uniflex-Gym-with-Cats-11.jpg",
+              "twitter:data2": "3 minutes",
+              "shareaholic:shareable_page": "true",
+              "twitter:site": "@wheninmanila",
+              "article:modified_time": "2017-02-08T11:38:30+00:00",
+              "fb:use_automatic_ad_placement": "true",
+              "shareaholic:article_published_time": "2017-02-08T19:36:40+08:00",
+              "alexaverifyid": "S7r9SRId880b1KrfYx9DpR1q8L8",
+              "shareaholic:language": "en-US",
+              "shareaholic:article_author_name": "WhenInManila.com Team #WIMsquad",
+              "og:type": "article",
+              "og:image:alt": "Uniflex Gym with Cats 11",
+              "handheldfriendly": "True",
+              "og:title": "LOOK: Meet the Adorable Cats of Uniflex Gym! - When In Manila",
+              "og:image:height": "480",
+              "shareaholic:site_id": "cf54cf110f53d06c17aaea0513f9f6c4",
+              "shareaholic:wp_version": "9.7.1",
+              "fb:pages": "77710508118",
+              "shareaholic:image": "https://www.wheninmanila.com/wp-content/uploads/2017/02/Uniflex-Gym-with-Cats-11-640x427.jpg",
+              "facebook-domain-verification": "3488kg4gjlyjv4epo1gk4g9iznyi52",
+              "shareaholic:url": "https://www.wheninmanila.com/look-meet-the-adorable-cats-of-uniflex-gym/",
+              "apple-mobile-web-app-capable": "yes",
+              "og:locale": "en_US",
+              "shareaholic:site_name": "When In Manila",
+              "fb:article_style": "default",
+              "og:url": "https://www.wheninmanila.com/look-meet-the-adorable-cats-of-uniflex-gym/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.wheninmanila.com/wp-content/uploads/2017/02/Uniflex-Gym-with-Cats-11.jpg",
+              "width": "275",
+              "type": "1",
+              "height": "183"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Our Teachers / Our Teachers",
+        "htmlTitle": "Our Teachers / Our Teachers",
+        "link": "https://www.ccsdut.org/domain/1237",
+        "displayLink": "www.ccsdut.org",
+        "snippet": "I love the 5th grade curriculum and the extra writing we get to do! I love all things chocolate, especially Twix and peanut butter M&Ms, and lemon desserts. My ...",
+        "htmlSnippet": "I love the 5th grade curriculum and the extra writing we get to do! I love all things chocolate, <b>especially Twix</b> and peanut butter M&amp;Ms, and lemon desserts. My&nbsp;...",
+        "cacheId": "aHO2cjcopTIJ",
+        "formattedUrl": "https://www.ccsdut.org/domain/1237",
+        "htmlFormattedUrl": "https://www.ccsdut.org/domain/1237",
+        "pagemap": {
+          "document": [
+            {
+              "siteid": "175"
+            }
+          ],
+          "metatags": [
+            {
+              "og:type": "website",
+              "fb:app_id": "411584262324304",
+              "twitter:title": "Our Teachers / Our Teachers",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "og:title": "Our Teachers / Our Teachers",
+              "og:url": "http%3A%2F%2Fwww.ccsdut.org%2Fsite%2Fdefault.aspx%3FDomainID%3D1237",
+              "format-detection": "telephone=no"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.ccsdut.org/cms/lib/UT02205719/Centricity/Domain/1237/Our%20Teachers%20banner.png",
+              "width": "440",
+              "type": "1",
+              "height": "114"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "What R U craving AND what R U having - Pregnancy-Info",
+        "htmlTitle": "What R U craving AND what R U having - Pregnancy-Info",
+        "link": "https://pregnancy-info.net/forums/second_trimester/What_R_U_craving__AND_what_R_U_having__/",
+        "displayLink": "pregnancy-info.net",
+        "snippet": "Then it turned to hotdogs & beans and chocolate especially twix bars and OJ! With my little girl is was Melon and Mc Donalds Fries!!",
+        "htmlSnippet": "Then it turned to hotdogs &amp; beans and chocolate <b>especially twix</b> bars and OJ! With my little girl is was Melon and Mc Donalds Fries!!",
+        "cacheId": "_bK3wgwUgysJ",
+        "formattedUrl": "https://pregnancy-info.net/.../What_R_U_craving__AND_what_R_U_having __/",
+        "htmlFormattedUrl": "https://pregnancy-info.net/.../What_R_U_craving__AND_what_R_U_having __/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.pregnancy-info.net/images/baby_small.jpg",
+              "og:type": "article",
+              "og:site_name": "Pregnancy-Info.net",
+              "viewport": "width=device-width",
+              "og:title": "What R U craving  AND what R U having   - Pregnancy-Info",
+              "og:description": "Hey ladies!!!  So we all been craving for things we never liked, things we always though were gross together i.e. ..."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.pregnancy-info.net/images/baby_small.jpg",
+              "width": "50",
+              "type": "1",
+              "height": "50"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "seventeen. — hey !! So i started to like Seventeen a lot and...",
+        "htmlTitle": "seventeen. — hey !! So i started to like Seventeen a lot and...",
+        "link": "https://seventns.tumblr.com/post/117453328051/hey-so-i-started-to-like-seventeen-a-lot-and/amp",
+        "displayLink": "seventns.tumblr.com",
+        "snippet": "has such a passion for chocolate (especially twix), pizza and milk that he even made a song about them once - his personality is very gentle and kind, ...",
+        "htmlSnippet": "has such a passion for chocolate (<b>especially twix</b>), pizza and milk that he even made a song about them once - his personality is very gentle and kind,&nbsp;...",
+        "cacheId": "kEapDDCBLuIJ",
+        "formattedUrl": "https://seventns.tumblr.com/post/117453328051/hey-so-i...to.../amp",
+        "htmlFormattedUrl": "https://seventns.tumblr.com/post/117453328051/hey-so-i...to.../amp",
+        "pagemap": {
+          "metatags": [
+            {
+              "viewport": "width=device-width,minimum-scale=1"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "100 Must-Know Aaron Carter Facts",
+        "htmlTitle": "100 Must-Know Aaron Carter Facts",
+        "link": "https://mrsaacarter.tripod.com/ultimateacsite/id19.html",
+        "displayLink": "mrsaacarter.tripod.com",
+        "snippet": "Aarons a candy freak! He loves sugary candies like Runts, Sprees and Gummy Bears. He also digs chocolate bars, especially Twix. #17. His favorite soft drinks ...",
+        "htmlSnippet": "Aarons a candy freak! He loves sugary candies like Runts, Sprees and Gummy Bears. He also digs chocolate bars, <b>especially Twix</b>. #17. His favorite soft drinks&nbsp;...",
+        "cacheId": "BH80NQKs9pAJ",
+        "formattedUrl": "https://mrsaacarter.tripod.com/ultimateacsite/id19.html",
+        "htmlFormattedUrl": "https://mrsaacarter.tripod.com/ultimateacsite/id19.html",
+        "pagemap": {
+          "metatags": [
+            {
+              "trellix_builder_ver": "1.0",
+              "trellix_open_site_command": "http://build.tripod.lycos.com:80/servlet/SiteBuilderServlet?fUrl=/trellix/sitebuilder/f_error.html&sUrl=/trellix/sitebuilder/f_edit_page.html&Command=OpenSite&FileName=7931014113865651336/site.xml"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://mrsaacarter.tripod.com/imagelib/sitebuilder/layout/000_fp_5ll.gif",
+              "width": "139",
+              "type": "1",
+              "height": "104"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Mein Leben 2009 – DickerKumpel",
+        "htmlTitle": "Mein Leben 2009 – DickerKumpel",
+        "link": "https://dickerkumpel.com/mein-leben-2009/",
+        "displayLink": "dickerkumpel.com",
+        "snippet": "Jun 14, 2009 ... It was especially Twix, who loved the sweets inside… In the afternoon – after eating a lot of sweets, we visited RikeH's mum ...",
+        "htmlSnippet": "Jun 14, 2009 <b>...</b> It was <b>especially Twix</b>, who loved the sweets inside… In the afternoon – after eating a lot of sweets, we visited RikeH&#39;s mum&nbsp;...",
+        "cacheId": "0GTQjlLfJwsJ",
+        "formattedUrl": "https://dickerkumpel.com/mein-leben-2009/",
+        "htmlFormattedUrl": "https://dickerkumpel.com/mein-leben-2009/",
+        "pagemap": {
+          "metatags": [
+            {
+              "viewport": "width=device-width, initial-scale=1",
+              "msapplication-tileimage": "https://dickerkumpel.com/wp-content/uploads/2018/03/cropped-IMG_3508-270x270.jpg"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.dickerkumpel.com/Fotos/2009/20090614001.jpg",
+              "width": "274",
+              "type": "1",
+              "height": "184"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "4": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "33",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 3,
+          "startIndex": 21,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "totalResults": "33",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 3,
+          "startIndex": 31,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "context": {
+      "title": "darik"
+    },
+    "searchInformation": {
+      "searchTime": 0.223651,
+      "formattedSearchTime": "0.22",
+      "totalResults": "33",
+      "formattedTotalResults": "33"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "One Has To Go Challenge Accepted! - Ane Ventures",
+        "htmlTitle": "One Has To Go Challenge Accepted! - Ane Ventures",
+        "link": "http://www.aneking.com/one-has-to-go-challenge/",
+        "displayLink": "www.aneking.com",
+        "snippet": "Oct 5, 2017 ... Do I really have to choose? I accepted the challenge so I think the answer is yes. I just can't resist all of them, you know, especially Twix.",
+        "htmlSnippet": "Oct 5, 2017 <b>...</b> Do I really have to choose? I accepted the challenge so I think the answer is yes. I just can&#39;t resist all of them, you know, <b>especially Twix</b>.",
+        "cacheId": "BlBUIhRHs0wJ",
+        "formattedUrl": "www.aneking.com/one-has-to-go-challenge/",
+        "htmlFormattedUrl": "www.aneking.com/one-has-to-go-challenge/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "http://www.aneking.com/wp-content/uploads/2017/07/One-Has-To-Go-Challenge.jpg",
+              "og:type": "article",
+              "article:section": "Random Stuff",
+              "article:published_time": "2017-10-04T23:20:57+00:00",
+              "og:image:width": "500",
+              "og:site_name": "Ane Ventures",
+              "og:title": "One Has To Go Challenge Accepted! - Ane Ventures",
+              "og:image:height": "500",
+              "og:updated_time": "2020-04-17T16:56:46+00:00",
+              "og:description": "One Has To Go Challenge. Once again, a kind of meme burst in the internet and it's so challenging because it lets the netizens give up on something. The...",
+              "article:modified_time": "2020-04-17T16:56:46+00:00",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:locale": "en_US",
+              "og:url": "http://www.aneking.com/one-has-to-go-challenge/"
+            }
+          ],
+          "Breadcrumb": [
+            {
+              "title": "Home",
+              "url": "Home"
+            },
+            {
+              "title": "Random Stuff",
+              "url": "Random Stuff"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "http://www.aneking.com/wp-content/uploads/2017/07/One-Has-To-Go-Challenge.jpg",
+              "width": "225",
+              "type": "1",
+              "height": "225"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Is it okay for a teen to not eat any sweets at all? - Quora",
+        "htmlTitle": "Is it okay for a teen to not eat any sweets at all? - Quora",
+        "link": "https://www.quora.com/Is-it-okay-for-a-teen-to-not-eat-any-sweets-at-all",
+        "displayLink": "www.quora.com",
+        "snippet": "I walk by the candy aisles but don't buy anything even though the inner kid in me is tempted - especially Twix. I have a soft spot for Twix… and Twizzlers…",
+        "htmlSnippet": "I walk by the candy aisles but don&#39;t buy anything even though the inner kid in me is tempted - <b>especially Twix</b>. I have a soft spot for Twix… and Twizzlers…",
+        "formattedUrl": "https://www.quora.com/Is-it-okay-for-a-teen-to-not-eat-any-sweets-at-all",
+        "htmlFormattedUrl": "https://www.quora.com/Is-it-okay-for-a-teen-to-not-eat-any-sweets-at-all",
+        "pagemap": {
+          "metatags": [
+            {
+              "al:android:url": "intent://www.quora.com/Is-it-okay-for-a-teen-to-not-eat-any-sweets-at-all#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-it-okay-for-a-teen-to-not-eat-any-sweets-at-all&logging_data=uid%3DNone;end",
+              "theme-color": "#b92b27",
+              "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+              "al:android:package": "com.quora.android",
+              "fb:pages": "255232486973",
+              "twitter:widgets:theme": "light"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Peter Sutcliffe: Yorkshire Ripper makes Elvis statue for his wife ...",
+        "htmlTitle": "Peter Sutcliffe: Yorkshire Ripper makes Elvis statue for his wife ...",
+        "link": "https://www.dailystar.co.uk/news/latest-news/peter-sutcliffe-yorkshire-ripper-elvis-17209128",
+        "displayLink": "www.dailystar.co.uk",
+        "snippet": "Oct 19, 2015 ... His weight has ballooned to 20 stone and he spends his £20 weekly allowance on diet cola and chocolate, especially Twix bars.",
+        "htmlSnippet": "Oct 19, 2015 <b>...</b> His weight has ballooned to 20 stone and he spends his £20 weekly allowance on diet cola and chocolate, <b>especially Twix</b> bars.",
+        "formattedUrl": "https://www.dailystar.co.uk/.../peter-sutcliffe-yorkshire-ripper-elvis- 17209128",
+        "htmlFormattedUrl": "https://www.dailystar.co.uk/.../peter-sutcliffe-yorkshire-ripper-elvis- 17209128",
+        "pagemap": {
+          "newsmediaorganization": [
+            {
+              "name": "Daily Star",
+              "url": "https://www.dailystar.co.uk/"
+            },
+            {
+              "name": "Daily Star",
+              "publishingprinciples": "https://www.dailystar.co.uk/about-us/",
+              "url": "https://www.dailystar.co.uk/"
+            }
+          ],
+          "imageobject": [
+            {
+              "width": "219",
+              "url": "https://s3-eu-west-1.amazonaws.com/trinity-images/logos/dailystar.png",
+              "height": "60"
+            },
+            {
+              "author": "(Image: ROSS PARRY/GETTY)",
+              "width": "615",
+              "description": "POTTERY GIFT: Yorkshire Ripper Peter Sutcliffe has sculpted an Elvis statue for his wife",
+              "url": "https://i2-prod.dailystar.co.uk/incoming/article20115461.ece/ALTERNATES/s615b/elvis-sutcliffe-470615",
+              "height": "408"
+            },
+            {
+              "author": "(Image: EMPICS)",
+              "width": "615",
+              "description": "IN LOVE: Sutcliffe, now 69, with his ex-wife Sonia",
+              "url": "https://i2-prod.dailystar.co.uk/incoming/article20115460.ece/ALTERNATES/s615b/sutcliffe-sonia-308309",
+              "height": "922"
+            },
+            {
+              "author": "(Image: GETTY)",
+              "width": "615",
+              "description": "INFAMOUS: Papers across the country rejoiced when Sutcliffe was finally brought to justice",
+              "url": "https://i2-prod.dailystar.co.uk/incoming/article20109186.ece/ALTERNATES/s615b/sutcliffe-murder-308312",
+              "height": "466"
+            },
+            {
+              "author": "(Image: GETTY)",
+              "width": "615",
+              "description": "KILLER SUIT: Sutcliffe on his wedding day in 1974",
+              "url": "https://i2-prod.dailystar.co.uk/incoming/article20122883.ece/ALTERNATES/s615b/sutcliffe-308313",
+              "height": "842"
+            },
+            {
+              "url": "https://s2-prod.dailystar.co.uk/@trinitymirrordigital/chameleon-branding/publications/dailystar/img/logo-dailystar.png"
+            }
+          ],
+          "person": [
+            {
+              "name": "Andy Gardner"
+            }
+          ],
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=undefined",
+              "og:image": "https://i2-prod.dailystar.co.uk/incoming/article15909460.ece/ALTERNATES/s1200/308753",
+              "article:published_time": "2015-10-17T23:00:00Z",
+              "og:site_name": "Dailystar.co.uk",
+              "article:id": "99999-99999-news:470615",
+              "og:description": "YORKSHIRE Ripper Peter Sutcliffe has made a pottery figure of Elvis for ex-wife Sonia.",
+              "partnerconfig": "{\"rgHoroscope\":{\"freeTrialHoroscope\":\"https://www.russellgrant.com/nands/report.php?brand=DS&id=newyear&\",\"forecastHoroscope\":\"https://www.russellgrant.com/nands/report.php?brand=DS&id=career&\",\"personalisedHoroscope\":\"https://www.russellgrant.com/nands/?brand=DS\",\"birthHoroscope\":\"https://www.russellgrant.com/nands/report.php?brand=DS&id=freenatalreport\"}}",
+              "manifest-validation": "{\"tags\":[\"Prison News\",\"Daily Star Sunday\"],\"url\":\"https://www.dailystar.co.uk/news/latest-news/peter-sutcliffe-yorkshire-ripper-elvis-17209128\",\"primaryTag\":\"\"}",
+              "article:modified_time": "2015-10-19T08:47:05Z",
+              "news_keywords": "Latest News,Prison News,Daily Star Sunday",
+              "og:section": "Latest News",
+              "scriptconfig": "{\"performSemanticPlayer\":{\"enabled\":true},\"remoteInjectionConfig\":{\"enabled\":false},\"videoHB\":{\"emx\":{\"tagid\":\"132840\"},\"richaudience\":{\"pid\":\"7QDz08z8lN\"},\"improvedigital\":{\"placementId\":22562090},\"pubmatic\":{\"adSlot\":\"4051101\"},\"triplelift\":{\"inventoryCode\":\"hdx_generic_trinitymirror_Prebid\"},\"appNexus\":{\"placementId\":14674619},\"enabled\":false,\"openx\":{\"unit\":\"545691851\"},\"smartadserver\":{\"formatId\":84743,\"pageId\":1350997},\"indexExchange\":{\"siteId\":281456},\"spotx\":{\"tier\":1,\"channelIds\":{\"UK\":{\"desktop\":\"237744\",\"tabletLandscapeUpwards\":\"237744\",\"tabletPortraitUpwards\":\"237744\",\"baseLayout\":\"237746\"},\"ROW\":{\"desktop\":\"237745\",\"tabletLandscapeUpwards\":\"237745\",\"tabletPortraitUpwards\":\"237745\",\"baseLayout\":\"237747\"}}}},\"grapeshot\":{\"zone\":\"national\",\"enabled\":true},\"smartadserver\":{\"enabled\":true},\"themediatrust\":{\"siteId\":\"18a22362c0f4744c0bbbf2743e56a0b97a29779b2a95e25d0473ce31d4f6c082\",\"enabled\":true},\"hbPageLevel\":{\"magnite\":{\"accountId\":\"7949\",\"siteId\":{\"desktop\":\"351974\",\"tabletLandscapeUpwards\":\"352058",
+              "article:expiration_time": "2015-11-18T08:47:05Z",
+              "datalayer": "{\"page\":{\"attributes\":{\"application\":\"Responsive Web\",\"channel\":\"news\",\"channelId\":\"25683\",\"sectionId\":\"25684\",\"publicationName\":\"dailystar\",\"publicationId\":\"14\",\"environment\":\"prod\",\"platform\":\"nationals\",\"pageName\":\"dailystar:news:latest-news:article:peter-sutcliffe-yorkshire-ripper-elvis:17209128\",\"pageType\":\"article:news\",\"ownerSite\":\"dailystar\",\"ownerSiteDomain\":\"www.dailystar.co.uk\",\"subSectionOne\":\"news\",\"subSectionTwo\":\"latest-news\",\"features\":{\"showVpaidControls\":\"true\",\"commentsEnabled\":\"true\",\"chameleon.cookiePolicy.enabled\":\"false\",\"pubmaticIdEnabled\":\"false\",\"readNextJS.enable\":\"true\",\"tag.amphtml.enabled\":\"true\",\"thirtythreeacrossDisplayPrebidEnabled\":\"true\",\"prebidLibrary\":\"false\",\"authUI\":\"true\",\"googleOneTap\":\"true\",\"loadPrebidAtRuntime\":\"true\",\"smartAdServerVideoPrebidEnabled\":\"true\",\"quantcastCMPEnabled\":\"true\",\"openxDisplayPrebidEnabled\":\"true\",\"PWA\":\"{\\\"cacheFirst\\\":{\\\"modalTimeout\\\":2000},\\\"combinedPrompt\\\":true,\\\"scope\\\":\\\"/news/\\\",\\\"options\\\":{\\\"pushStyle\\\":\\\"headline\\\",\\\"pushSticky\\\":",
+              "og:type": "article",
+              "article:section": "Latest News",
+              "publicationconfig": "https://s2-prod.dailystar.co.uk/@trinitymirrordigital/chameleon-branding/publications/dailystar/",
+              "author": "Andy Gardner",
+              "og:title": "Peter Sutcliffe: Yorkshire Ripper makes Elvis statue for his wife",
+              "googlebot-news": "noarchive",
+              "vf:image": "https://i2-prod.dailystar.co.uk/incoming/article15909460.ece/ALTERNATES/s270b/308753",
+              "fb:pages": "161612017189003",
+              "article:author": "Andy Gardner",
+              "article:tag": "Prison News",
+              "referrer": "unsafe-URL",
+              "fb:app_id": "1742237849339030",
+              "og:language": "en",
+              "advertisingconfig": "{\"desktop\":[{\"injectionEnabled\":false,\"componentType\":\"gpt\",\"targeting\":{\"index\":-1,\"hivis\":\"n\"},\"referenceNode\":\"header\",\"hideOnSensitiveArticle\":true,\"hideOnFirstPageView\":true,\"relativePos\":\"after\",\"name\":\"div-gpt-ad-oop-slot\",\"isOOP\":true,\"type\":\"outOfPage\"},{\"componentType\":\"gpt\",\"targeting\":{\"index\":-2,\"hivis\":\"n\"},\"referenceNode\":\"header\",\"sizes\":[[1,1]],\"hideOnSensitiveArticle\":true,\"hideOnFirstPageView\":true,\"relativePos\":\"before\",\"additionalClass\":\"hidden\",\"name\":\"div-gpt-ad-ad-mix-slot\",\"type\":\"adMix\"},{\"componentType\":\"gpt\",\"targeting\":{\"index\":1,\"hivis\":\"y\",\"opos\":\"top\",\"hbPlacements\":\"d-top\"},\"referenceNode\":\"header\",\"sizes\":[[970,250],[970,251],[728,90],[728,91]],\"hideOnSensitiveArticle\":true,\"relativePos\":\"before\",\"additionalClass\":\"top-slot\",\"sticky\":{\"mode\":\"header\",\"duration\":5000},\"name\":\"div-gpt-ad-top-slot\",\"type\":\"topOfPage\",\"bidders\":{\"smartadserver\":{\"formatId\":93655,\"pageId\":1350996},\"mediagrid\":\"29942\",\"ozone\":\"1420431046\",\"triplelift\":\"DailyStar_970x250_Desktop_Prebid\",\"xandr\":\"204",
+              "viewport": "width=device-width, initial-scale=1",
+              "pipelineconfig": "{\"images\":[{\"type\":\"image\",\"caption\":\"\",\"altText\":\"\",\"credit\":\"\",\"src\":\"https://i2-prod.mirror.co.uk/incoming/article25551432.ece/ALTERNATES/s615/1_Star-BlackFriday-NAV-Mobile.jpg\",\"binarySrc\":\"https://i2-prod.mirror.co.uk/incoming/article25551432.ece/BINARY/1_Star-BlackFriday-NAV-Mobile.jpg\",\"width\":615,\"height\":409},{\"type\":\"image\",\"caption\":\"\",\"altText\":\"\",\"credit\":\"\",\"src\":\"https://i2-prod.mirror.co.uk/incoming/article25551433.ece/ALTERNATES/s615/0_Star-BlackFriday-NAV-Desktop.jpg\",\"binarySrc\":\"https://i2-prod.mirror.co.uk/incoming/article25551433.ece/BINARY/0_Star-BlackFriday-NAV-Desktop.jpg\",\"width\":615,\"height\":409}],\"link\":\"https://www.dailystar.co.uk/life-style/your-daily-star-star-sunday-25545036\",\"className\":\"\",\"partnerName\":\"Star Subscribe\",\"mastheadConfig\":{\"containerStyle\":\"background-color:#000000\",\"imageStyle\":\"\",\"linkStyle\":\"\",\"embedUrl\":\"\"}}",
+              "shopwindow-topslot-confg": "{\"type\":\"shopwindow-topslot\",\"ingredients\":[],\"platform\":\"\"}",
+              "vf:container_id": "dailystar-prod-17209128",
+              "og:url": "https://www.dailystar.co.uk/news/latest-news/peter-sutcliffe-yorkshire-ripper-elvis-17209128",
+              "partnerfooterconfig": "{\"partnerContentList\":[],\"features\":{\"showVpaidControls\":\"true\",\"commentsEnabled\":\"true\",\"chameleon.cookiePolicy.enabled\":\"false\",\"pubmaticIdEnabled\":\"false\",\"readNextJS.enable\":\"true\",\"tag.amphtml.enabled\":\"true\",\"thirtythreeacrossDisplayPrebidEnabled\":\"true\",\"prebidLibrary\":\"false\",\"authUI\":\"true\",\"googleOneTap\":\"true\",\"loadPrebidAtRuntime\":\"true\",\"smartAdServerVideoPrebidEnabled\":\"true\",\"quantcastCMPEnabled\":\"true\",\"openxDisplayPrebidEnabled\":\"true\",\"PWA\":\"{\\\"cacheFirst\\\":{\\\"modalTimeout\\\":2000},\\\"combinedPrompt\\\":true,\\\"scope\\\":\\\"/news/\\\",\\\"options\\\":{\\\"pushStyle\\\":\\\"headline\\\",\\\"pushSticky\\\":true}}\",\"pubmaticVideoPrebidEnabled\":\"true\",\"monitizer\":\"true\",\"navWithArticle.enabled\":\"true\",\"prebidTestLibrary\":\"false\",\"pubmaticIdDisabled\":\"true\",\"fbia.mantisRecommender\":\"true\",\"RRET-227.cutOffDate\":\"2020-06-30T10:30:00\",\"blackFridayWidget.linkUrl\":\"https://www.dailystar.co.uk/latest/black-friday\",\"blackFridayWidget\":\"true\",\"compressedCommentsSection\":\"true\",\"justpremiumDisplayPrebidEnabled\":\"true\",\"amazonVideo"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i2-prod.dailystar.co.uk/incoming/article15909460.ece/ALTERNATES/s1200/308753",
+              "width": "310",
+              "type": "1",
+              "height": "163"
+            }
+          ],
+          "newsarticle": [
+            {
+              "articlebody": "POTTERY GIFT: Yorkshire Ripper Peter Sutcliffe has sculpted an Elvis statue for his wife (Image: ROSS PARRY/GETTY) Sutcliffe, 69, serving life for the horrific murders of 13 women, modelled...",
+              "datemodified": "2015-10-19T08:47:05Z",
+              "name": "Peter Sutcliffe: Yorkshire Ripper makes Elvis statue for his wife",
+              "description": "YORKSHIRE Ripper Peter Sutcliffe has made a pottery figure of Elvis for ex-wife Sonia.",
+              "headline": "Peter Sutcliffe: Yorkshire Ripper makes Elvis statue for his wife",
+              "datepublished": "2015-10-17T23:00:00Z",
+              "mainentityofpage": "https://www.dailystar.co.uk/news/latest-news/peter-sutcliffe-yorkshire-ripper-elvis-17209128"
+            }
+          ],
+          "listitem": [
+            {
+              "item": "frontpage",
+              "name": "frontpage",
+              "position": "0"
+            },
+            {
+              "item": "News",
+              "name": "News",
+              "position": "1"
+            },
+            {
+              "item": "Latest News",
+              "name": "Latest News",
+              "position": "2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "5": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 31,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 41,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.233969,
+      "formattedSearchTime": "0.23",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  },
+  "6": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 41,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 51,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.217877,
+      "formattedSearchTime": "0.22",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  },
+  "7": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 51,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 61,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.242121,
+      "formattedSearchTime": "0.24",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  },
+  "8": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 61,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 71,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.209816,
+      "formattedSearchTime": "0.21",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  },
+  "9": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 71,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 81,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.464772,
+      "formattedSearchTime": "0.46",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  },
+  "10": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 81,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"especially Twix,\"",
+          "searchTerms": "\"especially Twix,\"",
+          "count": 10,
+          "startIndex": 91,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.352874,
+      "formattedSearchTime": "0.35",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  }
+}

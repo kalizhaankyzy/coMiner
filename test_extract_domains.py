@@ -218,25 +218,25 @@ def phrase_independence(phrase, descriptions_list):
 entity_name = 'Python'
 # entity_name = 'Toyota'
 # Extracting files
-c = extract_description_from_file('c',entity_name)
-php = extract_description_from_file('php', entity_name)
-java = extract_description_from_file('java', entity_name)
-javascript = extract_description_from_file('javascript',entity_name)
-js = extract_description_from_file('js',entity_name)
-go = extract_description_from_file('go', entity_name)
-r = extract_description_from_file('r', entity_name)
-matlab = extract_description_from_file('matlab', entity_name)
-ruby = extract_description_from_file('ruby', entity_name)
+# c = extract_description_from_file('c',entity_name)
+# php = extract_description_from_file('php', entity_name)
+# java = extract_description_from_file('java', entity_name)
+# javascript = extract_description_from_file('javascript',entity_name)
+# js = extract_description_from_file('js',entity_name)
+# go = extract_description_from_file('go', entity_name)
+# r = extract_description_from_file('r', entity_name)
+# matlab = extract_description_from_file('matlab', entity_name)
+# ruby = extract_description_from_file('ruby', entity_name)
 
 
-# chevrolet = extract_description_from_file('chevrolet', entity_name)
-# competition = extract_description_from_file('competition',entity_name)
-# ford = extract_description_from_file('ford',entity_name)
-# frontier = extract_description_from_file('frontier', entity_name)
-# honda = extract_description_from_file('honda', entity_name)
-# hybrid = extract_description_from_file('hybrid', entity_name)
-# lexus= extract_description_from_file('lexus', entity_name)
-# subaru = extract_description_from_file('subaru', entity_name)
+chevrolet = extract_description_from_file('chevrolet', entity_name)
+competition = extract_description_from_file('competition',entity_name)
+ford = extract_description_from_file('ford',entity_name)
+frontier = extract_description_from_file('frontier', entity_name)
+honda = extract_description_from_file('honda', entity_name)
+hybrid = extract_description_from_file('hybrid', entity_name)
+lexus= extract_description_from_file('lexus', entity_name)
+subaru = extract_description_from_file('subaru', entity_name)
 
 descriptions_list_mapped = {
     # 'chevrolet': chevrolet,

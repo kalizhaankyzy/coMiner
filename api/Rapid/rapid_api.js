@@ -1,14 +1,18 @@
 // Used thus api to search query for step 2.
 
 // const entity_name = 'Python'
-const competitors_list = ['R', 'Java',
-    'Javascript', 'Ruby', 'C', 'Js', 'Php', 'Go', 'Matlab'
-]
+// const competitors_list = ['R', 'Java',
+//     'Javascript', 'Ruby', 'C', 'Js', 'Php', 'Go', 'Matlab'
+// ]
 // const entity_name = 'Toyota'
 // const competitors_list = ['Honda', 'Nissan', 'Competition', 'Chevrolet', 'Subaru', 'Frontier', 'Lexus', 'Ford', 'Hybrid']
 
-const entity_name = 'Prada'
+// const entity_name = 'Prada'
 // const competitors_list  = ['Gucci', 'Vuitton', 'Fendi', 'Nada', 'Homme', 'Burberry', 'Sweeney', 'Chanel', 'Miu']
+
+
+const entity_name = 'Twix'
+const competitors_list = ['Right', 'Snickers', 'Kat', 'Kit', 'Left', 'Mars', 'Treat', 'Aldi', 'Reese', 'Kit kat']
 
 
 for(let i = 0 ; i < competitors_list.length; i++){
@@ -32,4 +36,3 @@ for(let i = 0 ; i < competitors_list.length; i++){
     });
     }, i *1000)
 }
-

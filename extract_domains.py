@@ -8,7 +8,7 @@ from utils.helpers import is_word, has_intersection, distance
 from nltk.corpus import wordnet
 
 DOCUMENTS_ROOT = './db/python/domain_mining/document_texts/'
-DESCRIPTION_ROOT = './db/python/domain_mining/search_results/'
+DESCRIPTION_ROOT = './db/python/domain_mining/competitor_list/'
 entity_name = 'Python'
 competitors_list = ['R', 'Java', 'Javascript', 'Ruby', 'C', 'Js', 'Php', 'Go', 'Matlab']
 

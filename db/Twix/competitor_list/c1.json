@@ -1,0 +1,3624 @@
+{
+  "1": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 1,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "context": {
+      "title": "darik"
+    },
+    "searchInformation": {
+      "searchTime": 0.341742,
+      "formattedSearchTime": "0.34",
+      "totalResults": "2780",
+      "formattedTotalResults": "2,780"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Snickers vs Twix - What's the Difference? | Brand Informers",
+        "htmlTitle": "Snickers <b>vs Twix</b> - What&#39;s the Difference? | Brand Informers",
+        "link": "https://brandinformers.com/snickers-vs-twix/",
+        "displayLink": "brandinformers.com",
+        "snippet": "Have you ever wondered what the difference is between a Snickers vs Twix? We take a look at the similarities and differences between these two candy bars.",
+        "htmlSnippet": "Have you ever wondered what the difference is between a Snickers <b>vs Twix</b>? We take a look at the similarities and differences between these two candy bars.",
+        "cacheId": "9EWbO4Gq5qQJ",
+        "formattedUrl": "https://brandinformers.com/snickers-vs-twix/",
+        "htmlFormattedUrl": "https://brandinformers.com/snickers-<b>vs-twix</b>/",
+        "pagemap": {
+          "metatags": [
+            {
+              "p:domain_verify": "f2d59c6c4365e0bc9cff61a6fb48f341",
+              "msapplication-tilecolor": "#ffffff",
+              "og:image": "//brandinformers.com/wp-content/uploads/2020/06/Snickers-vs-Twix-1.png",
+              "og:type": "article",
+              "article:published_time": "2020-06-13T18:17:39+00:00",
+              "og:image:width": "850",
+              "twitter:card": "summary_large_image",
+              "theme-color": "#ffffff",
+              "og:site_name": "Brand Informers",
+              "msvalidate.01": "431E6A7D4F29A843BE83DFCE8A89B492",
+              "og:title": "Snickers vs Twix - What's the Difference? | Brand Informers",
+              "og:image:height": "650",
+              "twitter:label1": "Written by",
+              "twitter:label2": "Est. reading time",
+              "msapplication-tileimage": "/ms-icon-144x144.png",
+              "og:description": "Have you ever wondered what the difference is between a Snickers vs Twix? We take a look at the similarities and differences between these two candy bars. Be sure to vote for your favorite (if you have one) between Snickers and Twix in our poll at the end of this article! SEE ALSO>>>Snickers vs Baby … Snickers vs Twix – What’s the Difference? Read More »",
+              "twitter:data1": "admin",
+              "twitter:data2": "4 minutes",
+              "article:modified_time": "2021-05-23T17:28:35+00:00",
+              "viewport": "width=device-width,initial-scale=1",
+              "og:locale": "en_US",
+              "og:url": "https://brandinformers.com/snickers-vs-twix/",
+              "dmca-site-verification": "S0xzTzZiRzhkQ1BldW1LcW5EZmxxTXNOWFEveWdpZGsvb0lGMHZybEJwUT01"
+            }
+          ],
+          "creativework": [
+            {
+              "image": "https://brandinformers.com/wp-content/uploads/2020/06/Snickers-vs-Twix-1.png?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2",
+              "text": "Have you ever wondered what the difference is between a Snickers vs Twix? We take a look at the similarities and differences between these two candy bars. Be sure to vote for your favorite...",
+              "headline": "Snickers vs Twix – What’s the Difference?"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://brandinformers.com/wp-content/uploads/2020/06/Snickers-vs-Twix-1.png?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2",
+              "width": "257",
+              "type": "1",
+              "height": "196"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Snickers vs Twix: 4 Facts You Must Know",
+        "htmlTitle": "Snickers <b>vs Twix</b>: 4 Facts You Must Know",
+        "link": "https://calories-info.com/compare/snickers-twix/",
+        "displayLink": "calories-info.com",
+        "snippet": "Snickers vs Twix: All Nutritional Differences. Where is more calories, protein, carbs - what is more healthy?",
+        "htmlSnippet": "Snickers <b>vs Twix</b>: All Nutritional Differences. Where is more calories, protein, carbs - what is more healthy?",
+        "cacheId": "HdYuP0t8zGgJ",
+        "formattedUrl": "https://calories-info.com/compare/snickers-twix/",
+        "htmlFormattedUrl": "https://calories-info.com/compare/snickers-twix/",
+        "pagemap": {
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#ffffff",
+              "og:type": "website",
+              "twitter:title": "Snickers vs Twix: 4 Facts You Must Know",
+              "theme-color": "#ffffff",
+              "og:site_name": "Calories-Info.Com",
+              "twitter:url": "https://calories-info.com/compare/snickers-twix/",
+              "og:title": "Snickers vs Twix: 4 Facts You Must Know",
+              "msapplication-tileimage": "/site/templates/img/favicons/ms-icon-144x144.png",
+              "og:description": "Snickers vs Twix - What is better to eat? Which one is more calorific. I've analyzed nutrition data of both",
+              "twitter:site": "Calories-Info.Com",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "Snickers vs Twix - What is better to eat? Which one is more calorific. I've analyzed nutrition data of both",
+              "og:url": "https://calories-info.com/compare/snickers-twix/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "x-raw-image:///eabc6a7cd8a22ec02f0e40f8d18bbd7d1ad5a0f7415c9d2833accb2eb191b9fd",
+              "width": "128",
+              "type": "1",
+              "height": "128"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Social Media Face Off: Kit Kat vs. Twix - Business 2 Community",
+        "htmlTitle": "Social Media Face Off: Kit Kat vs. Twix - Business 2 Community",
+        "link": "https://www.business2community.com/branding/social-media-face-off-kit-kat-vs-twix-0550011",
+        "displayLink": "www.business2community.com",
+        "snippet": "Jul 12, 2013 ... Both contain chocolate-covered biscuits. Both are packaged in pairs. Both can satisfy a sweet tooth. But only one can win in this week's ...",
+        "htmlSnippet": "Jul 12, 2013 <b>...</b> Both contain chocolate-covered biscuits. Both are packaged in pairs. Both can satisfy a sweet tooth. But only one can win in this week&#39;s&nbsp;...",
+        "cacheId": "8OR1_t0nQvkJ",
+        "formattedUrl": "https://www.business2community.com/.../social-media-face-off-kit-kat-vs- twix-0550011",
+        "htmlFormattedUrl": "https://www.business2community.com/.../social-media-face-off-kit-kat-<b>vs- twix</b>-0550011",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://cdn.business2community.com/wp-content/uploads/2013/07/FaceOff-KitKat-Twix.jpg",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Social Media Face Off: Kit Kat vs. Twix",
+              "og:image:width": "576",
+              "og:type": "article",
+              "og:site_name": "Business 2 Community",
+              "twitter:url": "https://www.business2community.com/branding/social-media-face-off-kit-kat-vs-twix-0550011",
+              "og:title": "Social Media Face Off: Kit Kat vs. Twix",
+              "og:image:height": "100",
+              "og:image:type": "image/jpeg",
+              "msapplication-tileimage": "https://cdn.business2community.com/wp-content/uploads/2016/11/cropped-B2C_square_512px-1-270x270.png",
+              "twitter:creator": "@GatorKates",
+              "og:description": "Both contain chocolate-covered biscuits. Both are packaged in pairs. Both can satisfy a sweet tooth. But only one can win…",
+              "twitter:image": "https://cdn.business2community.com/wp-content/uploads/2013/07/FaceOff-KitKat-Twix.jpg",
+              "article:publisher": "https://www.facebook.com/business2community",
+              "twitter:site": "@b2community",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "twitter:description": "Both contain chocolate-covered biscuits. Both are packaged in pairs. Both can satisfy a sweet tooth. But only one can win…",
+              "og:url": "https://www.business2community.com/branding/social-media-face-off-kit-kat-vs-twix-0550011",
+              "ts": "2021-11-29 3:31:34"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://cdn.business2community.com/wp-content/uploads/2013/07/FaceOff-KitKat-Twix.jpg",
+              "width": "540",
+              "type": "1",
+              "height": "93"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Kit Kat vs. Twix: Which Halloween Candies are More Trick Than ...",
+        "htmlTitle": "Kit Kat vs. Twix: Which Halloween Candies are More Trick Than ...",
+        "link": "https://patch.com/california/lagunaniguel-danapoint/kit-kat-vs-twix-which-halloween-candies-are-more-tric1485311e12",
+        "displayLink": "patch.com",
+        "snippet": "Oct 18, 2011 ... \"With big differences in calories, sugar, and quality of ingredients used, it's just not true that all Halloween candy is the same,\" Tsang says.",
+        "htmlSnippet": "Oct 18, 2011 <b>...</b> &quot;With big differences in calories, sugar, and quality of ingredients used, it&#39;s just not true that all Halloween candy is the same,&quot; Tsang says.",
+        "cacheId": "5vmyNx96OFUJ",
+        "formattedUrl": "https://patch.com/.../kit-kat-vs-twix-which-halloween-candies-are-more- tric1485311e12",
+        "htmlFormattedUrl": "https://patch.com/.../kit-kat-<b>vs-twix</b>-which-halloween-candies-are-more- tric1485311e12",
+        "pagemap": {
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=430049632",
+              "og:image": "https://patch.com/img/cdn/users/57053/2011/10/raw/92655d55508de31da47436298722994c.jpg",
+              "theme-color": "#ffffff",
+              "twitter:card": "summary_large_image",
+              "og:image:width": "800",
+              "article:published_time": "2011-10-18T22:09:25Z",
+              "og:site_name": "Laguna Niguel-Dana Point, CA Patch",
+              "apple-mobile-web-app-title": "Patch",
+              "og:description": "One of your neighbors posted in Community Corner. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
+              "twitter:image": "https://patch.com/img/cdn/users/57053/2011/10/raw/92655d55508de31da47436298722994c.jpg",
+              "next-head-count": "24",
+              "article:modified_time": "2011-10-18T23:57:21Z",
+              "twitter:widgets:theme": "light",
+              "twitter:widgets:border-color": "#e9e9e9",
+              "og:type": "article",
+              "article:section": "Community Corner",
+              "og:title": "Kit Kat vs. Twix: Which Halloween Candies are More Trick Than Treat?",
+              "og:image:height": "600",
+              "googlebot-news": "noindex, nofollow",
+              "og:updated_time": "2011-10-18T23:57:21Z",
+              "fb:pages": "57421062540",
+              "referrer": "origin-when-cross-origin",
+              "fb:app_id": "521361477908471",
+              "apple-mobile-web-app-status-bar-style": "default",
+              "viewport": "viewport-fit=cover, width=device-width, initial-scale=1, shrink-to-fit=no",
+              "apple-mobile-web-app-capable": "yes",
+              "og:locale": "en_US",
+              "og:url": "https://patch.com/california/lagunaniguel-danapoint/kit-kat-vs-twix-which-halloween-candies-are-more-tric1485311e12"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://patch.com/img/cdn/users/57053/2011/10/raw/92655d55508de31da47436298722994c.jpg",
+              "width": "360",
+              "type": "1",
+              "height": "140"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Little Secrets: the Better-For-You Chocolates — Eat This Not That",
+        "htmlTitle": "Little Secrets: the Better-For-You Chocolates — Eat This Not That",
+        "link": "https://www.eatthis.com/little-secrets-candy/",
+        "displayLink": "www.eatthis.com",
+        "snippet": "Feb 11, 2020 ... Little Secrets chocolate treats are not only made with higher quality ingredients, but they also taste so much better than the OG candy ...",
+        "htmlSnippet": "Feb 11, 2020 <b>...</b> Little Secrets chocolate treats are not only made with higher quality ingredients, but they also taste so much better than the OG candy&nbsp;...",
+        "cacheId": "Nf1l4amPSEAJ",
+        "formattedUrl": "https://www.eatthis.com/little-secrets-candy/",
+        "htmlFormattedUrl": "https://www.eatthis.com/little-secrets-candy/",
+        "pagemap": {
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#ee2524",
+              "og:image": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/02/little-secrets-chocolates.jpg?fit=1200%2C879&ssl=1",
+              "msapplication-config": "https://www.eatthis.com/wp-content/themes/eatthis/favicon/browserconfig.xml",
+              "og:type": "article",
+              "article:published_time": "2020-02-11T21:28:24+00:00",
+              "og:image:width": "1200",
+              "twitter:card": "summary_large_image",
+              "theme-color": "#ffffff",
+              "og:site_name": "Eat This Not That",
+              "og:title": "Little Secrets: the Better-For-You Chocolates — Eat This Not That",
+              "og:image:height": "879",
+              "twitter:label1": "Written by",
+              "twitter:label2": "Est. reading time",
+              "msapplication-tileimage": "https://www.eatthis.com/wp-content/themes/eatthis/favicon/ms-icon-144x144.png",
+              "og:description": "Little Secrets chocolate treats are not only made with higher quality ingredients, but they also taste so much better than the OG candy brands.",
+              "fb:pages": "123452516277",
+              "twitter:data1": "Cheyenne Buckingham",
+              "twitter:data2": "6 minutes",
+              "article:modified_time": "2020-02-11T21:29:57+00:00",
+              "viewport": "width=device-width",
+              "og:locale": "en_US",
+              "og:url": "https://www.eatthis.com/little-secrets-candy/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/02/little-secrets-chocolates.jpg?fit=1200%2C879&ssl=1",
+              "width": "262",
+              "type": "1",
+              "height": "192"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "In the 239 Sweet 16: Matchup 7 - M&M's chocolate candies vs. Twix",
+        "htmlTitle": "In the 239 Sweet 16: Matchup 7 - M&amp;M&#39;s chocolate candies vs. Twix",
+        "link": "https://www.naplesnews.com/entertainment/in-the-239-sweet-16-matchup-7---mms-chocolate-candies-vs-twix-ep-313771429-334302581.html",
+        "displayLink": "www.naplesnews.com",
+        "snippet": "Oct 17, 2013 ... The first round of head-to-head match-ups in our \"In the 239 Sweet 16\" candy showdown is underway. This matchup pits M&M's chocolate candies ...",
+        "htmlSnippet": "Oct 17, 2013 <b>...</b> The first round of head-to-head match-ups in our &quot;In the 239 Sweet 16&quot; candy showdown is underway. This matchup pits M&amp;M&#39;s chocolate candies&nbsp;...",
+        "cacheId": "2osCxQJ7-AEJ",
+        "formattedUrl": "https://www.naplesnews.com/.../in-the-239-sweet-16-matchup-7---mms- chocolate-candies-vs-twix-ep-313771429-334302581.html",
+        "htmlFormattedUrl": "https://www.naplesnews.com/.../in-the-239-sweet-16-matchup-7---mms- chocolate-candies-<b>vs-twix</b>-ep-313771429-334302581.html",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "http://media.jrn.com/images/239candy101713_3691291_ver1.0_640_480.jpg",
+              "og:type": "article",
+              "og:image:width": "640",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "In the 239 Sweet 16: Matchup 7 - M&M's chocolate candies vs. Twix",
+              "og:title": "In the 239 Sweet 16: Matchup 7 - M&M's chocolate candies vs. Twix",
+              "og:image:height": "448",
+              "msapplication-tileimage": "http://media.jrn.com/designimages/logo-ndn-icon-144.png",
+              "title": "In the 239 Sweet 16: Matchup 7 - M&M's chocolate candies vs. Twix",
+              "__sync_contentcategory": "free",
+              "twitter:image": "http://media.jrn.com/images/239candy101713_3691291_ver1.0_640_480.jpg",
+              "twitter:site": "@ndn",
+              "viewport": "width=device-width,initial-scale=1,maximum-scale=1",
+              "apple-mobile-web-app-capable": "no",
+              "twitter:description": "The first round of head-to-head match-ups in our \"In the 239 Sweet 16\" candy showdown is underway. This matchup pits M&M's chocolate candies against Twix.",
+              "og:url": "http://www.naplesnews.com/entertainment/in-the-239-sweet-16-matchup-7---mms-chocolate-candies-vs-twix-ep-313771429-334302581.html"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "http://media.jrn.com/images/239candy101713_3691291_ver1.0_640_480.jpg",
+              "width": "268",
+              "type": "1",
+              "height": "188"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Hershey's vs Twix: Side-by-Side Comparison",
+        "htmlTitle": "Hershey&#39;s <b>vs Twix</b>: Side-by-Side Comparison",
+        "link": "https://knoji.com/compare/hershey-vs-twix/",
+        "displayLink": "knoji.com",
+        "snippet": "Feb 27, 2021 ... Compare Hersheys.com vs Twix.com to select the best Chocolate Brands for your needs. See the pros and cons of Twix vs Hershey's based on ...",
+        "htmlSnippet": "Feb 27, 2021 <b>...</b> Compare Hersheys.com <b>vs Twix</b>.com to select the best Chocolate Brands for your needs. See the pros and cons of Twix vs Hershey&#39;s based on&nbsp;...",
+        "cacheId": "GnyuWGyfcaEJ",
+        "formattedUrl": "https://knoji.com/compare/hershey-vs-twix/",
+        "htmlFormattedUrl": "https://knoji.com/compare/hershey-<b>vs-twix</b>/",
+        "pagemap": {
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#039ff7",
+              "p:domain_verify": "2a45c584bb2159e59fc5ddae4e0d52e4",
+              "referrer": "unsafe-url",
+              "og:image": "https://cdn.knoji.com/images/category/food.jpg",
+              "theme-color": "#ffffff",
+              "og:site_name": "Knoji",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Hershey's vs Twix: Side-by-Side Comparison",
+              "og:description": "Compare Hersheys.com vs Twix.com to select the best Chocolate Brands for your needs. See the pros and cons of Twix vs Hershey's based on free returns & exchanges, international shipping, curbside pickup, PayPal,  and more. Last updated on February 27, 2021."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://cdn.knoji.com/images/category/food.jpg",
+              "width": "285",
+              "type": "1",
+              "height": "177"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "In the 239 Sweet 16: Matchup 12 - Kit Kat vs. Twix",
+        "htmlTitle": "In the 239 Sweet 16: Matchup 12 - Kit Kat vs. Twix",
+        "link": "https://www.naplesnews.com/entertainment/restaurants/in-the-239-sweet-16-matchup-12---kit-kat-vs-twix-ep-313698902-335012371.html",
+        "displayLink": "www.naplesnews.com",
+        "snippet": "Oct 24, 2013 ... The second round of head-to-head match-ups in our \"In the 239 Sweet 16\" candy showdown is underway. This matchup pits Kit Kat against ...",
+        "htmlSnippet": "Oct 24, 2013 <b>...</b> The second round of head-to-head match-ups in our &quot;In the 239 Sweet 16&quot; candy showdown is underway. This matchup pits Kit Kat against&nbsp;...",
+        "cacheId": "bFwRQ8u9jioJ",
+        "formattedUrl": "https://www.naplesnews.com/.../in-the-239-sweet-16-matchup-12---kit-kat-vs -twix-ep-313698902-335012371.html",
+        "htmlFormattedUrl": "https://www.naplesnews.com/.../in-the-239-sweet-16-matchup-12---kit-kat-<b>vs -twix</b>-ep-313698902-335012371.html",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "http://media.jrn.com/images/game11_snickers_3689902_ver1.0_640_480.jpg",
+              "og:type": "article",
+              "og:image:width": "640",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "In the 239 Sweet 16: Matchup 12 - Kit Kat vs. Twix",
+              "og:title": "In the 239 Sweet 16: Matchup 12 - Kit Kat vs. Twix",
+              "og:image:height": "448",
+              "msapplication-tileimage": "http://media.jrn.com/designimages/logo-ndn-icon-144.png",
+              "title": "In the 239 Sweet 16: Matchup 12 - Kit Kat vs. Twix",
+              "__sync_contentcategory": "free",
+              "twitter:image": "http://media.jrn.com/images/game11_snickers_3689902_ver1.0_640_480.jpg",
+              "twitter:site": "@ndn",
+              "viewport": "width=device-width,initial-scale=1,maximum-scale=1",
+              "apple-mobile-web-app-capable": "no",
+              "twitter:description": "The second round of head-to-head match-ups in our \"In the 239 Sweet 16\" candy showdown is underway. This matchup pits Kit Kat against Snickers.",
+              "og:url": "http://www.naplesnews.com/entertainment/restaurants/in-the-239-sweet-16-matchup-12---kit-kat-vs-twix-ep-313698902-335012371.html"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://archive.naplesnews.com/Services/image.ashx?domain=www.naplesnews.com&file=game11_snickers_3689902_ver1.0_640_480.jpg&resize=",
+              "width": "268",
+              "type": "1",
+              "height": "188"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Amazon on Twitter: \"#CandyBracket battle of the bars: @SNICKERS ...",
+        "htmlTitle": "Amazon on Twitter: &quot;#CandyBracket battle of the bars: @SNICKERS ...",
+        "link": "https://twitter.com/amazon/status/583022250351325184",
+        "displayLink": "twitter.com",
+        "snippet": "VS Twix. RT to vote Snickers, Fav to vote Twix. Winner goes to the semis.",
+        "htmlSnippet": "<b>VS Twix</b>. RT to vote Snickers, Fav to vote Twix. Winner goes to the semis.",
+        "cacheId": "IaJcKHEzYikJ",
+        "formattedUrl": "https://twitter.com/amazon/status/583022250351325184",
+        "htmlFormattedUrl": "https://twitter.com/amazon/status/583022250351325184",
+        "pagemap": {
+          "imageobject": [
+            {
+              "contenturl": "https://pbs.twimg.com/media/CBdPpaZUwAA14ys.png",
+              "width": "436",
+              "caption": "Image",
+              "thumbnailurl": "https://pbs.twimg.com/media/CBdPpaZUwAA14ys?format=jpg&name=thumb"
+            }
+          ],
+          "person": [
+            {
+              "identifier": "20793816",
+              "givenname": "Amazon",
+              "disambiguatingdescription": "verified",
+              "additionalname": "amazon"
+            },
+            {
+              "identifier": "1643781624",
+              "givenname": "тнe RED prιɴce",
+              "additionalname": "Dracula2u"
+            },
+            {
+              "identifier": "1421358938",
+              "givenname": "HoneyD",
+              "additionalname": "HoneyD207"
+            },
+            {
+              "identifier": "1945711896",
+              "givenname": "Matilda Stewart",
+              "additionalname": "m58257115"
+            },
+            {
+              "identifier": "589931785",
+              "givenname": "The Coffee Card Guy",
+              "additionalname": "collec_sport"
+            },
+            {
+              "identifier": "2461524339",
+              "givenname": "Christin",
+              "additionalname": "Christinwilbank"
+            },
+            {
+              "identifier": "299909042",
+              "givenname": "8 Ball",
+              "additionalname": "8ball8"
+            },
+            {
+              "identifier": "2606913949",
+              "givenname": "colleen",
+              "additionalname": "SuppyColleen"
+            },
+            {
+              "identifier": "2571331229",
+              "givenname": "William",
+              "additionalname": "Wr100100William"
+            },
+            {
+              "identifier": "600549445",
+              "givenname": "Lori",
+              "additionalname": "lojo4270"
+            }
+          ],
+          "interactioncounter": [
+            {
+              "userinteractioncount": "4011480",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Likes"
+            },
+            {
+              "userinteractioncount": "48",
+              "interactiontype": "https://schema.org/SubscribeAction",
+              "name": "Retweets"
+            },
+            {
+              "userinteractioncount": "40427",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Quotes"
+            },
+            {
+              "userinteractioncount": "301",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/amazon/status/583022250351325184/likes"
+            },
+            {
+              "userinteractioncount": "209",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/amazon/status/583022250351325184/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/amazon/status/583022250351325184/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "26",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/amazon/status/583022250351325184"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/Dracula2u/status/583022531667316736/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/Dracula2u/status/583022531667316736/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/Dracula2u/status/583022531667316736/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/Dracula2u/status/583022531667316736"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/HoneyD207/status/583022840963792896/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/HoneyD207/status/583022840963792896/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/HoneyD207/status/583022840963792896/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/HoneyD207/status/583022840963792896"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/m58257115/status/583024535940689920/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/m58257115/status/583024535940689920/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/m58257115/status/583024535940689920/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/m58257115/status/583024535940689920"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/collec_sport/status/583024752438177792/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/collec_sport/status/583024752438177792/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/collec_sport/status/583024752438177792/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/collec_sport/status/583024752438177792"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/Christinwilbank/status/583024893542846464/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/Christinwilbank/status/583024893542846464/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/Christinwilbank/status/583024893542846464/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/Christinwilbank/status/583024893542846464"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/8ball8/status/583025148544045057/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/8ball8/status/583025148544045057/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/8ball8/status/583025148544045057/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/8ball8/status/583025148544045057"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/SuppyColleen/status/583025233700892672/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/SuppyColleen/status/583025233700892672/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/SuppyColleen/status/583025233700892672/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/SuppyColleen/status/583025233700892672"
+            },
+            {
+              "userinteractioncount": "1",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/Wr100100William/status/583025451402153984/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/Wr100100William/status/583025451402153984/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/Wr100100William/status/583025451402153984/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/Wr100100William/status/583025451402153984"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://twitter.com/lojo4270/status/583027844449636352/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Retweets",
+              "url": "https://twitter.com/lojo4270/status/583027844449636352/retweets"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://twitter.com/lojo4270/status/583027844449636352/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Replies",
+              "url": "https://twitter.com/lojo4270/status/583027844449636352"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_normal.jpg",
+              "theme-color": "#ffffff",
+              "og:type": "article",
+              "og:site_name": "Twitter",
+              "al:ios:app_name": "Twitter",
+              "apple-mobile-web-app-title": "Twitter",
+              "og:title": "Amazon on Twitter",
+              "al:android:package": "com.twitter.android",
+              "al:ios:url": "twitter://status?id=583022250351325184",
+              "og:description": "#CandyBracket battle of the bars: @SNICKERS VS Twix. RT to vote Snickers, Fav to vote Twix. Winner goes to the semis. http://t.co/uzqVcizorz",
+              "al:ios:app_store_id": "333903271",
+              "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+              "al:android:url": "twitter://status?id=583022250351325184",
+              "fb:app_id": "2231777543",
+              "apple-mobile-web-app-status-bar-style": "white",
+              "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+              "mobile-web-app-capable": "yes",
+              "og:url": "https://twitter.com/amazon/status/583022250351325184",
+              "al:android:app_name": "Twitter"
+            }
+          ],
+          "collection": [
+            {
+              "name": "Tweet with replies"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_normal.jpg",
+              "width": "48",
+              "type": "1",
+              "height": "48"
+            }
+          ],
+          "socialmediaposting": [
+            {
+              "identifier": "583022250351325184",
+              "commentcount": "26",
+              "articlebody": "#CandyBracket battle of the bars: @SNICKERS VS Twix. RT to vote Snickers, Fav to vote Twix. Winner goes to the semis.",
+              "position": "1",
+              "datecreated": "2015-03-31T21:45:11.000Z",
+              "datepublished": "2015-03-31T21:45:11.000Z",
+              "url": "https://twitter.com/amazon/status/583022250351325184",
+              "mainentityofpage": "https://twitter.com/amazon/status/583022250351325184"
+            },
+            {
+              "identifier": "583022531667316736",
+              "commentcount": "0",
+              "articlebody": "@amazon @SNICKERS Twix",
+              "ispartof": "https://twitter.com/amazon/status/583022250351325184",
+              "position": "2",
+              "datecreated": "2015-03-31T21:46:18.000Z",
+              "datepublished": "2015-03-31T21:46:18.000Z",
+              "url": "https://twitter.com/Dracula2u/status/583022531667316736"
+            },
+            {
+              "identifier": "583022840963792896",
+              "commentcount": "0",
+              "articlebody": "@amazon @SNICKERS Why are you reposting the same thing? I voted on this this morning...but this is a new post",
+              "ispartof": "https://twitter.com/amazon/status/583022250351325184",
+              "position": "3",
+              "datecreated": "2015-03-31T21:47:31.000Z",
+              "datepublished": "2015-03-31T21:47:31.000Z",
+              "url": "https://twitter.com/HoneyD207/status/583022840963792896"
+            },
+            {
+              "identifier": "583024535940689920",
+              "commentcount": "0",
+              "articlebody": "@amazon @SNICKERS A no brainer, SNICKER'S!!!!!!😙😚",
+              "ispartof": "https://twitter.com/amazon/status/583022250351325184",
+              "position": "4",
+              "datecreated": "2015-03-31T21:54:16.000Z",
+              "datepublished": "2015-03-31T21:54:16.000Z",
+              "url": "https://twitter.com/m58257115/status/583024535940689920"
+            },
+            {
+              "identifier": "583024752438177792",
+              "commentcount": "0",
+              "articlebody": "@amazon @SNICKERS ahhhhhh how can@Snickers lose?!??",
+              "ispartof": "https://twitter.com/amazon/status/583022250351325184",
+              "position": "5",
+              "datecreated": "2015-03-31T21:55:07.000Z",
+              "datepublished": "2015-03-31T21:55:07.000Z",
+              "url": "https://twitter.com/collec_sport/status/583024752438177792"
+            },
+            {
+              "identifier": "583024893542846464",
+              "commentcount": "0",
+              "articlebody": "@amazon @SNICKERS Snickers!!! #CandyBracket",
+              "ispartof": "https://twitter.com/amazon/status/583022250351325184",
+              "position": "6",
+              "datecreated": "2015-03-31T21:55:41.000Z",
+              "datepublished": "2015-03-31T21:55:41.000Z",
+              "url": "https://twitter.com/Christinwilbank/status/583024893542846464"
+            },
+            {
+              "identifier": "583025148544045057",
+              "commentcount": "0",
+              "articlebody": "@amazon @SNICKERS ALL DAY LONG. Twix doesn't even come close.",
+              "ispartof": "https://twitter.com/amazon/status/583022250351325184",
+              "position": "7",
+              "datecreated": "2015-03-31T21:56:42.000Z",
+              "datepublished": "2015-03-31T21:56:42.000Z",
+              "url": "https://twitter.com/8ball8/status/583025148544045057"
+            },
+            {
+              "identifier": "583025233700892672",
+              "commentcount": "0",
+              "articlebody": "@amazon @SNICKERS snickerss",
+              "ispartof": "https://twitter.com/amazon/status/583022250351325184",
+              "position": "8",
+              "datecreated": "2015-03-31T21:57:02.000Z",
+              "datepublished": "2015-03-31T21:57:02.000Z",
+              "url": "https://twitter.com/SuppyColleen/status/583025233700892672"
+            },
+            {
+              "identifier": "583025451402153984",
+              "commentcount": "0",
+              "articlebody": "@amazon @SNICKERS I'd vote for Snicker's since it's so tasty.",
+              "ispartof": "https://twitter.com/amazon/status/583022250351325184",
+              "position": "9",
+              "datecreated": "2015-03-31T21:57:54.000Z",
+              "datepublished": "2015-03-31T21:57:54.000Z",
+              "url": "https://twitter.com/Wr100100William/status/583025451402153984"
+            },
+            {
+              "identifier": "583027844449636352",
+              "commentcount": "0",
+              "articlebody": "@amazon @SNICKERS. #Snickers all the way ☺",
+              "ispartof": "https://twitter.com/amazon/status/583022250351325184",
+              "position": "10",
+              "datecreated": "2015-03-31T22:07:24.000Z",
+              "datepublished": "2015-03-31T22:07:24.000Z",
+              "url": "https://twitter.com/lojo4270/status/583027844449636352"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Halloween Candy Throwdown in 8 Rounds - Chowhound",
+        "htmlTitle": "Halloween Candy Throwdown in 8 Rounds - Chowhound",
+        "link": "https://www.chowhound.com/food-news/156198/candy-throw-down-in-8-rounds/",
+        "displayLink": "www.chowhound.com",
+        "snippet": "Oct 22, 2014 ... Whipped chocolate nougat coated in milk chocolate. It has 45 percent less fat than most candy bars. Limited-edition flavors have included mint, ...",
+        "htmlSnippet": "Oct 22, 2014 <b>...</b> Whipped chocolate nougat coated in milk chocolate. It has 45 percent less fat than most candy bars. Limited-edition flavors have included mint,&nbsp;...",
+        "cacheId": "MYyLp1Jr_aEJ",
+        "formattedUrl": "https://www.chowhound.com/food-news/.../candy-throw-down-in-8-rounds/",
+        "htmlFormattedUrl": "https://www.chowhound.com/food-news/.../candy-throw-down-in-8-rounds/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.chowhound.com/a/img/resize/3863459ff0844843e00441f74619093723e04066/2014/10/mm_skittles_1.jpg?fit=bounds&width=1200",
+              "og:type": "article",
+              "og:image:width": "1280",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Halloween Candy Throwdown in 8 Rounds",
+              "og:site_name": "Chowhound",
+              "author": "Chowhound",
+              "og:title": "Halloween Candy Throwdown in 8 Rounds",
+              "og:image:height": "800",
+              "og:image:type": "image/jpeg",
+              "title": "Halloween Candy Throwdown in 8 Rounds",
+              "twitter:creator": "@chow",
+              "twitter:image": "https://www.chowhound.com/a/img/resize/3863459ff0844843e00441f74619093723e04066/2014/10/mm_skittles_1.jpg?fit=bounds&width=1200",
+              "fb:app_id": "177874162887",
+              "fragment": "!",
+              "twitter:site": "@chow",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:url": "https://www.chowhound.com/food-news/156198/candy-throw-down-in-8-rounds/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.chowhound.com/a/img/resize/3863459ff0844843e00441f74619093723e04066/2014/10/mm_skittles_1.jpg?fit=bounds&width=1200",
+              "width": "275",
+              "type": "1",
+              "height": "183"
+            }
+          ],
+          "sitenavigationelement": [
+            {
+              "name": "How To",
+              "url": "How To"
+            },
+            {
+              "name": "Recipes",
+              "url": "Recipes"
+            },
+            {
+              "name": "13 Easy Ingredient Swaps for Healthier Cooking",
+              "url": "13 Easy Ingredient Swaps for Healthier Cooking"
+            },
+            {
+              "name": "9 Baking Mistakes That Ruin Your Cakes, Cookies, Brownies & Bread",
+              "url": "9 Baking Mistakes That Ruin Your Cakes, Cookies, Brownies & Bread"
+            },
+            {
+              "name": "Learn to Cook with the Best Cookbooks for Beginners",
+              "url": "Learn to Cook with the Best Cookbooks for Beginners"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "2": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 1,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 21,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "context": {
+      "title": "darik"
+    },
+    "searchInformation": {
+      "searchTime": 0.355882,
+      "formattedSearchTime": "0.36",
+      "totalResults": "2780",
+      "formattedTotalResults": "2,780"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "M&M's vs Twix: Side-by-Side Comparison",
+        "htmlTitle": "M&amp;M&#39;s <b>vs Twix</b>: Side-by-Side Comparison",
+        "link": "https://chocolates.knoji.com/compare/mms-vs-twix/",
+        "displayLink": "chocolates.knoji.com",
+        "snippet": "Nov 14, 2021 ... Compare Mms.com vs Twix.com to select the best Chocolate Brands for your needs. See the pros and cons of Twix vs M&M's based on free returns ...",
+        "htmlSnippet": "Nov 14, 2021 <b>...</b> Compare Mms.com <b>vs Twix</b>.com to select the best Chocolate Brands for your needs. See the pros and cons of Twix vs M&amp;M&#39;s based on free returns&nbsp;...",
+        "cacheId": "2RjZjP6TCz0J",
+        "formattedUrl": "https://chocolates.knoji.com/compare/mms-vs-twix/",
+        "htmlFormattedUrl": "https://chocolates.knoji.com/compare/mms-<b>vs-twix</b>/",
+        "pagemap": {
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#039ff7",
+              "p:domain_verify": "2a45c584bb2159e59fc5ddae4e0d52e4",
+              "referrer": "unsafe-url",
+              "og:image": "https://cdn.knoji.com/images/category/food.jpg",
+              "theme-color": "#ffffff",
+              "og:site_name": "Knoji",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "M&M's vs Twix: Side-by-Side Comparison",
+              "og:description": "Compare Mms.com vs Twix.com to select the best Chocolate Brands for your needs. See the pros and cons of Twix vs M&M's based on free returns & exchanges, international shipping, curbside pickup, PayPal,  and more. Last updated on November 14, 2021."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://cdn.knoji.com/images/category/food.jpg",
+              "width": "285",
+              "type": "1",
+              "height": "177"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Snickers Vs. Twix: Which Is Better And Why?",
+        "htmlTitle": "Snickers Vs. Twix: Which Is Better And Why?",
+        "link": "https://juliescafebakery.com/snickers-vs-twix/",
+        "displayLink": "juliescafebakery.com",
+        "snippet": "Snickers and Twix are widely popular chocolate bars, and they are adored around the whole world. If you look at their package labels you might notice that.",
+        "htmlSnippet": "Snickers and Twix are widely popular chocolate bars, and they are adored around the whole world. If you look at their package labels you might notice that.",
+        "cacheId": "p4nyF9nqsCoJ",
+        "formattedUrl": "https://juliescafebakery.com/snickers-vs-twix/",
+        "htmlFormattedUrl": "https://juliescafebakery.com/snickers-<b>vs-twix</b>/",
+        "pagemap": {
+          "person": [
+            {
+              "name": "Laura",
+              "url": "Laura"
+            },
+            {
+              "name": "Laura",
+              "url": "Laura"
+            }
+          ],
+          "organization": [
+            {
+              "name": "Julie's Cafe Bakery",
+              "url": "Julie's Cafe Bakery"
+            },
+            {
+              "name": "Julie's Cafe Bakery",
+              "url": "Julie's Cafe Bakery"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://juliescafebakery.com/wp-content/uploads/Snickers-Vs-Twix.jpg",
+              "og:type": "article",
+              "article:section": "Food Questions",
+              "og:image:width": "1200",
+              "og:image:alt": "Snickers Vs Twix",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Snickers Vs. Twix: Which Is Better And Why?",
+              "og:site_name": "Julie's Cafe Bakery",
+              "og:title": "Snickers Vs. Twix: Which Is Better And Why?",
+              "og:image:height": "628",
+              "og:image:type": "image/jpeg",
+              "og:updated_time": "2021-11-01T20:02:14+01:00",
+              "msapplication-tileimage": "https://juliescafebakery.com/wp-content/uploads/cropped-ikon-270x270.png",
+              "og:description": "Snickers and Twix are widely popular chocolate bars, and they are adored around the whole world. If you look at their package labels you might notice that",
+              "twitter:creator": "@LauraSaysHi2",
+              "og:image:secure_url": "https://juliescafebakery.com/wp-content/uploads/Snickers-Vs-Twix.jpg",
+              "twitter:image": "https://juliescafebakery.com/wp-content/uploads/Snickers-Vs-Twix.jpg",
+              "article:tag": "Chocolate",
+              "twitter:site": "@info@incomera-doo.com",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "Snickers and Twix are widely popular chocolate bars, and they are adored around the whole world. If you look at their package labels you might notice that",
+              "og:locale": "en_US",
+              "og:url": "https://juliescafebakery.com/snickers-vs-twix/"
+            }
+          ],
+          "creativework": [
+            {
+              "image": "https://juliescafebakery.com/wp-content/uploads/Snickers-Vs-Twix-1024x536.jpg",
+              "text": "Snickers and Twix are widely popular chocolate bars, and they are adored around the whole world. If you look at their package labels you might notice that they have some similar ingredients,...",
+              "headline": "Snickers Vs. Twix: Which Is Better And Why?"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://juliescafebakery.com/wp-content/uploads/Snickers-Vs-Twix.jpg",
+              "width": "150",
+              "type": "0",
+              "height": "79"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Kit Kat vs Twix. Snickers vs Milky Way. Nerds or Skittles and More ...",
+        "htmlTitle": "Kit Kat <b>vs Twix</b>. Snickers vs Milky Way. Nerds or Skittles and More ...",
+        "link": "http://2guyzonmarketing.com/kit-kat-vs-twix-snickers-vs-milky-way-nerds-or-skittles-and-more/",
+        "displayLink": "2guyzonmarketing.com",
+        "snippet": "Kit Kat vs Twix. Snickers vs Milky Way. Nerds or Skittles and More. October 25, 2018. When I look to the best and worst Halloween candy (and marketing), ...",
+        "htmlSnippet": "Kit Kat <b>vs Twix</b>. Snickers vs Milky Way. Nerds or Skittles and More. October 25, 2018. When I look to the best and worst Halloween candy (and marketing),&nbsp;...",
+        "cacheId": "zQdjhElC4lsJ",
+        "formattedUrl": "2guyzonmarketing.com/kit-kat-vs-twix-snickers-vs-milky-way-nerds-or- skittles-and-more/",
+        "htmlFormattedUrl": "2guyzonmarketing.com/kit-kat-<b>vs-twix</b>-snickers-vs-milky-way-nerds-or- skittles-and-more/",
+        "pagemap": {
+          "metatags": [
+            {
+              "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "http://2guyzonmarketing.com/wp-content/uploads/2018/10/pexels-photo-1494175.jpeg",
+              "width": "275",
+              "type": "1",
+              "height": "183"
+            }
+          ],
+          "article": [
+            {
+              "headline": "Kit Kat vs Twix. Snickers vs Milky Way. Nerds or Skittles and More."
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Butterfinger Vs. Twix: Differences & Which Is Better?",
+        "htmlTitle": "Butterfinger Vs. Twix: Differences &amp; Which Is Better?",
+        "link": "https://juliescafebakery.com/butterfinger-vs-twix/",
+        "displayLink": "juliescafebakery.com",
+        "snippet": "In the seemingly sweet and delicious world of candy treats, competition is fierce. Everyone has their personal favorites and justifications behind their.",
+        "htmlSnippet": "In the seemingly sweet and delicious world of candy treats, competition is fierce. Everyone has their personal favorites and justifications behind their.",
+        "cacheId": "RS76S8a0bOsJ",
+        "formattedUrl": "https://juliescafebakery.com/butterfinger-vs-twix/",
+        "htmlFormattedUrl": "https://juliescafebakery.com/butterfinger-<b>vs-twix</b>/",
+        "pagemap": {
+          "person": [
+            {
+              "name": "Laura",
+              "url": "Laura"
+            },
+            {
+              "name": "Laura",
+              "url": "Laura"
+            }
+          ],
+          "organization": [
+            {
+              "name": "Julie's Cafe Bakery",
+              "url": "Julie's Cafe Bakery"
+            },
+            {
+              "name": "Julie's Cafe Bakery",
+              "url": "Julie's Cafe Bakery"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://juliescafebakery.com/wp-content/uploads/butterfinger-vs-twix.jpg",
+              "og:type": "article",
+              "article:section": "Food Questions",
+              "og:image:width": "1200",
+              "og:image:alt": "butterfinger vs twix",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Butterfinger Vs. Twix: Differences & Which Is Better?",
+              "og:site_name": "Julie's Cafe Bakery",
+              "og:title": "Butterfinger Vs. Twix: Differences & Which Is Better?",
+              "og:image:height": "628",
+              "og:image:type": "image/jpeg",
+              "og:updated_time": "2021-11-20T21:14:19+01:00",
+              "msapplication-tileimage": "https://juliescafebakery.com/wp-content/uploads/cropped-ikon-270x270.png",
+              "og:description": "In the seemingly sweet and delicious world of candy treats, competition is fierce. Everyone has their personal favorites and justifications behind their",
+              "twitter:creator": "@LauraSaysHi2",
+              "og:image:secure_url": "https://juliescafebakery.com/wp-content/uploads/butterfinger-vs-twix.jpg",
+              "twitter:image": "https://juliescafebakery.com/wp-content/uploads/butterfinger-vs-twix.jpg",
+              "article:tag": "Chocolate",
+              "twitter:site": "@info@incomera-doo.com",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "In the seemingly sweet and delicious world of candy treats, competition is fierce. Everyone has their personal favorites and justifications behind their",
+              "og:locale": "en_US",
+              "og:url": "https://juliescafebakery.com/butterfinger-vs-twix/"
+            }
+          ],
+          "creativework": [
+            {
+              "image": "https://juliescafebakery.com/wp-content/uploads/butterfinger-vs-twix-1024x536.jpg",
+              "text": "In the seemingly sweet and delicious world of candy treats, competition is fierce. Everyone has their personal favorites and justifications behind their choice. Two names that often come up...",
+              "headline": "Butterfinger Vs. Twix: Differences & Which Is Better?"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://juliescafebakery.com/wp-content/uploads/butterfinger-vs-twix.jpg",
+              "width": "150",
+              "type": "0",
+              "height": "79"
+            }
+          ],
+          "BlogPosting": [
+            {
+              "datePublished": "2021-11-20T21:14:16+01:00",
+              "name": "Butterfinger Vs. Twix: Differences & Which Is Better?",
+              "description": "In the seemingly sweet and delicious world of candy treats, competition is fierce. Everyone has their personal favorites and justifications behind their",
+              "inLanguage": "en-US",
+              "dateModified": "2021-11-20T21:14:19+01:00",
+              "headline": "Butterfinger Vs. Twix: Differences & Which Is Better?"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Friday Night Fight Twix vs Twix Ice Cream Bar",
+        "htmlTitle": "Friday Night Fight Twix <b>vs Twix</b> Ice Cream Bar",
+        "link": "https://www.onsecondscoop.com/2012/08/friday-night-fight-twix-vs-twix-ice.html?m=1",
+        "displayLink": "www.onsecondscoop.com",
+        "snippet": "Aug 3, 2012 ... Twix vs Twix Ice Cream Bar. I know companies have painfully forced the year of the greek froyo upon us, but in a much more fun world, ...",
+        "htmlSnippet": "Aug 3, 2012 <b>...</b> Twix <b>vs Twix</b> Ice Cream Bar. I know companies have painfully forced the year of the greek froyo upon us, but in a much more fun world,&nbsp;...",
+        "cacheId": "2VJKeOd0HYIJ",
+        "formattedUrl": "https://www.onsecondscoop.com/.../friday-night-fight-twix-vs-twix-ice.html? ...",
+        "htmlFormattedUrl": "https://www.onsecondscoop.com/.../friday-night-fight-twix-<b>vs-twix</b>-ice.html? ...",
+        "pagemap": {
+          "person": [
+            {
+              "name": "Dubba Scoops",
+              "url": "https://www.blogger.com/profile/07135130511349727532"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "//3.bp.blogspot.com/-5CcIzDlwczk/UBxwtl9FnPI/AAAAAAAAEOE/By1_9EkpU7U/w1200-h630-p-k-no-nu/twix_ice_cream_bar_fight_1.jpg",
+              "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0",
+              "og:title": "Friday Night Fight <br> Twix vs Twix Ice Cream Bar",
+              "google-adsense-platform-domain": "blogspot.com",
+              "google-adsense-platform-account": "ca-host-pub-1556223355139109",
+              "og:url": "https://www.onsecondscoop.com/2012/08/friday-night-fight-twix-vs-twix-ice.html",
+              "og:description": "I know companies have painfully forced the year of the greek froyo upon us, but in a much more fun world, I want to call it the year of the ..."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://3.bp.blogspot.com/-5CcIzDlwczk/UBxwtl9FnPI/AAAAAAAAEOE/By1_9EkpU7U/s1600/twix_ice_cream_bar_fight_1.jpg",
+              "width": "278",
+              "type": "1",
+              "height": "181"
+            }
+          ],
+          "blogposting": [
+            {
+              "articlebody": "I know companies have painfully forced the year of the greek froyo upon us, but in a much more fun world, I want to call it the year of the candy bar inspired ice creams. Maybe Magnum kicked...",
+              "image_url": "http://3.bp.blogspot.com/-5CcIzDlwczk/UBxwtl9FnPI/AAAAAAAAEOE/By1_9EkpU7U/s72-c/twix_ice_cream_bar_fight_1.jpg",
+              "name": "Friday Night Fight Twix vs Twix Ice Cream Bar",
+              "postid": "1672851649192884500",
+              "blogid": "384329692727378622"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Westminster Parks & Recreation",
+        "htmlTitle": "Westminster Parks &amp; Recreation",
+        "link": "https://www.teamsideline.com/sites/westminster/calendar",
+        "displayLink": "www.teamsideline.com",
+        "snippet": "Use this page to view Westminster Parks & Recreation events. Click an Event name to see details about that Event. Subscribe to this Calendar.",
+        "htmlSnippet": "Use this page to view Westminster Parks &amp; Recreation events. Click an Event name to see details about that Event. Subscribe to this Calendar.",
+        "cacheId": "bPTH1nXGQs8J",
+        "formattedUrl": "https://www.teamsideline.com/sites/westminster/calendar",
+        "htmlFormattedUrl": "https://www.teamsideline.com/sites/westminster/calendar",
+        "pagemap": {
+          "metatags": [
+            {
+              "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Raider vs. Twix | Memórias de infância, Anúncios antigos, Infância",
+        "htmlTitle": "Raider vs. Twix | Memórias de infância, Anúncios antigos, Infância",
+        "link": "https://www.pinterest.com/pin/676384437758757291/",
+        "displayLink": "www.pinterest.com",
+        "snippet": "Beyond the eulogies bestowed this week on the late and truly great Nelson Mandela, a visionary, revolutionary, and peacemaker, there is much for Americans ...",
+        "htmlSnippet": "Beyond the eulogies bestowed this week on the late and truly great Nelson Mandela, a visionary, revolutionary, and peacemaker, there is much for Americans&nbsp;...",
+        "cacheId": "AgjvPEe-OTgJ",
+        "formattedUrl": "https://www.pinterest.com/pin/676384437758757291/",
+        "htmlFormattedUrl": "https://www.pinterest.com/pin/676384437758757291/",
+        "pagemap": {
+          "metatags": [
+            {
+              "application-name": "Pinterest",
+              "msapplication-tilecolor": "#ffffff",
+              "og:image": "https://i.pinimg.com/736x/84/f6/e6/84f6e636dac20b34bc87f196853484d0--cub-scouts-childhood-memories.jpg",
+              "og:type": "pinterestapp:pin",
+              "og:image:width": "736",
+              "twitter:title": "Raider vs. Twix | Memórias de infância, Anúncios antigos, Infância",
+              "og:site_name": "Pinterest",
+              "og:title": "Raider vs. Twix | Memórias de infância, Anúncios antigos, Infância",
+              "og:image:height": "552",
+              "msapplication-tileimage": "https://s.pinimg.com/webapp/logo_trans_144x144-5e37c0c6.png",
+              "pinterestapp:pinboard": "https://www.pinterest.com/imaskarin/sweets/",
+              "pinterestapp:repins": "2",
+              "og:description": "16/nov/2015 - ivan maskarin encontrou este Pin. Encontre (e salve!) seus próprios Pins no Pinterest.",
+              "twitter:image:src": "https://i.pinimg.com/736x/84/f6/e6/84f6e636dac20b34bc87f196853484d0--cub-scouts-childhood-memories.jpg",
+              "pinterestapp:pinner": "https://www.pinterest.com/imaskarin/",
+              "referrer": "origin",
+              "fb:app_id": "274266067164",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "16/nov/2015 - ivan maskarin encontrou este Pin. Encontre (e salve!) seus próprios Pins no Pinterest.",
+              "og:url": "https://www.pinterest.pt/pin/24629129185052224/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i.pinimg.com/736x/84/f6/e6/84f6e636dac20b34bc87f196853484d0--cub-scouts-childhood-memories.jpg",
+              "width": "259",
+              "type": "1",
+              "height": "194"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "are there any discernible differences between twix, mars bar and ...",
+        "htmlTitle": "are there any discernible differences between twix, mars bar and ...",
+        "link": "https://www.reddit.com/r/melbourne/comments/3tt0op/are_there_any_discernible_differences_between/",
+        "displayLink": "www.reddit.com",
+        "snippet": "Nov 22, 2015 ... Snickers pods also have the peanut taste, and aren't gooey. There's something slightly different with Mars vs Twix, but I've never been able to ...",
+        "htmlSnippet": "Nov 22, 2015 <b>...</b> Snickers pods also have the peanut taste, and aren&#39;t gooey. There&#39;s something slightly different with Mars <b>vs Twix</b>, but I&#39;ve never been able to&nbsp;...",
+        "cacheId": "D-8F4XnSLQ4J",
+        "formattedUrl": "https://www.reddit.com/r/.../are_there_any_discernible_differences_between/",
+        "htmlFormattedUrl": "https://www.reddit.com/r/.../are_there_any_discernible_differences_between/",
+        "pagemap": {
+          "metatags": [
+            {
+              "theme-color": "#000000",
+              "apple-mobile-web-app-status-bar-style": "black",
+              "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+              "apple-mobile-web-app-capable": "yes",
+              "msapplication-navbutton-color": "#000000"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://preview.redd.it/px04girrka281.jpg?width=640&crop=smart&auto=webp&s=acb7fe785e52bb67147c73ce98c63fb8da10a59c",
+              "width": "194",
+              "type": "1",
+              "height": "259"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Raider vs. Twix - a photo on Flickriver",
+        "htmlTitle": "Raider vs. Twix - a photo on Flickriver",
+        "link": "https://www.pinterest.com/pin/142778250657941934/",
+        "displayLink": "www.pinterest.com",
+        "snippet": "RESERVED FOR SALLY - ~ French Vintage 1980's Leather School Bag, Tann's Leather & Suede Student Bag, Brief Case, Office / Note Book Bag This is a gorgeous ...",
+        "htmlSnippet": "RESERVED FOR SALLY - ~ French Vintage 1980&#39;s Leather School Bag, Tann&#39;s Leather &amp; Suede Student Bag, Brief Case, Office / Note Book Bag This is a gorgeous&nbsp;...",
+        "cacheId": "FIMOZyLK3k8J",
+        "formattedUrl": "https://www.pinterest.com/pin/142778250657941934/",
+        "htmlFormattedUrl": "https://www.pinterest.com/pin/142778250657941934/",
+        "pagemap": {
+          "metatags": [
+            {
+              "application-name": "Pinterest",
+              "msapplication-tilecolor": "#ffffff",
+              "og:see_also": "http://www.flickriver.com/photos/like_the_grand_canyon/4129194254/",
+              "og:image": "https://i.pinimg.com/736x/d6/fe/42/d6fe42606dc82fea263d5f4b012f527e--cub-scouts-raiders.jpg",
+              "og:type": "pinterestapp:pin",
+              "og:image:width": "640",
+              "twitter:title": "Raider, ancêtre du Twix | Memórias de infância, Anúncios antigos, Infância",
+              "pinterestapp:source": "http://www.flickriver.com/photos/like_the_grand_canyon/4129194254/",
+              "og:site_name": "Pinterest",
+              "og:title": "Raider, ancêtre du Twix | Memórias de infância, Anúncios antigos, Infância",
+              "og:image:height": "480",
+              "msapplication-tileimage": "https://s.pinimg.com/webapp/logo_trans_144x144-5e37c0c6.png",
+              "pinterestapp:pinboard": "https://www.pinterest.com/caromadejska/memories/",
+              "pinterestapp:repins": "3",
+              "og:description": "20/out/2012 - Flickriver - view images as a 'river of photos' and more...",
+              "twitter:image:src": "https://i.pinimg.com/736x/d6/fe/42/d6fe42606dc82fea263d5f4b012f527e--cub-scouts-raiders.jpg",
+              "pinterestapp:pinner": "https://www.pinterest.com/caromadejska/",
+              "referrer": "origin",
+              "fb:app_id": "274266067164",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "20/out/2012 - Flickriver - view images as a 'river of photos' and more...",
+              "og:url": "https://www.pinterest.pt/pin/24629129185052224/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i.pinimg.com/736x/d6/fe/42/d6fe42606dc82fea263d5f4b012f527e--cub-scouts-raiders.jpg",
+              "width": "259",
+              "type": "1",
+              "height": "194"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Kinder Bueno VS Twix - The Student Room",
+        "htmlTitle": "Kinder Bueno <b>VS Twix</b> - The Student Room",
+        "link": "https://www.thestudentroom.co.uk/showthread.php?t=6845902",
+        "displayLink": "www.thestudentroom.co.uk",
+        "snippet": "Kinder Bueno VS Twix. Watch. Announcements. 1. Applying to uni? Chat with other students here! >> Poll: Kinder Bueno or Twix? Kinder Bueno. Twix. Neither.",
+        "htmlSnippet": "Kinder Bueno <b>VS Twix</b>. Watch. Announcements. 1. Applying to uni? Chat with other students here! &gt;&gt; Poll: Kinder Bueno or Twix? Kinder Bueno. Twix. Neither.",
+        "cacheId": "RjWksaQPct8J",
+        "formattedUrl": "https://www.thestudentroom.co.uk/showthread.php?t=6845902",
+        "htmlFormattedUrl": "https://www.thestudentroom.co.uk/showthread.php?t=6845902",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "//static.thestudentroom.co.uk/619e24cc43dae/forum/images/base/logo-facebook.png",
+              "og:type": "article",
+              "twitter:card": "summary",
+              "twitter:title": "Kinder Bueno VS Twix",
+              "og:site_name": "The Student Room",
+              "og:title": "Kinder Bueno VS Twix",
+              "twitter:image": "https://www.thestudentroom.co.uk/images/base/logo-twitter.png",
+              "referrer": "unsafe-url",
+              "fb:app_id": "125126740892727",
+              "twitter:site": "@thestudentroom",
+              "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0",
+              "twitter:description": "Find answers to important life and education questions on the TSR forums: Kinder Bueno VS Twix",
+              "og:url": "https://www.thestudentroom.co.uk/showthread.php?t=6845902&utm_source=facebook&utm_medium=fblikebutton&utm_campaign=thread",
+              "format-detection": "telephone=no"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.thestudentroom.co.uk/attachment.php?attachmentid=986306&d=$attachment[dateline]",
+              "width": "259",
+              "type": "1",
+              "height": "194"
+            }
+          ],
+          "listitem": [
+            {
+              "item": "Home",
+              "name": "Home",
+              "position": "1"
+            },
+            {
+              "item": "Forums",
+              "name": "Forums",
+              "position": "2"
+            },
+            {
+              "item": "Life and style",
+              "name": "Life and style",
+              "position": "3"
+            },
+            {
+              "item": "Food and drink",
+              "name": "Food and drink",
+              "position": "4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "3": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 21,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 31,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "context": {
+      "title": "darik"
+    },
+    "searchInformation": {
+      "searchTime": 0.465429,
+      "formattedSearchTime": "0.47",
+      "totalResults": "2780",
+      "formattedTotalResults": "2,780"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Hershey's vs Snickers vs Twix vs Kit-Kat - Off-Topic - Comic Vine",
+        "htmlTitle": "Hershey&#39;s vs Snickers <b>vs Twix</b> vs Kit-Kat - Off-Topic - Comic Vine",
+        "link": "https://comicvine.gamespot.com/forums/off-topic-5/hershey-s-vs-snickers-vs-twix-vs-kit-kat-1649539/",
+        "displayLink": "comicvine.gamespot.com",
+        "snippet": "Poll Hershey's vs Snickers vs Twix vs Kit-Kat (23 votes). Hershey's 13%. Snickers 26%. Twix 26%. Kit-Kat 17%. Other 17%. Which is your favorite chocolate ...",
+        "htmlSnippet": "Poll Hershey&#39;s vs Snickers <b>vs Twix</b> vs Kit-Kat (23 votes). Hershey&#39;s 13%. Snickers 26%. Twix 26%. Kit-Kat 17%. Other 17%. Which is your favorite chocolate&nbsp;...",
+        "cacheId": "GdkbinG4Ej0J",
+        "formattedUrl": "https://comicvine.gamespot.com/.../hershey-s-vs-snickers-vs-twix-vs-kit-kat- 1649539/",
+        "htmlFormattedUrl": "https://comicvine.gamespot.com/.../hershey-s-vs-snickers-<b>vs-twix</b>-vs-kit-kat- 1649539/",
+        "pagemap": {
+          "metatags": [
+            {
+              "application-name": "Comic Vine",
+              "msapplication-tilecolor": "#26292B",
+              "og:image": "https://comicvine.gamespot.com/a/bundles/comicvinesite/images/logo.png",
+              "ssbfo": "PvyTlN0WyNnzOA+xzZqW521vOa6AZaSx4Qe37bbToxU10q6P+En2uAX5gw==",
+              "twitter:card": "summary",
+              "og:type": "object",
+              "og:site_name": "Comic Vine",
+              "js-loading-html": "<div class=\"js-loader loader \"><div class=\"loader-animation\"><div class=\"loader-atomic-ring\"></div></div></div>",
+              "og:title": "Hershey's vs Snickers vs Twix vs Kit-Kat - Off-Topic - Comic Vine",
+              "msapplication-tileimage": "https://comicvine.gamespot.com/a/bundles/comicvinesite/images/win8pin.png",
+              "twitter:creator": "@Comic Vine",
+              "og:description": "Which is your favorite chocolate brand?",
+              "devicetype": "phone",
+              "modal-cdn-url": "/js/modals.json",
+              "twitter:site": "@Comic Vine",
+              "userauthstate": "noUser",
+              "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+              "view-guid-meta": "dd9466c5-e125-4856-93cc-fc9cddb6fcfb",
+              "og:url": "https://comicvine.gamespot.com/forums/off-topic-5/hershey-s-vs-snickers-vs-twix-vs-kit-kat-1649539/",
+              "js-sort-filter-text": "no"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://comicvine.gamespot.com/a/bundles/comicvinesite/images/logo.png",
+              "width": "308",
+              "type": "1",
+              "height": "164"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Kit Kat vs. Snickers vs. Twix - Biology Matters",
+        "htmlTitle": "Kit Kat vs. Snickers vs. Twix - Biology Matters",
+        "link": "http://ehsbioblog.blogspot.com/2013/03/kit-kat-vs-snickers-vs-twix.html",
+        "displayLink": "ehsbioblog.blogspot.com",
+        "snippet": "Mar 8, 2013 ... You can see clearly that I picked the three different Candy bars and in the table it tells you the nutrition facts of every candy bar that ...",
+        "htmlSnippet": "Mar 8, 2013 <b>...</b> You can see clearly that I picked the three different Candy bars and in the table it tells you the nutrition facts of every candy bar that&nbsp;...",
+        "cacheId": "EoJ8HBbt9WgJ",
+        "formattedUrl": "ehsbioblog.blogspot.com/2013/03/kit-kat-vs-snickers-vs-twix.html",
+        "htmlFormattedUrl": "ehsbioblog.blogspot.com/2013/03/kit-kat-vs-snickers-<b>vs-twix</b>.html",
+        "pagemap": {
+          "person": [
+            {
+              "name": "Hammer",
+              "url": "https://www.blogger.com/profile/15632434704967646680"
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0",
+              "og:title": "Kit Kat vs. Snickers vs. Twix",
+              "google-adsense-platform-domain": "blogspot.com",
+              "google-adsense-platform-account": "ca-host-pub-1556223355139109",
+              "og:url": "http://ehsbioblog.blogspot.com/2013/03/kit-kat-vs-snickers-vs-twix.html",
+              "og:description": "Sebastian Morales   Candy Bars   Kit Kats, Sneakers, Twix            Candy Bar         Total Carbohydrate         Total fat         Protei..."
+            }
+          ],
+          "blogposting": [
+            {
+              "articlebody": "Sebastian Morales Candy Bars Kit Kats, Sneakers, Twix Candy Bar Total Carbohydrate Total fat Protein Cholesterol Sodium Calories Vitamin A Kit Kat 27g 11g 3g 5mg 23mg 218 1% Snickers 33g 12g...",
+              "name": "Kit Kat vs. Snickers vs. Twix",
+              "postid": "5432858427207139872",
+              "blogid": "748559254852016395",
+              "url": "http://ehsbioblog.blogspot.com/2013/03/kit-kat-vs-snickers-vs-twix.html",
+              "datepublished": "8:24 AM"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Retro Raider vs. the 2009 Twix! | Like_the_Grand_Canyon | Flickr",
+        "htmlTitle": "Retro Raider vs. the 2009 Twix! | Like_the_Grand_Canyon | Flickr",
+        "link": "https://www.flickr.com/photos/like_the_grand_canyon/4129194254",
+        "displayLink": "www.flickr.com",
+        "snippet": "Yeah!! Iremember when it was called Raider. I found this pic searching the word \" raider and twinks\" because i wanted to show it to my bf .",
+        "htmlSnippet": "Yeah!! Iremember when it was called Raider. I found this pic searching the word &quot; raider and twinks&quot; because i wanted to show it to my bf .",
+        "formattedUrl": "https://www.flickr.com/photos/like_the_grand_canyon/4129194254",
+        "htmlFormattedUrl": "https://www.flickr.com/photos/like_the_grand_canyon/4129194254",
+        "pagemap": {
+          "metatags": [
+            {
+              "twitter:app:id:googleplay": "com.flickr.android",
+              "og:image": "https://live.staticflickr.com/2634/4129194254_29c20b610d_b.jpg",
+              "twitter:app:url:iphone": "flickr://flickr.com/photos/like_the_grand_canyon/4129194254/",
+              "og:image:width": "1024",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "Flickr",
+              "twitter:app:url:ipad": "flickr://flickr.com/photos/like_the_grand_canyon/4129194254/",
+              "twitter:app:name:googleplay": "Flickr",
+              "twitter:app:id:iphone": "328407587",
+              "msapplication-tileimage": "https://combo.staticflickr.com/pw/images/favicons/favicon-144.png",
+              "title": "Raider vs. Twix",
+              "al:ios:url": "flickr://flickr.com/photos/like_the_grand_canyon/4129194254",
+              "og:description": "Retro Raider vs. the 2009 Twix!",
+              "twitter:creator": "@20Tage",
+              "al:ios:app_store_id": "328407587",
+              "twitter:image": "https://live.staticflickr.com/2634/4129194254_29c20b610d_b.jpg",
+              "twitter:site": "@flickr",
+              "application-name": "Raider vs. Twix | Retro Raider vs. the 2009 Twix! | Like_the_Grand_Canyon | Flickr",
+              "msapplication-tilecolor": "#ffffff",
+              "og:type": "article",
+              "al:ios:app_name": "Flickr",
+              "og:title": "Raider vs. Twix",
+              "twitter:app:id:ipad": "328407587",
+              "og:image:height": "768",
+              "og:updated_time": "2021-11-28T20:58:37.954Z",
+              "fb:app_id": "137206539707334",
+              "twitter:app:url:googleplay": "https://www.flickr.com/photos/like_the_grand_canyon/4129194254/",
+              "twitter:app:name:ipad": "Flickr",
+              "twitter:description": "Retro Raider vs. the 2009 Twix!",
+              "og:url": "https://www.flickr.com/photos/like_the_grand_canyon/4129194254/",
+              "twitter:app:name:iphone": "Flickr"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://live.staticflickr.com/2634/4129194254_29c20b610d_b.jpg",
+              "width": "259",
+              "type": "1",
+              "height": "194"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "snickers vs twix by Emma Kunst",
+        "htmlTitle": "snickers <b>vs twix</b> by Emma Kunst",
+        "link": "https://prezi.com/p/ywu_c40pq_rt/snickers-vs-twix/",
+        "displayLink": "prezi.com",
+        "snippet": "snickers vs twix. Number of times this content has been viewed 2 Button to like this content Button to share content Button to report this content Button to ...",
+        "htmlSnippet": "snickers <b>vs twix</b>. Number of times this content has been viewed 2 Button to like this content Button to share content Button to report this content Button to&nbsp;...",
+        "cacheId": "AUC0y-XoLCkJ",
+        "formattedUrl": "https://prezi.com/p/ywu_c40pq_rt/snickers-vs-twix/",
+        "htmlFormattedUrl": "https://prezi.com/p/ywu_c40pq_rt/snickers-<b>vs-twix</b>/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://0901.static.prezi.com/preview/v2/oeavv7ruik2yv2lno3w2jx2p2h6jc3sachvcdoaizecfr3dnitcq_3_0.png",
+              "og:type": "website",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "snickers vs twix",
+              "og:site_name": "prezi.com",
+              "twitter:domain": "prezi.com",
+              "msvalidate.01": "256D24D16694018A98CD38E3CB2E4132",
+              "twitter:url": "https://prezi.com/p/ywu_c40pq_rt/snickers-vs-twix/",
+              "og:title": "snickers vs twix",
+              "y_key": "c35eebc2904a0fbc",
+              "og:description": "snickers vs twix Created by PERSON for PERSON looks better i think that snickers are better looking looks better i don't think that twix looks better that snickers. taste better taste beter i think that twix taste better i think that twix taste better than snickers Topic 3 Topic 3",
+              "twitter:image": "https://0901.static.prezi.com/preview/v2/oeavv7ruik2yv2lno3w2jx2p2h6jc3sachvcdoaizecfr3dnitcq_3_0.png",
+              "fb:app_id": "298315034451",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "snickers vs twix Created by PERSON for PERSON looks better i think that snickers are better looking looks better i don't think that twix looks better that snickers. taste better taste beter i think that twix taste better i think that twix taste better than snickers Topic 3 Topic 3",
+              "og:url": "https://prezi.com/p/ywu_c40pq_rt/snickers-vs-twix/",
+              "twitter:account_id": "35860484"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://0901.static.prezi.com/preview/v2/oeavv7ruik2yv2lno3w2jx2p2h6jc3sachvcdoaizecfr3dnitcq_3_0.png",
+              "width": "300",
+              "type": "1",
+              "height": "168"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "[452] Bout one: Snickers vs. Twix - Monday, June ... - Namir Deiter",
+        "htmlTitle": "[452] Bout one: Snickers vs. Twix - Monday, June ... - Namir Deiter",
+        "link": "https://namirdeiter.com/comics/index.php?date=20030623",
+        "displayLink": "namirdeiter.com",
+        "snippet": "Jun 23, 2003 ... Monday, June 23rd 2003 - [452] Bout one: Snickers vs. Twix. Twix · Snickers · Newspaper · Previous · First.",
+        "htmlSnippet": "Jun 23, 2003 <b>...</b> Monday, June 23rd 2003 - [452] Bout one: Snickers vs. Twix. Twix &middot; Snickers &middot; Newspaper &middot; Previous &middot; First.",
+        "cacheId": "Zo6S81rS6vUJ",
+        "formattedUrl": "https://namirdeiter.com/comics/index.php?date=20030623",
+        "htmlFormattedUrl": "https://namirdeiter.com/comics/index.php?date=20030623",
+        "pagemap": {
+          "metatags": [
+            {
+              "author": "Isabel Marks"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.namirdeiter.com/comics/20030623.jpg",
+              "width": "291",
+              "type": "1",
+              "height": "173"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Is Fun-Sized Candy Really More Fun? A Comprehensive Investigation",
+        "htmlTitle": "Is Fun-Sized Candy Really More Fun? A Comprehensive Investigation",
+        "link": "https://www.gawker.com/is-fun-sized-candy-really-more-fun-a-comprehensive-inv-1653344366",
+        "displayLink": "www.gawker.com",
+        "snippet": "Oct 31, 2014 ... We love our children very much, mostly because we can dress them however we like. But sometimes, particularly on Halloween, we cannot or do ...",
+        "htmlSnippet": "Oct 31, 2014 <b>...</b> We love our children very much, mostly because we can dress them however we like. But sometimes, particularly on Halloween, we cannot or do&nbsp;...",
+        "cacheId": "f5DbQbpAt9oJ",
+        "formattedUrl": "https://www.gawker.com/is-fun-sized-candy-really-more-fun-a- comprehensive-inv-1653344366",
+        "htmlFormattedUrl": "https://www.gawker.com/is-fun-sized-candy-really-more-fun-a- comprehensive-inv-1653344366",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:type": "article",
+              "twitter:card": "summary_large_image",
+              "twitter:site": "@gawker",
+              "og:site_name": "Gawker",
+              "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0,maximum-scale=10.0",
+              "twitter:url": "https://www.gawker.com/is-fun-sized-candy-really-more-fun-a-comprehensive-inv-1653344366",
+              "author": "Caity Weaver",
+              "og:title": "Is Fun-Sized Candy Really More Fun? A Comprehensive Investigation",
+              "og:locale": "en_US",
+              "og:url": "https://www.gawker.com/is-fun-sized-candy-really-more-fun-a-comprehensive-inv-1653344366",
+              "og:description": "We love our children very much, mostly because we can dress them however we like. But sometimes, particularly on Halloween, we cannot or do not wish to give them the full sized candies their hearts desire. Which trick-or-treat-sized candies retain the most charms when shrunk from big to small?"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://images.gawker.com/1482594502307441958/original.jpg",
+              "width": "299",
+              "type": "1",
+              "height": "168"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Succes History - Have a Break, Have a Twix",
+        "htmlTitle": "Succes History - Have a Break, Have a Twix",
+        "link": "http://ohkitkatvstwix.blogspot.com/2013/10/kitkats-vs-twixs-pieces-of-success-story.html",
+        "displayLink": "ohkitkatvstwix.blogspot.com",
+        "snippet": "Oct 29, 2013 ... KitKat vs Twix's success History. by Anaïs Pigache. Twix. The History of Mars Candy Company, Twix founder: 1911 -.",
+        "htmlSnippet": "Oct 29, 2013 <b>...</b> KitKat <b>vs Twix&#39;s</b> success History. by Anaïs Pigache. Twix. The History of Mars Candy Company, Twix founder: 1911 -.",
+        "cacheId": "ZgsUtA6k-WgJ",
+        "formattedUrl": "ohkitkatvstwix.blogspot.com/.../kitkats-vs-twixs-pieces-of-success-story.html",
+        "htmlFormattedUrl": "ohkitkat<b>vstwix</b>.blogspot.com/.../kitkats-<b>vs-twix</b>s-pieces-of-success-story.html",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "http://1.bp.blogspot.com/-MW32Yf1sQmo/Um_BZt-KH7I/AAAAAAAAAAY/GxrqKwNIxwU/w1200-h630-p-k-no-nu/forest+Mars.png",
+              "blogger-template": "dynamic",
+              "fragment": "!",
+              "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width",
+              "meta": "meta",
+              "og:title": "Succes History",
+              "google-adsense-platform-domain": "blogspot.com",
+              "google-adsense-platform-account": "ca-host-pub-1556223355139109",
+              "og:url": "http://ohkitkatvstwix.blogspot.com/2013/10/kitkats-vs-twixs-pieces-of-success-story.html",
+              "og:description": "KitKat vs Twix's success History   by Anaïs Pigache                  Twix   The History of Mars Candy Company, Twix founder:   1911 -   We..."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "http://1.bp.blogspot.com/-MW32Yf1sQmo/Um_BZt-KH7I/AAAAAAAAAAY/GxrqKwNIxwU/w1200-h630-p-k-no-nu/forest+Mars.png",
+              "width": "310",
+              "type": "1",
+              "height": "162"
+            }
+          ],
+          "blogposting": [
+            {
+              "articlebody": "KitKat vs Twix's success History by Anaïs Pigache Twix The History of Mars Candy Company, Twix founder: 1911 - We cannot talk about Twix’s history without going back to 1911, when M. Franck...",
+              "keywords": "Libellés: History",
+              "image_url": "http://1.bp.blogspot.com/-MW32Yf1sQmo/Um_BZt-KH7I/AAAAAAAAAAY/GxrqKwNIxwU/s320/forest+Mars.png",
+              "author": "Twix Kat",
+              "name": "Succes History",
+              "postid": "1287962107379162771",
+              "blogid": "7942276331214897433",
+              "url": "Oct 29",
+              "datepublished": "29th October 2013",
+              "thumbnailurl": "http://1.bp.blogspot.com/-MW32Yf1sQmo/Um_BZt-KH7I/AAAAAAAAAAY/GxrqKwNIxwU/s320/forest+Mars.png"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "VOTE: What's the best Halloween candy? – HHS Today",
+        "htmlTitle": "VOTE: What&#39;s the best Halloween candy? – HHS Today",
+        "link": "https://www.hhstoday.com/life/2015/10/08/vote-whats-the-best-halloween-candy/",
+        "displayLink": "www.hhstoday.com",
+        "snippet": "Annie Aguiar and Julissa Machado|October 8, 2015. kitkat vs twix. What's the better candy, Kit Kat or Twix? Kit Kat; Twix. View Results. Loading .",
+        "htmlSnippet": "Annie Aguiar and Julissa Machado|October 8, 2015. kitkat <b>vs twix</b>. What&#39;s the better candy, Kit Kat or Twix? Kit Kat; Twix. View Results. Loading .",
+        "cacheId": "0xWfIB1wa1EJ",
+        "formattedUrl": "https://www.hhstoday.com/life/2015/.../vote-whats-the-best-halloween-candy/",
+        "htmlFormattedUrl": "https://www.hhstoday.com/life/2015/.../vote-whats-the-best-halloween-candy/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://www.hhstoday.com/wp-content/uploads/2015/08/LOGO.jpg",
+              "og:type": "article",
+              "article:section": "Life",
+              "og:site_name": "HHS Today",
+              "viewport": "width=device-width",
+              "author": "Annie Aguiar",
+              "og:title": "VOTE: What’s the best Halloween candy?",
+              "language": "en, sv",
+              "distribution": "global",
+              "og:url": "https://www.hhstoday.com/life/2015/10/08/vote-whats-the-best-halloween-candy/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.hhstoday.com/wp-content/uploads/2015/08/LOGO.jpg",
+              "width": "229",
+              "type": "1",
+              "height": "220"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "What is Kentuckiana's favorite Halloween candy? You decide ...",
+        "htmlTitle": "What is Kentuckiana&#39;s favorite Halloween candy? You decide ...",
+        "link": "https://www.whas11.com/article/life/what-is-kentuckianas-favorite-halloween-candy-you-decide/417-604836124",
+        "displayLink": "www.whas11.com",
+        "snippet": "Oct 16, 2018 ... It may not be basketball season, but we're narrowing down the competition with a March Madness-style bracket.",
+        "htmlSnippet": "Oct 16, 2018 <b>...</b> It may not be basketball season, but we&#39;re narrowing down the competition with a March Madness-style bracket.",
+        "cacheId": "hH-us3vyrYIJ",
+        "formattedUrl": "https://www.whas11.com/article/life/what-is...favorite.../417-604836124",
+        "htmlFormattedUrl": "https://www.whas11.com/article/life/what-is...favorite.../417-604836124",
+        "pagemap": {
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=1453184391",
+              "og:image": "https://media.whas11.com/assets/WHAS/images/604833756/604833756_1140x641.jpg",
+              "og:type": "article",
+              "og:image:width": "1140",
+              "article:section": "whas11,life,news,local,food",
+              "twitter:title": "What is Kentuckiana’s favorite Halloween candy? You decide!",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "whas11.com",
+              "twitter:domain": "www.whas11.com",
+              "og:title": "What is Kentuckiana’s favorite Halloween candy? You decide!",
+              "og:image:height": "641",
+              "og:description": "It may not be basketball season, but we're narrowing down the competition with a March Madness-style bracket.",
+              "twitter:image": "https://media.whas11.com/assets/WHAS/images/604833756/604833756_1140x641.jpg",
+              "twitter:image:src": "https://media.whas11.com/assets/WHAS/images/604833756/604833756_1140x641.jpg",
+              "site": "whas11.com",
+              "fb:app_id": "920765314738585",
+              "twitter:site": "whas11",
+              "viewport": "width=device-width",
+              "twitter:description": "It may not be basketball season, but we're narrowing down the competition with a March Madness-style bracket.",
+              "og:locale": "en_US",
+              "article:content_tier": "free",
+              "category": "life",
+              "og:url": "https://www.whas11.com/article/life/what-is-kentuckianas-favorite-halloween-candy-you-decide/417-604836124",
+              "article:opinion": "false"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://media.whas11.com/assets/WHAS/images/604833756/604833756_1140x641.jpg",
+              "width": "300",
+              "type": "1",
+              "height": "168"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "We Settle Who Makes the Best and Wonkiest Holiday Shaped ...",
+        "htmlTitle": "We Settle Who Makes the Best and Wonkiest Holiday Shaped ...",
+        "link": "https://www.eonline.com/news/721200/snickers-tweets-shade-at-reese-s-trees-we-settle-who-really-makes-the-least-wonky-holiday-chocolates",
+        "displayLink": "www.eonline.com",
+        "snippet": "Dec 3, 2015 ... While we're getting all philosophical, who has the better chocolate Santa? Who has the best candy snowman!? These are the greatest unsolved ...",
+        "htmlSnippet": "Dec 3, 2015 <b>...</b> While we&#39;re getting all philosophical, who has the better chocolate Santa? Who has the best candy snowman!? These are the greatest unsolved&nbsp;...",
+        "cacheId": "IAjSJ_k1LVoJ",
+        "formattedUrl": "https://www.eonline.com/.../snickers-tweets-shade-at-reese-s-trees-we-settle- who-really-makes-the-least-wonky-holiday-chocolates",
+        "htmlFormattedUrl": "https://www.eonline.com/.../snickers-tweets-shade-at-reese-s-trees-we-settle- who-really-makes-the-least-wonky-holiday-chocolates",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://akns-images.eonline.com/eol_images/Entire_Site/2015113/rs_600x600-151203155341-600.Holiday-Shaped-Chocolates.4.ms.120315.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+              "sailthru.edition": "us",
+              "og:image:width": "1080",
+              "article:published_time": "2015-12-04T01:57:48.000Z",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "E! Online",
+              "sailthru.tags": "food,holidays,e!_loves",
+              "twitter:url": "https://www.eonline.com/news/721200/snickers-tweets-shade-at-reese-s-trees-we-settle-who-really-makes-the-least-wonky-holiday-chocolates",
+              "sailthru.contenttype": "news",
+              "sailthru.ed.cid": "us_721200",
+              "og:description": "The Twitter blow prompted us to ask, &quot;who has the better tree?&quot;",
+              "twitter:image": "https://akns-images.eonline.com/eol_images/Entire_Site/2015113/rs_600x600-151203155341-600.Holiday-Shaped-Chocolates.4.ms.120315.jpg?fit=around%7C1080:540&output-quality=90&crop=1080:540;center,top",
+              "twitter:site": "https://twitter.com/eonline",
+              "article:modified_time": "2015-12-04T01:53:18.000Z",
+              "sailthru.title": "Snickers Tweets Shade at Reese&#x27;s Trees: We Settle Who Really Makes the Least Wonky Holiday Chocolates",
+              "fb:admins": "10101649",
+              "article:content_tier": "free",
+              "sailthru.date": "2015 12 03 17:57:48",
+              "og:type": "article",
+              "twitter:title": "Snickers Tweets Shade at Reese&#x27;s Trees: We Settle Who Really Makes the Least Wonky Holiday Chocolates - E! Online",
+              "msvalidate.01": "564B986CE3CECCAE84779191BEC6B755",
+              "og:title": "Snickers Tweets Shade at Reese&#x27;s Trees: We Settle Who Really Makes the Least Wonky Holiday Chocolates - E! Online",
+              "og:image:height": "1080",
+              "sailthru.cid": "721200",
+              "fb:pages": "89033370735",
+              "article:tag": "food,holidays,e!_loves",
+              "fb:app_id": "195662528604",
+              "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+              "twitter:description": "The Twitter blow prompted us to ask, &quot;who has the better tree?&quot;",
+              "og:locale": "en_US",
+              "og:url": "https://www.eonline.com/news/721200/snickers-tweets-shade-at-reese-s-trees-we-settle-who-really-makes-the-least-wonky-holiday-chocolates",
+              "sailthru.image.full": "https://akns-images.eonline.com/eol_images/Entire_Site/2015113/rs_600x600-151203155341-600.Holiday-Shaped-Chocolates.4.ms.120315.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+              "article:opinion": "false"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://akns-images.eonline.com/eol_images/Entire_Site/2015113/rs_600x600-151203155341-600.Holiday-Shaped-Chocolates.4.ms.120315.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+              "width": "225",
+              "type": "1",
+              "height": "225"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "4": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 21,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 31,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "2780",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 41,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "context": {
+      "title": "darik"
+    },
+    "searchInformation": {
+      "searchTime": 0.391684,
+      "formattedSearchTime": "0.39",
+      "totalResults": "2780",
+      "formattedTotalResults": "2,780"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Mars Bar or Twix? — Digital Spy",
+        "htmlTitle": "Mars Bar or Twix? — Digital Spy",
+        "link": "https://forums.digitalspy.com/discussion/2140987/mars-bar-or-twix",
+        "displayLink": "forums.digitalspy.com",
+        "snippet": "As to Mars vs Twix = iirc Mars bars were just tooooooo much chocolate, Twix was easier to manage. Can't eat chocolate now so can I vote for ...",
+        "htmlSnippet": "As to Mars <b>vs Twix</b> = iirc Mars bars were just tooooooo much chocolate, Twix was easier to manage. Can&#39;t eat chocolate now so can I vote for&nbsp;...",
+        "cacheId": "gJ5tVzYMuIgJ",
+        "formattedUrl": "https://forums.digitalspy.com/discussion/2140987/mars-bar-or-twix",
+        "htmlFormattedUrl": "https://forums.digitalspy.com/discussion/2140987/mars-bar-or-twix",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://us.v-cdn.net/6028689/uploads/KEED2HZAWEMF.jpg",
+              "og:type": "article",
+              "fb:app_id": "131928163488848",
+              "twitter:title": "Mars Bar or Twix?",
+              "twitter:card": "summary",
+              "og:site_name": "Digital Spy",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "This is to settle a debate at work. Which is better? Mars Bar or Twix?",
+              "language": "en",
+              "last-modified-date": "2016-03-15",
+              "og:url": "https://forums.digitalspy.com/discussion/2140987/mars-bar-or-twix"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://us.v-cdn.net/6028689/uploads/KEED2HZAWEMF.jpg",
+              "width": "200",
+              "type": "1",
+              "height": "44"
+            }
+          ],
+          "listitem": [
+            {
+              "item": "Food and Drink",
+              "name": "Food and Drink",
+              "position": "1"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Gun vs twix meme - AhSeeit",
+        "htmlTitle": "Gun <b>vs twix</b> meme - AhSeeit",
+        "link": "https://ahseeit.com/?qa=101820/gun-vs-twix-meme",
+        "displayLink": "ahseeit.com",
+        "snippet": "Gun vs twix meme. gun-vs-twix. 48 views May 6. pooja 317,020 points. Welcome to AhSeeIt, AhSeeit visual media network where people can view viral video, ...",
+        "htmlSnippet": "Gun <b>vs twix</b> meme. gun-vs-twix. 48 views May 6. pooja 317,020 points. Welcome to AhSeeIt, AhSeeit visual media network where people can view viral video,&nbsp;...",
+        "cacheId": "3UP_PBJzK94J",
+        "formattedUrl": "https://ahseeit.com/?qa=101820/gun-vs-twix-meme",
+        "htmlFormattedUrl": "https://ahseeit.com/?qa=101820/gun-<b>vs-twix</b>-meme",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://ahseeit.com//king-include/uploads/2021/05/thumb_tumblr_c4c5b1c5fb79e80ebc726f8ccece8b49_df0c2eac_640-5207073468.jpg",
+              "og:type": "article",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Gun vs twix meme",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "twitter:description": "Gun vs twix meme",
+              "og:title": "Gun vs twix meme",
+              "og:url": "https://ahseeit.com/?qa=101820/gun-vs-twix-meme",
+              "og:description": "Click To Watch",
+              "twitter:image": "https://ahseeit.com//king-include/uploads/2021/05/thumb_tumblr_c4c5b1c5fb79e80ebc726f8ccece8b49_df0c2eac_640-5207073468.jpg"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://ahseeit.com//king-include/uploads/2021/05/thumb_tumblr_c4c5b1c5fb79e80ebc726f8ccece8b49_df0c2eac_640-5207073468.jpg",
+              "width": "195",
+              "type": "1",
+              "height": "258"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Back on the Road | Candy Craziness 2019 Bracket",
+        "htmlTitle": "Back on the Road | Candy Craziness 2019 Bracket",
+        "link": "https://www.ta-petro.com/blog/post/Candy-Craziness-2019-Bracket",
+        "displayLink": "www.ta-petro.com",
+        "snippet": "Mar 6, 2019 ... Candy Craziness will match up our best candies from the Chocolate, Chewy, Gummy, and Gum & Mint regions. Starting on March 11th, each week we ...",
+        "htmlSnippet": "Mar 6, 2019 <b>...</b> Candy Craziness will match up our best candies from the Chocolate, Chewy, Gummy, and Gum &amp; Mint regions. Starting on March 11<sup>th</sup>, each week we&nbsp;...",
+        "cacheId": "ShYCQsXBmZEJ",
+        "formattedUrl": "https://www.ta-petro.com/blog/post/Candy-Craziness-2019-Bracket",
+        "htmlFormattedUrl": "https://www.ta-petro.com/blog/post/Candy-Craziness-2019-Bracket",
+        "pagemap": {
+          "metatags": [
+            {
+              "msapplication-square70x70logo": "smalltile.png",
+              "viewport": "width=device-width, initial-scale=1.0, maximum-scale=5, user-scalable=yes",
+              "msapplication-square310x310logo": "largetile.png",
+              "author": "TravelCentersAdmin",
+              "msapplication-wide310x150logo": "widetile.png",
+              "msapplication-square150x150logo": "mediumtile.png"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.ta-petro.com/blog/image.axd?picture=/2019%20Blog%20Po/03-March/Full%20Candy%20Bracket%201920x1080.jpg",
+              "width": "300",
+              "type": "1",
+              "height": "168"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Review : New Twix Fino bar | Kerry Cooks",
+        "htmlTitle": "Review : New Twix Fino bar | Kerry Cooks",
+        "link": "https://kerrycooks.wordpress.com/2011/11/04/review-new-twix-fino-bar/",
+        "displayLink": "kerrycooks.wordpress.com",
+        "snippet": "Nov 4, 2011 ... I spotted this bar in the Boots shop where I work (yes there is a Boots shop in Boots head office! There are also 3 starbucks/costas and a ...",
+        "htmlSnippet": "Nov 4, 2011 <b>...</b> I spotted this bar in the Boots shop where I work (yes there is a Boots shop in Boots head office! There are also 3 starbucks/costas and a&nbsp;...",
+        "cacheId": "AN-bfBr5QlwJ",
+        "formattedUrl": "https://kerrycooks.wordpress.com/2011/11/04/review-new-twix-fino-bar/",
+        "htmlFormattedUrl": "https://kerrycooks.wordpress.com/2011/11/04/review-new-twix-fino-bar/",
+        "pagemap": {
+          "hcard": [
+            {
+              "fn": "M",
+              "nickname": "M"
+            },
+            {
+              "url_text": "kerrycooks",
+              "fn": "kerrycooks",
+              "nickname": "kerrycooks",
+              "url": "https://kerrycooks.wordpress.com/"
+            },
+            {
+              "url_text": "KatsHealthCorner",
+              "fn": "KatsHealthCorner",
+              "nickname": "KatsHealthCorner",
+              "url": "http://katshealthcorner.wordpress.com/"
+            }
+          ],
+          "metatags": [
+            {
+              "application-name": "Kerry Cooks",
+              "og:image": "https://kerrycooks.files.wordpress.com/2011/11/fino1.jpg",
+              "og:type": "article",
+              "article:published_time": "2011-11-04T08:00:55+00:00",
+              "og:image:width": "378",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "Kerry Cooks",
+              "msapplication-window": "width=device-width;height=device-height",
+              "msapplication-tooltip": "Recipes and inspiration from the sweeter side of life",
+              "og:title": "Review : New Twix Fino bar",
+              "og:image:height": "289",
+              "og:description": "I spotted this bar in the Boots shop where I work (yes there is a Boots shop in Boots head office! There are also 3 starbucks/costas and a newsagents/dry cleaning place). I thought I’d pick i…",
+              "twitter:image": "https://kerrycooks.files.wordpress.com/2011/11/fino1.jpg?w=640",
+              "article:publisher": "https://www.facebook.com/WordPresscom",
+              "twitter:text:title": "Review : New Twix Fino bar",
+              "fb:app_id": "249643311490",
+              "twitter:site": "@wordpressdotcom",
+              "article:modified_time": "2011-11-03T12:15:14+00:00",
+              "viewport": "width=device-width",
+              "og:locale": "en_US",
+              "og:url": "https://kerrycooks.wordpress.com/2011/11/04/review-new-twix-fino-bar/",
+              "msapplication-task": "name=Subscribe;action-uri=https://kerrycooks.wordpress.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/bc7fb5edd4514d0973e3ef08bbef4a3c?s=16"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://kerrycooks.files.wordpress.com/2011/11/fino1.jpg",
+              "width": "257",
+              "type": "1",
+              "height": "196"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Sir Twix-a-lot – West Coast Confection",
+        "htmlTitle": "Sir Twix-a-lot – West Coast Confection",
+        "link": "https://westcoastconfection.com/product/old-dog-new-twix-vs-twix-n-hoes/",
+        "displayLink": "westcoastconfection.com",
+        "snippet": "Our signature cookie dough with Twix chunks mixed in the batter. Stuffed with creamy cheesecake and our small batch salted caramel. Topped with a smooth ...",
+        "htmlSnippet": "Our signature cookie dough with Twix chunks mixed in the batter. Stuffed with creamy cheesecake and our small batch salted caramel. Topped with a smooth&nbsp;...",
+        "cacheId": "u0s8dHWUTGMJ",
+        "formattedUrl": "https://westcoastconfection.com/product/old-dog-new-twix-vs-twix-n-hoes/",
+        "htmlFormattedUrl": "https://westcoastconfection.com/product/old-dog-new-twix-<b>vs-twix</b>-n-hoes/",
+        "pagemap": {
+          "metatags": [
+            {
+              "numberofitems": "3",
+              "og:image": "https://westcoastconfection.com/wp-content/uploads/2021/10/29BC5AC6-7823-49C4-BD9F-F320E888A18D-scaled.jpeg",
+              "og:type": "article",
+              "article:published_time": "2021-10-28T01:13:10+00:00",
+              "og:image:width": "2126",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "West Coast Confection",
+              "og:title": "Sir Twix-a-lot",
+              "og:image:height": "2560",
+              "msapplication-tileimage": "https://westcoastconfection.com/wp-content/uploads/2019/09/west-side-hand-2.jpg",
+              "og:description": "Our signature cookie dough with Twix chunks mixed in the batter. Stuffed with creamy cheesecake and our small batch salted caramel.  Topped with a smooth chocolate drizzle and more Twix!",
+              "twitter:image": "https://westcoastconfection.com/wp-content/uploads/2021/10/29BC5AC6-7823-49C4-BD9F-F320E888A18D-scaled.jpeg?w=640",
+              "twitter:text:title": "Sir Twix-a-lot",
+              "article:modified_time": "2021-11-22T00:37:25+00:00",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:locale": "en_US",
+              "itemlistorder": "Ascending",
+              "og:url": "https://westcoastconfection.com/product/old-dog-new-twix-vs-twix-n-hoes/"
+            }
+          ],
+          "webpage": [
+            {
+              "breadcrumb": "Home>Products>Sir Twix-a-lot",
+              "name": "Sir Twix-a-lot",
+              "headline": "Sir Twix-a-lot"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://westcoastconfection.com/wp-content/uploads/2021/10/29BC5AC6-7823-49C4-BD9F-F320E888A18D-scaled.jpeg",
+              "width": "205",
+              "type": "1",
+              "height": "246"
+            }
+          ],
+          "listitem": [
+            {
+              "item": "Home",
+              "name": "Home",
+              "position": "1"
+            },
+            {
+              "item": "Products",
+              "name": "Products",
+              "position": "2"
+            },
+            {
+              "item": "Sir Twix-a-lot",
+              "name": "Sir Twix-a-lot",
+              "position": "3"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Customer reviews: SNICKERS, TWIX, MILKY WAY, 3 ... - Amazon.com",
+        "htmlTitle": "Customer reviews: SNICKERS, TWIX, MILKY WAY, 3 ... - Amazon.com",
+        "link": "https://www.amazon.com/gp/aw/reviews/B013E9PJBS",
+        "displayLink": "www.amazon.com",
+        "snippet": "Find helpful customer reviews and review ratings for SNICKERS, TWIX, MILKY WAY, 3 MUSKETEERS & Milk Chocolate M&M'S Halloween Candy Bars Variety Mix ...",
+        "htmlSnippet": "Find helpful customer reviews and review ratings for SNICKERS, TWIX, MILKY WAY, 3 MUSKETEERS &amp; Milk Chocolate M&amp;M&#39;S Halloween Candy Bars Variety Mix&nbsp;...",
+        "cacheId": "oHilKGn15BIJ",
+        "formattedUrl": "https://www.amazon.com/gp/aw/reviews/B013E9PJBS",
+        "htmlFormattedUrl": "https://www.amazon.com/gp/aw/reviews/B013E9PJBS"
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Twix - Photos | Facebook",
+        "htmlTitle": "Twix - Photos | Facebook",
+        "link": "https://business.facebook.com/twix.us/photos/",
+        "displayLink": "business.facebook.com",
+        "snippet": "May be an image of dessert and text that says 'Twix Ice Cream VS Twix. Mobile Uploads. 385 · 42. May be an image of food. Timeline Photos.",
+        "htmlSnippet": "May be an image of dessert and text that says &#39;Twix Ice Cream <b>VS Twix</b>. Mobile Uploads. 385 · 42. May be an image of food. Timeline Photos.",
+        "cacheId": "9pafauA_4TQJ",
+        "formattedUrl": "https://business.facebook.com/twix.us/photos/",
+        "htmlFormattedUrl": "https://business.facebook.com/twix.us/photos/",
+        "pagemap": {
+          "organization": [
+            {
+              "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=140501687672"
+            }
+          ],
+          "metatags": [
+            {
+              "al:android:url": "fb://page/140501687672?referrer=app_link",
+              "referrer": "origin-when-crossorigin",
+              "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=140501687672",
+              "al:ios:app_name": "Facebook",
+              "og:title": "Twix",
+              "al:android:package": "com.facebook.katana",
+              "al:ios:url": "fb://page/?id=140501687672",
+              "og:url": "https://www.facebook.com/pages/category/Food---Beverage-Company/twix.us/photos/",
+              "og:description": "Twix. 6,905,243 likes · 1,046 talking about this. Left TWIX. Right TWIX. Try them both and pick a side.",
+              "al:android:app_name": "Facebook",
+              "al:ios:app_store_id": "284882215"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=140501687672",
+              "width": "225",
+              "type": "1",
+              "height": "225"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "PU - PUPL III - Finals (Won by Shoegazing Stoutlands) | Smogon ...",
+        "htmlTitle": "PU - PUPL III - Finals (Won by Shoegazing Stoutlands) | Smogon ...",
+        "link": "https://www.smogon.com/forums/threads/pupl-iii-finals-won-by-shoegazing-stoutlands.3618182/",
+        "displayLink": "www.smogon.com",
+        "snippet": "SM: Taskr vs Twix ORAS: HJAD vs Pearl BW: Christo vs Omfuga omfugod. DPP: Heysup vs Void ADV: ggggd vs Feliburn.",
+        "htmlSnippet": "SM: Taskr <b>vs Twix</b> ORAS: HJAD vs Pearl BW: Christo vs Omfuga omfugod. DPP: Heysup vs Void ADV: ggggd vs Feliburn.",
+        "cacheId": "uJ_rulgF0cQJ",
+        "formattedUrl": "https://www.smogon.com/.../pupl-iii-finals-won-by-shoegazing-stoutlands. 3618182/",
+        "htmlFormattedUrl": "https://www.smogon.com/.../pupl-iii-finals-won-by-shoegazing-stoutlands. 3618182/",
+        "pagemap": {
+          "hcard": [
+            {
+              "fn": "https://www.smogon.com/forums/members/akir.231726/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/231/231726.jpg?1590771270",
+              "title": "A true villain!"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/evigaro.296852/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/296/296852.jpg?1531953444",
+              "title": "RU Leader"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/tj.331538/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/331/331538.jpg?1635384054",
+              "title": "champagne poetry"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/plans.337644/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/337/337644.jpg?1600806157"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/yogi.252106/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/252/252106.jpg?1633943615",
+              "title": "Light up, as if you have a choice..."
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/ares.229331/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/229/229331.jpg?1455335315",
+              "title": "Fool me...can't get fooled again"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/termi.187324/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/187/187324.jpg?1618339123",
+              "title": "the eye of the needle"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/specs.295876/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/295/295876.jpg?1637027637",
+              "title": "Remember where you've been"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/haund.193885/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/193/193885.jpg?1627422180"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/gz.343171/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/343/343171.jpg?1525276107"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/yogi.252106/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/252/252106.jpg?1633943615",
+              "title": "Light up, as if you have a choice..."
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/lordst.318936/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/318/318936.jpg?1607396175",
+              "title": "Dormi Bene Duce"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/twix.247045/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/247/247045.jpg?1577073413",
+              "title": "jicama"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/ggggd.242813/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/242/242813.jpg?1537232905",
+              "title": "a comfy and reliable family car of the early 2000s"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/heysup.21929/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/21/21929.jpg?1491438927"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/watashi.46293/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/46/46293.jpg?1630796634"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/g.159908/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/159/159908.jpg?1622450991"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/lax.240485/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/240/240485.jpg?1637966025"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/hjad.212211/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/212/212211.jpg?1524411741"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/inferno-monferno.341524/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/341/341524.jpg?1533414607"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/dibs.240607/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/240/240607.jpg?1566956390",
+              "title": "double iron bashes"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/manofmany.250255/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/250/250255.jpg?1629571719",
+              "title": "I can make anything real"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/ares.229331/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/229/229331.jpg?1455335315",
+              "title": "Fool me...can't get fooled again"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/twix.247045/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/247/247045.jpg?1577073413",
+              "title": "jicama"
+            },
+            {
+              "fn": "https://www.smogon.com/forums/members/taskr.257882/",
+              "photo": "https://www.smogon.com/forums/media/data/avatars/m/257/257882.jpg?1636807436",
+              "title": "Talent's in my blood but I don't wanna be vain"
+            }
+          ],
+          "person": [
+            {
+              "role": "A true villain!"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/231/231726.jpg?1590771270",
+              "jobtitle": "A true villain!",
+              "name": "Akir"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/296/296852.jpg?1531953444",
+              "jobtitle": "RU Leader",
+              "name": "EviGaro"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/331/331538.jpg?1635384054",
+              "jobtitle": "champagne poetry",
+              "name": "TJ"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/337/337644.jpg?1600806157",
+              "name": "Plans"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/252/252106.jpg?1633943615",
+              "jobtitle": "Light up, as if you have a choice...",
+              "name": "yogi"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/229/229331.jpg?1455335315",
+              "jobtitle": "Fool me...can't get fooled again",
+              "name": "Ares"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/187/187324.jpg?1618339123",
+              "jobtitle": "the eye of the needle",
+              "name": "termi"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/295/295876.jpg?1637027637",
+              "jobtitle": "Remember where you've been",
+              "name": "Specs"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/193/193885.jpg?1627422180",
+              "name": "Haund"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/343/343171.jpg?1525276107",
+              "name": "gz"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/252/252106.jpg?1633943615",
+              "jobtitle": "Light up, as if you have a choice...",
+              "name": "yogi"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/318/318936.jpg?1607396175",
+              "jobtitle": "Dormi Bene Duce",
+              "name": "LordST"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/247/247045.jpg?1577073413",
+              "jobtitle": "jicama",
+              "name": "Twix"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/242/242813.jpg?1537232905",
+              "jobtitle": "a comfy and reliable family car of the early 2000s",
+              "name": "ggggd"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/21/21929.jpg?1491438927",
+              "name": "Heysup"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/46/46293.jpg?1630796634",
+              "name": "watashi"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/159/159908.jpg?1622450991",
+              "name": "g"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/240/240485.jpg?1637966025",
+              "name": "lax"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/212/212211.jpg?1524411741",
+              "name": "HJAD"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/341/341524.jpg?1533414607",
+              "name": "Inferno Monferno"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/240/240607.jpg?1566956390",
+              "jobtitle": "double iron bashes",
+              "name": "dibs"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/250/250255.jpg?1629571719",
+              "jobtitle": "I can make anything real",
+              "name": "ManOfMany"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/229/229331.jpg?1455335315",
+              "jobtitle": "Fool me...can't get fooled again",
+              "name": "Ares"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/247/247045.jpg?1577073413",
+              "jobtitle": "jicama",
+              "name": "Twix"
+            },
+            {
+              "image": "https://www.smogon.com/forums/media/data/avatars/m/257/257882.jpg?1636807436",
+              "jobtitle": "Talent's in my blood but I don't wanna be vain",
+              "name": "Taskr"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://www.smogon.com/forums/media/twitter.png",
+              "og:type": "website",
+              "twitter:title": "PU - PUPL III - Finals (Won by Shoegazing Stoutlands)",
+              "twitter:card": "summary",
+              "theme-color": "#6363b0",
+              "og:site_name": "Smogon Forums",
+              "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+              "twitter:description": "Welcome to the Finals of PUPL III! \n\nThe deadline for this week will occur on October 23th, 11:59 PM GMT. Extensions will not be given, meaning that in the event that both players make an equal...",
+              "og:title": "PU - PUPL III - Finals (Won by Shoegazing Stoutlands)",
+              "og:url": "https://www.smogon.com/forums/threads/pupl-iii-finals-won-by-shoegazing-stoutlands.3618182/",
+              "og:description": "Welcome to the Finals of PUPL III! \n\nThe deadline for this week will occur on October 23th, 11:59 PM GMT. Extensions will not be given, meaning that in the event that both players make an equal effort to get their matches started in this week the result will be coinflipped by the deadline. The...",
+              "twitter:image": "https://www.smogon.com/forums/media/twitter.png"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.smogon.com/forums/media/twitter.png",
+              "width": "225",
+              "type": "1",
+              "height": "225"
+            }
+          ],
+          "listitem": [
+            {
+              "item": "Home",
+              "name": "Home",
+              "position": "1"
+            },
+            {
+              "item": "Forums",
+              "name": "Forums",
+              "position": "2"
+            },
+            {
+              "item": "Competitive Play",
+              "name": "Competitive Play",
+              "position": "3"
+            },
+            {
+              "item": "Tournaments",
+              "name": "Tournaments",
+              "position": "4"
+            },
+            {
+              "item": "Unofficial Tournaments",
+              "name": "Unofficial Tournaments",
+              "position": "5"
+            },
+            {
+              "item": "Unofficial Team Tournaments",
+              "name": "Unofficial Team Tournaments",
+              "position": "6"
+            },
+            {
+              "item": "Home",
+              "name": "Home",
+              "position": "1"
+            },
+            {
+              "item": "Forums",
+              "name": "Forums",
+              "position": "2"
+            },
+            {
+              "item": "Competitive Play",
+              "name": "Competitive Play",
+              "position": "3"
+            },
+            {
+              "item": "Tournaments",
+              "name": "Tournaments",
+              "position": "4"
+            },
+            {
+              "item": "Unofficial Tournaments",
+              "name": "Unofficial Tournaments",
+              "position": "5"
+            },
+            {
+              "item": "Unofficial Team Tournaments",
+              "name": "Unofficial Team Tournaments",
+              "position": "6"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Antonella van Emrik (@antonella_van_emrik) • Instagram photos ...",
+        "htmlTitle": "Antonella van Emrik (@antonella_van_emrik) • Instagram photos ...",
+        "link": "https://www.instagram.com/antonella_van_emrik/?hl=en",
+        "displayLink": "www.instagram.com",
+        "snippet": "738 Followers, 659 Following, 122 Posts - See Instagram photos and videos from Antonella van Emrik (@antonella_van_emrik)",
+        "htmlSnippet": "738 Followers, 659 Following, 122 Posts - See Instagram photos and videos from Antonella van Emrik (@antonella_van_emrik)",
+        "formattedUrl": "https://www.instagram.com/antonella_van_emrik/?hl=en",
+        "htmlFormattedUrl": "https://www.instagram.com/antonella_van_emrik/?hl=en",
+        "pagemap": {
+          "xfn": [
+            {}
+          ],
+          "metatags": [
+            {
+              "og:image": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s150x150/28155257_366431430491350_2726852045918175232_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=mzHReueLm00AX_dqIGR&edm=ABfd0MgBAAAA&ccb=7-4&oh=b5474da20fc238027d5303e68a45787e&oe=61AA02F6&_nc_sid=7bff83",
+              "theme-color": "#ffffff",
+              "og:type": "profile",
+              "al:ios:app_name": "Instagram",
+              "al:android:package": "com.instagram.android",
+              "al:ios:url": "instagram://user?username=antonella_van_emrik",
+              "og:description": "738 Followers, 659 Following, 122 Posts - See Instagram photos and videos from Antonella van Emrik (@antonella_van_emrik)",
+              "al:ios:app_store_id": "389801252",
+              "al:android:url": "https://www.instagram.com/_u/antonella_van_emrik/",
+              "apple-mobile-web-app-status-bar-style": "default",
+              "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+              "mobile-web-app-capable": "yes",
+              "og:url": "https://www.instagram.com/antonella_van_emrik/",
+              "al:android:app_name": "Instagram"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s150x150/28155257_366431430491350_2726852045918175232_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=mzHReueLm00AX_dqIGR&edm=ABfd0MgBAAAA&ccb=7-4&oh=b5474da20fc238027d5303e68a45787e&oe=61AA02F6&_nc_sid=7bff83"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Twix - Photos | Facebook",
+        "htmlTitle": "Twix - Photos | Facebook",
+        "link": "https://www.facebook.com/twix.us/photos/",
+        "displayLink": "www.facebook.com",
+        "snippet": "May be an image of dessert and text that says 'Twix Ice Cream VS Twix. May be an image of food. May be an image of text that says 'How it Started LEFTTwix ...",
+        "htmlSnippet": "May be an image of dessert and text that says &#39;Twix Ice Cream <b>VS Twix</b>. May be an image of food. May be an image of text that says &#39;How it Started LEFTTwix&nbsp;...",
+        "cacheId": "m2sKvPwgSVUJ",
+        "formattedUrl": "https://www.facebook.com/twix.us/photos/",
+        "htmlFormattedUrl": "https://www.facebook.com/twix.us/photos/",
+        "pagemap": {
+          "metatags": [
+            {
+              "referrer": "origin-when-crossorigin",
+              "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=140501687672",
+              "theme-color": "#3b5998",
+              "viewport": "user-scalable=no,initial-scale=1,maximum-scale=1",
+              "og:title": "Twix",
+              "og:url": "https://www.facebook.com/pages/category/Food---Beverage-Company/twix.us/photos/",
+              "og:description": "Twix. 6,907,175 likes · 5,500 talking about this. Left TWIX. Right TWIX. Try them both and pick a side."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=140501687672",
+              "width": "225",
+              "type": "1",
+              "height": "225"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "5": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "50",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 31,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "totalResults": "50",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 41,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "context": {
+      "title": "darik"
+    },
+    "searchInformation": {
+      "searchTime": 0.371822,
+      "formattedSearchTime": "0.37",
+      "totalResults": "50",
+      "formattedTotalResults": "50"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Snickers vs Twix shared by EltuNermin Hacısoy",
+        "htmlTitle": "Snickers <b>vs Twix</b> shared by EltuNermin Hacısoy",
+        "link": "https://weheartit.com/entry/167299858",
+        "displayLink": "weheartit.com",
+        "snippet": "Image discovered by EltuNermin Hacısoy. Find images and videos about chocolate, colorful and sweets on We Heart It - the app to get lost in what you love.",
+        "htmlSnippet": "Image discovered by EltuNermin Hacısoy. Find images and videos about chocolate, colorful and sweets on We Heart It - the app to get lost in what you love.",
+        "cacheId": "RCcoSzytBIsJ",
+        "formattedUrl": "https://weheartit.com/entry/167299858",
+        "htmlFormattedUrl": "https://weheartit.com/entry/167299858",
+        "pagemap": {
+          "metatags": [
+            {
+              "p:domain_verify": "ffbe899db827967e40cf58e30bed6c38",
+              "apple-itunes-app": "app-id=539124565, app-argument=whi://entry/167299858",
+              "twitter:app:url:iphone": "whi://entry/167299858",
+              "twitter:app:id:googleplay": "com.weheartit",
+              "og:image": "https://data.whicdn.com/images/167299858/original.jpg",
+              "twitter:card": "photo",
+              "theme-color": "#ff4477",
+              "og:site_name": "We Heart It",
+              "branch:deeplink:$android_url": "https://weheartit.com/entry/167299858",
+              "twitter:url": "https://weheartit.com/entry/167299858",
+              "twitter:app:url:ipad": "whi://entry/167299858",
+              "al:android:package": "com.weheartit",
+              "branch:deeplink:$android_deeplink_path": "https://weheartit.com/entry/167299858",
+              "twitter:app:name:googleplay": "We Heart It",
+              "branch:deeplink:$canonical_identifier": "entry/167299858",
+              "twitter:app:id:iphone": "539124565",
+              "al:ios:url": "whi://entry/167299858",
+              "og:description": "Image discovered by EltuNermin Hacısoy. Find images and videos about chocolate, colorful and sweets on We Heart It - the app to get lost in what you love.",
+              "twitter:image": "https://data.whicdn.com/images/167299858/original.jpg",
+              "al:ios:app_store_id": "539124565",
+              "twitter:site": "@weheartit",
+              "branch:deeplink:$deeplink_path": "https://weheartit.com/entry/167299858",
+              "csrf-token": "ap0FXN4JZS2HiWViU/2xGruSrr8m+n3rzZP0HwfaTaB5vHmbUxTzCVpGp4L52tF/JMEh6M1qIu3XNxEnChscwg==",
+              "branch:deeplink:$ios_url": "https://weheartit.com/entry/167299858",
+              "branch:deeplink:$ios_deeplink_path": "https://weheartit.com/entry/167299858",
+              "msapplication-tilecolor": "#ff4477",
+              "twitter:title": "Snickers vs Twix shared by EltuNermin Hacısoy",
+              "og:type": "weheartitapp:photo",
+              "al:ios:app_name": "We Heart It",
+              "author": "We Heart It | Get lost in what you love",
+              "og:title": "Snickers vs Twix shared by EltuNermin Hacısoy",
+              "twitter:app:id:ipad": "539124565",
+              "branch:deeplink:$desktop_url": "https://www.weheartit.com/entry/167299858",
+              "al:web:url": "https://weheartit.com/entry/167299858",
+              "csrf-param": "authenticity_token",
+              "al:android:url": "whi://entry/167299858",
+              "twitter:app:url:googleplay": "https://weheartit.com/entry/167299858",
+              "fb:app_id": "200368456664008",
+              "weheartitapp:hearts": "362",
+              "twitter:creator:id": "2864548008",
+              "twitter:app:name:ipad": "We Heart It",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "Image discovered by EltuNermin Hacısoy. Find images and videos about chocolate, colorful and sweets on We Heart It - the app to get lost in what you love.",
+              "al:web:should_fallback": "false",
+              "og:url": "https://weheartit.com/entry/167299858",
+              "twitter:app:name:iphone": "We Heart It",
+              "al:android:app_name": "We Heart It"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://data.whicdn.com/images/167299858/original.jpg",
+              "width": "229",
+              "type": "1",
+              "height": "221"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "SNAPone vs. TWIX silver Edition unfinished & work in progress ...",
+        "htmlTitle": "SNAPone vs. TWIX silver Edition unfinished &amp; work in progress ...",
+        "link": "https://www.pinterest.de/pin/442267625878383497/",
+        "displayLink": "www.pinterest.de",
+        "snippet": "13.01.2014 - SNAPone vs. TWIX silver Edition unfinished & work in progress illustration done with layoutmarkers.",
+        "htmlSnippet": "13.01.2014 - SNAPone vs. TWIX silver Edition unfinished &amp; work in progress illustration done with layoutmarkers.",
+        "cacheId": "E429G1VoJfoJ",
+        "formattedUrl": "https://www.pinterest.de/pin/442267625878383497/",
+        "htmlFormattedUrl": "https://www.pinterest.de/pin/442267625878383497/",
+        "pagemap": {
+          "metatags": [
+            {
+              "application-name": "Pinterest",
+              "msapplication-tilecolor": "#ffffff",
+              "og:image": "https://i.pinimg.com/736x/62/11/48/621148c5eed3848273fe23fd92ad3ceb--vs-silver.jpg",
+              "og:type": "pinterestapp:pin",
+              "og:image:width": "736",
+              "twitter:title": "SNAPone vs. TWIX silver Edition unfinished & work in progress illustration done with layoutmarkers",
+              "og:site_name": "Pinterest",
+              "og:title": "SNAPone vs. TWIX silver Edition unfinished & work in progress illustration done with layoutmarkers",
+              "og:image:height": "520",
+              "msapplication-tileimage": "https://s.pinimg.com/webapp/logo_trans_144x144-5e37c0c6.png",
+              "pinterestapp:pinboard": "https://www.pinterest.com/snaponedesign/snapone-works/",
+              "pinterestapp:repins": "0",
+              "og:description": "13.01.2014 - SNAPone vs. TWIX silver Edition unfinished & work in progress illustration done with layoutmarkers",
+              "twitter:image:src": "https://i.pinimg.com/736x/62/11/48/621148c5eed3848273fe23fd92ad3ceb--vs-silver.jpg",
+              "pinterestapp:pinner": "https://www.pinterest.com/snaponedesign/",
+              "referrer": "origin",
+              "fb:app_id": "274266067164",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "13.01.2014 - SNAPone vs. TWIX silver Edition unfinished & work in progress illustration done with layoutmarkers",
+              "og:url": "https://www.pinterest.de/pin/442267625878383497/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i.pinimg.com/736x/62/11/48/621148c5eed3848273fe23fd92ad3ceb--vs-silver.jpg",
+              "width": "267",
+              "type": "1",
+              "height": "189"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Flashbacks | VOLUME 7 gin | VOL.7 gin | Volume Seven gin",
+        "htmlTitle": "Flashbacks | VOLUME 7 gin | VOL.7 gin | Volume Seven gin",
+        "link": "https://www.volume7gin.com/flashbacks-a-sip-down-memory-lane-vol7gin",
+        "displayLink": "www.volume7gin.com",
+        "snippet": "raider vs twix candy bar. If you used to grab this ancestor of Twix for snacking, you're officially vintage. volume seven gin vintage KODAK film roll.",
+        "htmlSnippet": "raider <b>vs twix</b> candy bar. If you used to grab this ancestor of Twix for snacking, you&#39;re officially vintage. volume seven gin vintage KODAK film roll.",
+        "cacheId": "jtbViljn7bUJ",
+        "formattedUrl": "https://www.volume7gin.com/flashbacks-a-sip-down-memory-lane-vol7gin",
+        "htmlFormattedUrl": "https://www.volume7gin.com/flashbacks-a-sip-down-memory-lane-vol7gin",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://static.wixstatic.com/media/37e2ed_34035cff9ed64af8b61a67c8f9a7e59c%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/37e2ed_34035cff9ed64af8b61a67c8f9a7e59c%7Emv2.jpg",
+              "og:image:width": "2500",
+              "og:type": "website",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Flashbacks | VOLUME 7 gin | VOL.7 gin | Volume Seven gin",
+              "theme-color": "#E20A18",
+              "og:site_name": "VOLUME 7 GIN",
+              "skype_toolbar": "skype_toolbar_parser_compatible",
+              "og:title": "Flashbacks | VOLUME 7 gin | VOL.7 gin | Volume Seven gin",
+              "og:image:height": "1330",
+              "og:description": "VOLUME 7 gin is more than an artisan gin. An invitation a (re)discover the glorious eighties. Rediscover big hairdos, mullets, aerobics, legwarmers, slasher movies and more.",
+              "twitter:image": "https://static.wixstatic.com/media/37e2ed_34035cff9ed64af8b61a67c8f9a7e59c%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/37e2ed_34035cff9ed64af8b61a67c8f9a7e59c%7Emv2.jpg",
+              "facebook-domain-verification": "vythyzfubckecz3l219h8jv2lvos68",
+              "fb_admins_meta_tag": "volume7gin",
+              "viewport": "width=320, user-scalable=yes",
+              "twitter:description": "VOLUME 7 gin is more than an artisan gin. An invitation a (re)discover the glorious eighties. Rediscover big hairdos, mullets, aerobics, legwarmers, slasher movies and more.",
+              "fb:admins": "volume7gin",
+              "og:url": "https://www.volume7gin.com/flashbacks-a-sip-down-memory-lane-vol7gin",
+              "format-detection": "telephone=no"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://static.wixstatic.com/media/37e2ed_442f3be5b1ca490b8d0ace070753817c~mv2.jpg/v1/fill/w_560,h_386,al_c,q_80,usm_0.66_1.00_0.01/mullets_JPG.webp",
+              "width": "271",
+              "type": "1",
+              "height": "186"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "twix is better than snickers",
+        "htmlTitle": "twix is better than snickers",
+        "link": "https://vmlearning.com.au/rp3ymjnb/0e707b-twix-is-better-than-snickers",
+        "displayLink": "vmlearning.com.au",
+        "snippet": "Peter Pan middle school tally kit-kat v.s Twix Kit-kat llllllll(7) Twix ... When you compare Snickers vs Twix nutritionally, the nutrition facts do not ...",
+        "htmlSnippet": "Peter Pan middle school tally kit-kat <b>v.s Twix</b> Kit-kat llllllll(7) Twix ... When you compare Snickers <b>vs Twix</b> nutritionally, the nutrition facts do not&nbsp;...",
+        "cacheId": "9fY3k-fUnQUJ",
+        "formattedUrl": "https://vmlearning.com.au/rp3ymjnb/0e707b-twix-is-better-than-snickers",
+        "htmlFormattedUrl": "https://vmlearning.com.au/rp3ymjnb/0e707b-twix-is-better-than-snickers",
+        "pagemap": {
+          "metatags": [
+            {
+              "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "http://www.vmlearning.com.au/wp-content/uploads/2014/05/Image-1-5-180x138.png",
+              "width": "180",
+              "type": "1",
+              "height": "138"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "VOTE: What is the most popular candy in Utah?",
+        "htmlTitle": "VOTE: What is the most popular candy in Utah?",
+        "link": "https://kslnewsradio.com/1935843/vote-what-is-the-most-popular-candy-in-utah/",
+        "displayLink": "kslnewsradio.com",
+        "snippet": "Oct 26, 2020 ... Kit Kat vs Twix. 0 502. 4. Snickers vs Milky Way. 0 502. 5. Reese's vs Butterfinger. 0 502. 6. Hershey's vs Crunch Bar.",
+        "htmlSnippet": "Oct 26, 2020 <b>...</b> Kit Kat <b>vs Twix</b>. 0 502. 4. Snickers vs Milky Way. 0 502. 5. Reese&#39;s vs Butterfinger. 0 502. 6. Hershey&#39;s vs Crunch Bar.",
+        "cacheId": "ZZ_Mma3ckeEJ",
+        "formattedUrl": "https://kslnewsradio.com/.../vote-what-is-the-most-popular-candy-in-utah/",
+        "htmlFormattedUrl": "https://kslnewsradio.com/.../vote-what-is-the-most-popular-candy-in-utah/",
+        "pagemap": {
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=1114970937",
+              "og:image": "https://kslnewsradio.com/wp-content/uploads/2020/10/Candy-1.png",
+              "og:type": "article",
+              "article:published_time": "2020-10-26T15:08:17+00:00",
+              "og:image:width": "1920",
+              "twitter:card": "summary",
+              "og:site_name": "KSLNewsRadio",
+              "og:title": "VOTE: What is the most popular candy in Utah?",
+              "og:image:height": "1080",
+              "twitter:label1": "Written by",
+              "twitter:label2": "Est. reading time",
+              "msapplication-tileimage": "https://kslnewsradio.com/wp-content/uploads/2021/03/cropped-KSL-Circle-270x270.png",
+              "fb:pages": "9995608731",
+              "og:description": "Every year there are all sorts of polls that come out declaring what Halloween candy is the most popular in each state, and every year we wonder who on earth from Utah they were asking. ",
+              "twitter:creator": "@walk_colb",
+              "article:publisher": "https://www.facebook.com/KSLNewsradio/",
+              "twitter:data1": "Colby Walker",
+              "twitter:data2": "1 minute",
+              "article:modified_time": "2020-10-26T15:10:08+00:00",
+              "viewport": "width=device-width,initial-scale=1",
+              "og:locale": "en_US",
+              "og:url": "https://kslnewsradio.com/1935843/vote-what-is-the-most-popular-candy-in-utah/",
+              "google-play-app": "app-id=com.bonneville.kslnewsradio"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://kslnewsradio.com/wp-content/uploads/2020/10/Candy-1.png",
+              "width": "300",
+              "type": "1",
+              "height": "168"
+            }
+          ],
+          "article": [
+            {
+              "author": "COLBY WALKER"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "CC Comparison: Snickers vs. Twix vs. 5Star - YouTube",
+        "htmlTitle": "CC Comparison: Snickers vs. Twix vs. 5Star - YouTube",
+        "link": "https://www.youtube.com/watch?v=9gpAzS_Nqtk",
+        "displayLink": "www.youtube.com",
+        "snippet": "Apr 22, 2020 ... Comparing caramel chocolate bars in a Cool and Calm way.Did you like this video? Subscribe to the channel and share it with your friends to ...",
+        "htmlSnippet": "Apr 22, 2020 <b>...</b> Comparing caramel chocolate bars in a Cool and Calm way.Did you like this video? Subscribe to the channel and share it with your friends to&nbsp;...",
+        "formattedUrl": "https://www.youtube.com/watch?v=9gpAzS_Nqtk",
+        "htmlFormattedUrl": "https://www.youtube.com/watch?v=9gpAzS_Nqtk",
+        "pagemap": {
+          "imageobject": [
+            {
+              "width": "480",
+              "url": "https://i.ytimg.com/vi/9gpAzS_Nqtk/hqdefault.jpg",
+              "height": "360"
+            }
+          ],
+          "person": [
+            {
+              "name": "Cool and Calm",
+              "url": "http://www.youtube.com/channel/UCIi2Zc6G5kFnuAx2-bIMGGg"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://i.ytimg.com/vi/9gpAzS_Nqtk/hqdefault.jpg",
+              "theme-color": "rgba(255,255,255,0.98)",
+              "og:image:width": "480",
+              "twitter:card": "player",
+              "og:site_name": "YouTube",
+              "twitter:url": "https://www.youtube.com/watch?v=9gpAzS_Nqtk",
+              "al:android:package": "com.google.android.youtube",
+              "title": "CC Comparison: Snickers vs. Twix vs. 5Star",
+              "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=9gpAzS_Nqtk&feature=applinks",
+              "twitter:app:id:iphone": "544007664",
+              "og:description": "Comparing caramel chocolate bars in a Cool and Calm way.Did you like this video? Subscribe to the channel and share it with your friends to help the communit...",
+              "al:ios:app_store_id": "544007664",
+              "twitter:image": "https://i.ytimg.com/vi/9gpAzS_Nqtk/hqdefault.jpg",
+              "twitter:site": "@youtube",
+              "og:video:type": "text/html",
+              "og:video:height": "720",
+              "og:video:url": "https://www.youtube.com/embed/9gpAzS_Nqtk",
+              "og:type": "video.other",
+              "twitter:title": "CC Comparison: Snickers vs. Twix vs. 5Star",
+              "al:ios:app_name": "YouTube",
+              "og:title": "CC Comparison: Snickers vs. Twix vs. 5Star",
+              "og:image:height": "360",
+              "twitter:app:id:ipad": "544007664",
+              "al:web:url": "http://www.youtube.com/watch?v=9gpAzS_Nqtk&feature=applinks",
+              "og:video:secure_url": "https://www.youtube.com/embed/9gpAzS_Nqtk",
+              "og:video:tag": "Vs.",
+              "og:video:width": "1280",
+              "al:android:url": "vnd.youtube://www.youtube.com/watch?v=9gpAzS_Nqtk&feature=applinks",
+              "fb:app_id": "87741124305",
+              "twitter:app:name:ipad": "YouTube",
+              "twitter:description": "Comparing caramel chocolate bars in a Cool and Calm way.Did you like this video? Subscribe to the channel and share it with your friends to help the communit...",
+              "og:url": "https://www.youtube.com/watch?v=9gpAzS_Nqtk",
+              "al:android:app_name": "YouTube",
+              "twitter:app:name:iphone": "YouTube"
+            }
+          ],
+          "videoobject": [
+            {
+              "embedurl": "https://www.youtube.com/embed/9gpAzS_Nqtk",
+              "playertype": "HTML5 Flash",
+              "isfamilyfriendly": "true",
+              "uploaddate": "2020-04-22",
+              "description": "Comparing caramel chocolate bars in a Cool and Calm way.Did you like this video? Subscribe to the channel and share it with your friends to help the communit...",
+              "videoid": "9gpAzS_Nqtk",
+              "url": "https://www.youtube.com/watch?v=9gpAzS_Nqtk",
+              "duration": "PT7M16S",
+              "unlisted": "False",
+              "name": "CC Comparison: Snickers vs. Twix vs. 5Star",
+              "paid": "False",
+              "width": "1280",
+              "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+              "genre": "Entertainment",
+              "interactioncount": "1537",
+              "channelid": "UCIi2Zc6G5kFnuAx2-bIMGGg",
+              "datepublished": "2020-04-22",
+              "thumbnailurl": "https://i.ytimg.com/vi/9gpAzS_Nqtk/hqdefault.jpg",
+              "height": "720"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i.ytimg.com/vi/9gpAzS_Nqtk/hqdefault.jpg",
+              "width": "259",
+              "type": "1",
+              "height": "194"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Mars vs Bounty vs Snickers vs Twix | Bite Me - YouTube",
+        "htmlTitle": "Mars vs Bounty vs Snickers <b>vs Twix</b> | Bite Me - YouTube",
+        "link": "https://www.youtube.com/watch?v=CpMySS0Ynh8",
+        "displayLink": "www.youtube.com",
+        "snippet": "Nov 20, 2014 ... Taste battle between these four candy bars!Which one is your favorite?Thanks for watching!BITE ME! on:FACEBOOK: ...",
+        "htmlSnippet": "Nov 20, 2014 <b>...</b> Taste battle between these four candy bars!Which one is your favorite?Thanks for watching!BITE ME! on:FACEBOOK:&nbsp;...",
+        "formattedUrl": "https://www.youtube.com/watch?v=CpMySS0Ynh8",
+        "htmlFormattedUrl": "https://www.youtube.com/watch?v=CpMySS0Ynh8",
+        "pagemap": {
+          "imageobject": [
+            {
+              "width": "1280",
+              "url": "https://i.ytimg.com/vi/CpMySS0Ynh8/maxresdefault.jpg",
+              "height": "720"
+            }
+          ],
+          "person": [
+            {
+              "name": "Bite Me",
+              "url": "http://www.youtube.com/channel/UCfwX4rJBpCoaofaRmPCMtOw"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://i.ytimg.com/vi/CpMySS0Ynh8/maxresdefault.jpg",
+              "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=CpMySS0Ynh8&feature=applinks",
+              "theme-color": "rgba(255,255,255,0.98)",
+              "og:image:width": "1280",
+              "twitter:card": "player",
+              "og:site_name": "YouTube",
+              "twitter:url": "https://www.youtube.com/watch?v=CpMySS0Ynh8",
+              "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=CpMySS0Ynh8&feature=applinks",
+              "al:android:package": "com.google.android.youtube",
+              "title": "Mars vs Bounty vs Snickers vs Twix | Bite Me",
+              "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=CpMySS0Ynh8&feature=applinks",
+              "twitter:app:id:iphone": "544007664",
+              "og:description": "Taste battle between these four candy bars!Which one is your favorite?Thanks for watching!BITE ME! on:FACEBOOK: https://www.facebook.com/pages/BITE-ME/526434...",
+              "al:ios:app_store_id": "544007664",
+              "twitter:image": "https://i.ytimg.com/vi/CpMySS0Ynh8/maxresdefault.jpg",
+              "twitter:site": "@youtube",
+              "og:video:type": "text/html",
+              "og:video:height": "720",
+              "og:video:url": "https://www.youtube.com/embed/CpMySS0Ynh8",
+              "og:type": "video.other",
+              "twitter:title": "Mars vs Bounty vs Snickers vs Twix | Bite Me",
+              "al:ios:app_name": "YouTube",
+              "og:title": "Mars vs Bounty vs Snickers vs Twix | Bite Me",
+              "og:image:height": "720",
+              "twitter:app:id:ipad": "544007664",
+              "al:web:url": "http://www.youtube.com/watch?v=CpMySS0Ynh8&feature=applinks",
+              "og:video:secure_url": "https://www.youtube.com/embed/CpMySS0Ynh8",
+              "og:video:tag": "Snickers (Candy Bar)",
+              "og:video:width": "1280",
+              "al:android:url": "vnd.youtube://www.youtube.com/watch?v=CpMySS0Ynh8&feature=applinks",
+              "fb:app_id": "87741124305",
+              "twitter:app:name:ipad": "YouTube",
+              "twitter:description": "Taste battle between these four candy bars!Which one is your favorite?Thanks for watching!BITE ME! on:FACEBOOK: https://www.facebook.com/pages/BITE-ME/526434...",
+              "og:url": "https://www.youtube.com/watch?v=CpMySS0Ynh8",
+              "al:android:app_name": "YouTube",
+              "twitter:app:name:iphone": "YouTube"
+            }
+          ],
+          "videoobject": [
+            {
+              "embedurl": "https://www.youtube.com/embed/CpMySS0Ynh8",
+              "playertype": "HTML5 Flash",
+              "isfamilyfriendly": "true",
+              "uploaddate": "2014-11-20",
+              "description": "Taste battle between these four candy bars!Which one is your favorite?Thanks for watching!BITE ME! on:FACEBOOK: https://www.facebook.com/pages/BITE-ME/526434...",
+              "videoid": "CpMySS0Ynh8",
+              "url": "https://www.youtube.com/watch?v=CpMySS0Ynh8",
+              "duration": "PT5M57S",
+              "unlisted": "False",
+              "name": "Mars vs Bounty vs Snickers vs Twix | Bite Me",
+              "paid": "False",
+              "width": "1280",
+              "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+              "genre": "People & Blogs",
+              "interactioncount": "29326",
+              "channelid": "UCfwX4rJBpCoaofaRmPCMtOw",
+              "datepublished": "2014-11-20",
+              "thumbnailurl": "https://i.ytimg.com/vi/CpMySS0Ynh8/maxresdefault.jpg",
+              "height": "720"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i.ytimg.com/vi/CpMySS0Ynh8/maxresdefault.jpg",
+              "width": "300",
+              "type": "1",
+              "height": "168"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Mars VS snickers VS twix - YouTube",
+        "htmlTitle": "Mars VS snickers <b>VS twix</b> - YouTube",
+        "link": "https://www.youtube.com/watch?v=3twsgNUUhHo",
+        "displayLink": "www.youtube.com",
+        "snippet": "Dec 2, 2020 ... Mars #Bounty #Twix #Galaxy chocolate #Milkyway#Snickers#Galaxy caramel #teasets#surtido#oreo.#chocolatebar #chocolateasmr #Chocolate.",
+        "htmlSnippet": "Dec 2, 2020 <b>...</b> Mars #Bounty #Twix #Galaxy chocolate #Milkyway#Snickers#Galaxy caramel #teasets#surtido#oreo.#chocolatebar #chocolateasmr #Chocolate.",
+        "formattedUrl": "https://www.youtube.com/watch?v=3twsgNUUhHo",
+        "htmlFormattedUrl": "https://www.youtube.com/watch?v=3twsgNUUhHo",
+        "pagemap": {
+          "imageobject": [
+            {
+              "width": "1280",
+              "url": "https://i.ytimg.com/vi/3twsgNUUhHo/maxresdefault.jpg",
+              "height": "720"
+            }
+          ],
+          "person": [
+            {
+              "name": "Cocina Con zakia",
+              "url": "http://www.youtube.com/channel/UCADTbweYYL23EjtXT_SC7bA"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://i.ytimg.com/vi/3twsgNUUhHo/maxresdefault.jpg",
+              "theme-color": "rgba(255,255,255,0.98)",
+              "og:image:width": "1280",
+              "og:type": "video.other",
+              "og:site_name": "YouTube",
+              "al:ios:app_name": "YouTube",
+              "og:title": "Mars VS snickers VS twix",
+              "og:image:height": "720",
+              "al:android:package": "com.google.android.youtube",
+              "title": "Mars VS snickers VS twix",
+              "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=3twsgNUUhHo&feature=applinks",
+              "al:web:url": "http://www.youtube.com/watch?v=3twsgNUUhHo&feature=applinks",
+              "og:video:secure_url": "https://www.youtube.com/embed/3twsgNUUhHo",
+              "og:video:tag": "chocolate apples",
+              "og:description": "#Mars #Bounty #Twix #Galaxy chocolate #Milkyway#Snickers#Galaxy caramel #teasets#surtido#oreo.#chocolatebar #chocolateasmr #Chocolate",
+              "og:video:width": "1280",
+              "al:ios:app_store_id": "544007664",
+              "al:android:url": "vnd.youtube://www.youtube.com/watch?v=3twsgNUUhHo&feature=applinks",
+              "og:video:type": "text/html",
+              "og:video:height": "720",
+              "og:video:url": "https://www.youtube.com/embed/3twsgNUUhHo",
+              "og:url": "https://www.youtube.com/watch?v=3twsgNUUhHo",
+              "al:android:app_name": "YouTube"
+            }
+          ],
+          "videoobject": [
+            {
+              "embedurl": "https://www.youtube.com/embed/3twsgNUUhHo",
+              "playertype": "HTML5 Flash",
+              "isfamilyfriendly": "true",
+              "uploaddate": "2020-12-02",
+              "description": "#Mars #Bounty #Twix #Galaxy chocolate #Milkyway#Snickers#Galaxy caramel #teasets#surtido#oreo.#chocolatebar #chocolateasmr #Chocolate",
+              "videoid": "3twsgNUUhHo",
+              "url": "https://www.youtube.com/watch?v=3twsgNUUhHo",
+              "duration": "PT7M34S",
+              "unlisted": "False",
+              "name": "Mars VS snickers VS twix",
+              "paid": "False",
+              "width": "1280",
+              "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+              "genre": "People & Blogs",
+              "interactioncount": "15944",
+              "channelid": "UCADTbweYYL23EjtXT_SC7bA",
+              "datepublished": "2020-12-02",
+              "thumbnailurl": "https://i.ytimg.com/vi/3twsgNUUhHo/maxresdefault.jpg",
+              "height": "720"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i.ytimg.com/vi/3twsgNUUhHo/maxresdefault.jpg",
+              "width": "300",
+              "type": "1",
+              "height": "168"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "food - Chesapeake Family",
+        "htmlTitle": "food - Chesapeake Family",
+        "link": "https://www.chesapeakefamily.com/tag/food/",
+        "displayLink": "www.chesapeakefamily.com",
+        "snippet": "Looking to wow your family members and friends with a fun, new recipe this Thanksgiving? We shared our favorite Thanksgiving recipes with each other and.",
+        "htmlSnippet": "Looking to wow your family members and friends with a fun, new recipe this Thanksgiving? We shared our favorite Thanksgiving recipes with each other and.",
+        "cacheId": "zeIHZYNe5KQJ",
+        "formattedUrl": "https://www.chesapeakefamily.com/tag/food/",
+        "htmlFormattedUrl": "https://www.chesapeakefamily.com/tag/food/",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://chesapeakefamily-com-images.s3.us-east-1.amazonaws.com/wp-content/uploads/2020/09/G1i5hDj-_400x400.jpg",
+              "og:type": "article",
+              "og:image:width": "300",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "Chesapeake Family",
+              "twitter:site": "@ChesFamily",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "og:title": "food - Chesapeake Family",
+              "og:locale": "en_US",
+              "og:image:height": "300",
+              "og:url": "https://www.chesapeakefamily.com/tag/food/",
+              "msapplication-tileimage": "https://chesapeakefamily-com-images.s3.us-east-1.amazonaws.com/wp-content/uploads/2020/08/favicon.ico"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://chesapeakefamily-com-images.s3.us-east-1.amazonaws.com/wp-content/uploads/2020/09/G1i5hDj-_400x400.jpg",
+              "width": "225",
+              "type": "1",
+              "height": "225"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "How To Smoke A Twix - video Dailymotion",
+        "htmlTitle": "How To Smoke A Twix - video Dailymotion",
+        "link": "https://www.dailymotion.com/video/x34w64l",
+        "displayLink": "www.dailymotion.com",
+        "snippet": "Affrontement Twix droit vs Twix gauche - Le test du goût. Histoire de pub. TWIX Ice Cream Rolls _ fried Thailand rolled ice cream with TWIX Chocolate Bar _ ...",
+        "htmlSnippet": "Affrontement Twix droit <b>vs Twix</b> gauche - Le test du goût. Histoire de pub. TWIX Ice Cream Rolls _ fried Thailand rolled ice cream with TWIX Chocolate Bar _&nbsp;...",
+        "cacheId": "H17kG5SdMvwJ",
+        "formattedUrl": "https://www.dailymotion.com/video/x34w64l",
+        "htmlFormattedUrl": "https://www.dailymotion.com/video/x34w64l",
+        "pagemap": {
+          "metatags": [
+            {
+              "og:image": "https://s2.dmcdn.net/v/BJLS51VtKSloq9Y-7/x720",
+              "msapplication-config": "//static1.dmcdn.net/neon-ssr/prod/favicons/browserconfig.653d077300a12f09a69caeea7a8947f8.xml",
+              "og:image:width": "540",
+              "og:site_name": "Dailymotion",
+              "video:duration": "221",
+              "al:android:package": "com.dailymotion.dailymotion",
+              "language": "en-US",
+              "og:image:type": "image/jpg",
+              "y_key": "a87a0d996fe5f70f",
+              "al:ios:url": "dailymotion://video/x34w64l",
+              "og:description": "Watch How To Smoke A Twix - Ryanwinton on Dailymotion",
+              "og:image:secure_url": "https://s2.dmcdn.net/v/BJLS51VtKSloq9Y-7/x720",
+              "al:ios:app_store_id": "336978041",
+              "msapplication-tap-highlight": "no",
+              "og:video:type": "text/html",
+              "og:video:height": "360",
+              "og:video:url": "https://www.dailymotion.com/embed/video/x34w64l?autoplay=1",
+              "og:type": "video",
+              "handheldfriendly": "True",
+              "al:ios:app_name": "Dailymotion",
+              "msvalidate.01": "42E38E6C5CF3C253563039FCD6F3F775",
+              "author": "Ryanwinton",
+              "video:release_date": "2015-09-05T20:08:06+02:00",
+              "og:title": "How To Smoke A Twix - video Dailymotion",
+              "og:image:height": "720",
+              "og:video:secure_url": "https://www.dailymotion.com/embed/video/x34w64l?autoplay=1",
+              "og:video:width": "640",
+              "video:director": "https://www.dailymotion.com/ryanwinton",
+              "al:android:url": "dailymotion://video/x34w64l",
+              "fb:app_id": "96937694899",
+              "apple-mobile-web-app-status-bar-style": "black-translucent",
+              "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+              "apple-mobile-web-app-capable": "yes",
+              "mobileoptimized": "320",
+              "og:url": "https://www.dailymotion.com/video/x34w64l",
+              "video:tag": "Twix",
+              "al:android:app_name": "Dailymotion"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://s2.dmcdn.net/v/BJLS51VtKSloq9Y-7/x720",
+              "width": "194",
+              "type": "1",
+              "height": "259"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "6": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 41,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 51,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.504299,
+      "formattedSearchTime": "0.50",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  },
+  "7": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 51,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 61,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.380344,
+      "formattedSearchTime": "0.38",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  },
+  "8": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 61,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 71,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.517275,
+      "formattedSearchTime": "0.52",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  },
+  "9": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 71,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 81,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.354025,
+      "formattedSearchTime": "0.35",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  },
+  "10": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "previousPage": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 81,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - \"vs Twix\"",
+          "searchTerms": "\"vs Twix\"",
+          "count": 10,
+          "startIndex": 91,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "active",
+          "cx": "eef1ce54ee2a2ef00"
+        }
+      ]
+    },
+    "searchInformation": {
+      "searchTime": 0.208886,
+      "formattedSearchTime": "0.21",
+      "totalResults": "0",
+      "formattedTotalResults": "0"
+    }
+  }
+}
