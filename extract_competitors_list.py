@@ -12,6 +12,7 @@ def filter_stop_words(arr):
     for word in arr:
         if word.lower() not in stop_words:
             ans.append(word)
+
     return ans
 
 
@@ -23,11 +24,27 @@ def get_second_element(arr):
     return arr[1]
 
 
+def extractor_from_h1(array_of_tuples):
+    ans = list()
+    for tuple in array_of_tuples:
+        for item in tuple:
+            word_arr = item.strip().split(' ')
+            for word in word_arr:
+                if word in ['or','and','']:
+                    word_arr.remove(word)
+
+            if not (' '.join(word_arr)==''):
+                ans.append(' '.join(word_arr))
+    return ans
+    # print(ans)
+
+
 # Function that extract words that matches by pattern C1: competitor_name versus entity_name
 def extract_c1(words, entity_name):
     wordsFormat = " ".join(words)
-    results = re.findall(r'([A-Z][a-zA-Z]*\b) (vs|VS|Vs|versus) {}'.format(entity_name), wordsFormat)
+    # results = re.findall(r'([A-Z][a-zA-Z]*\b) (vs|VS|Vs|versus) {}'.format(entity_name), wordsFormat)
     results2 = re.findall(r'([A-Z][a-zA-Z]* [A-Z][a-zA-Z]*) (vs|VS|Vs|versus) {}'.format(entity_name), wordsFormat)
+    results = re.findall(r'(\b[A-Z][a-zA-Z]*\b) (vs|VS|Vs|versus)\.? {}'.format(entity_name), wordsFormat)
     ans = list(map(get_first_element, results))
     ans2 = list(map(get_first_element, results2))
 
@@ -56,8 +73,8 @@ def extract_c3(words, entity_name):
 # Function that extract words that matches by pattern C4
 def extract_c4(words, entity_name):
     wordsFormat = " ".join(words)
-    results = re.findall(r'(\b[A-Z][a-zA-Z]+\b) or {}'.format(entity_name), wordsFormat)
-
+    # results = re.findall(r'(\b[A-Z][a-zA-Z]+\b) or {}'.format(entity_name), wordsFormat)
+    results = re.findall(r'(\b[A-Z][a-zA-Z]*\b) or {}'.format(entity_name), wordsFormat)
     return filter_stop_words(results)
 
 
@@ -65,11 +82,10 @@ def extract_c4(words, entity_name):
 def extract_h1(words, entity_name):
     wordsFormat = " ".join(words)
 
-    arr = re.findall(r'such as {},? ?([A-Z][a-zA-Z]+)'.format(entity_name), wordsFormat)
-    arr2 = re.findall(r'such as {} [A-Z][a-zA-Z]+ ?(and|or|,)? ([A-Z][a-zA-Z]+)'.format(entity_name), wordsFormat)
+    arr = re.findall(r'such as {},? (\b[A-Z][a-zA-Z]*\b \b[A-Z][a-zA-Z]*\b|\b[A-Z][a-zA-Z]*\b)( or (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Za-z]*\b) (\b[A-Z][a-zA-Z]*\b)| and (\b[A-Z][a-zA-Z]*\b)|\b)|,(\b[A-Za-z])(\b[A-Z][a-zA-Z]*\b)| , (\b[A-Za-z]*\b)'.format(entity_name),wordsFormat)
 
-
-    return filter_stop_words(arr+list(map(get_second_element,arr2)))
+    arr = extractor_from_h1(arr)
+    return filter_stop_words(arr)
 
 
 # Function that extract words that matches by pattern H2
@@ -172,9 +188,8 @@ def pointwise_mutual_information(search_results, entity_name, competitor_name):
                 or len(re.findall(r' {competitor_name} [a-z][a-z][a-z] {entity_name}'.format(entity_name=entity_name, competitor_name=competitor_name), sentence)) > 0
         ):
             cnt += 1
-
-    hits_ce = cnt
-    # print(wordsFormat,competitor_name, cnt)
+    hits_ce = len(re.findall(r'{entity_name} [a-zA-Z]+ {competitor_name}'.format(entity_name=entity_name, competitor_name=competitor_name), wordsFormat))
+    # print(hits_ce)
     hits_c = len(re.findall(r'\b{}\b'.format(competitor_name), wordsFormat)) + len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(competitor_name), wordsFormat))
     hits_e = len(re.findall(r'\b{}\b'.format(entity_name), wordsFormat))  + len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(entity_name), wordsFormat))
     # print(competitor_name, hits_c)
@@ -194,10 +209,11 @@ def confidence_score(competitor_name, entity_name, competitors_list_dict, extrac
     k1 = 0.2 * r
     # k1 = 0
     k2 = 0.6 * pointwise_mutual_information(search_results, entity_name, competitor_name)
-    k2=0
+    # print(pointwise_mutual_information(search_results, entity_name, competitor_name))
+    # k2=0
     # print(competitor_name,pointwise_mutual_information(competitor_list, entity_name, competitor_name))
     k3 = 0.2 * candidate_confidence(search_results, competitor_name, competitors_list_dict)
-    k3=0
+    # k3=0
     return k1 + k2 + k3
 
 
@@ -255,14 +271,15 @@ def work(entity_name):
     # a= list(ranked_CL.keys())[0:9]
     # for i in a:
     #     print(i)
-    print(list(map(lambda x: x.capitalize(),list(ranked_CL)[0:20])))
+    print(list(map(lambda x: x.capitalize(),list(ranked_CL)[0:10])))
 
 
 names = [
     'Python',
     'Prada',
     'Toyota',
-    'Adidas'
+    'Adidas',
+    'Twix'
 ]
 for entity_name in names:
     work(entity_name)

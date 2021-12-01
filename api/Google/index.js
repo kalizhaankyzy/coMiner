@@ -29,7 +29,7 @@ const getResults = (queryString) => {
 }
 
 const handleGetCompetitorList = () => {
-    const patterns = patternMaker('Adidas')
+    const patterns = patternMaker('Twix')
     const promises = getResults(patterns[6])
     Promise.all(promises)
         .then(results => Promise.all(results.map(r => r.json())))
