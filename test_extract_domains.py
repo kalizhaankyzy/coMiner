@@ -216,7 +216,11 @@ def phrase_independence(phrase, descriptions_list):
 
 # entity_name = 'Python'
 # entity_name = 'Twix'
-entity_name ='Prada'
+# entity_name ='Prada'
+# entity_name = 'Python'
+# entity_name = 'Twix'
+entity_name = 'Adidas'
+
 # entity_name = 'Toyota'
 
 # Extracting files
@@ -239,6 +243,9 @@ entity_name ='Prada'
 # snickers = extract_description_from_file('snickers', entity_name)
 # treat = extract_description_from_file('treat', entity_name)
 # kit = extract_description_from_file('kit', entity_name)
+
+# ['Nike', 'Puma', 'Pace', 'Legacy lifter', 'Epic react', 'Advantage', 'Footjoy', 'Foam', 'Joyride', 'Nike joyride']
+
 
 
 # chevrolet = extract_description_from_file('chevrolet', entity_name)
@@ -272,6 +279,16 @@ descriptions_list_mapped = {
     # 'Spain':spain,
     # "Versace":versace
 
+    'Advantage':extract_description_from_file('advantage', entity_name),
+    'Epic React':extract_description_from_file('epic_react', entity_name),
+    'Foam':extract_description_from_file('foam', entity_name),
+    'Footjoy':extract_description_from_file('footjoy', entity_name),
+    'Joyride':extract_description_from_file('joyride', entity_name),
+    'Legacy Lifter':extract_description_from_file('legacy_lifter', entity_name),
+    'Nike':extract_description_from_file('nike', entity_name),
+    'OG':extract_description_from_file('og', entity_name),
+    'Pace':extract_description_from_file('pace', entity_name),
+    'Puma': extract_description_from_file('puma', entity_name)
     # 'chevrolet': chevrolet,
     # 'competition': competition,
     # 'ford': ford,

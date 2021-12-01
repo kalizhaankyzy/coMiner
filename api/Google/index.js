@@ -28,8 +28,28 @@ const getResults = (queryString) => {
     return promises
 }
 
+
+const work = () => {
+    const patterns = patternMaker('Facebook')
+
+    for(let i = 0 ;i < patterns.length; i++) {
+       setTimeout(() => {
+            const promises = getResults(patterns[i])
+            Promise.all(promises)
+                .then(results => Promise.all(results.map(r => r.json())))
+                .then((a) => {
+                    const b = {}
+                    for (let i = 0; i < a.length; i++) {
+                        b[`${i + 1}`] = a[i]
+                    }
+                    console.debug('results for',(patterns[i])
+                    console.log(JSON.stringify(b))
+                })
+           }, 5000*i)
+    }
+}
+
 const handleGetCompetitorList = () => {
-    const patterns = patternMaker('Twix')
     const promises = getResults(patterns[6])
     Promise.all(promises)
         .then(results => Promise.all(results.map(r => r.json())))
@@ -45,4 +65,4 @@ const handleGetCompetitorList = () => {
 
 
 
-btn.addEventListener('click', handleGetCompetitorList)
+btn.addEventListener('click', work )
