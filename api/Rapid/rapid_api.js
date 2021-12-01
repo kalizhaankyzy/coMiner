@@ -11,8 +11,8 @@
 // const competitors_list  = ['Gucci', 'Vuitton', 'Fendi', 'Nada', 'Homme', 'Burberry', 'Sweeney', 'Chanel', 'Miu']
 
 
-const entity_name = 'Twix'
-const competitors_list = ['Right', 'Snickers', 'Kat', 'Kit', 'Left', 'Mars', 'Treat', 'Aldi', 'Reese', 'Kit kat']
+const entity_name = 'Adidas'
+const competitors_list = ['Nike', 'Puma', 'Pace', 'Legacy lifter', 'Epic react', 'Advantage', 'Footjoy', 'Foam', 'Joyride', 'Og']
 
 
 document.querySelector('button').addEventListener('click',() => {

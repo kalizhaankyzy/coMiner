@@ -213,9 +213,9 @@ def phrase_independence(phrase, descriptions_list):
 
 
 
-
-entity_name = 'Python'
-entity_name = 'Twix'
+# entity_name = 'Python'
+# entity_name = 'Twix'
+entity_name = 'Adidas'
 # entity_name = 'Toyota'
 # Extracting files
 # c = extract_description_from_file('c',entity_name)
@@ -228,15 +228,17 @@ entity_name = 'Twix'
 # matlab = extract_description_from_file('matlab', entity_name)
 # ruby = extract_description_from_file('ruby', entity_name)
 
-aldi = extract_description_from_file('aldi',entity_name)
-kat = extract_description_from_file('kat', entity_name)
-mars = extract_description_from_file('mars', entity_name)
-kit_kat = extract_description_from_file('kit_kat',entity_name)
-reese = extract_description_from_file('reese',entity_name)
-left = extract_description_from_file('left', entity_name)
-snickers = extract_description_from_file('snickers', entity_name)
-treat = extract_description_from_file('treat', entity_name)
-kit = extract_description_from_file('kit', entity_name)
+# aldi = extract_description_from_file('aldi',entity_name)
+# kat = extract_description_from_file('kat', entity_name)
+# mars = extract_description_from_file('mars', entity_name)
+# kit_kat = extract_description_from_file('kit_kat',entity_name)
+# reese = extract_description_from_file('reese',entity_name)
+# left = extract_description_from_file('left', entity_name)
+# snickers = extract_description_from_file('snickers', entity_name)
+# treat = extract_description_from_file('treat', entity_name)
+# kit = extract_description_from_file('kit', entity_name)
+
+# ['Nike', 'Puma', 'Pace', 'Legacy lifter', 'Epic react', 'Advantage', 'Footjoy', 'Foam', 'Joyride', 'Nike joyride']
 
 
 
@@ -250,6 +252,16 @@ kit = extract_description_from_file('kit', entity_name)
 # subaru = extract_description_from_file('subaru', entity_name)
 
 descriptions_list_mapped = {
+    'Advantage':extract_description_from_file('advantage', entity_name),
+    'Epic React':extract_description_from_file('epic_react', entity_name),
+    'Foam':extract_description_from_file('foam', entity_name),
+    'Footjoy':extract_description_from_file('footjoy', entity_name),
+    'Joyride':extract_description_from_file('joyride', entity_name),
+    'Legacy Lifter':extract_description_from_file('legacy_lifter', entity_name),
+    'Nike':extract_description_from_file('nike', entity_name),
+    'OG':extract_description_from_file('og', entity_name),
+    'Pace':extract_description_from_file('pace', entity_name),
+    'Puma': extract_description_from_file('puma', entity_name)
     # 'chevrolet': chevrolet,
     # 'competition': competition,
     # 'ford': ford,
@@ -268,15 +280,15 @@ descriptions_list_mapped = {
     # 'js': js,
     # 'c': c,
 
-    'kit kat': kit_kat,
-    'kit': kit,
-    'kat': kat,
-    'reese': reese,
-    'left': left,
-    'snickers': snickers,
-    'treat': treat,
-    'mars': mars,
-    'aldi': aldi
+    # 'kit kat': kit_kat,
+    # 'kit': kit,
+    # 'kat': kat,
+    # 'reese': reese,
+    # 'left': left,
+    # 'snickers': snickers,
+    # 'treat': treat,
+    # 'mars': mars,
+    # 'aldi': aldi
 }
 
 
