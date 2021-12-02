@@ -204,7 +204,7 @@ def filter_competitor_names_bigrams(text, competitors_list):
 
             pmi = hits_as_pair / (hits_first * hits_second)
 
-            # logically if number of occurences as pair and separately are approximately very close to each other,
+            # logically if number of occurrences  as pair and separately are approximately very close to each other,
             # this pair of words express a precise, unique concept
             if (hits_as_pair / max(hits_first, hits_second) > 0.6):
                 common = 1 / max(hits_as_pair, hits_first, hits_second)

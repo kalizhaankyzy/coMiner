@@ -1,45 +1,51 @@
 import json
 import math
-
 import nltk
 import numpy
 import re
-from utils.helpers import is_word, has_intersection, distance
+from utils.helpers import is_word, has_intersection, distance, word_is_in_text
 from nltk.corpus import wordnet
 
-DOCUMENTS_ROOT = './db/python/domain_mining/document_texts/'
-DESCRIPTION_ROOT = './db/python/domain_mining/competitor_list/'
-entity_name = 'Python'
-competitors_list = ['R', 'Java', 'Javascript', 'Ruby', 'C', 'Js', 'Php', 'Go', 'Matlab']
-entity_name = 'Twix'
-competitors_list = ['Snickers', 'Kat', 'Kit', 'Left', 'Mars', 'Treat', 'Aldi', 'Reese', 'Kit kat']
+from nltk.corpus import stopwords
+stop_words = stopwords.words('english')
 
 
+def filterize(arr):
+    ans = []
+    for word in arr:
+        if word.lower() not in stop_words:
+            ans.append(word)
+    return ans
+
+
+# check if a string is word using nltk
 def check_is_word_nltk(word_to_test):
     return wordnet.synsets(word_to_test)
 
 
-def get_directory_of_document_text(name):
-    return DOCUMENTS_ROOT + name + '_documentTexts.json'
+# get directory to documents file by competitor name
+def get_directory_of_document_text(name, entity_name):
+    return './db/{}/domain_mining/document_texts/'.format(entity_name) + name + '_documentTexts.json'
 
 
-def get_directory_of_descriptions(name):
-    return DESCRIPTION_ROOT + name + '.json'
+# get directory to descriptions file by competitor name
+def get_directory_of_descriptions(name, entity_name):
+    return './db/{}/domain_mining/search_results/'.format(entity_name) + name + '.json'
 
 
-# get list of descriptions from one file
-def extract_description_from_file(name):
-    file_name_with_dir = get_directory_of_document_text(name)
+# get list of descriptions(documents) for one competitor
+def extract_description_from_file(name, entity_name):
+    file_name_with_dir = get_directory_of_document_text(name,entity_name)
     f = open(file_name_with_dir, encoding='utf-8')
-
     data = json.load(f)['descriptions']
+
     ans = []
     idx = 0
     for description in data:
-        if description != '':
+        if description == 'ллллл':
             ans.append(description)
         else:
-            f_2 = open(get_directory_of_descriptions(name), encoding='utf-8')
+            f_2 = open(get_directory_of_descriptions(name,entity_name), encoding='utf-8')
             json_ = json.load(f_2)
             results = json_['results']
             result = results[idx]
@@ -47,106 +53,79 @@ def extract_description_from_file(name):
             ans.append(description_from_mother)
         idx += 1
     return ans
+    # f_2 = open(get_directory_of_descriptions(name, entity_name), encoding='utf-8')
+    # json_ = json.load(f_2)
+    # results = json_['results']
 
 
-def phrase_from_one_description(description):
-    arr = nltk.pos_tag(nltk.word_tokenize(description))
-    ans = []
-    for i in range(len(arr)-1):
-        first_word_info = list(arr[i])
-        second_word_info = list(arr[i+1])
+# get phrases list from one description(document)
+def phrase_from_one_description(description, competitors_list, entity_name):
+    # We collect words using nltk
+    words_list = nltk.pos_tag(nltk.word_tokenize(description))
+    results = set()
+    for i in range(len(words_list)-1):
+        # They have format [word, pos]: [ 'banana', 'NN']
+        first_word_info = list(words_list[i])
+        second_word_info = list(words_list[i+1])
 
         first_word, first_word_pos = first_word_info
         second_word, second_word_pos = second_word_info
         first_word = first_word.lower()
         second_word = second_word.lower()
-
         if is_word(first_word) and not has_intersection(first_word, competitors_list, entity_name) :
-            if first_word_pos in ['NN', 'NNP', 'VP'] and len(first_word) > 3:
-                if first_word_pos in ['NNS', 'NNPS','NNP','VBZ'] and len(first_word) > 3 and (first_word[-1]=='s'):
-                    first_word = first_word[0:len(first_word) - 1]
-                ans.append(first_word)
-            if first_word_pos in ['VBG', 'JJ', 'NN', 'NNP', 'VP'] and second_word_pos in ['NN', 'NNP', 'VP', 'NNS','NNPS']:
+            if first_word_pos in ['NN','NNP',] and len(first_word) > 3:
+                results.add(first_word)
+            # If it is phrase that is like adjective + noun, add it as two-word phrase
+            if first_word_pos in ['VBG', 'JJ', 'NN', 'NNP', 'VP'] and second_word_pos in ['NN', 'NNP', 'VP']:
                 if is_word(second_word) and not has_intersection(second_word, competitors_list, entity_name):
-                    if second_word_pos in ['NNS', 'NNPS','NNP','VBZ'] and (second_word[-1]=='s'):
-                        second_word = second_word[0:len(second_word)-1]
-                    ans.append((first_word+' '+second_word))
+                    results.add(first_word+' '+second_word)
 
-    return list(set(ans))
+    return filterize(list(results))
 
 
-def phrase_from_descriptions_of_one_competitor(descriptions):
-    print('Getting phrase from one competitor')
-    return list(numpy.concatenate(list(map(phrase_from_one_description, descriptions))))
+# returns unique list of descriptions
+def phrases_from_descriptions_list(descriptions, competitors_list, entity_name):
+    result = set()
+    for description in descriptions:
+        phrases = phrase_from_one_description(description, competitors_list, entity_name)
+        for phrase in phrases:
+            result.add(phrase)
+    return list(result)
 
 
-def get_all_phrases_from_list_of_description(descriptions_all):
-    return list(set(list(numpy.concatenate(list(map(phrase_from_descriptions_of_one_competitor, descriptions_all))))))
-
-
+# Here we send a list of descriptions list [ [], [], [] ] to make one array []
 def get_descriptions_list(descriptions_all):
     return list(numpy.concatenate(descriptions_all))
 
-
-# Extracting files
-c = extract_description_from_file('c')
-php = extract_description_from_file('php')
-java = extract_description_from_file('java')
-javascript = extract_description_from_file('javascript')
-js = extract_description_from_file('js')
-go = extract_description_from_file('go')
-r = extract_description_from_file('r')
-matlab = extract_description_from_file('matlab')
-ruby = extract_description_from_file('ruby')
-
-
-
-
-descriptions_list_mapped = {
-    'php': php,
-    'javascript': javascript,
-    'go': go,
-    'r': r,
-    'matlab': matlab,
-    'ruby': ruby,
-    'js': js,
-    'c': c
-}
-lists_of_descriptions_of_each_competitor = list(descriptions_list_mapped.values())
-
-list_of_phrases = get_all_phrases_from_list_of_description(lists_of_descriptions_of_each_competitor)
-descriptions_list = get_descriptions_list(lists_of_descriptions_of_each_competitor)
-
-
+# returns frequency of phrase in document
 def phrase_frequency(phrase, descriptions_list):
     text = ' '.join(descriptions_list)
-    descriptions_word_array = nltk.word_tokenize(text.lower())
-    return descriptions_word_array.count(phrase.lower())
 
+    return len(re.findall(r'\b{}\b'.format(phrase), text.lower())) + len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(phrase), text.lower()))
 
+# returns the number of documents containing the phrase
 def document_frequency(phrase, descriptions_list):
     cnt = 0
     for description in descriptions_list:
-        description_word_array = nltk.word_tokenize(description.lower())
-        if phrase.lower() in description_word_array:
+        if len(re.findall(r'[^a-zA-z]{}[^a-zA-z]'.format(phrase), description)) > 0:
             cnt += 1
     return cnt
 
-
-
+# Getting phrase length
 def phrase_length(phrase):
     return len(phrase.lower().split(' '))
 
-
-def average_distance(phrase, entity_name, descriptions_list_mapped):
+# it is calculated by the distance between the phrase and the given entity or its competitors
+def average_distance(phrase, entity_name, descriptions_list, competitors_list):
     sum = 0
     n = 0
-    for c_name in descriptions_list_mapped.keys():
-        for description in descriptions_list_mapped.get(c_name):
+    for c_name in competitors_list:
+        for description in descriptions_list:
             description = description.lower()
             phrase = phrase.lower()
             try:
-                if re.search(r'\W' + phrase + r'\W', description) != None:
+                if re.search(r'\b{}\b'.format(phrase, description)) != None:
+                # if re.search(r'\W' + phrase + r'\W', description) != None:
                     if ' ' in phrase:
                         p_new = phrase.replace(" ", '')
                         description = description.replace(phrase, p_new)
@@ -155,24 +134,41 @@ def average_distance(phrase, entity_name, descriptions_list_mapped):
                     sum += (distance(description, entity_name, phrase) + distance(description, c_name, phrase))
                     n += 1
             except:
-                return 45454
+                return 1000000000
+        if n == 0:
+            return 1000000000
 
-    if n == 0:
-        return 12345
-
-    return sum/(2*n)
+        return sum / (2 * n)
 
 
-# TODO implement this function
-def cluster_entropy(phrase,descriptions_list):
-    # arr = nltk.pos_tag(nltk.word_tokenize(description))
-    C = []
-    for desc in descriptions_list:
-        if(phrase in desc):
-            C.append(desc)
+def cluster_entropy(phrase,descriptions_list,domain_list):
+        documents_with_phrase = []
+        CE = 0
+
+        for description in descriptions_list:
+            if (word_is_in_text(phrase, description)):
+                documents_with_phrase.append(description.lower())
+
+        for term in domain_list:
+            documents_with_term = []
+            for description in descriptions_list:
+                if (word_is_in_text(term, description)):
+                    documents_with_term.append(description.lower())
+            divisible = len(list((set(documents_with_phrase).intersection(set(documents_with_term)))))
+            divider = len(documents_with_phrase)
+            if divider == 0:
+                divider = 1
+            probability = divisible / divider
+            log_value = 0
+            if probability != 0:
+                log_value = math.log2(probability)
+            CE += (probability * log_value)
+        print(phrase,- CE)
+        return -CE
 
 
 def phrase_independence(phrase, descriptions_list):
+    # print('Getting phrase independence')
     appearment_list = []
     for description in descriptions_list:
         if(phrase in description):
@@ -212,24 +208,89 @@ def phrase_independence(phrase, descriptions_list):
         PR += F/PF * logga
     return (PR+PF)/2
 
+entity_and_competitors = {
+    # 'Adidas':{
+    #     'Advantage',
+    #     'Epic React',
+    #     'Foam',
+    #     'Footjoy',
+    #     'Joyride',
+    #     'Legacy Lifter',
+    #     'Nike',
+    #     'OG',
+    #     'Pace',
+    #     'Puma'
+    # },
+    # 'Twix':{
+    #     'Advantage',
+    #     'Epic React',
+    #     'Foam',
+    #     'Footjoy',
+    #     'Joyride',
+    #     'Legacy Lifter',
+    #     'Nike',
+    #     'OG',
+    #     'Pace',
+    #     'Puma'
+    # },
+    # 'Facebook':{
+    #     'Instagram',
+    #     'Twitter',
+    #     'Google',
+    #     'Apple',
+    #     'Youtube',
+    #     'Linkedin',
+    #     'Snapchat',
+    #     'Twitch',
+    #     'Australia',
+    #     'Whatsapp'
+    # },
+    'Amazon':{
+        'Walmart',
+        # 'Google',
+        # 'Apple',
+        # 'Shopify',
+        # 'Microsoft',
+        # 'Alibaba',
+        # 'Netflix',
+        # 'Prime',
+        # 'Hachette',
+        # 'Youtube'
+    }
+}
 
-dica = {}
+
+entity_names = list(entity_and_competitors.keys())
+# for Facebook
+entity_name = entity_names[0]
+
+competitors_list = list(entity_and_competitors[entity_name])
+descriptions_of_entity=list()
+
+for c in competitors_list:
+    descriptions_of_entity.append(extract_description_from_file(c.lower(), entity_name))
+
+descriptions_list = get_descriptions_list(descriptions_of_entity)
+
+list_of_phrases = phrases_from_descriptions_list(descriptions_list,competitors_list, entity_name)
+
+resulting_dictionary = {}
 idx = 0
 print(len(list_of_phrases))
-
 for phrase in list_of_phrases:
     idx += 1
     print(idx, phrase)
-    dica[phrase] = phrase_frequency(phrase, descriptions_list) * 0.138
-    dica[phrase] += document_frequency(phrase, descriptions_list) * 0.06
-    dica[phrase] += phrase_length(phrase) * 0.229
-    dica[phrase] += average_distance(phrase, entity_name, descriptions_list_mapped) * (-0.073)
-    dica[phrase] = phrase_independence(phrase, descriptions_list) * 0.187
+    resulting_dictionary[phrase] = phrase_frequency(phrase, descriptions_list) * 0.138
+    resulting_dictionary[phrase] += document_frequency(phrase, descriptions_list) * 0.06
+    resulting_dictionary[phrase] += phrase_length(phrase) * 0.229
+    resulting_dictionary[phrase] += average_distance(phrase, entity_name, descriptions_list, competitors_list) * (-0.073)
+    resulting_dictionary[phrase] += phrase_independence(phrase, descriptions_list) * 0.187
+    resulting_dictionary[phrase] += cluster_entropy(phrase,descriptions_list,list_of_phrases) * 0.103
 
-ha = dict(sorted(dica.items(), key=lambda item: item[1], reverse=True))
-
-print(list_of_phrases)
-l = list(ha.keys())[0:30]
-for i in l:
-    print(i, ha[i])
-print(ha['language'])
+# Sorting
+resulting_dictionary = dict(sorted(resulting_dictionary.items(), key=lambda item: item[1], reverse=True))
+# print(list(resulting_dictionary.items())[0:30])
+#
+most_ranked = list(resulting_dictionary.keys())[0:10]
+for item in most_ranked:
+    print(item)

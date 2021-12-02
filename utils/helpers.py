@@ -1,8 +1,5 @@
 import re
-# from bs4 import BeautifulSoup
 from urllib.request import urlopen
-
-
 def is_word(word):
     # return re.match(word, "[a-zA-Z]+")
     if(len(word) > 20 or len(word) < 3):
@@ -60,23 +57,10 @@ def reformat(text):
     return text
 
 
+def word_is_in_text(word, text):
+    text = text.lower()
+    word = word.lower()
+    return len(re.findall(r'[^a-zA-Z]{}[^a-zA-Z]'.format(word), text))+len(re.findall(r'\b{}[^a-zA-Z]'.format(word), text)) > 0
 
-# def get_text_from_link(url):
-#     try:
-#         html = urlopen(url, timeout=2).read()
-#         # soup = BeautifulSoup(html, features="html.parser")
-#
-#         # kill all script and style elements
-#         for script in soup(["script", "style","button","aside","nav",'input',"a",'footer','header',
-#                             'noscript','dialog','head','address','select','option']):
-#             script.extract()  # rip it out
-#
-#         # get text
-#         text =  [t for t in soup.find_all(text=True) if t.parent.name in ['p','li']]
-#         # break into lines and remove leading and trailing space on each
-#
-#         print('works')
-#         return ".".join(text)
-#     except:
-#         print('errored')
-#         return ''
+    # return len(re.findall(r'[^a-zA-z]({plural}|{single}|{word})[^a-zA-z]'.format(plural=pluralize(word),single=singularize(word),word=word), text)) > 0
+# print(singularize('writes'))
