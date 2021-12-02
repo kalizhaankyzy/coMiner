@@ -1,5 +1,5 @@
 **Project work with @dremedys**
-**CoMiner implementation**
+## CoMiner implementation
 
 CoMiner makes 3 things:
     1) returns list of competitors to a given brand/company
