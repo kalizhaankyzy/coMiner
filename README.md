@@ -1,3 +1,4 @@
+**Project work with @dremedys**
 **CoMiner implementation**
 
 CoMiner makes 3 things:
